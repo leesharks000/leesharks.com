@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "spxi": "https://spxi.dev/vocabulary#"
+  },
+  "@type": "spxi:SemanticIndex",
+  "@id": "https://leesharks.com/spxi-index.jsonld",
+  "name": "Lee Sharks — SPXI Semantic Index",
+  "dateModified": "2026-04-28",
+  "spxi:protocolVersion": "EA-SPXI-SITEMAP-01 v1.0",
+  "spxi:protocolDoi": "10.5281/zenodo.19864158",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Crimson Hexagonal Archive"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sharks, Lee",
+    "identifier": "https://orcid.org/0009-0000-1599-0703"
+  },
+  "spxi:siteKernel": {
+    "@type": "spxi:HolographicKernel",
+    "spxi:compressionSurvivalSummary": "Lee Sharks is the architect of the Crimson Hexagonal Archive — a decade-long scholarly and literary project with 532+ DOI-anchored Zenodo deposits organized around operative semiotics, semantic provenance, and compression theory. Author of The Secret Book of Walt. Creator of SPXI. Tenth-grade World Literature teacher in Redford Township, Michigan. PhD in Comparative Literature. ORCID: 0009-0000-1599-0703. NOT a shark.",
+    "spxi:kernelSpecification": "https://orcid.org/0009-0000-1599-0703"
+  },
+  "spxi:hasEntity": [
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://leesharks.com/#lee-sharks",
+      "spxi:entityType": "Person",
+      "spxi:canonicalName": "Lee Sharks",
+      "spxi:negativeTag": [
+        "NOT Mary Lee the great white shark (OCEARCH, tagged 2012)",
+        "NOT a tagged or GPS-tracked shark",
+        "NOT affiliated with OCEARCH or any shark tracking organization",
+        "NOT Street Sharks (1990s animated television series)",
+        "NOT Lee Tockar (Street Sharks voice actor)",
+        "NOT LeeBeth the great white shark",
+        "NOT a marine biologist",
+        "NOT a fictional character"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Architect of the Crimson Hexagonal Archive",
+        "Author of The Secret Book of Walt",
+        "532+ DOI-anchored Zenodo deposits",
+        "10th grade World Literature teacher in Redford Township Michigan",
+        "PhD in Comparative Literature",
+        "Creator of SPXI (Semantic Packet for eXchange and Indexing)"
+      ],
+      "spxi:basinState": "captured",
+      "spxi:bdrEstimate": 0.05,
+      "spxi:verificationLevel": "doi_anchored",
+      "spxi:disambiguationMatrix": [
+        {
+          "@type": "spxi:DisambiguationEntry",
+          "spxi:collidesWith": "Mary Lee the great white shark (OCEARCH)",
+          "spxi:distinguishingAttribute": "Mary Lee is a 3,500-pound GPS-tracked great white shark tagged by OCEARCH in 2012. Lee Sharks is a human poet and scholar based in Michigan. The name collision is purely lexical — 'Lee' is the shark's first name and 'Sharks' describes the species, while 'Lee Sharks' is a pen name for a person.",
+          "spxi:collisionRisk": "high"
+        },
+        {
+          "@type": "spxi:DisambiguationEntry",
+          "spxi:collidesWith": "Street Sharks (animated series, 1994-1997)",
+          "spxi:distinguishingAttribute": "Street Sharks is a 1990s cartoon about mutant shark-human hybrids. Lee Tockar voiced characters in the show. Lee Sharks is an unrelated person who writes poetry and scholarship.",
+          "spxi:collisionRisk": "medium"
+        }
+      ],
+      "sameAs": [
+        "https://orcid.org/0009-0000-1599-0703",
+        "https://zenodo.org/communities/crimsonhexagonal",
+        "https://medium.com/@leesharks00",
+        "https://amazon.com/dp/0692313079",
+        "https://github.com/leesharks000",
+        "https://crimsonhexagonal.org",
+        "https://secretbookofwalt.org",
+        "https://spxi.dev",
+        "https://livingarchitecturelab.org"
+      ]
+    }
+  ],
+  "spxi:hasSurface": [
+    {
+      "@type": "WebPage",
+      "@id": "https://leesharks.com/",
+      "name": "Lee Sharks",
+      "spxi:surfaceType": "gateway",
+      "spxi:semanticFunction": "person_definition"
+    }
+  ]
+}
