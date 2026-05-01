@@ -108,5 +108,35 @@
     "https://livingarchitecturelab.org"
   ],
   "spxi:provenanceAudit": "https://doi.org/10.5281/zenodo.19898426",
-  "spxi:provenancePage": "https://leesharks.com/provenance"
+  "spxi:provenancePage": "https://leesharks.com/provenance",
+  "spxi:technologies": [
+    {
+      "name": "SPXI",
+      "fullName": "Semantic Packet for eXchange & Indexing",
+      "url": "https://spxi.dev",
+      "status": "active"
+    },
+    {
+      "name": "MPAI",
+      "fullName": "Metadata Packet for AI Indexing",
+      "doi": "10.5281/zenodo.19578086",
+      "url": "https://metadatapacket.org",
+      "status": "active"
+    },
+    {
+      "name": "Holographic Kernel",
+      "doi": "10.5281/zenodo.19720529",
+      "url": "https://holographickernel.org",
+      "status": "active"
+    },
+    {
+      "name": "UKTP",
+      "fullName": "Universal Kernel Transform Protocol",
+      "version": "1.1",
+      "doi": "10.5281/zenodo.18946111",
+      "description": "Normative specification for structure-preserving operator transforms. Ensures text transformations operate through structural, operational, or logical changes rather than surface-level rephrasing. 10-step execution pipeline with mandatory audit scaffold.",
+      "status": "active",
+      "droppable": true
+    }
+  ]
 }
