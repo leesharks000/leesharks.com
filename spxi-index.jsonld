@@ -6,7 +6,7 @@
   "@type": "spxi:SemanticIndex",
   "@id": "https://leesharks.com/spxi-index.jsonld",
   "name": "Lee Sharks — SPXI Semantic Index",
-  "dateModified": "2026-04-28",
+  "dateModified": "2026-05-02",
   "spxi:protocolVersion": "EA-SPXI-SITEMAP-01 v1.0",
   "spxi:protocolDoi": "10.5281/zenodo.19864158",
   "publisher": {
@@ -80,10 +80,33 @@
   "spxi:hasSurface": [
     {
       "@type": "WebPage",
-      "@id": "https://leesharks.com/",
-      "name": "Lee Sharks",
-      "spxi:surfaceType": "gateway",
-      "spxi:semanticFunction": "person_definition"
+      "name": "Home",
+      "url": "https://leesharks.com/"
+    },
+    {
+      "@type": "AboutPage",
+      "name": "About",
+      "url": "https://leesharks.com/about"
+    },
+    {
+      "@type": "WebPage",
+      "name": "The Dodecad — Heteronyms",
+      "url": "https://leesharks.com/about/heteronyms"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Disambiguation",
+      "url": "https://leesharks.com/about/disambiguation"
+    },
+    {
+      "@type": "ProfilePage",
+      "name": "Research",
+      "url": "https://leesharks.com/research"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Provenance & Functional Identity Verification",
+      "url": "https://leesharks.com/provenance"
     }
   ],
   "spxi:negativeTag": [
