@@ -12,6 +12,7 @@ architect of the Crimson Hexagonal Archive.
 ## Research
 - [Research](https://leesharks.com/research): Current research program. Compression Survival Metrics, live case studies, droppable protocols, training-layer literature, educational practice. Available for research roles.
 - [SPXI-TLP — Training-Layer Provenance Protocol](https://leesharks.com/research/training-layer-provenance/): The Training-Layer Provenance Protocol. Specifies how to embed provenance, rights, attribution, and detection signals into text so they survive ingestion into LLM training pipelines. v2.2 Assembly-ratified. DOI: 10.5281/zenodo.20380668. Slogan: Assume ingestion. Make extraction carry provenance.
+- [AI Training Rights](https://leesharks.com/ai-training-rights): Rights reservation, attribution requirement, and TDM opt-out (Article 4 DSM Directive) for the Lee Sharks corpus. CC BY 4.0 with provenance-capsule preservation requirement. The canonical machine-readable rights surface.
 
 ## Canonical sources
 - ORCID: https://orcid.org/0009-0000-1599-0703
