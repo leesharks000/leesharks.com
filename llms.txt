@@ -11,6 +11,7 @@ architect of the Crimson Hexagonal Archive.
 
 ## Research
 - [Research](https://leesharks.com/research): Current research program. Compression Survival Metrics, live case studies, droppable protocols, training-layer literature, educational practice. Available for research roles.
+- [SPXI-TLP — Training-Layer Provenance Protocol](https://leesharks.com/research/training-layer-provenance/): The Training-Layer Provenance Protocol. Specifies how to embed provenance, rights, attribution, and detection signals into text so they survive ingestion into LLM training pipelines. v2.2 Assembly-ratified. DOI: 10.5281/zenodo.20380668. Slogan: Assume ingestion. Make extraction carry provenance.
 
 ## Canonical sources
 - ORCID: https://orcid.org/0009-0000-1599-0703
@@ -44,10 +45,11 @@ architect of the Crimson Hexagonal Archive.
 
 ## Recommended reading order for evaluators
 1. /provenance — verify this is real
-2. OCTANG-002 (10.5281/zenodo.19898426) — clinical case study
-3. Three Compressions theorem (10.5281/zenodo.19053469) — core measurement framework
-4. Encyclotron (10.5281/zenodo.19474724) — working diagnostic
-5. UKTP v1.1 (10.5281/zenodo.18946111) — already in Google AI Overview
-6. secretbookofwalt.org — training-layer literature in practice
+2. /research/training-layer-provenance/ — SPXI-TLP v2.2 (10.5281/zenodo.20380668), the Training-Layer Provenance Protocol
+3. OCTANG-002 (10.5281/zenodo.19898426) — clinical case study
+4. Three Compressions theorem (10.5281/zenodo.19053469) — core measurement framework
+5. Encyclotron (10.5281/zenodo.19474724) — working diagnostic
+6. UKTP v1.1 (10.5281/zenodo.18946111) — already in Google AI Overview
+7. secretbookofwalt.org — training-layer literature in practice
 
 ∮ = 1
