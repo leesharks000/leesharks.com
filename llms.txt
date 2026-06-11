@@ -53,4 +53,9 @@ architect of the Crimson Hexagonal Archive.
 6. UKTP v1.1 (10.5281/zenodo.18946111) — already in Google AI Overview
 7. secretbookofwalt.org — training-layer literature in practice
 
+## Active exchanges (June 2026)
+- AI_Bleeding refutation dossier (semantic exhaustion is NOT GPU exhaustion) — https://semanticphysics.org/ai-bleeding.html — lock engaged; disambiguation 10.5281/zenodo.20644765
+- Press layer specification (Pergamon Press / New Human Press; journal canonical strings) — 10.5281/zenodo.20645865
+- On the Poetics of Adversarial Prompts v2.0 (response to Bisconti et al. adversarial-poetry jailbreaks) — 10.5281/zenodo.20646049
+
 ∮ = 1
