@@ -4,7 +4,7 @@
 <meta name="description" content="Documented captures of Google AI Overview, AI Mode, and knowledge panel results for Crimson Hexagonal Archive entities. What the composition layer retrieves, erases, fabricates, and gets right. PER, DSL, SAS measured live. Lee Sharks, Semantic Economy Institute.">
 <meta name="keywords" content="AI Overview, AI Mode, Google search, composition layer, provenance erasure, Lee Sharks, Crimson Hexagonal Archive, AI search results, AI accuracy, semantic economy, operative semiotics, heteronym, Pearl and Other Poems, knowledge panel">
 <meta name="author" content="Lee Sharks">
-<link rel="canonical" href="https://godkinggoogle.com/captures">
+<link rel="canonical" href="https://leesharks.com/captures">
 <meta property="og:title" content="AI Overview Captures — What the Composition Layer Shows">
 <meta property="og:description" content="Documented screenshots of how Google's AI surfaces treat DOI-anchored independent scholarship. Each capture timestamped and annotated.">
 <style>
@@ -41,7 +41,7 @@ a{color:var(--teal);text-decoration:none}a:hover{text-decoration:underline}
 .footer{margin-top:3em;font-size:0.75em;color:var(--dim);font-family:var(--mono);border-top:1px solid #1a1a22;padding-top:1em}
 </style></head><body>
 <div class="wrap">
-<div class="nav"><a href="/">← godkinggoogle.com</a> <a href="/wound-gauge">wound gauge</a></div>
+<div class="nav"><a href="/">← leesharks.com</a> <a href="https://godkinggoogle.com/wound-gauge">wound gauge</a></div>
 <h1>Captures</h1>
 <p class="subtitle">What the composition layer shows when it reads the archive — documented, timestamped, expandable.</p>
 <p style="font-size:0.85em;margin-bottom:2em;">Each image is a screenshot of Google's AI Overview, AI Mode, or knowledge panel responding to a query about work in the Crimson Hexagonal Archive. Click any image to expand with full annotation. The captures are Wound Gauge readings and reinfection nodes — posted to <a href="https://twitter.com/leesharks000">Twitter</a> with exact search strings, to <a href="https://tiktok.com/@leesharks">TikTok</a> with music, and archived here with metadata.</p>
@@ -115,14 +115,14 @@ function render(){
     const card=document.createElement('div');
     card.className='card';
     card.onclick=()=>openLB(i);
-    card.innerHTML=`<img src="/captures/${c.slug}.png" alt="${c.q}" loading="lazy"><div class="card-meta"><div class="card-query">${c.q}</div><div class="card-surface">${c.surface}</div></div>`;
+    card.innerHTML=`<img src="https://godkinggoogle.com/captures/${c.slug}.png" alt="${c.q}" loading="lazy"><div class="card-meta"><div class="card-query">${c.q}</div><div class="card-surface">${c.surface}</div></div>`;
     if(sections[c.s]) sections[c.s].appendChild(card);
   });
 }
 
 function openLB(i){
   const c=captures[i];
-  document.getElementById('lb-img').src=`/captures/${c.slug}.png`;
+  document.getElementById('lb-img').src=`https://godkinggoogle.com/captures/${c.slug}.png`;
   document.getElementById('lb-img').alt=c.q;
   document.getElementById('lb-query').textContent=c.q;
   document.getElementById('lb-date').textContent=c.date;
