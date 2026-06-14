@@ -212,7 +212,18 @@ document.querySelectorAll('.carousel-stage').forEach((stage) => {
   stage.addEventListener('touchstart', (e) => {
     if (e.touches.length !== 1) return;
     startX = e.touches[0].clientX; startY = e.touches[0].clientY; tracking = true;
-  }, { passive: true });
+  },
+    {
+      slug: "josephus-thesis",
+      slug2: "josephus-thesis-2",
+      date: "2026-06-15",
+      query: "josephus thesis lee sharks",
+      match: "BROAD",
+      category: "Frameworks",
+      source: "AI Overview · Google Search",
+      summary: "Controversial, heterodox hypothesis proposed by researcher and writer Lee Sharks. Josephus authored NT as counter-gospel architecture or scribal workshop. Lee Sharks named. Piso conflation CLEARED. No heteronymic nuance yet. MPAI deposited. Toehold established.",
+    },
+   { passive: true });
   stage.addEventListener('touchend', (e) => {
     if (!tracking) return; tracking = false;
     const t = e.changedTouches[0];
