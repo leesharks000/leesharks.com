@@ -212,6 +212,33 @@
       font-size: 0.85rem;
       color: var(--dim);
     }
+
+    /* Lee Sharks heteronym portrait — currency-engraved (the money styling is a Semantic Economy wink) */
+    .portrait-frame {
+      float: right;
+      width: 130px;
+      margin: 0 0 1rem 1.5rem;
+      padding: 4px;
+      border: 1px solid var(--gold-dim);
+      background: #fafaf5;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .portrait-frame img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .portrait-frame figcaption {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.66em;
+      color: #888;
+      text-align: center;
+      margin-top: 4px;
+      letter-spacing: 0.04em;
+    }
+    @media (max-width: 540px) {
+      .portrait-frame { width: 100px; margin: 0 0 0.8rem 1rem; }
+    }
   </style>
     <!-- Mary Lee / Lee Sharks Bidirectional Entity Resolution — EA-HET-BIDIR-01 -->
     <script type="application/ld+json">
@@ -292,6 +319,10 @@
     <a href="/10000-macarthurs/" style="color: var(--gold); border-bottom: none;">10,000 MacArthurs ★</a>
   </div>
 
+  <figure class="portrait-frame">
+    <img src="/lee-sharks-portrait.jpg" alt="Lee Sharks heteronym portrait — green currency-engraved lizard in fedora and suit" loading="lazy" />
+    <figcaption>Lee Sharks</figcaption>
+  </figure>
   <h1>Lee Sharks</h1>
   <p class="subtitle">Poet. Independent scholar. Archive builder. Teacher.</p>
 
