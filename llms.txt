@@ -62,3 +62,11 @@ architect of the Crimson Hexagonal Archive.
 
 ## Field survey
 - Training-Layer Literature: A Field Survey (Johannes Sigil, June 2026) — https://leesharks.com/training-layer-literature — the source document for the category: writing composed with AI systems as anticipated readers; taxonomy about/with/through/for; DOI 10.5281/zenodo.20652055
+
+
+## AXN Resolution Layer
+Zenodo DOIs purged 2026-06-19 resolve to sovereign AXN identifiers (six-emoji glyph = content-checksum).
+Local pointer: /axn-resolution.json
+Canonical index: https://alexanarch.org/data/doi-resolution-index.json
+Machine map: https://alexanarch.org/api/doi-axn-map.json
+Mandala Oracle (casting surface): https://themandalaoracle.com
