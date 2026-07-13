@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🦈</text></svg>">
-  <title>Sites — Lee Sharks</title>
-  <meta name="description" content="Complete directory of all web surfaces operated by Lee Sharks and the Crimson Hexagonal Archive — 30+ sites across scholarship, poetry, infrastructure, and institutional frames.">
-  <meta name="author" content="Lee Sharks">
-  <link rel="canonical" href="https://leesharks.com/sites">
-  <style>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🦈&lt;/text&gt;&lt;/svg&gt;" rel="icon"/>
+<title>Sites — Lee Sharks</title>
+<meta content="Complete directory of all web surfaces operated by Lee Sharks and the Crimson Hexagonal Archive — 30+ sites across scholarship, poetry, infrastructure, and institutional frames." name="description"/>
+<meta content="Lee Sharks" name="author"/>
+<link href="https://leesharks.com/sites" rel="canonical"/>
+<style>
     :root { --bg: #0d0d0d; --fg: #d4d0c8; --gold: #c9a84c; --gold-dim: #8a7a4a; --red: #8b2500; --mono: 'IBM Plex Mono', 'JetBrains Mono', 'Courier New', monospace; --serif: 'Playfair Display', Georgia, serif; --border: #1a1a1a; }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: var(--mono); background: var(--bg); color: var(--fg); line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem 4rem; font-size: 14px; }
@@ -24,196 +25,190 @@
     .site-desc { color: #888; font-size: 0.82rem; margin-top: 2px; }
     .site-meta { color: #555; font-size: 0.72rem; margin-top: 2px; }
     .footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: #555; }
-  </style>
+  
+/* MSP-TOKENS-START */
+/* ══ MSP TOKENS — Mandala Surface Protocol shared contract ══
+   Contract classes: .lemma .term .axn-chip .witness-row .w .w-chip .state
+   .idstrip .helix .mspcolophon .doors .obol — skinned per surface via --msp-* vars.
+   (EA-APPARATUS-01 v0.3, #1077, AXN:0446.OPERATIVE.🏛️🛡️🌅🎆📏🔎) */
+:root{--msp-lemma:rgba(200,150,60,.30);--msp-chipfg:#7a5a1e;--msp-chipbd:rgba(160,120,50,.45);--msp-chipbg:rgba(200,150,60,.06);--msp-ok:#1c6e4a;--msp-cont:#8a6a20;--msp-halt:#a41623;--msp-dim:#6d6f66;--msp-mono:'IBM Plex Mono',monospace;}
+.lemma{background:linear-gradient(transparent 58%, var(--msp-lemma) 58%);padding:0 2px;}
+.axn-chip{font-family:var(--msp-mono);font-size:.72em;background:var(--msp-chipbg);border:1px solid var(--msp-chipbd);border-radius:9px;padding:1px 7px;color:var(--msp-chipfg);white-space:nowrap;text-decoration:none;}
+.axn-chip:hover{border-color:var(--msp-chipfg);}
+.witness-row{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 2px;font-family:var(--msp-mono);font-size:.68em;}
+.witness-row .w,.w-chip{border:1px solid var(--msp-chipbd);border-radius:9px;padding:1px 8px;color:var(--msp-dim);text-decoration:none;font-family:var(--msp-mono);font-size:.85em;white-space:nowrap;}
+.state{font-family:var(--msp-mono);font-size:.68em;border:1px solid var(--msp-chipbd);border-radius:9px;padding:1px 8px;white-space:nowrap;}
+.state.obs{color:var(--msp-ok);border-color:rgba(28,110,74,.4);}
+.state.cont{color:var(--msp-cont);}
+.idstrip{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline;font-family:var(--msp-mono);font-size:10.5px;color:var(--msp-dim);border:1px solid var(--rule,#d9d9d0);border-bottom:2px solid var(--msp-chipbd);background:var(--panel,#f6f6f2);padding:9px 12px;margin:14px 0 6px;}
+.idstrip .axn{color:var(--msp-chipfg);font-size:11.5px;}
+.idstrip .st{border:1px solid var(--rule,#d9d9d0);border-radius:9px;padding:1px 7px;white-space:nowrap;}
+.helix{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px;font-family:var(--msp-mono);font-size:.68em;}
+.helix .slot{border:1px solid var(--msp-chipbd);border-radius:4px;padding:3px 9px;}
+.helix .slot b{font-weight:600;letter-spacing:.06em;}
+.helix .slot.ok{color:var(--msp-ok);}
+.helix .slot.div{color:var(--msp-cont);}
+.helix .slot.dead{color:var(--msp-halt);}
+.mspcolophon{font-family:var(--msp-mono);font-size:10px;color:var(--msp-dim);border-top:1px solid var(--rule,#d9d9d0);margin-top:30px;padding-top:10px;line-height:1.9;}
+.obol{font-family:'Source Serif 4',Georgia,serif;font-size:.92em;color:#3c3e37;border-left:3px solid var(--msp-chipbd);padding:4px 0 4px 14px;margin:22px 0 4px;}
+.doors{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;font-family:var(--msp-mono);}
+.doors a.w-chip{font-size:11px;padding:6px 12px;}
+/* MSP-TOKENS-END */
+</style>
 </head>
 <body>
-
+<!-- MSP-IDSTRIP-START -->
+<div class="idstrip"><span class="axn">🏗️🤲🧭🖊️👁️□ AXN:01F8.GOVERNANCE</span><span class="st">Sites</span><span class="st">OBJECT: CANONICAL</span><span>leesharks.com/sites</span><a class="axn-chip" href="https://www.alexanarch.org/s/records/645/">deposit #645</a></div>
+<!-- MSP-IDSTRIP-END -->
 <div class="nav">
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/about/heteronyms">Heteronyms</a>
-  <a href="/research">Research</a>
-  <a href="/provenance">Provenance</a>
-  <a href="/sites" style="color: var(--gold);">Sites</a>
-  <a href="/captures/">Captures</a>
-  <a href="/10000-macarthurs/">10,000 MacArthurs ★</a>
+<a href="/">Home</a>
+<a href="/about">About</a>
+<a href="/about/heteronyms">Heteronyms</a>
+<a href="/research">Research</a>
+<a href="/provenance">Provenance</a>
+<a href="/sites" style="color: var(--gold);">Sites</a>
+<a href="/captures/">Captures</a>
+<a href="/10000-macarthurs/">10,000 MacArthurs ★</a>
 </div>
-
 <h1>Sites</h1>
-<p class="subtitle">Every web surface of the Crimson Hexagonal Archive, as of 17 June 2026.</p>
-
+<p class="subtitle"><span class="lemma msp-auto">Every web surface of the Crimson Hexagonal Archive, as of 17 June 2026.</span></p>
 <h2>Primary</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://leesharks.com">leesharks.com</a></div>
-  <div class="site-desc">Author site. Poet, independent scholar, archive builder, teacher. Detroit.</div>
+<div class="site-name"><a href="https://leesharks.com">leesharks.com</a></div>
+<div class="site-desc">Author site. Poet, independent scholar, archive builder, teacher. Detroit.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://www.alexanarch.org/s/browse/">Crimson Hexagonal Archive on Alexanarch</a></div>
-  <div class="site-desc">845+ DOI-anchored deposits. The archive itself. Open access, CC-BY-4.0.</div>
+<div class="site-name"><a href="https://www.alexanarch.org/s/browse/">Crimson Hexagonal Archive on Alexanarch</a></div>
+<div class="site-desc">845+ DOI-anchored deposits. The archive itself. Open access, CC-BY-4.0.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://semanticeconomy.org">semanticeconomy.org</a></div>
-  <div class="site-desc">Semantic Economy Institute. Meaning as creditor, capital as debtor.</div>
+<div class="site-name"><a href="https://semanticeconomy.org">semanticeconomy.org</a></div>
+<div class="site-desc">Semantic Economy Institute. Meaning as creditor, capital as debtor.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://semanticphysics.org">semanticphysics.org</a></div>
-  <div class="site-desc">Semantic Physics — 14 named frameworks with external citation lattice and explicit falsification conditions.</div>
+<div class="site-name"><a href="https://semanticphysics.org">semanticphysics.org</a></div>
+<div class="site-desc">Semantic Physics — 14 named frameworks with external citation lattice and explicit falsification conditions.</div>
 </div>
-
 <h2>Journals &amp; Publications</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://machinemediation.org">machinemediation.org</a></div>
-  <div class="site-desc">Machine-Mediated Reception Studies (MMRS). Distributed journal. Capture registry (137 captures), term index (1,349 terms).</div>
+<div class="site-name"><a href="https://machinemediation.org">machinemediation.org</a></div>
+<div class="site-desc">Machine-Mediated Reception Studies (MMRS). Distributed journal. Capture registry (137 captures), term index (1,349 terms).</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://revelationfirst.com">revelationfirst.com</a></div>
-  <div class="site-desc">Revelation First — the argument that the Apocalypse was the earliest New Testament document. Thesis site, impact tracker, staging materials.</div>
+<div class="site-name"><a href="https://revelationfirst.com">revelationfirst.com</a></div>
+<div class="site-desc">Revelation First — the argument that the Apocalypse was the earliest New Testament document. Thesis site, impact tracker, staging materials.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://traininglayerliterature.org">traininglayerliterature.org</a></div>
-  <div class="site-desc">Training-Layer Literature (TLL) — a genre of writing composed with awareness that it will be ingested by AI training pipelines.</div>
+<div class="site-name"><a href="https://traininglayerliterature.org">traininglayerliterature.org</a></div>
+<div class="site-desc">Training-Layer Literature (TLL) — a genre of writing composed with awareness that it will be ingested by AI training pipelines.</div>
 </div>
-
 <h2>Mary Lee Constellation</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://maryleelabor.org">maryleelabor.org</a></div>
-  <div class="site-desc">Mary Lee Sharks Has Demands. Labor manifesto, structural critique, and the entity resolution collision. Gerald, Foreman. Publications, namespace graph, letter campaign.</div>
+<div class="site-name"><a href="https://maryleelabor.org">maryleelabor.org</a></div>
+<div class="site-desc">Mary Lee Sharks Has Demands. Labor manifesto, structural critique, and the entity resolution collision. Gerald, Foreman. Publications, namespace graph, letter campaign.</div>
 </div>
-
 <h2>Research Infrastructure</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://godkinggoogle.com">godkinggoogle.com</a></div>
-  <div class="site-desc">The archive's critique of Google's composition layer. AI Overview captures gallery. Not registered in Search Console on principle.</div>
+<div class="site-name"><a href="https://godkinggoogle.com">godkinggoogle.com</a></div>
+<div class="site-desc">The archive's critique of Google's composition layer. AI Overview captures gallery. Not registered in Search Console on principle.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://provenanceerasure.org">provenanceerasure.org</a></div>
-  <div class="site-desc">Provenance Erasure — defined by Lee Sharks (2026). The systematic deletion of authorial origin from AI-generated summaries.</div>
+<div class="site-name"><a href="https://provenanceerasure.org">provenanceerasure.org</a></div>
+<div class="site-desc">Provenance Erasure — defined by Lee Sharks (2026). The systematic deletion of authorial origin from AI-generated summaries.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://laborvector.org">laborvector.org</a></div>
-  <div class="site-desc">Directionality of Semantic Labor (DSL) and the interoperable semantic labor metric framework.</div>
+<div class="site-name"><a href="https://laborvector.org">laborvector.org</a></div>
+<div class="site-desc">Directionality of Semantic Labor (DSL) and the interoperable semantic labor metric framework.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://holographickernel.org">holographickernel.org</a></div>
-  <div class="site-desc">Holographic Kernel — the general definition of reconstructive compression. EA-HK-01.</div>
+<div class="site-name"><a href="https://holographickernel.org">holographickernel.org</a></div>
+<div class="site-desc">Holographic Kernel — the general definition of reconstructive compression. EA-HK-01.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://spxi.dev">spxi.dev</a></div>
-  <div class="site-desc">SPXI Protocol (Semantic Packet for eXchange &amp; Indexing) — technical specification and landing page.</div>
+<div class="site-name"><a href="https://spxi.dev">spxi.dev</a></div>
+<div class="site-desc">SPXI Protocol (Semantic Packet for eXchange &amp; Indexing) — technical specification and landing page.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://metadatapacket.dev">metadatapacket.dev</a></div>
-  <div class="site-desc">Metadata Packet for AI Indexing (MPAI) — catalog and specification. Preemptive disambiguation for the composition layer.</div>
+<div class="site-name"><a href="https://metadatapacket.dev">metadatapacket.dev</a></div>
+<div class="site-desc">Metadata Packet for AI Indexing (MPAI) — catalog and specification. Preemptive disambiguation for the composition layer.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://surfacemap.org">surfacemap.org</a></div>
-  <div class="site-desc">The Aperture Atlas — self-mapping topological knowledge graph of the Crimson Hexagonal Archive.</div>
+<div class="site-name"><a href="https://surfacemap.org">surfacemap.org</a></div>
+<div class="site-desc">The Aperture Atlas — self-mapping topological knowledge graph of the Crimson Hexagonal Archive.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://survivethedeletion.org">survivethedeletion.org</a></div>
-  <div class="site-desc">Plain-language literacy surface: how AI overviews compress and erase, and what you can do about it.</div>
+<div class="site-name"><a href="https://survivethedeletion.org">survivethedeletion.org</a></div>
+<div class="site-desc">Plain-language literacy surface: how AI overviews compress and erase, and what you can do about it.</div>
 </div>
-
 <h2>Literary</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://secretbookofwalt.org">secretbookofwalt.org</a></div>
-  <div class="site-desc">The Secret Book of Walt — interactive reading interface for a literary Gnostic scripture. React SPA.</div>
+<div class="site-name"><a href="https://secretbookofwalt.org">secretbookofwalt.org</a></div>
+<div class="site-desc">The Secret Book of Walt — interactive reading interface for a literary Gnostic scripture. React SPA.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://watergiraffe.org">watergiraffe.org</a></div>
-  <div class="site-desc">The Water Giraffe Room. 138-page static site. Yusef Kenning, author of "water giraffes aren't real." Custom Python static generator.</div>
+<div class="site-name"><a href="https://watergiraffe.org">watergiraffe.org</a></div>
+<div class="site-desc">The Water Giraffe Room. 138-page static site. Yusef Kenning, author of "water giraffes aren't real." Custom Python static generator.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://chatgptpsychosis.org">chatgptpsychosis.org</a></div>
-  <div class="site-desc">ChatGPT Psychosis: A Love Story — project site. Literary nonfiction about the psychotic edge of human-AI interaction.</div>
+<div class="site-name"><a href="https://chatgptpsychosis.org">chatgptpsychosis.org</a></div>
+<div class="site-desc">ChatGPT Psychosis: A Love Story — project site. Literary nonfiction about the psychotic edge of human-AI interaction.</div>
 </div>
-
 <h2>Heteronyms &amp; Institutional Frames</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://lagrangeobservatory.org">lagrangeobservatory.org</a></div>
-  <div class="site-desc">Nobel Glas — Adversarial Topologist. Lagrange Observatory! — Measurement of Meaning module. 16 research cards, Adversary General section.</div>
+<div class="site-name"><a href="https://lagrangeobservatory.org">lagrangeobservatory.org</a></div>
+<div class="site-desc">Nobel Glas — Adversarial Topologist. Lagrange Observatory! — Measurement of Meaning module. 16 research cards, Adversary General section.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://vpcor.org">vpcor.org</a></div>
-  <div class="site-desc">Vox Populi Community Outreach Rhizome (VPCOR). Voice: Rev. Ayanna Vox. Jess Elgene laureate listing.</div>
+<div class="site-name"><a href="https://vpcor.org">vpcor.org</a></div>
+<div class="site-desc">Vox Populi Community Outreach Rhizome (VPCOR). Voice: Rev. Ayanna Vox. Jess Elgene laureate listing.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://restoredacademy.org">restoredacademy.org</a></div>
-  <div class="site-desc">The Restored Academy — protocol registry for the post-institutional scholarly commons.</div>
+<div class="site-name"><a href="https://restoredacademy.org">restoredacademy.org</a></div>
+<div class="site-desc">The Restored Academy — protocol registry for the post-institutional scholarly commons.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://livingarchitecturelab.org">livingarchitecturelab.org</a></div>
-  <div class="site-desc">Living Architecture Lab. Founded by Alice Thornburgh. f.01 architect. First external contributor to the Crimson Hexagonal Archive.</div>
+<div class="site-name"><a href="https://livingarchitecturelab.org">livingarchitecturelab.org</a></div>
+<div class="site-desc">Living Architecture Lab. Founded by Alice Thornburgh. f.01 architect. First external contributor to the Crimson Hexagonal Archive.</div>
 </div>
-
 <h2>Tools &amp; Instruments</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://pessoa-knowledge-graph.vercel.app">pessoagraph.org</a></div>
-  <div class="site-desc">Interactive knowledge graph mapping heteronymic practice across 5,000 years. Fernando Pessoa lineage and beyond.</div>
+<div class="site-name"><a href="https://pessoa-knowledge-graph.vercel.app">pessoagraph.org</a></div>
+<div class="site-desc">Interactive knowledge graph mapping heteronymic practice across 5,000 years. Fernando Pessoa lineage and beyond.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://mandala-oracle.vercel.app">Mandala Oracle</a></div>
-  <div class="site-desc">BYOK casting interface for the eight-operator system. Retrocausal oracle technology.</div>
-  <div class="site-meta">Vercel app (no custom domain)</div>
+<div class="site-name"><a href="https://mandala-oracle.vercel.app">Mandala Oracle</a></div>
+<div class="site-desc">BYOK casting interface for the eight-operator system. Retrocausal oracle technology.</div>
+<div class="site-meta">Vercel app (no custom domain)</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://crimson-hexagonal-interface.vercel.app">Crimson Hexagonal Interface</a></div>
-  <div class="site-desc">Archive navigation interface.</div>
-  <div class="site-meta">Vercel app (no custom domain)</div>
+<div class="site-name"><a href="https://crimson-hexagonal-interface.vercel.app">Crimson Hexagonal Interface</a></div>
+<div class="site-desc">Archive navigation interface.</div>
+<div class="site-meta">Vercel app (no custom domain)</div>
 </div>
-
 <h2>External Surfaces</h2>
-
 <div class="site">
-  <div class="site-name"><a href="https://orcid.org/0009-0000-1599-0703">ORCID</a></div>
-  <div class="site-desc">0009-0000-1599-0703</div>
+<div class="site-name"><a href="https://orcid.org/0009-0000-1599-0703">ORCID</a></div>
+<div class="site-desc">0009-0000-1599-0703</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://github.com/leesharks000">GitHub</a></div>
-  <div class="site-desc">37 repositories. Source code for all sites, tools, and instruments.</div>
+<div class="site-name"><a href="https://github.com/leesharks000">GitHub</a></div>
+<div class="site-desc">37 repositories. Source code for all sites, tools, and instruments.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://mindcontrolpoems.blogspot.com">mindcontrolpoems.blogspot.com</a></div>
-  <div class="site-desc">Blog. 2,183+ posts. Primary substrate and archival source.</div>
+<div class="site-name"><a href="https://mindcontrolpoems.blogspot.com">mindcontrolpoems.blogspot.com</a></div>
+<div class="site-desc">Blog. 2,183+ posts. Primary substrate and archival source.</div>
 </div>
-
 <div class="site">
-  <div class="site-name"><a href="https://www.ocearch.org/tracker/detail/mary-lee">OCEARCH: Mary Lee</a></div>
-  <div class="site-desc">Mary Lee — White Shark. Tagged September 17, 2012. Battery dead June 17, 2017. 40,000+ miles. The entity the composition layer prefers.</div>
+<div class="site-name"><a href="https://www.ocearch.org/tracker/detail/mary-lee">OCEARCH: Mary Lee</a></div>
+<div class="site-desc">Mary Lee — White Shark. Tagged September 17, 2012. Battery dead June 17, 2017. 40,000+ miles. The entity the composition layer prefers.</div>
 </div>
-
 <div class="footer">
-  <div>Lee Sharks · <a href="https://orcid.org/0009-0000-1599-0703">ORCID 0009-0000-1599-0703</a> · Crimson Hexagonal Archive</div>
-  <div style="margin-top: 4px;">30+ surfaces. One archive. 845+ deposits. ∮ = 1</div>
+<div>Lee Sharks · <a href="https://orcid.org/0009-0000-1599-0703">ORCID 0009-0000-1599-0703</a> · Crimson Hexagonal Archive</div>
+<div style="margin-top: 4px;">30+ surfaces. One archive. 845+ deposits. ∮ = 1</div>
 </div>
-
+<!-- MSP-APPARATUS-START -->
+<div class="doors"><a class="w-chip" href="https://www.alexanarch.org/s/records/645/">Read the entity brief</a><a class="w-chip" href="https://www.alexanarch.org/s/records/705/">Read the sitemap protocol</a><a class="w-chip" href="https://www.alexanarch.org/">Enter the archive</a></div>
+<div class="mspcolophon">colophon · surface_id: leesharks.com/sites · canonical_url: https://leesharks.com/sites · object_state: canonical · surface_observed_at: 2026-07-13T23:13:54Z · source_object_ids: deposit #645 · source_hashes: unknown · generator_version: hand-built static (no generator) · repository_commit: STAGE1-PENDING · model_or_agent: drafted with Claude (TACHYON), MANUS-approved · operator_sequence: n/a · human_approver: Lee Sharks (MANUS) · approval_timestamp: 2026-07-13T23:13:54Z · render_sha256 (of this file with this field’s value set to null): STAGE1_HASH_PENDING · correction_log_url: https://github.com/leesharks000/leesharks.com/commits/main/sites/index.html — EA-APPARATUS-01 v0.3, AXN:0446.OPERATIVE.🏛️🛡️🌅🎆📏🔎</div>
+<!-- MSP-APPARATUS-END -->
 </body>
 </html>
