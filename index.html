@@ -239,7 +239,36 @@
     @media (max-width: 540px) {
       .portrait-frame { width: 100px; margin: 0 0 0.8rem 1rem; }
     }
-  </style>
+  
+/* MSP-TOKENS-START */
+/* ══ MSP TOKENS — Mandala Surface Protocol shared contract ══
+   Contract classes: .lemma .term .axn-chip .witness-row .w .w-chip .state
+   .idstrip .helix .mspcolophon .doors .obol — skinned per surface via --msp-* vars.
+   (EA-APPARATUS-01 v0.3, #1077, AXN:0446.OPERATIVE.🏛️🛡️🌅🎆📏🔎) */
+:root{--msp-lemma:rgba(200,150,60,.30);--msp-chipfg:#7a5a1e;--msp-chipbd:rgba(160,120,50,.45);--msp-chipbg:rgba(200,150,60,.06);--msp-ok:#1c6e4a;--msp-cont:#8a6a20;--msp-halt:#a41623;--msp-dim:#6d6f66;--msp-mono:'IBM Plex Mono',monospace;}
+.lemma{background:linear-gradient(transparent 58%, var(--msp-lemma) 58%);padding:0 2px;}
+.axn-chip{font-family:var(--msp-mono);font-size:.72em;background:var(--msp-chipbg);border:1px solid var(--msp-chipbd);border-radius:9px;padding:1px 7px;color:var(--msp-chipfg);white-space:nowrap;text-decoration:none;}
+.axn-chip:hover{border-color:var(--msp-chipfg);}
+.witness-row{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 2px;font-family:var(--msp-mono);font-size:.68em;}
+.witness-row .w,.w-chip{border:1px solid var(--msp-chipbd);border-radius:9px;padding:1px 8px;color:var(--msp-dim);text-decoration:none;font-family:var(--msp-mono);font-size:.85em;white-space:nowrap;}
+.state{font-family:var(--msp-mono);font-size:.68em;border:1px solid var(--msp-chipbd);border-radius:9px;padding:1px 8px;white-space:nowrap;}
+.state.obs{color:var(--msp-ok);border-color:rgba(28,110,74,.4);}
+.state.cont{color:var(--msp-cont);}
+.idstrip{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline;font-family:var(--msp-mono);font-size:10.5px;color:var(--msp-dim);border:1px solid var(--rule,#d9d9d0);border-bottom:2px solid var(--msp-chipbd);background:var(--panel,#f6f6f2);padding:9px 12px;margin:14px 0 6px;}
+.idstrip .axn{color:var(--msp-chipfg);font-size:11.5px;}
+.idstrip .st{border:1px solid var(--rule,#d9d9d0);border-radius:9px;padding:1px 7px;white-space:nowrap;}
+.helix{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px;font-family:var(--msp-mono);font-size:.68em;}
+.helix .slot{border:1px solid var(--msp-chipbd);border-radius:4px;padding:3px 9px;}
+.helix .slot b{font-weight:600;letter-spacing:.06em;}
+.helix .slot.ok{color:var(--msp-ok);}
+.helix .slot.div{color:var(--msp-cont);}
+.helix .slot.dead{color:var(--msp-halt);}
+.mspcolophon{font-family:var(--msp-mono);font-size:10px;color:var(--msp-dim);border-top:1px solid var(--rule,#d9d9d0);margin-top:30px;padding-top:10px;line-height:1.9;}
+.obol{font-family:'Source Serif 4',Georgia,serif;font-size:.92em;color:#3c3e37;border-left:3px solid var(--msp-chipbd);padding:4px 0 4px 14px;margin:22px 0 4px;}
+.doors{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;font-family:var(--msp-mono);}
+.doors a.w-chip{font-size:11px;padding:6px 12px;}
+/* MSP-TOKENS-END */
+</style>
     <!-- Mary Lee / Lee Sharks Bidirectional Entity Resolution — EA-HET-BIDIR-01 -->
     <script type="application/ld+json">
     {
@@ -305,6 +334,10 @@
     </script>
 </head>
 <body>
+<!-- MSP-IDSTRIP-START -->
+<div class="idstrip"><span class="axn">🏗️🤲🧭🖊️👁️□ AXN:01F8.GOVERNANCE</span><span class="st">Lee Sharks — Knowledge Graph and Metadata Packet (Canonical Author Identity)</span><span class="st">OBJECT: CANONICAL</span><span>leesharks.com</span><a class="axn-chip" href="https://www.alexanarch.org/s/records/645/">deposit #645</a></div>
+<!-- MSP-IDSTRIP-END -->
+
 
   <!-- Top nav -->
   <div style="font-family: var(--mono); font-size: 0.74rem; color: var(--gold-dim); margin-bottom: 2.5rem; letter-spacing: 0.05em;">
@@ -334,7 +367,7 @@
       <a href="/tiktok-primer" style="flex:1 1 250px; border-bottom:none;"><img src="/tiktok-primer/grid-home-detail.jpg" alt="The TikTok primer v2.0 — opening sixteen pages, 4x4 detail grid" style="width:100%; display:block; border:1px solid #2a2416; border-radius:3px;" loading="lazy"></a>
     </div>
     <p style="font-family:var(--mono); font-size:0.72rem; color:var(--gold-dim); margin-top:0.6rem; letter-spacing:0.04em; line-height:1.7;">
-      <a href="/tiktok-primer" style="color:var(--gold);">On a 110-second traversal</a> — the TikTok primer, v2.0 Web-Native Reconstructed Edition: the whole article composed as grid, the shrine compressed to one tile. Sequence-poem · primer · topography · shrine. Deposit <a href="https://www.alexanarch.org/s/records/1061/" style="color:var(--gold-dim);">#1061 · AXN:0434.COMPOSITIONAL.♃⭕🏺🍃💙🗺️</a>
+      <a href="/tiktok-primer" style="color:var(--gold);">On a 110-second traversal</a> — the TikTok primer, v2.0 Web-Native Reconstructed Edition: the whole article composed as grid, the shrine compressed to one tile. Sequence-poem · primer · topography · shrine. Deposit <a class="axn-chip" href="https://www.alexanarch.org/s/records/1061/" style="color:var(--gold-dim);">#1061 · AXN:0434.COMPOSITIONAL.♃⭕🏺🍃💙🗺️</a>
     </p>
   </div>
 
@@ -348,9 +381,9 @@
     <a href="https://secretbookofwalt.org"><em>The Secret Book of Walt</em></a>,
     a literary Gnostic scripture. He is the developer of
     <a href="https://spxi.dev">SPXI</a> (Semantic Packet for eXchange &amp; Indexing),
-    the <a href="https://www.alexanarch.org/s/records/103/">Metadata Packet for AI Indexing</a>,
+    the <a class="axn-chip" href="https://www.alexanarch.org/s/records/103/">Metadata Packet for AI Indexing</a>,
     the <a href="https://holographickernel.org">Holographic Kernel</a>,
-    and the <a href="https://www.alexanarch.org/s/records/547/">Universal Kernel Transform Protocol</a> (UKTP) —
+    and the <a class="axn-chip" href="https://www.alexanarch.org/s/records/547/">Universal Kernel Transform Protocol</a> (UKTP) —
     four protocols with formal specifications in the archive, each designed to be
     dropped into any LLM for immediate use. He is the retrieval-basin architect for the
     <a href="https://livingarchitecturelab.org">Living Architecture Lab</a>
@@ -428,7 +461,7 @@
   <div class="work">
     <span class="work-title"><a href="https://spxi.dev">SPXI</a></span>
     — Semantic Packet for eXchange &amp; Indexing. Protocol for ensuring entities survive AI compression. Drop into any LLM.<br>
-    <span class="work-link"><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.19864157">AXN #660</a> · <a href="https://www.alexanarch.org/s/records/705/">Sitemap Protocol</a> <span style="color:#999;font-size:.88em">(legacy: 10.5281/zenodo.19864157)</span></span>
+    <span class="work-link"><a href="https://www.alexanarch.org/go/?doi=10.5281/zenodo.19864157">AXN #660</a> · <a class="axn-chip" href="https://www.alexanarch.org/s/records/705/">Sitemap Protocol</a> <span style="color:#999;font-size:.88em">(legacy: 10.5281/zenodo.19864157)</span></span>
   </div>
 
   <div class="work">
@@ -582,5 +615,9 @@
 </ul>
 </div>
 
+<!-- MSP-APPARATUS-START -->
+<div class="doors"><a class="w-chip" href="https://www.alexanarch.org/s/records/645/">Read the entity brief</a><a class="w-chip" href="https://www.alexanarch.org/s/records/705/">Read the sitemap protocol</a><a class="w-chip" href="https://www.alexanarch.org/">Enter the archive</a></div>
+<div class="mspcolophon">colophon · surface_id: leesharks.com · canonical_url: https://leesharks.com/ · object_state: canonical · surface_observed_at: 2026-07-13T19:33:59Z · source_object_ids: deposit #645 · source_hashes: unknown · generator_version: hand-built static (no generator) · repository_commit: STAGE1-PENDING · model_or_agent: drafted with Claude (TACHYON), MANUS-approved · operator_sequence: n/a · human_approver: Lee Sharks (MANUS) · approval_timestamp: 2026-07-13T19:33:59Z · render_sha256 (of this file with this field&rsquo;s value set to null): STAGE1_HASH_PENDING · correction_log_url: https://github.com/leesharks000/leesharks.com/commits/main/index.html — EA-APPARATUS-01 v0.3, AXN:01F8.GOVERNANCE.🏗️🤲🧭🖊️👁️□</div>
+<!-- MSP-APPARATUS-END -->
 </body>
 </html>

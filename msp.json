@@ -1,0 +1,29 @@
+{
+  "surface_id": "leesharks.com",
+  "canonical_url": "https://leesharks.com/",
+  "axn": "AXN:01F8.GOVERNANCE.🏗️🤲🧭🖊️👁️□",
+  "deposit_number": 645,
+  "title": "Lee Sharks — Knowledge Graph and Metadata Packet (Canonical Author Identity)",
+  "object_state": "canonical",
+  "tier": 1,
+  "register": "narrative",
+  "skin": {},
+  "doors": [
+    {
+      "label": "Read the entity brief",
+      "href": "https://www.alexanarch.org/s/records/645/"
+    },
+    {
+      "label": "Read the sitemap protocol",
+      "href": "https://www.alexanarch.org/s/records/705/"
+    },
+    {
+      "label": "Enter the archive",
+      "href": "https://www.alexanarch.org/"
+    }
+  ],
+  "index_files": [
+    "index.html"
+  ],
+  "notes": "Tier 1 mechanical. Personal author surface. Subpages (tiktok-primer, about-the-author, etc) can get their own passes in later sessions. Nuclei pending session C."
+}
