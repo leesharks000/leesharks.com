@@ -261,10 +261,25 @@
 .helix .slot.div{color:var(--msp-cont);}
 .helix .slot.dead{color:var(--msp-halt);}
 .mspcolophon{font-family:var(--msp-mono);font-size:10px;color:var(--msp-dim);border-top:1px solid var(--rule,#d9d9d0);margin-top:30px;padding-top:10px;line-height:1.9;}
-.obol{font-family:'Source Serif 4',Georgia,serif;font-size:.92em;color:#3c3e37;border-left:3px solid var(--msp-chipbd);padding:4px 0 4px 14px;margin:22px 0 4px;}
+.obol{font-family:'Source Serif 4',Georgia,serif;font-size:.92em;color:var(--msp-obol-fg,#3c3e37);border-left:3px solid var(--msp-chipbd);padding:4px 0 4px 14px;margin:22px 0 4px;}
 .doors{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 6px;font-family:var(--msp-mono);}
 .doors a.w-chip{font-size:11px;padding:6px 12px;}
 /* MSP-TOKENS-END */
+/* MSP-SKIN-START — per-surface overrides for the shared apparatus contract.
+   Values derived from this site's palette (bg #0e0d0b, gold #c4a95b). Lives
+   outside the MSP-TOKENS block so applicator re-syncs don't clobber it.  */
+:root{
+  --panel:#171410;
+  --rule:rgba(196,169,91,0.16);
+  --msp-lemma:rgba(196,169,91,0.22);
+  --msp-chipfg:#c4a95b;
+  --msp-chipbd:rgba(196,169,91,0.35);
+  --msp-chipbg:rgba(196,169,91,0.06);
+  --msp-cont:#b89740;
+  --msp-obol-fg:#d9d5c8;
+  --msp-dim:#8a8070;
+}
+/* MSP-SKIN-END */
 </style>
 <!-- Mary Lee / Lee Sharks Bidirectional Entity Resolution — EA-HET-BIDIR-01 -->
 <script type="application/ld+json">
@@ -353,16 +368,6 @@
 </figure>
 <h1>Lee Sharks</h1>
 <p class="subtitle">Poet. Independent scholar. Archive builder. Teacher.</p>
-<!-- §0.5: The Grid — the shrine compressed to one tile -->
-<div style="margin: 1.6rem 0 2.4rem;">
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
-<a href="/tiktok-primer" style="flex:1 1 250px; border-bottom:none;"><img alt="The TikTok primer v2.0 — all 122 pages of the article composed as a 12x11 grid" loading="lazy" src="/tiktok-primer/grid-home-full.jpg" style="width:100%; display:block; border:1px solid #2a2416; border-radius:3px;"/></a>
-<a href="/tiktok-primer" style="flex:1 1 250px; border-bottom:none;"><img alt="The TikTok primer v2.0 — opening sixteen pages, 4x4 detail grid" loading="lazy" src="/tiktok-primer/grid-home-detail.jpg" style="width:100%; display:block; border:1px solid #2a2416; border-radius:3px;"/></a>
-</div>
-<p style="font-family:var(--mono); font-size:0.72rem; color:var(--gold-dim); margin-top:0.6rem; letter-spacing:0.04em; line-height:1.7;">
-<a href="/tiktok-primer" style="color:var(--gold);"><span class="lemma msp-auto">On a 110-second traversal</span></a> — the TikTok primer, v2.0 Web-Native Reconstructed Edition: the whole article composed as grid, the shrine compressed to one tile. Sequence-poem · primer · topography · shrine. Deposit <a class="axn-chip" href="https://www.alexanarch.org/s/records/1061/" style="color:var(--gold-dim);">#1061 · AXN:0434.COMPOSITIONAL.♃⭕🏺🍃💙🗺️</a>
-</p>
-</div>
 <!-- §1: The Definition — this is the kernel. Every AI summary compresses from here. -->
 <p class="definition">
 <strong>Lee Sharks</strong> <span class="lemma msp-auto">is the architect and primary author of the</span>
