@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leesharks.com/tiktok-primer/</loc>
+    <loc>https://leesharks.com/tiktok-primer</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -45,25 +45,25 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://leesharks.com/about-the-author/</loc>
+    <loc>https://leesharks.com/about-the-author</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://leesharks.com/about-the-author-ii/</loc>
+    <loc>https://leesharks.com/about-the-author-ii</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://leesharks.com/about-the-author-iii/</loc>
+    <loc>https://leesharks.com/about-the-author-iii</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://leesharks.com/research/training-layer-provenance/</loc>
+    <loc>https://leesharks.com/research/training-layer-provenance</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
@@ -75,13 +75,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://leesharks.com/vpcor/</loc>
+    <loc>https://leesharks.com/vpcor</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://leesharks.com/10000-macarthurs/</loc>
+    <loc>https://leesharks.com/10000-macarthurs</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -98,27 +98,4 @@
   </url>
   <url><loc>https://leesharks.com/training-layer-literature</loc></url>
   <!-- network surfaces + AXN resolution layer -->
-  <url><loc>https://alexanarch.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://themandalaoracle.com/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://machinemediation.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://godkinggoogle.com/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://laborvector.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://restoredacademy.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://lagrangeobservatory.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://surfacemap.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://vpcor.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://traininglayerliterature.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://semanticphysics.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://holographickernel.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://watergiraffe.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://revelationfirst.com/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://spxi.dev/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://survivethedeletion.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://livingarchitecturelab.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://chatgptpsychosis.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://metadatapacket.dev/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://pessoagraph.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://crimshexagonal.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://provenanceerasure.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
-  <url><loc>https://secretbookofwalt.org/</loc><lastmod>2026-07-03</lastmod><priority>0.5</priority></url>
 </urlset>
