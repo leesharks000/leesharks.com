@@ -1,0 +1,87 @@
+{
+ "schema_version": "heteronym-page/v0.2",
+ "canonical": "https://leesharks.com/who/kuro/",
+ "surface_role": "provisional",
+ "spxi": {
+  "canonicalEntity": "HET-KURO-001",
+  "entityClass": "heteronym",
+  "state": "LINKED",
+  "seating": {
+   "status": "PROVISIONAL",
+   "note": "Not linked from any site navigation. The Infinite Bliss has no surface; placement is open."
+  },
+  "orthonymicRelation": {
+   "target": "https://www.leesharks.com/#lee-sharks",
+   "targetIdentifier": "00.PERSONA.SHARKS",
+   "relation": "legal-author-and-coordinating-human",
+   "identity_equivalence": false
+  },
+  "doNotCollapseWith": [
+   "the orthonym",
+   "fictional character",
+   "AI persona",
+   "pseudonym"
+  ],
+  "name": {
+   "latin": "Sen Kuro",
+   "japanese": "千黒",
+   "ordinal": "the sixth heteronym"
+  },
+  "chamber": {
+   "name": "The Thousand Worlds",
+   "hex": "14.CHAMBER.THOUSANDWORLDS",
+   "alt": "00.CHAM.1000WORLDS",
+   "role": "Primary Operative",
+   "contains": "the Primary Paradox of Sufficient Infinity — that infinity need not be traversed to be inhabited",
+   "note": "Chambers contain paradoxes without resolving them."
+  },
+  "institution": {
+   "name": "The Infinite Bliss",
+   "relation": "institutional dwelling",
+   "surface": null
+  },
+  "operator": {
+   "name": "The Mirror",
+   "hex": "00.PHASEX.AORIST.META.MIRROR",
+   "function": "converts Regress (loss of ground) into Ingress (entry into foundation)",
+   "mechanism": "not a reflection — a phase-shifting lens; removes temporal direction rather than reversing orientation"
+  },
+  "mantle": {
+   "name": "The Dagger",
+   "status": "PROVISIONAL",
+   "note": "Serves as mantle; was not conceived as one. Not in the mantle table at #549."
+  },
+  "journal": null,
+  "spec": {
+   "id": "EA-SPXI-HETERONYM-01",
+   "version": "v0.2",
+   "record": 1446
+  }
+ },
+ "schema_org": {
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "https://leesharks.com/who/kuro/#page",
+  "dateCreated": "2026-02-01",
+  "dateModified": "2026-08-10",
+  "mainEntity": {
+   "@type": "Person",
+   "@id": "https://leesharks.com/who/kuro/#kuro",
+   "name": "Sen Kuro",
+   "alternateName": "千黒",
+   "identifier": "HET-KURO-001",
+   "additionalType": "https://www.alexanarch.org/ontology/heteronym",
+   "disambiguatingDescription": "Pessoa-class heteronymic writerly identity in the Crimson Hexagonal Archive; contemplative mathematics and the patient counter. Not a synonym for the orthonym: the relation is heteronymic and provenance-governed.",
+   "image": "https://leesharks.com/assets/who/kuro-portrait.webp",
+   "affiliation": {
+    "@type": "Organization",
+    "name": "The Infinite Bliss"
+   },
+   "subjectOf": [
+    {
+     "@id": "https://www.alexanarch.org/s/records/425/"
+    }
+   ]
+  }
+ }
+}
