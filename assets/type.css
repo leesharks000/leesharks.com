@@ -1,0 +1,31 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   LEESHARKS.COM — TYPE LAYER
+
+   The site named 'IBM Plex Serif', 'IBM Plex Mono' and a stray 'Source Serif 4'
+   and served NONE of them — zero @font-face across the whole site — so every
+   page fell back to whatever the machine had. On Kuro's page that produced
+   9px and 10px monospace rendering in a default face at letter-spacing tuned
+   for Plex Mono, which is what made it nearly illegible.
+
+   Eighth and last fleet site to get a type layer. Colour untouched.
+   ══════════════════════════════════════════════════════════════════════════ */
+@font-face{font-family:'IBM Plex Serif';src:url('/assets/fonts/IBMPlexSerif-400.woff2')format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'IBM Plex Serif';src:url('/assets/fonts/IBMPlexSerif-400i.woff2')format('woff2');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:'IBM Plex Mono';src:url('/assets/fonts/IBMPlexMono-400.woff2')format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'IBM Plex Sans';src:url('/assets/fonts/IBMPlexSans-400.woff2')format('woff2');font-weight:400;font-display:swap}
+:root{
+  --kserif:'IBM Plex Serif',Georgia,serif;
+  --kmono:'IBM Plex Mono',ui-monospace,Menlo,monospace;
+  --body:var(--kserif);--serif:var(--kserif);
+  --mono:var(--kmono);--msp-mono:var(--kmono);
+}
+body{font-family:var(--kserif);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+code,kbd,samp,pre{font-family:var(--kmono)}
+
+/* The identifier column was set at 9px in a fallback face. Plex Mono is served
+   now, but 9px monospace with .13em tracking is below comfortable reading at
+   any face — raised to 11px and the tracking eased. */
+.kid{font-size:11px !important;line-height:1.6 !important}
+.ksub{font-size:11px !important;letter-spacing:.1em !important}
+.kw{font-size:14px !important;color:#3d3830 !important}
+.kstate{font-size:10px !important}
