@@ -10,12 +10,12 @@
   /* ink stops per depth: [document-fraction, ink, link-ink] — tuned to the
      ground gradients in gallery-type.css and main's own descent */
   var RAMPS = {
-    '0': [[0.00,'#4a3a1c','#7d5e1a'],[0.72,'#4a3a1c','#7d5e1a'],
-          [0.80,'#f0e2c0','#f0d98c'],[1.00,'#f5e9c8','#f0d98c']],
-    '1': [[0.00,'#4a3a1c','#7d5e1a'],[0.68,'#4a3a1c','#7d5e1a'],
-          [0.76,'#f2e6c4','#f0d98c'],[1.00,'#f7ecc9','#f0d98c']],
-    '2': [[0.00,'#3a2c14','#7d5e1a'],[0.50,'#3f3118','#8a6a20'],
-          [0.58,'#f2e6c4','#eccf74'],[1.00,'#f9efd0','#f0d98c']]
+    '0': [[0.00,'#4a3a1c','#7d5e1a'],[0.78,'#4a3a1c','#7d5e1a'],
+          [0.85,'#f0e2c0','#f0d98c'],[1.00,'#f5e9c8','#f0d98c']],
+    '1': [[0.00,'#4a3a1c','#7d5e1a'],[0.79,'#4a3a1c','#7d5e1a'],
+          [0.86,'#f2e6c4','#f0d98c'],[1.00,'#f7ecc9','#f0d98c']],
+    '2': [[0.00,'#3a2c14','#7d5e1a'],[0.56,'#3f3118','#8a6a20'],
+          [0.63,'#f2e6c4','#eccf74'],[1.00,'#f9efd0','#f0d98c']]
   };
   var ramp = RAMPS[depth] || RAMPS['1'];
 
