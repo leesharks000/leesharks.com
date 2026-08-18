@@ -10,9 +10,12 @@ display:flex;flex-direction:column;align-items:center}
 header{text-align:center;padding:1.4em 1em .6em}
 h1{font-variant:small-caps;font-weight:700;letter-spacing:.2em;font-size:1.3rem;margin:0}
 .sub{font-family:var(--mono);font-size:.6rem;letter-spacing:.14em;color:#8a744e;margin-top:.4em}
-.stage{position:relative;max-width:560px;width:94%;margin:0 auto}
-.stage img{width:100%;display:block;background:#fff;
-box-shadow:0 8px 24px rgba(60,40,10,.3);border:1px solid #cbb98e}
+.stage{position:relative;max-width:860px;width:96%;margin:0 auto}
+.spread{display:flex;gap:2px;background:#cbb98e;border:1px solid #cbb98e;box-shadow:0 8px 24px rgba(60,40,10,.3)}
+.leaf{flex:1 1 50%;background:#fff}
+.leaf img,.leaf .blank{width:100%;display:block}
+.leaf .blank{aspect-ratio:360/576;background:#fff}
+
 .tap{position:absolute;top:0;bottom:0;width:38%;cursor:pointer}
 .tap.l{left:0}.tap.r{right:0}
 .bar{display:flex;gap:1.4em;align-items:center;justify-content:center;padding:1em 0 .6em;
@@ -30,9 +33,12 @@ line-height:1.7;padding:0 1.2em 1.6em}
   <div class="sub">LEE SHARKS · PERGAMON PRESS · 2014 · FOUNDS THE <a style="color:inherit" href="/mantles/">KING OF MAY</a></div>
 </header>
 <div class="stage">
-  <img id="pg" src="/pearl/pages/p-001.jpg" alt="Pearl and Other Poems, page 1">
-  <div class="tap l" onclick="go(-1)" title="previous page"></div>
-  <div class="tap r" onclick="go(1)" title="next page"></div>
+  <div class="spread">
+    <div class="leaf"><div id="pgLb" class="blank"></div><img id="pgL" src="" alt="" style="display:none"></div>
+    <div class="leaf"><img id="pgR" src="/pearl/pages/p-001.jpg" alt="Pearl and Other Poems, page 1"></div>
+  </div>
+  <div class="tap l" onclick="go(-1)" title="previous spread"></div>
+  <div class="tap r" onclick="go(1)" title="next spread"></div>
 </div>
 <div class="bar">
   <button id="prev" onclick="go(-1)">&larr; PREV</button>
@@ -43,24 +49,27 @@ line-height:1.7;padding:0 1.2em 1.6em}
 unreflowed, the 2014 book itself. Tap the page's edges or use the arrow keys.</p>
 <div class="back"><a href="/">&larr; THE GALLERY</a></div>
 <script>
-const N=155; let p=1;
+const N=155, V=Math.ceil((N+1)/2); let v=1;
 const pad=n=>String(n).padStart(3,'0');
 const url=n=>`/pearl/pages/p-${pad(n)}.jpg`;
 function show(){
-  document.getElementById('pg').src=url(p);
-  document.getElementById('pg').alt=`Pearl and Other Poems, page ${p}`;
-  document.getElementById('ctr').textContent=`${p} / ${N}`;
-  document.getElementById('prev').disabled=(p<=1);
-  document.getElementById('next').disabled=(p>=N);
-  for(const d of [1,2]) if(p+d<=N){const i=new Image(); i.src=url(p+d);}
-  try{history.replaceState(null,'','#p'+p);}catch(e){}
+  const L=2*v-2, R=Math.min(2*v-1,N);
+  const iL=document.getElementById('pgL'), bL=document.getElementById('pgLb'), iR=document.getElementById('pgR');
+  if(L>=1){ iL.src=url(L); iL.alt='Pearl and Other Poems, page '+L; iL.style.display='block'; bL.style.display='none'; }
+  else { iL.style.display='none'; bL.style.display='block'; }
+  iR.src=url(R); iR.alt='Pearl and Other Poems, page '+R;
+  document.getElementById('ctr').textContent = (L>=1? L+'\u2013'+R : R)+' / '+N;
+  document.getElementById('prev').disabled=(v<=1);
+  document.getElementById('next').disabled=(v>=V);
+  for(const d of [1,2,3,4]){const n=R+d; if(n<=N){const i=new Image(); i.src=url(n);}}
+  try{history.replaceState(null,'','#p'+R);}catch(e){}
 }
-function go(d){ p=Math.min(N,Math.max(1,p+d)); show(); }
+function go(d){ v=Math.min(V,Math.max(1,v+d)); show(); }
 addEventListener('keydown',e=>{
   if(e.key==='ArrowRight'||e.key==='PageDown') go(1);
   if(e.key==='ArrowLeft'||e.key==='PageUp') go(-1);
 });
-const h=location.hash.match(/^#p(\d+)$/); if(h){p=Math.min(N,Math.max(1,+h[1]));}
+const h=location.hash.match(/^#p(\d+)$/); if(h){const p=Math.min(N,Math.max(1,+h[1])); v=Math.ceil((p+1)/2);}
 show();
 </script>
 </body></html>
