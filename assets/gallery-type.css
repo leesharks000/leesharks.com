@@ -39,6 +39,9 @@
    Pages carry data-depth on <body>; the deeper you read, the closer the fire. */
 
 body[data-depth]{margin:0}
+body[data-depth="1"],body[data-depth="2"]{padding-top:0 !important;padding-bottom:0 !important}
+.shell-nav{margin-bottom:1.8em}
+.shell-foot .ember{margin-bottom:0;vertical-align:bottom}
 body[data-depth="1"]{background:linear-gradient(#eee4c9 0%,#e2d3ae 38%,#c4ab7e 68%,#8a6f47 88%,#5e4830 100%) !important;min-height:100vh}
 body[data-depth="2"]{background:linear-gradient(#d8c7a2 0%,#b59a6c 40%,#7a5f3d 72%,#3a2c1c 92%,#221709 100%) !important;color:#3a2c14;min-height:100vh}
 
