@@ -9,6 +9,7 @@ import json, re, sys, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 M = json.load(open(ROOT/'scripts/shell-manifest.json'))
+V = M.get('asset_version','1')
 
 def nav_html(current_path):
     parts = []
@@ -19,7 +20,7 @@ def nav_html(current_path):
 
 def head_block(page_path):
     return ('<!-- SHELL:HEAD -->'
-            '<script defer src="/assets/shell.js"></script>'
+            '<script defer src="/assets/shell.js?v='+V+'"></script>'
             f'<div class="shell-plaque">{M["plaque"]}</div>'
             f'{nav_html(page_path)}'
             '<!-- /SHELL:HEAD -->')
@@ -35,9 +36,11 @@ def stamp(rel, depth):
     p = ROOT/rel
     s = p.read_text()
     orig = s
-    # ensure the shared css is linked
+    # ensure the shared css is linked, at the current asset version
     if 'gallery-type.css' not in s:
-        s = s.replace('</title>', '</title>\n<link rel="stylesheet" href="/assets/gallery-type.css">', 1)
+        s = s.replace('</title>', '</title>\n<link rel="stylesheet" href="/assets/gallery-type.css?v='+V+'">', 1)
+    s = re.sub(r'/assets/gallery-type\.css(\?v=[^"]*)?', '/assets/gallery-type.css?v='+V, s)
+    s = re.sub(r'/assets/shell\.js(\?v=[^"]*)?', '/assets/shell.js?v='+V, s)
     # body carries its depth
     s = re.sub(r'<body(?![^>]*data-depth)([^>]*)>', f'<body data-depth="{depth}"\\1>', s, count=1)
     s = re.sub(r'(<body[^>]*data-depth=")\d+(")', f'\\g<1>{depth}\\g<2>', s, count=1)

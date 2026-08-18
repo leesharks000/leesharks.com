@@ -38,8 +38,8 @@
   function lum(rgb){ return (0.2126*rgb[0]+0.7152*rgb[1]+0.0722*rgb[2])/255; }
   function at(f, idx){
     var L = lum(rgbAt(f));
-    if (idx===2) return L > 0.31 ? INK.linkDark : INK.linkPale;
-    return L > 0.31 ? INK.dark : INK.pale;
+    if (idx===2) return L > 0.45 ? INK.linkDark : INK.linkPale;
+    return L > 0.45 ? INK.dark : INK.pale;
   }
   function at(f, idx){ /* idx 1 = ink, 2 = link ink */
     for (var i=1;i<ramp.length;i++){
@@ -67,7 +67,11 @@
       if (!hasText) continue;
       var r=el.getBoundingClientRect();
       var f=(r.top + r.height/2 + window.scrollY)/H;
-      el.style.color = at(f, el.tagName==='A' ? 2 : 1);
+      var ink = at(f, el.tagName==='A' ? 2 : 1);
+      el.style.color = ink;
+      if (ink===INK.pale || ink===INK.linkPale)
+        el.style.textShadow='0 1px 2px rgba(10,6,2,.6)';
+      else el.style.removeProperty('text-shadow');
     }
   }
 
