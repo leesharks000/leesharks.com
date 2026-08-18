@@ -38,6 +38,10 @@
  "colophon_mini": "∮ = 1 · <a href=\"/spxi-index.jsonld\">spxi</a> · <a href=\"/llms.txt\">llms.txt</a> · <a href=\"/axn-resolution.json\">axn</a> · <a href=\"https://www.alexanarch.org/\">alexanarch</a>",
  "pages": [
   {
+   "path": "index.html",
+   "depth": 0
+  },
+  {
    "path": "work/index.html",
    "depth": 1
   },

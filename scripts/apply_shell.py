@@ -48,8 +48,10 @@ def stamp(rel, depth):
         s = re.sub(r'<!-- SHELL:HEAD -->.*?<!-- /SHELL:HEAD -->', hb, s, flags=re.S)
     else:
         s = re.sub(r'(<body[^>]*>)', '\\1\n'+hb, s, count=1)
-    # foot block: replace existing or insert before </body>
-    if '<!-- SHELL:FOOT -->' in s:
+    # foot block: depth 0 keeps its grand footer; interiors get the shell foot
+    if depth == 0:
+        s = re.sub(r'<!-- SHELL:FOOT -->.*?<!-- /SHELL:FOOT -->\n?', '', s, flags=re.S)
+    elif '<!-- SHELL:FOOT -->' in s:
         s = re.sub(r'<!-- SHELL:FOOT -->.*?<!-- /SHELL:FOOT -->', FOOT, s, flags=re.S)
     else:
         s = s.replace('</body>', FOOT+'\n</body>')
