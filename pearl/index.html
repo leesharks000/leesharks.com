@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pearl and Other Poems — Lee Sharks · the reading surface</title>
+<link rel="canonical" href="https://www.leesharks.com/pearl/">
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/assets/gallery-type.css">
+<style>
+body{font-family:var(--serif);color:#4a3a1c;background:#efe6d0;margin:0;min-height:100vh;
+display:flex;flex-direction:column;align-items:center}
+header{text-align:center;padding:1.4em 1em .6em}
+h1{font-variant:small-caps;font-weight:700;letter-spacing:.2em;font-size:1.3rem;margin:0}
+.sub{font-family:var(--mono);font-size:.6rem;letter-spacing:.14em;color:#8a744e;margin-top:.4em}
+.stage{position:relative;max-width:560px;width:94%;margin:0 auto}
+.stage img{width:100%;display:block;background:#fff;
+box-shadow:0 8px 24px rgba(60,40,10,.3);border:1px solid #cbb98e}
+.tap{position:absolute;top:0;bottom:0;width:38%;cursor:pointer}
+.tap.l{left:0}.tap.r{right:0}
+.bar{display:flex;gap:1.4em;align-items:center;justify-content:center;padding:1em 0 .6em;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.1em}
+.bar button{font:inherit;background:linear-gradient(#f6efdb,#e2d3ad);border:1px solid #a3895a;
+color:#33270f;padding:.5em 1.2em;cursor:pointer;border-radius:2px}
+.bar button:disabled{opacity:.4;cursor:default}
+.note{max-width:32em;text-align:center;font-style:italic;color:#8a744e;font-size:.85rem;
+line-height:1.7;padding:0 1.2em 1.6em}
+.back{font-family:var(--mono);font-size:.66rem;letter-spacing:.15em;padding-bottom:2em}
+.back a{color:#7d5e1a}
+</style></head><body>
+<header>
+  <h1>Pearl and Other Poems</h1>
+  <div class="sub">LEE SHARKS · PERGAMON PRESS · 2014 · FOUNDS THE <a style="color:inherit" href="/mantles/">KING OF MAY</a></div>
+</header>
+<div class="stage">
+  <img id="pg" src="/pearl/pages/p-001.jpg" alt="Pearl and Other Poems, page 1">
+  <div class="tap l" onclick="go(-1)" title="previous page"></div>
+  <div class="tap r" onclick="go(1)" title="next page"></div>
+</div>
+<div class="bar">
+  <button id="prev" onclick="go(-1)">&larr; PREV</button>
+  <span id="ctr">1 / 155</span>
+  <button id="next" onclick="go(1)">NEXT &rarr;</button>
+</div>
+<p class="note">The single guarded copy, led through page by page as printed — un-OCR'd,
+unreflowed, the 2014 book itself. Tap the page's edges or use the arrow keys.</p>
+<div class="back"><a href="/">&larr; THE GALLERY</a></div>
+<script>
+const N=155; let p=1;
+const pad=n=>String(n).padStart(3,'0');
+const url=n=>`/pearl/pages/p-${pad(n)}.jpg`;
+function show(){
+  document.getElementById('pg').src=url(p);
+  document.getElementById('pg').alt=`Pearl and Other Poems, page ${p}`;
+  document.getElementById('ctr').textContent=`${p} / ${N}`;
+  document.getElementById('prev').disabled=(p<=1);
+  document.getElementById('next').disabled=(p>=N);
+  for(const d of [1,2]) if(p+d<=N){const i=new Image(); i.src=url(p+d);}
+  try{history.replaceState(null,'','#p'+p);}catch(e){}
+}
+function go(d){ p=Math.min(N,Math.max(1,p+d)); show(); }
+addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key==='PageDown') go(1);
+  if(e.key==='ArrowLeft'||e.key==='PageUp') go(-1);
+});
+const h=location.hash.match(/^#p(\d+)$/); if(h){p=Math.min(N,Math.max(1,+h[1]));}
+show();
+</script>
+</body></html>

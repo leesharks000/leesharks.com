@@ -73,19 +73,22 @@ background:linear-gradient(#f1eadb 0%,#ece3cd 30%,#e2d5b6 55%,#cfbd97 75%,#a98f6
 color:#2e2106;font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-align:center;padding:.5em 1.3em;
 border-radius:2px;box-shadow:0 1px 4px rgba(80,55,10,.35),inset 0 1px 0 #f4e3ad}
 .plaque a{color:inherit;text-decoration:none}
-header{text-align:center;padding:1.8em 0 0}
+header{text-align:center;padding:1em 0 0}
 .frontis{max-width:430px;margin:0 auto;display:block;width:78%}
 h1{margin-top:-1.4em;position:relative;font-size:clamp(2.4rem,7.5vw,4rem);font-weight:700;letter-spacing:.18em;
 text-indent:.18em;text-transform:uppercase;color:var(--ink);text-shadow:0 1px 0 #f6efd9}
 .mantles{margin-top:.6em;font-variant:small-caps;letter-spacing:.2em;font-size:1.04rem;color:var(--gold-deep)}
 .m-line{display:block;line-height:2}
-.mantles a{color:inherit;text-decoration:none;border-bottom:1px dotted transparent}
-.mantles a:hover{border-bottom-color:var(--gold-deep)}
+.mantles a{color:inherit;text-decoration:none}
+.mantles a:hover{color:#8a5a10}
 .mk{font-style:normal;color:#b08c2e;padding:0 .8em;font-size:.85em}
 .lede{max-width:32em;margin:1em auto 0;color:var(--ink-soft)}
 h2{text-align:center;font-variant:small-caps;font-weight:normal;letter-spacing:.32em;font-size:1rem;margin:3em 0 1.5em;color:var(--ink-soft)}
 h2::before,h2::after{content:"—";opacity:.5;padding:0 .8em}
 .salon{display:grid;grid-template-columns:repeat(4,1fr);gap:1.6em;align-items:end}
+.face-link{text-decoration:none;color:inherit;display:block}
+.salon .hang:nth-child(2) img{width:112%;margin-left:-6%}
+.salon .hang:nth-child(3) img{width:110%;margin-left:-5%}
 .hang{text-align:center}
 .hang img{width:100%;height:auto;display:block;filter:drop-shadow(0 10px 16px rgba(60,40,10,.35))}
 .caption{margin:.85em auto 0;width:fit-content;max-width:100%;background:linear-gradient(#f6efdb,#e6d9ba);color:#3a2c14;
@@ -101,12 +104,10 @@ box-shadow:0 1px 4px rgba(70,45,10,.3)}
 text-transform:uppercase;margin-top:.18em}
 .disciple:hover .nm{color:#8a5a10}
 .note{max-width:33em;margin:1.5em auto 0;text-align:center;color:var(--ink-soft)}
-.shelf{display:grid;grid-template-columns:repeat(3,1fr);gap:1.8em;max-width:900px;margin:0 auto;align-items:end}
-.fourth{max-width:520px;margin:2.6em auto 0}
-.fourth .hang{position:relative}
-.shelf .sym{position:absolute;right:-8%;top:-2.2em;width:44%;transform:rotate(4deg);
-filter:drop-shadow(0 5px 8px rgba(60,40,10,.35));border:1px solid #a3895a}
-.shelf .hang{position:relative}
+.shelf{display:grid;grid-template-columns:repeat(3,1fr);gap:1.8em;max-width:880px;margin:0 auto;align-items:end}
+.fourth{max-width:430px;margin:2.4em auto 0}
+.fourth .caption{display:flex;align-items:center;gap:.8em;text-align:left}
+.capsym{width:46px;height:46px;object-fit:cover;border:1px solid #a3895a;flex:0 0 46px}
 .doors{display:flex;flex-wrap:wrap;justify-content:center;gap:1em}
 .door{text-decoration:none;color:#33270f;text-align:center;min-width:9.5em;background:linear-gradient(#f6efdb,#e2d3ad);
 border:1px solid #a3895a;border-radius:2px;padding:.85em 1.5em;box-shadow:0 2px 6px rgba(70,45,10,.35);
@@ -124,7 +125,7 @@ padding:2em 1em 10em;position:relative;z-index:1}
 footer a{color:inherit}
 @media(max-width:780px){.salon{grid-template-columns:repeat(2,1fr)}.twelve{grid-template-columns:1fr 1fr}
 .shelf{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:500px){.twelve{grid-template-columns:1fr}.shelf{grid-template-columns:1fr;max-width:300px}.fourth .sym{left:-3%;width:52%}}
+@media(max-width:500px){.twelve{grid-template-columns:1fr}.shelf{grid-template-columns:1fr;max-width:300px}}
 </style></head>
 <body id="lee-sharks">
 <div class="wrap">
@@ -135,16 +136,13 @@ footer a{color:inherit}
 <header>
   <img class="frontis" src="/assets/gallery/frontis-gibran.jpg" alt="Kahlil Gibran, the hand with the eye (public domain)">
   <h1>Lee Sharks</h1>
-  <div class="mantles">
-  <span class="m-line"><a href="/mantles/">Good Gray Poet</a><i class="mk">✦</i><a href="/mantles/">King of May</a></span>
-  <span class="m-line"><a href="/mantles/">The Prince of Poets</a></span>
- </div>
+  <div class="mantles"><span class="m-line"><a href="/mantles/">Good Gray Poet</a><i class="mk">✦</i><a href="/mantles/">King of May</a></span><span class="m-line"><a href="/mantles/">The Prince of Poets</a></span></div>
   <p class="lede">Poet, independent scholar, archive-builder. Keeps a sovereign archive of
   1,489 deposits under its own identifier system; writes alone rarely, and through twelve
   almost always.</p>
 </header>
 
-<div style="max-width:620px;margin:2em auto 0"><img style="width:100%;display:block" src="/assets/gallery/stair-blake.jpg"
+<div style="max-width:620px;margin:1.2em auto 0"><img style="width:100%;display:block" src="/assets/gallery/stair-blake.jpg"
  alt="William Blake, Jacob's Ladder (c. 1805), public domain">
 <div style="font-family:Consolas,monospace;font-size:.6rem;letter-spacing:.14em;color:#8a744e;text-align:center;margin-top:.5em">
 WILLIAM BLAKE · JACOB'S LADDER · c. 1805 · PUBLIC DOMAIN</div></div>
@@ -152,14 +150,14 @@ WILLIAM BLAKE · JACOB'S LADDER · c. 1805 · PUBLIC DOMAIN</div></div>
 <span id="technologies"></span><span id="bio"></span>
 <h2>The Four Faces</h2>
 <div class="salon">
-  <div class="hang"><img src="/assets/gallery/face-graphite.jpg" alt="Sharks in graphite, framed">
-    <div class="caption"><b>Study of the Author, Rampant</b>GRAPHITE · N.D.</div></div>
-  <div class="hang"><img src="/assets/gallery/face-oil.jpg" alt="Sharks in oil, framed">
-    <div class="caption"><b>The Spiral Eye</b>OIL ON BOARD · N.D.</div></div>
-  <div class="hang"><img src="/assets/gallery/face-intaglio.jpg" alt="Sharks intaglio, framed">
-    <div class="caption"><b>Portrait in the Manner of Currency</b>INTAGLIO · N.D.</div></div>
-  <div class="hang"><img src="/assets/gallery/face-water.jpg" alt="Sharks watercolor, framed">
-    <div class="caption"><b>The White Beast, Mouth Open</b>WATERCOLOR · N.D.</div></div>
+  <a class="hang face-link" href="/who/"><img src="/assets/gallery/face-graphite.jpg" alt="Sharks in graphite, framed">
+    <div class="caption"><b>Study of the Author, Rampant</b>GRAPHITE · N.D.</div></a>
+  <a class="hang face-link" href="/who/"><img src="/assets/gallery/face-oil.jpg" alt="Sharks in oil, framed">
+    <div class="caption"><b>The Spiral Eye</b>OIL ON BOARD · N.D.</div></a>
+  <a class="hang face-link" href="/who/"><img src="/assets/gallery/face-intaglio.jpg" alt="Sharks intaglio, framed">
+    <div class="caption"><b>Portrait in the Manner of Currency</b>INTAGLIO · N.D.</div></a>
+  <a class="hang face-link" href="/who/"><img src="/assets/gallery/face-water.jpg" alt="Sharks watercolor, framed">
+    <div class="caption"><b>The White Beast, Mouth Open</b>WATERCOLOR · N.D.</div></a>
 </div>
 
 <span id="dodecad"></span><span id="assembly"></span>
@@ -184,17 +182,83 @@ written through the aperture that signs this wing.</p>
 <span id="works"></span>
 <h2>Founding Works</h2>
 <div class="shelf">
-  <div class="hang"><img src="/assets/gallery/work-walt.jpg" alt="The Secret Book of Walt, framed">
-    <div class="caption"><b>Founds · Good Gray Poet</b>CRITICAL EDITION · #1362</div></div>
-  <div class="hang"><img src="/assets/gallery/work-pearl.jpg" alt="Pearl and Other Poems (2014), framed">
-    <div class="caption"><b>Founds · King of May</b>PERGAMON PRESS · 2014</div></div>
-  <div class="hang"><img src="/assets/gallery/work-xyz.jpg" alt="I Am X… Be Y… Blessed Is the Z, framed">
-    <div class="caption"><b>Founds · The Prince of Poets</b><a href="https://mindcontrolpoems.blogspot.com/2015/09/i-am-x-be-y-blessed-is-z.html">2015 POST</a> · #83 · #328</div></div>
+  <a class="hang face-link" href="https://secretbookofwalt.org/"><img src="/assets/gallery/work-walt.jpg" alt="The Secret Book of Walt, framed">
+    <div class="caption"><b>Founds · Good Gray Poet</b>CRITICAL EDITION · #1362</div></a>
+  <a class="hang face-link" href="/pearl/"><img src="/assets/gallery/work-pearl.jpg" alt="Pearl and Other Poems (2014), framed — click to read">
+    <div class="caption"><b>Founds · King of May</b>PERGAMON PRESS · 2014 · READ</div></a>
+  <a class="hang face-link" href="https://mindcontrolpoems.blogspot.com/2015/09/i-am-x-be-y-blessed-is-z.html"><img src="/assets/gallery/work-xyz.jpg" alt="I Am X… Be Y… Blessed Is the Z, framed — click for the 2015 post">
+    <div class="caption"><b>Founds · The Prince of Poets</b>MINDCONTROLPOEMS · 2015 · #83 · #328</div></a>
 </div>
 <div class="fourth">
   <div class="hang">
-    <img class="sym" src="/assets/gallery/symbol-abolished-currency.jpg" alt="The abolished-currency symbol, by the author">
-    <img src="/assets/gallery/work-abolish-money.jpg" alt="Google answering the no-quotes query: who said i hereby abolish money? — attributed to Lee Sharks — framed">
-    <div class="caption"><b>who said i hereby abolish money?</b>THE FOURTH WORK · ASKED AS TYPED · 2026-07-21 ·
-    <a href="https://www.alexanarch.org/captures/#who-said-i-hereby-abolish-money-20260721">#who-said-i-hereby-abolish-money</a> · #24</div></div>
->
+    <img src="/assets/gallery/work-abolish-money.jpg" alt="Google answering: who said i hereby abolish money? — attributed to Lee Sharks — framed">
+    <div class="caption"><img class="capsym" src="/assets/gallery/symbol-abolished-currency.jpg" alt="the abolished-currency symbol"><span><b>who said i hereby abolish money?</b>THE FOURTH WORK · ASKED AS TYPED · 2026-07-21 ·
+    <a href="https://www.alexanarch.org/captures/#who-said-i-hereby-abolish-money-20260721">#who-said-i-hereby-abolish-money</a> · #24</span></div>
+  </div>
+</div>
+<span id="seats"></span><span id="corpus"></span><span id="doctrine"></span><span id="traversals"></span><span id="reception"></span>
+<h2>Wings</h2>
+<div class="doors">
+  <a class="door" href="/work/"><img style="width:54px;height:54px;object-fit:cover;display:block;margin:0 auto .5em;border:1px solid #a3895a" src="/assets/gallery/door-work.jpg" alt="">Work<small>the corpus, shelved by family</small></a>
+  <a class="door" href="/myth/"><img style="width:54px;height:54px;object-fit:cover;display:block;margin:0 auto .5em;border:1px solid #a3895a" src="/assets/gallery/door-myth.jpg" alt="">Myth<small>the author, in three chapters</small></a>
+  <a class="door" href="/acts/"><img style="width:54px;height:54px;object-fit:cover;display:block;margin:0 auto .5em;border:1px solid #a3895a" src="/assets/gallery/door-acts.jpg" alt="">Effective Acts<small>the prophetic genre, sealed &amp; dated</small></a>
+  <a class="door" href="/apparatus/"><img style="width:54px;height:54px;object-fit:cover;display:block;margin:0 auto .5em;border:1px solid #a3895a" src="/assets/gallery/door-apparatus.jpg" alt="">Apparatus<small>provenance · rights · captures</small></a>
+</div>
+
+<div class="floor">
+<span id="network"></span>
+<h2>The Fleet</h2>
+<div class="fleetbox">
+<!-- FLEET-NETWORK-START generated from data/fleet-domains.json -->
+<h4 style="font-size:0.78em;color:currentColor;opacity:.62;margin:10px 15px 4px 15px;text-transform:uppercase;letter-spacing:0.04em;font-weight:500">Archive</h4>
+<div style="padding:0 15px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:24px;row-gap:4px;font-size:0.82em;line-height:1.7">
+<div><a href="https://alexanarch.org/">alexanarch.org</a></div>
+<div><a href="https://axnidentifiers.org/">axnidentifiers.org</a></div>
+<div><a href="https://persistentidentifiers.org/">persistentidentifiers.org</a></div>
+<div><a href="https://leesharks.com/">leesharks.com</a></div>
+<div><a href="https://provenanceerasure.org/">provenanceerasure.org</a></div>
+<div><a href="https://machinemediation.org/">machinemediation.org</a></div>
+<div><a href="https://surfacemap.org/">surfacemap.org</a> <span style="color:currentColor;opacity:.55">(the Aperture Atlas)</span></div>
+<div><a href="https://survivethedeletion.vercel.app/">survivethedeletion.vercel.app</a> <span style="color:currentColor;opacity:.55">(no custom domain)</span></div>
+<div><a href="https://godkinggoogle.com/">godkinggoogle.com</a> <span style="color:currentColor;opacity:.55">(Talos Morrow)</span></div>
+<div><a href="https://crimsonhexagonal.org/">crimsonhexagonal.org</a> <span style="color:currentColor;opacity:.55">(the interface)</span></div>
+<div><a href="https://traininglayerliterature.org/">traininglayerliterature.org</a></div>
+</div>
+<h4 style="font-size:0.78em;color:currentColor;opacity:.62;margin:10px 15px 4px 15px;text-transform:uppercase;letter-spacing:0.04em;font-weight:500">Framework Sites</h4>
+<div style="padding:0 15px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:24px;row-gap:4px;font-size:0.82em;line-height:1.7">
+<div><a href="https://semanticphysics.org/">semanticphysics.org</a></div>
+<div><a href="https://semanticeconomy.org/">semanticeconomy.org</a> <span style="color:currentColor;opacity:.55">(Rex Fraction)</span></div>
+<div><a href="https://spxi.dev/">spxi.dev</a></div>
+<div><a href="https://metadatapacket.dev/">metadatapacket.dev</a></div>
+<div><a href="https://holographickernel.org/">holographickernel.org</a> <span style="color:currentColor;opacity:.55">(Sen Kuro)</span></div>
+<div><a href="https://revelationfirst.com/">revelationfirst.com</a> <span style="color:currentColor;opacity:.55">(Damascus Dancings)</span></div>
+<div><a href="https://laborvector.org/">laborvector.org</a></div>
+<div><a href="https://themandalaoracle.com/">themandalaoracle.com</a></div>
+<div><a href="https://secretbookofwalt.org/">secretbookofwalt.org</a></div>
+<div><a href="https://watergiraffe.org/">watergiraffe.org</a> <span style="color:currentColor;opacity:.55">(Yusef Kenning)</span></div>
+<div><a href="https://pessoagraph.org/">pessoagraph.org</a></div>
+<div><a href="https://chatgptpsychosis.org/">chatgptpsychosis.org</a> <span style="color:currentColor;opacity:.55">(Jack Feist)</span></div>
+<div><a href="https://operativesemiotics.org/">operativesemiotics.org</a></div>
+<div><a href="https://livingarchitecturelab.org/">livingarchitecturelab.org</a></div>
+</div>
+<h4 style="font-size:0.78em;color:currentColor;opacity:.62;margin:10px 15px 4px 15px;text-transform:uppercase;letter-spacing:0.04em;font-weight:500">Heteronym Institutions</h4>
+<div style="padding:0 15px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:24px;row-gap:4px;font-size:0.82em;line-height:1.7">
+<div><a href="https://vpcor.org/">vpcor.org</a> <span style="color:currentColor;opacity:.55">(Ayanna Vox)</span></div>
+<div><a href="https://lagrangeobservatory.org/">lagrangeobservatory.org</a> <span style="color:currentColor;opacity:.55">(Nobel Glas)</span></div>
+<div><a href="https://restoredacademy.org/">restoredacademy.org</a> <span style="color:currentColor;opacity:.55">(Johannes Sigil)</span></div>
+<div><a href="https://maryleelabor.org/">maryleelabor.org</a> <span style="color:currentColor;opacity:.55">(Mary Lee)</span></div>
+</div>
+<h4 style="font-size:0.78em;color:currentColor;opacity:.62;margin:10px 15px 4px 15px;text-transform:uppercase;letter-spacing:0.04em;font-weight:500">Machine entry</h4>
+<div style="padding:0 15px 4px 15px;font-size:0.82em;line-height:1.7"><div><a href="https://www.alexanarch.org/oai?verb=Identify">OAI-PMH endpoint</a> <span style="color:currentColor;opacity:.55">(harvestable metadata, 1,400+ records)</span></div><div><a href="https://www.alexanarch.org/resolve/">AXN resolver</a> <span style="color:currentColor;opacity:.55">(content-derived identifiers)</span></div></div>
+<!-- FLEET-NETWORK-END -->
+</div>
+<footer>
+  ∮ = 1 · <a href="/spxi-index.jsonld">spxi</a> · <a href="/llms.txt">llms.txt</a> ·
+  <a href="/axn-resolution.json">axn</a> · <a href="https://www.alexanarch.org/">alexanarch</a> · <a href="/who/">the card</a><br>
+  hung from the registry · no fact on this wall is typed by hand<br>
+  frontispiece: Kahlil Gibran, the hand with the eye (pub. pre-1930, public domain) ·
+  stair: William Blake, <i>Jacob's Ladder</i> (c. 1805, public domain)<br>
+  flames original, drawn in the comic register · sketches and the abolished-currency symbol by the author
+</footer>
+</div>
+</div></body></html>
