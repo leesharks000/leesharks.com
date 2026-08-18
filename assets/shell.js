@@ -13,12 +13,12 @@
     '0': [[0.00,'#4a3a1c','#7d5e1a'],[0.55,'#4a3a1c','#7d5e1a'],
           [0.66,'#5e4c2c','#8a6a20'],[0.74,'#a8946a','#c9a13b'],
           [0.82,'#dcCBa0','#e0c268'],[1.00,'#f0e2c0','#f0d98c']],
-    '1': [[0.00,'#4a3a1c','#7d5e1a'],[0.42,'#4a3a1c','#7d5e1a'],
-          [0.62,'#6a5836','#9a7c2a'],[0.78,'#c4b088','#d0b055'],
-          [1.00,'#f0e2c0','#f0d98c']],
-    '2': [[0.00,'#3a2c14','#7d5e1a'],[0.30,'#4a3a1c','#8a6a20'],
-          [0.52,'#8a7850','#b08c2e'],[0.70,'#d5c49c','#dcbe60'],
-          [1.00,'#f5e9c8','#f0d98c']]
+    '1': [[0.00,'#4a3a1c','#7d5e1a'],[0.34,'#4a3a1c','#7d5e1a'],
+          [0.50,'#6a5836','#9a7c2a'],[0.62,'#b7a276','#c9a13b'],
+          [0.74,'#e0d0a6','#e0c268'],[1.00,'#f5e9c8','#f0d98c']],
+    '2': [[0.00,'#3a2c14','#7d5e1a'],[0.22,'#4a3a1c','#8a6a20'],
+          [0.42,'#8a7850','#b08c2e'],[0.58,'#d5c49c','#dcbe60'],
+          [1.00,'#f7ecc9','#f0d98c']]
   };
   var ramp = RAMPS[depth] || RAMPS['1'];
 
@@ -62,11 +62,23 @@
     }
   }
 
+  function paintSVGs(){
+    var H = document.documentElement.scrollHeight || 1;
+    var svgs = document.body.querySelectorAll('svg');
+    for (var i=0;i<svgs.length;i++){
+      var el=svgs[i];
+      var p=el.parentElement;
+      if (p && p.closest('.shell-plaque,.shell-nav,.shell-foot,.fleetbox,footer,.ink-skip')) continue;
+      var r=el.getBoundingClientRect();
+      var f=(r.top + r.height/2 + window.scrollY)/H;
+      el.style.color = at(f, 1);
+    }
+  }
   var t=null;
-  function schedule(){ clearTimeout(t); t=setTimeout(paint, 120); }
+  function schedule(){ clearTimeout(t); t=setTimeout(function(){paint();paintSVGs();}, 120); }
   if (document.readyState==='loading')
-    document.addEventListener('DOMContentLoaded', function(){ paint(); setTimeout(paint, 600); });
-  else { paint(); setTimeout(paint, 600); }
+    document.addEventListener('DOMContentLoaded', function(){ paint(); paintSVGs(); setTimeout(function(){paint();paintSVGs();}, 600); });
+  else { paint(); paintSVGs(); setTimeout(function(){paint();paintSVGs();}, 600); }
   window.addEventListener('resize', schedule);
-  window.addEventListener('load', paint);
+  window.addEventListener('load', function(){paint();paintSVGs();});
 })();
