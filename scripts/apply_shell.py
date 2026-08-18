@@ -19,6 +19,7 @@ def nav_html(current_path):
 
 def head_block(page_path):
     return ('<!-- SHELL:HEAD -->'
+            '<script defer src="/assets/shell.js"></script>'
             f'<div class="shell-plaque">{M["plaque"]}</div>'
             f'{nav_html(page_path)}'
             '<!-- /SHELL:HEAD -->')
