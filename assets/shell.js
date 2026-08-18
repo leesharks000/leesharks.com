@@ -54,24 +54,32 @@
 
   function paint(){
     var H = document.documentElement.scrollHeight || 1;
+    /* block-level carriers only; inline children inherit their ink */
     var els = document.body.querySelectorAll(
-      'h1,h2,h3,h4,p,li,blockquote,figcaption,span,i,b,em,strong,a,div');
+      'h1,h2,h3,h4,p,li,blockquote,figcaption,a,div');
+    var jobs = [];
+    /* READ PHASE: no writes, no thrash */
     for (var i=0;i<els.length;i++){
       var el=els[i];
-      if (el.closest(SKIP)) { el.style.removeProperty('color'); continue; }
-      /* only ink elements that directly hold text */
-      var hasText=false;
-      for (var n=el.firstChild;n;n=n.nextSibling){
-        if (n.nodeType===3 && /\S/.test(n.nodeValue)) { hasText=true; break; }
+      if (el.closest(SKIP)) continue;
+      if (el.tagName!=='A'){
+        var hasText=false;
+        for (var n=el.firstChild;n;n=n.nextSibling){
+          if (n.nodeType===3 && /\S/.test(n.nodeValue)) { hasText=true; break; }
+        }
+        if (!hasText) continue;
       }
-      if (!hasText) continue;
       var r=el.getBoundingClientRect();
-      var f=(r.top + r.height/2 + window.scrollY)/H;
-      var ink = at(f, el.tagName==='A' ? 2 : 1);
-      el.style.color = ink;
+      jobs.push([el, (r.top + r.height/2 + window.scrollY)/H]);
+    }
+    /* WRITE PHASE */
+    for (var k=0;k<jobs.length;k++){
+      var el2=jobs[k][0];
+      var ink = at(jobs[k][1], el2.tagName==='A' ? 2 : 1);
+      el2.style.color = ink;
       if (ink===INK.pale || ink===INK.linkPale)
-        el.style.textShadow='0 1px 2px rgba(10,6,2,.6)';
-      else el.style.removeProperty('text-shadow');
+        el2.style.textShadow='0 1px 2px rgba(10,6,2,.6)';
+      else el2.style.removeProperty('text-shadow');
     }
   }
 
@@ -92,6 +100,9 @@
   if (document.readyState==='loading')
     document.addEventListener('DOMContentLoaded', function(){ paint(); paintSVGs(); setTimeout(function(){paint();paintSVGs();}, 600); });
   else { paint(); paintSVGs(); setTimeout(function(){paint();paintSVGs();}, 600); }
-  window.addEventListener('resize', schedule);
+    var lastW = window.innerWidth;
+  window.addEventListener('resize', function(){
+    if (window.innerWidth !== lastW){ lastW = window.innerWidth; schedule(); }
+  });
   window.addEventListener('load', function(){paint();paintSVGs();});
 })();
