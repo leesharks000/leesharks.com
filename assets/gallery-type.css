@@ -32,3 +32,49 @@
   .mantles span{display:block}
   .mantles span:not(:last-child)::after{content:"";padding:0}
 }
+
+
+/* ===================== THE SHELL (added 2026-08-18) =====================
+   One layer for the whole building: plaque, nav, depth themes, ember, foot.
+   Pages carry data-depth on <body>; the deeper you read, the closer the fire. */
+
+body[data-depth]{margin:0}
+body[data-depth="1"]{background:linear-gradient(#eee4c9 0%,#e2d3ae 38%,#c4ab7e 68%,#8a6f47 88%,#5e4830 100%) !important;min-height:100vh}
+body[data-depth="2"]{background:linear-gradient(#d8c7a2 0%,#b59a6c 40%,#7a5f3d 72%,#3a2c1c 92%,#221709 100%) !important;color:#3a2c14;min-height:100vh}
+
+.shell-plaque{
+  margin:0; width:100%; box-sizing:border-box;
+  background:linear-gradient(#e5cb84,#c2a052 55%,#d6b76a); color:#2e2106;
+  font-family:var(--mono); font-size:.64rem; letter-spacing:.12em; text-align:center;
+  padding:.55em .8em; box-shadow:0 1px 4px rgba(80,55,10,.35), inset 0 1px 0 #f4e3ad;
+}
+.shell-plaque a{color:inherit;text-decoration:none}
+
+.shell-nav{
+  width:100%; box-sizing:border-box; text-align:center;
+  font-family:var(--mono); font-size:.62rem; letter-spacing:.16em;
+  padding:.55em .6em .5em; color:#5e4c2c;
+  border-bottom:1px solid rgba(125,94,26,.35);
+  background:rgba(244,236,217,.55);
+}
+.shell-nav a{color:#5e4c2c;text-decoration:none;padding:0 .55em;white-space:nowrap;line-height:1.9}
+.shell-nav a:hover{color:#8a5a10}
+.shell-nav a[aria-current="page"]{color:#8a5a10;border-bottom:1px solid #b08c2e}
+
+.shell-foot{position:relative;margin-top:4.5em;text-align:center}
+.shell-foot .ember{display:block;width:100%;pointer-events:none}
+body[data-depth="1"] .shell-foot .ember{height:72px}
+body[data-depth="2"] .shell-foot .ember{height:118px}
+.shell-foot .ember{background:url('/assets/gallery/flames.png') center bottom / cover no-repeat}
+.colophon-mini{
+  position:relative; z-index:1; font-family:var(--mono); font-weight:600;
+  font-size:.62rem; letter-spacing:.1em; color:#f5e7c0; padding:0 1em 1em;
+  text-shadow:0 1px 3px rgba(0,0,0,.85);
+}
+.colophon-mini a{color:#f0d98c}
+body[data-depth="1"] .shell-foot{background:linear-gradient(transparent, rgba(30,20,8,.55) 70%)}
+body[data-depth="2"] .shell-foot{background:linear-gradient(transparent, rgba(10,6,3,.8) 60%)}
+
+/* overflow discipline: no long string may remargin the building */
+html{overflow-x:clip}
+.fleetbox a{overflow-wrap:anywhere}

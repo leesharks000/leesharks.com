@@ -1,0 +1,69 @@
+{
+ "_rule": "The shell is declared here and stamped by scripts/apply_shell.py. No page hand-edits its plaque, nav, or foot. One declaration, one propagator.",
+ "plaque": "CRIMSON HEXAGONAL ARCHIVE · ORTHONYM WING · <a href=\"https://www.alexanarch.org/s/records/645/\">AXN:01F8.GOVERNANCE.🏗️🤲🧭🖊️👁️□ · deposit #645</a>",
+ "nav": [
+  [
+   "/",
+   "GALLERY"
+  ],
+  [
+   "/work/",
+   "WORK"
+  ],
+  [
+   "/myth/",
+   "MYTH"
+  ],
+  [
+   "/acts/",
+   "ACTS"
+  ],
+  [
+   "/prize/",
+   "PRIZE"
+  ],
+  [
+   "/captures/",
+   "CAPTURES"
+  ],
+  [
+   "/apparatus/",
+   "APPARATUS"
+  ],
+  [
+   "/who/",
+   "THE CARD"
+  ]
+ ],
+ "colophon_mini": "∮ = 1 · <a href=\"/spxi-index.jsonld\">spxi</a> · <a href=\"/llms.txt\">llms.txt</a> · <a href=\"/axn-resolution.json\">axn</a> · <a href=\"https://www.alexanarch.org/\">alexanarch</a>",
+ "pages": [
+  {
+   "path": "work/index.html",
+   "depth": 1
+  },
+  {
+   "path": "myth/index.html",
+   "depth": 1
+  },
+  {
+   "path": "acts/index.html",
+   "depth": 1
+  },
+  {
+   "path": "apparatus/index.html",
+   "depth": 1
+  },
+  {
+   "path": "prize/index.html",
+   "depth": 1
+  },
+  {
+   "path": "mantles/index.html",
+   "depth": 1
+  },
+  {
+   "path": "pearl/index.html",
+   "depth": 1
+  }
+ ]
+}
