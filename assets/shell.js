@@ -17,7 +17,7 @@
     '1': [[0,'#eee4c9'],[0.38,'#e2d3ae'],[0.68,'#c4ab7e'],[0.88,'#8a6f47'],[1,'#5e4830']],
     '2': [[0,'#d8c7a2'],[0.40,'#b59a6c'],[0.72,'#7a5f3d'],[0.92,'#3a2c1c'],[1,'#221709']]
   };
-  var INK = { dark:'#4a3a1c', pale:'#f2e6c4', linkDark:'#7d5e1a', linkPale:'#f0d98c' };
+  var INK = { dark:'#211a0d', pale:'#f9f1dc', linkDark:'#4a3608', linkPale:'#f0d98c' };
   var stops = GROUNDS[depth] || GROUNDS['1'];
 
   function hex(c){ return parseInt(c,16); }
@@ -38,8 +38,8 @@
   function lum(rgb){ return (0.2126*rgb[0]+0.7152*rgb[1]+0.0722*rgb[2])/255; }
   function at(f, idx){
     var L = lum(rgbAt(f));
-    if (idx===2) return L > 0.42 ? INK.linkDark : INK.linkPale;
-    return L > 0.42 ? INK.dark : INK.pale;
+    if (idx===2) return L > 0.31 ? INK.linkDark : INK.linkPale;
+    return L > 0.31 ? INK.dark : INK.pale;
   }
   function at(f, idx){ /* idx 1 = ink, 2 = link ink */
     for (var i=1;i<ramp.length;i++){
