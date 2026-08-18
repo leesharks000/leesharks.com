@@ -7,27 +7,39 @@
 (function () {
   var depth = document.body.getAttribute('data-depth') || '0';
 
-  /* ink stops per depth: [document-fraction, ink, link-ink] — tuned to the
-     ground gradients in gallery-type.css and main's own descent */
-  var RAMPS = {
-    '0': [[0.00,'#4a3a1c','#7d5e1a'],[0.78,'#4a3a1c','#7d5e1a'],
-          [0.85,'#f0e2c0','#f0d98c'],[1.00,'#f5e9c8','#f0d98c']],
-    '1': [[0.00,'#4a3a1c','#7d5e1a'],[0.79,'#4a3a1c','#7d5e1a'],
-          [0.86,'#f2e6c4','#f0d98c'],[1.00,'#f7ecc9','#f0d98c']],
-    '2': [[0.00,'#3a2c14','#7d5e1a'],[0.56,'#3f3118','#8a6a20'],
-          [0.63,'#f2e6c4','#eccf74'],[1.00,'#f9efd0','#f0d98c']]
+  /* GROUND STOPS — keep in sync with the gradients in gallery-type.css and
+     main's own descent. The ink rule is not positional: for each element we
+     compute the ground color beneath it, take its luminance, and pick dark
+     or pale ink discretely. No blend, no band, no per-page tuning. */
+  var GROUNDS = {
+    '0': [[0,'#f1eadb'],[0.28,'#ece3cd'],[0.50,'#e2d5b6'],[0.68,'#cfbd97'],
+          [0.80,'#9a835c'],[0.88,'#57432b'],[0.95,'#221709'],[1,'#0a0603']],
+    '1': [[0,'#eee4c9'],[0.38,'#e2d3ae'],[0.68,'#c4ab7e'],[0.88,'#8a6f47'],[1,'#5e4830']],
+    '2': [[0,'#d8c7a2'],[0.40,'#b59a6c'],[0.72,'#7a5f3d'],[0.92,'#3a2c1c'],[1,'#221709']]
   };
-  var ramp = RAMPS[depth] || RAMPS['1'];
-
-  var SKIP = ['.shell-plaque','.shell-nav','.shell-foot','.colophon-mini',
-    '.plaque','.caption','.fleetbox','footer','.door','.board','.stairslot',
-    '.ink-skip','svg','button','.bar'].join(',');
+  var INK = { dark:'#4a3a1c', pale:'#f2e6c4', linkDark:'#7d5e1a', linkPale:'#f0d98c' };
+  var stops = GROUNDS[depth] || GROUNDS['1'];
 
   function hex(c){ return parseInt(c,16); }
-  function mix(a,b,t){
-    var r1=hex(a.slice(1,3)),g1=hex(a.slice(3,5)),b1=hex(a.slice(5,7));
-    var r2=hex(b.slice(1,3)),g2=hex(b.slice(3,5)),b2=hex(b.slice(5,7));
-    return 'rgb('+Math.round(r1+(r2-r1)*t)+','+Math.round(g1+(g2-g1)*t)+','+Math.round(b1+(b2-b1)*t)+')';
+  function rgbAt(f){
+    for (var i=1;i<stops.length;i++){
+      if (f<=stops[i][0]){
+        var lo=stops[i-1], hi=stops[i];
+        var t=(f-lo[0])/((hi[0]-lo[0])||1);
+        var a=lo[1], b=hi[1];
+        return [hex(a.slice(1,3))+(hex(b.slice(1,3))-hex(a.slice(1,3)))*t,
+                hex(a.slice(3,5))+(hex(b.slice(3,5))-hex(a.slice(3,5)))*t,
+                hex(a.slice(5,7))+(hex(b.slice(5,7))-hex(a.slice(5,7)))*t];
+      }
+    }
+    var z=stops[stops.length-1][1];
+    return [hex(z.slice(1,3)),hex(z.slice(3,5)),hex(z.slice(5,7))];
+  }
+  function lum(rgb){ return (0.2126*rgb[0]+0.7152*rgb[1]+0.0722*rgb[2])/255; }
+  function at(f, idx){
+    var L = lum(rgbAt(f));
+    if (idx===2) return L > 0.42 ? INK.linkDark : INK.linkPale;
+    return L > 0.42 ? INK.dark : INK.pale;
   }
   function at(f, idx){ /* idx 1 = ink, 2 = link ink */
     for (var i=1;i<ramp.length;i++){
