@@ -1,0 +1,34 @@
+/* gallery-type.css — the gallery's typographic layer, shared by main and wings.
+   Pagella (TeX Gyre, OFL) is the fleet's Palatino: true italics on every device.
+   One file; pages carry no private font rules. */
+
+@font-face{font-family:'Pagella';src:url('/assets/fonts/Pagella-400.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Pagella';src:url('/assets/fonts/Pagella-400i.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:'Pagella';src:url('/assets/fonts/Pagella-700.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:'PlexMono';src:url('/assets/fonts/IBMPlexMono-400.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'PlexMono';src:url('/assets/fonts/IBMPlexMono-600.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}
+
+:root{
+  --serif:'Pagella','Palatino Linotype',Palatino,Georgia,serif;
+  --mono:'PlexMono',Consolas,Menlo,monospace;
+}
+
+/* the italic register: designed italic, quieter and tighter than body */
+.lede, .note, p.lede{
+  font-family:var(--serif);
+  font-style:italic;
+  font-size:.98rem;
+  line-height:1.75;
+  letter-spacing:.01em;
+  text-wrap:balance;
+}
+
+/* mantles: a mantle never breaks inside itself */
+.mantles{line-height:2}
+.mantles span{white-space:nowrap;display:inline-block}
+.mantles span:not(:last-child)::after{content:"·";padding:0 .75em;color:inherit;opacity:.7}
+.mantles > span + span{margin-left:0}
+@media(max-width:560px){
+  .mantles span{display:block}
+  .mantles span:not(:last-child)::after{content:"";padding:0}
+}
