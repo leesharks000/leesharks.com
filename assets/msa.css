@@ -1,0 +1,616 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   MATERIAL SYMBOL AESTHETIC — an operable visual schema, not a styled page.
+   Grammar: MSA v1.0 canonical spec; plates of EA-SPXI-ANALOG-01; #215 UNTETHERED
+   TAG; #504 MSMRM. Assembly critique (ChatGPT memo, 2026-08-06) integrated.
+
+   THE DESCENT (from #215's encoded distinctions — index is not ocean; provenance
+   persists below capture): the page is not a stack of sections but three regions
+   crossed in order. SURFACE = vellum, the claim and the instrument. MEMBRANE =
+   the crossing, where the file becomes an identity. DEPTH = soot, where the
+   guarantees, the refusals and the persistence live. A provenance thread runs
+   the whole descent and changes state as it crosses.
+
+   THE ARCHIVE-SQUARED LAW (governing, and a correction to the first attempt):
+   the exact operator stays mathematically precise; only the RELATIONAL FIELD is
+   hand-traced. Tremble is applied to arcs, threads, apertures, obeli and repair
+   stitches — NEVER to text, hashes, controls or anything a reader must parse.
+   The first proposal trembled a frame containing prose; that is faux-craft, and
+   it is corrected here.
+   ═══════════════════════════════════════════════════════════════════════════ */
+@font-face{font-family:'Pagella';src:url('/assets/fonts/Pagella-400.woff2')format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Pagella';src:url('/assets/fonts/Pagella-700.woff2')format('woff2');font-weight:700;font-display:swap}
+@font-face{font-family:'Pagella';src:url('/assets/fonts/Pagella-400i.woff2')format('woff2');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:'PlexM';src:url('/assets/fonts/IBMPlexMono-400.woff2')format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'PlexM';src:url('/assets/fonts/IBMPlexMono-600.woff2')format('woff2');font-weight:600;font-display:swap}
+
+:root{
+  --vellum:#EDE7D5; --vellum-hi:#F5F1E4; --bone:#EDE6D6;
+  --soot:#14120F; --graphite:#1E1B17; --deep:#0C0A08;
+  --ink:#241F1A; --slate:#3B352E; --ash:#6E6A62; --ash-d:#8E887C;
+  --umber:#A8925C; --umber-pale:#D9CDA8; --umber-dim:#5A4E33;
+  /* semantic accents — one active colour per region, never distributed evenly */
+  --crimson:#9B1B1B; --crimson-lt:#C23B22;
+  --gold:#B8964A; --verdigris:#2E6B4F; --verdigris-lt:#3FA893; --ultramarine:#33507A;
+  /* HUMAN READING COVENANT — three tiers. Fade operates on DEPTH, never on
+     IMPORTANCE. Tier 1 is always fully present; tier 2 is quieter but
+     comfortably readable; only tier 3 is genuinely ghosted. No necessary text
+     rests in the ghost tier, and no guarantee ever looks redacted. */
+  --t1:#1A1714; --t1-d:#F2EDE0;      /* operative: headings, actions, guarantees, results */
+  --t2:#4A443B; --t2-d:#BDB5A6;      /* interpretive: captions, subtitles, technical notes */
+  --t3:#736B5E; --t3-d:#8A8274;      /* residual: atmospheric marks, erased alternatives */
+  --serif:'Pagella',Palatino,'Book Antiqua',serif; --mono:'PlexM',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{background:var(--vellum)}
+body{font-family:var(--serif);font-size:17.5px;line-height:1.62;color:var(--ink);background:var(--vellum)}
+::selection{background:var(--umber-pale);color:var(--ink)}
+a{color:inherit}
+svg.defs{position:absolute;width:0;height:0}
+/* the hand belongs to relations only */
+.traced{filter:url(#tremble)}
+
+/* ── ZONES OF THE DESCENT ── */
+.zone{position:relative}
+.zone.surface{background:var(--vellum)}
+.zone.membrane{color:var(--bone);padding-top:96px;
+  background:linear-gradient(180deg,var(--vellum) 0%,#9A917B 7%,#4A4238 13%,#221E19 19%,var(--soot) 26%,var(--soot) 100%)}
+.zone.depth{background:var(--soot);color:var(--bone)}
+.inner{max-width:1000px;margin:0 auto;padding:0 20px}
+@media(min-width:820px){.inner{padding:0 44px}}
+/* the provenance thread — one continuous line down the whole descent */
+.zone::before{content:"";position:absolute;left:9px;top:0;bottom:0;width:1px;
+  background:var(--th,var(--umber-pale))}
+@media(min-width:820px){.zone::before{left:22px}}
+/* The provenance thread is umber on every ground and never crimson. It was
+   crimson through the membrane, which meant a crimson vertical dashed line
+   said "thread" in one plate and "the fracture" in the next — the same token
+   carrying two meanings, which is why the lower plates read as confusing.
+   Crimson verticals now belong to the symbolon fracture alone. */
+.zone.membrane{--th:var(--umber-dim)}
+.zone.depth{--th:var(--umber-dim)}
+
+/* ── REGISTRY RAIL (masthead as instrument, not nav) ── */
+.rail{display:flex;align-items:center;gap:14px;padding:14px 20px;border-bottom:1px solid var(--umber-pale);flex-wrap:wrap}
+@media(min-width:820px){.rail{padding:16px 44px}}
+.rail .seal{width:30px;height:30px;display:block}
+.rail .wm{font-family:var(--mono);font-weight:600;font-size:13px;letter-spacing:.3em;color:var(--ink);text-decoration:none}
+.rail .stations{margin-left:auto;display:flex;gap:0;font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase}
+@media(max-width:700px){
+  .rail{gap:8px}
+  .rail .stations{margin-left:0;width:100%;flex-wrap:wrap}
+  .rail .stations a:first-child{padding-left:0}   /* flush to the same left margin as the wordmark */
+  .rail .calib{margin-top:4px}
+}
+.rail .stations a{color:var(--ash);text-decoration:none;padding:4px 11px;border-left:1px solid var(--umber-pale)}
+.rail .stations a:first-child{border-left:0}
+.rail .stations a:hover{color:var(--crimson)}
+.rail .calib{width:100%;font-family:var(--mono);font-size:8.5px;letter-spacing:.2em;color:var(--ash-d);margin-top:2px}
+
+/* ── PLATE: bounded evidentiary object ── */
+.plate{padding:26px 22px 24px;margin:34px 0;border:1px solid var(--umber-pale);
+  background:var(--vellum-hi)}
+@media(min-width:820px){.plate{padding:30px 30px 28px;margin:40px 0}}
+.depth .plate,.membrane .plate{border-color:#3A342B;background:#12100D}
+/* uniform rhythm: every plate is the same object at the same distance from its
+   neighbours. Varying gaps read as accident, not emphasis. */
+/* SEPARATOR — the plate closes with a hairline pair and a hexagonal mark: the
+   Crimson Hexagon's own figure, used as a colophon rule. Space does the
+   containing; the mark says a plate has ended. */
+.plate::after{display:none}
+.sepmark{display:block;text-align:center;margin:30px auto;font-family:var(--mono);font-size:11px;
+  color:var(--umber-dim);width:34px;line-height:18px}
+/* The separator carried an opaque soot background from the discrete-zone era.
+   Once the page became one continuous gradient that background stopped matching
+   anything and rendered as a black box sitting on the descent. It is transparent
+   now, on every ground, and its colour is a translucent gold that reads on both
+   vellum and soot without ever being a filled shape.
+   The mark is ∮ — the semantic closure integral, the archive's own sign for a
+   closed contour. A plate ends where its integral closes. */
+.membrane .sepmark,.depth .sepmark,body.flat .sepmark{background:none}
+.plate:last-of-type::after{display:none}
+.plate-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.plate-no{font-family:var(--mono);font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--crimson)}
+.depth .plate-no{color:var(--crimson-lt)}
+.plate-title{font-family:var(--serif);font-weight:700;font-size:20px;color:var(--t1)}
+.depth .plate-title,.membrane .plate-title{color:var(--t1-d)}
+.plate-state{margin-left:auto;font-family:var(--mono);font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--ash)}
+.plate-sub{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--t2);
+  margin:7px 0 22px;padding-bottom:9px;border-bottom:1px solid var(--umber-pale)}
+.depth .plate-sub,.depth .plate-state{color:var(--t2-d);border-color:#3A342B}
+p{max-width:64ch;margin-bottom:12px;color:var(--slate)}
+.depth p,.membrane p{color:var(--t2-d)}
+p b{color:var(--ink);font-weight:700}
+/* The membrane had no rule of its own, so its prose fell back to charcoal and
+   its BOLD fell back to near-black — on a dark ground, which made the operative
+   phrases the least readable words on the page. Same defect class as the
+   covenant's bone-on-bone: a zone inherited a colour meant for another ground. */
+.depth p b,.membrane p b{color:var(--t1-d)}
+.membrane .opstage h3,.depth .opstage h3{color:var(--t1-d)}
+/* the folio is a bone card INSIDE the depth zone: without this its bold text
+   inherited bone-on-bone and every guarantee rendered as a blank gap. A
+   guarantee must never look redacted. */
+.folio p b,.folio b{color:var(--crimson);font-weight:700}
+
+/* ── SURFACE: the genesis plate ── */
+.genesis{display:grid;gap:26px;padding:34px 0 10px}
+@media(min-width:900px){.genesis{grid-template-columns:minmax(0,1fr) minmax(320px,430px);gap:44px;align-items:center;padding:52px 0 18px}}
+h1{font-family:var(--serif);font-weight:700;color:var(--t1);font-size:clamp(31px,6.2vw,58px);
+  line-height:1.07;letter-spacing:-.008em;text-wrap:balance;max-width:14ch}
+h1 .q{display:block;font-weight:400;font-size:.44em;color:var(--ink);margin-top:12px;letter-spacing:0;max-width:26ch}
+.dek{margin-top:18px;max-width:46ch;font-size:17.5px}
+.acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}
+.act{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;text-decoration:none;
+  padding:12px 18px;border:1px solid var(--ink);color:var(--ink);background:transparent}
+.act.prime{background:var(--ink);color:var(--vellum);border-color:var(--ink)}
+.act.prime:hover{background:var(--crimson);border-color:var(--crimson)}
+.act:hover{border-color:var(--crimson);color:var(--crimson)}
+.act.quiet{border-color:var(--umber-pale);color:var(--ash)}
+.schema{width:100%;height:auto;display:block}
+
+/* ── APERTURE: the exact computational point (never trembles) ── */
+.aperture{display:inline-block;border:1.4px solid var(--ultramarine);background:var(--vellum-hi);
+  padding:9px 20px;font-family:var(--mono);font-weight:600;font-size:14px;color:var(--ultramarine);letter-spacing:.05em}
+.depth .aperture{background:#171410;border-color:#4A6B94;color:#8FB0D6}
+
+/* ── ORBIT: the six-glyph seal ── */
+.orbit{display:inline-block;border:1.6px solid var(--crimson);padding:6px;background:var(--vellum-hi)}
+.depth .orbit{background:#171410}
+.orbit .in{border:1px solid var(--umber-pale);padding:8px 11px;display:flex;gap:11px;align-items:flex-end;flex-wrap:wrap;justify-content:center}
+.depth .orbit .in{border-color:#383126}
+.g{display:inline-flex;flex-direction:column;align-items:center;gap:5px}
+.g .e{font-size:25px;line-height:1;filter:grayscale(.15) contrast(1.04)}
+.g .tick{width:100%;height:2.5px;background:var(--c,var(--ash))}
+.g .cl{font-family:var(--mono);font-size:7px;letter-spacing:.05em;color:var(--ash);text-transform:uppercase}
+
+/* ── MARGIN: the added identity layer ── */
+.marginband{background:var(--vellum-hi);border-top:1px solid var(--umber-pale);padding:7px 11px;
+  font-family:var(--mono);font-size:9px;color:var(--slate);display:flex;gap:9px;align-items:center;flex-wrap:wrap}
+
+/* ── evidence plate ── */
+figure.ev{margin:0}
+figure.ev img{width:100%;height:auto;display:block;border:1px solid var(--umber-pale)}
+figure.ev figcaption{margin-top:13px;font-size:15.5px;color:var(--slate)}
+figure.ev .idl{display:block;margin-top:10px;font-family:var(--mono);font-size:10.5px;color:var(--ash);word-break:break-all}
+figure.ev .idl b{color:var(--ink)}
+.vlinks{display:flex;gap:15px;flex-wrap:wrap;margin-top:11px;font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase}
+.vlinks a{color:var(--verdigris);text-decoration:none;border-bottom:1px solid var(--umber-pale)}
+.vlinks a:hover{color:var(--crimson);border-color:var(--crimson)}
+
+/* ── MEMBRANE: one continuous operation ── */
+.operation{display:grid;gap:0;margin-top:8px}
+.opstage{display:grid;grid-template-columns:30px 1fr;gap:16px;padding:16px 0;align-items:start}
+.opstage .rn{font-family:var(--serif);font-size:26px;line-height:1;color:var(--gold);font-weight:700}
+.opstage h3{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;margin-bottom:5px;color:var(--t1-d)}
+.opstage p{margin:0;font-size:16px;max-width:56ch}
+
+/* ── SYMBOLON: two cut halves of one plate ── */
+.symb{display:flex;align-items:stretch;cursor:pointer;user-select:none;max-width:700px}
+.symb .half{flex:1;background:#171410;border:1px solid #4A4238;padding:15px;font-family:var(--mono);font-size:11.5px;
+  color:var(--t2-d);transition:transform .34s cubic-bezier(.3,.9,.25,1),border-color .2s}
+.symb .half.l{text-align:right;border-right:0}.symb .half.r{border-left:0}
+.symb .half .k{font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin-bottom:6px;font-weight:600}
+.symb .half b{color:var(--bone)}
+.symb .edge{width:11px;background:repeating-linear-gradient(180deg,var(--crimson-lt) 0 2px,transparent 2px 8px);transition:width .3s}
+.symb.met .edge{width:1px;background:var(--verdigris-lt)}
+.symb.met .half{border-color:var(--verdigris-lt)}
+.symb.met .half.l{transform:translateX(6px)}.symb.met .half.r{transform:translateX(-6px)}
+.symb.met{animation:clunk .32s cubic-bezier(.2,.9,.3,1.2)}
+@keyframes clunk{0%{transform:scale(1)}55%{transform:scale(1.013)}100%{transform:scale(1)}}
+.verdict{display:none;margin-top:12px;font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;color:var(--verdigris-lt)}
+.verdict::before{content:"σύμβολον · "}
+.symb.met+.verdict{display:block}
+@media(prefers-reduced-motion:reduce){.symb.met{animation:none}.symb .half,.symb .edge{transition:none}}
+
+/* ── CONSTITUTIONAL FOLIO: bone interrupting the depth ── */
+.folio{background:var(--bone);color:var(--ink);padding:26px 24px 24px;position:relative;max-width:760px;
+  border-top:2px solid var(--gold)}
+.folio p{color:var(--slate);font-size:16.5px}
+.folio .date{position:absolute;right:18px;top:12px;font-family:var(--mono);font-size:9px;letter-spacing:.14em;color:var(--umber)}
+.folio .stamp{margin-top:16px;padding-top:11px;border-top:1px solid var(--umber-pale);
+  font-family:var(--mono);font-size:9px;letter-spacing:.1em;color:var(--umber-dim)}
+
+/* ── OBELUS FIELD: distinctions as incisions ── */
+.obfield{margin-top:6px}
+.ob{display:grid;grid-template-columns:34px 1fr;gap:14px;padding:15px 0;border-bottom:1px solid #2E2921;align-items:start}
+.ob .mark{font-family:var(--serif);font-size:23px;line-height:1.1;color:var(--crimson-lt)}
+.ob h4{font-family:var(--mono);font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--bone);margin-bottom:4px}
+.ob p{margin:0;font-size:15px;max-width:56ch;color:var(--t2-d)}
+
+/* ── CONSTELLATION: fleet as topology, not table ── */
+.constel{display:grid;gap:1px;background:#2E2921;border:1px solid #2E2921;margin-top:6px}
+@media(min-width:760px){.constel{grid-template-columns:1fr 1fr}}
+.node{background:var(--soot);padding:14px 16px;text-decoration:none;display:block}
+.node:hover{background:#1B1814}
+.node .fn{font-family:var(--mono);font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.node .nm{font-family:var(--mono);font-size:12.5px;font-weight:600;color:var(--bone);margin:3px 0 3px}
+.node .op{font-size:14.5px;color:var(--t2-d);line-height:1.5}
+.node .ur{font-family:var(--mono);font-size:9px;color:var(--umber);margin-top:6px;letter-spacing:.04em}
+.node.kernel{grid-column:1/-1;background:#191510}
+.node.kernel .nm{color:var(--gold)}
+
+/* OVERVIEW — every plate opens with a plain-language sentence at full contrast,
+   so a first-time reader is never asked to earn access to the meaning. */
+.overview{font-size:18px;color:var(--t1);max-width:58ch;margin-bottom:16px;line-height:1.5}
+.depth .overview,.membrane .overview{color:var(--t1-d)}
+.overview b{font-weight:700}
+/* Highlight is ultramarine — the overview register, and a deliberate step away
+   from crimson-on-cream, which reads as a generic machine-authored palette
+   rather than as this archive. Crimson is kept for incision: obeli, plate
+   numbers, the registration thread, the fracture. */
+mark.hl{background:rgba(51,80,122,.13);color:#24466F;padding:1px 5px;font-weight:600}
+.depth mark.hl,.membrane mark.hl{background:rgba(96,142,201,.20);color:#A9C6E8}
+mark.gd{background:rgba(184,150,74,.16);color:#7A6220;padding:1px 5px;font-weight:600}
+.depth mark.gd,.membrane mark.gd{background:rgba(184,150,74,.20);color:var(--gold)}
+/* REST — a clean surface with no secondary register, so the dense plates read
+   as rich rather than exhausting. */
+.rest{text-align:center;padding:38px 0 4px;border-top:1px solid #3A342B}
+.rest p{max-width:none;margin:0 auto;font-size:19px;color:var(--t1-d);line-height:1.75}
+.rest p b{color:var(--gold)}
+/* CHECKABLES — a claim is only as good as the thing a reader can open. These
+   point at PRIMARY records (registry bytes, witness entries, OAI, ORCID, the
+   derivation source), never at aggregation surfaces: the archive's own sourcing
+   rule holds that AI overviews are leads, never citations, and a trust product
+   cannot outsource its corroboration to a layer that already erased it once. */
+.checks{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:16px;
+  font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase}
+.checks a{display:inline-flex;align-items:center;gap:6px;color:var(--verdigris);
+  text-decoration:none;border-bottom:1px solid var(--umber-pale);padding-bottom:2px}
+.depth .checks a,.membrane .checks a{color:var(--verdigris-lt);border-color:#3A342B}
+.checks a:hover{color:var(--crimson);border-color:var(--crimson)}
+.depth .checks a:hover,.membrane .checks a:hover{color:#E39A86;border-color:#E39A86}
+.checks svg{width:11px;height:11px;flex:0 0 11px;stroke:currentColor;fill:none;stroke-width:1.5}
+/* OBSERVATION — the composition layer is not our witness; it is our subject. */
+.observ{border:1px solid #3A342B;border-left:3px solid var(--gold);background:#171410;padding:20px 22px;margin-top:6px}
+.observ .fig{font-family:var(--mono);font-size:30px;color:var(--gold);line-height:1;font-weight:600}
+.observ .figl{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--t2-d);margin-top:6px}
+.observ .split{display:grid;gap:20px;margin-bottom:14px}
+@media(min-width:640px){.observ .split{grid-template-columns:1fr 1fr;gap:26px}}
+.mk{text-align:center;font-family:var(--mono);font-size:15px;color:var(--gold);letter-spacing:.2em;padding:34px 0 8px}
+footer{text-align:center;font-family:var(--mono);font-size:9.5px;letter-spacing:.09em;color:var(--t2-d);padding-bottom:30px;line-height:2}
+footer a{color:var(--ash-d)}
+
+/* ── TRIM PASS (2026-08-06): prose replaced by structure where structure says it
+   better. Guarantees became a list of cuts, distinctions became two-column
+   incisions, and two plates moved to their own pages behind numeric teasers. ── */
+.grants{list-style:none;margin:0;padding:0}
+.grants li{position:relative;padding:7px 0 7px 22px;border-bottom:1px solid var(--umber-pale);
+  font-size:16px;color:var(--slate);max-width:56ch}
+.grants li:last-child{border-bottom:0}
+.grants li::before{content:"·";position:absolute;left:6px;top:6px;color:var(--crimson);font-weight:700;font-size:19px}
+.grants li b{color:var(--ink)}
+/* distinctions: proves / not — the cut made visible */
+.ob p .pv,.ob p .nv{display:inline-block;font-family:var(--mono);font-size:9px;letter-spacing:.14em;
+  text-transform:uppercase;width:44px;margin-right:9px}
+.ob p .pv{color:var(--verdigris-lt)}
+.ob p .nv{color:var(--crimson-lt)}
+.ob p{line-height:1.9}
+/* further: two plates held elsewhere, entered by their number */
+.further{display:grid;gap:1px;background:#3A342B;border:1px solid #3A342B}
+@media(min-width:620px){.further{grid-template-columns:1fr 1fr}}
+.fcard{background:var(--soot);padding:22px 20px 20px;text-decoration:none;display:block}
+.fcard:hover{background:#1B1814}
+.fcard .fig{display:block;font-family:var(--mono);font-size:27px;font-weight:600;color:var(--gold);line-height:1}
+.fcard .fl{display:block;font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--t2-d);margin-top:7px}
+.fcard .ft{display:block;font-family:var(--serif);font-size:17px;color:var(--t1-d);margin-top:13px}
+.fcard:hover .ft{color:var(--verdigris-lt)}
+
+/* ── PLATE FIGURE — the slot Material Symbol illustrations drop into.
+   One per plate. The illustration is the plate's argument in form; the caption
+   is its interpretive tier and must carry the meaning if the image never loads.
+   Works on either ground. Never a bare image: an uncaptioned plate is a
+   decoration, and this aesthetic has no decorations. ── */
+.plate-fig{margin:22px 0 6px;border:1px solid var(--umber-pale);background:none;padding:14px 4px}
+.depth .plate-fig,.membrane .plate-fig{border-color:#3A342B;background:#171410}
+.plate-fig img,.plate-fig svg{display:block;width:100%;height:auto}
+.plate-fig figcaption{margin-top:11px;padding-top:9px;border-top:1px solid var(--umber-pale);
+  font-family:var(--mono);font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--t2)}
+.depth .plate-fig figcaption,.membrane .plate-fig figcaption{border-color:#3A342B;color:var(--t2-d)}
+.plate-fig figcaption b{color:var(--t1);text-transform:none;font-size:13.5px;letter-spacing:0;
+  display:block;margin-bottom:5px;font-family:var(--serif);font-weight:700}
+.depth .plate-fig figcaption b,.membrane .plate-fig figcaption b{color:var(--t1-d)}
+
+/* the symbolon at rest reads as a comparison, before any interaction */
+.restnote{margin-top:9px;font-family:var(--mono);font-size:9px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--t3-d)}
+.verdict b{color:var(--verdigris-lt);letter-spacing:.2em}
+
+/* the field is a topology: not every node carries equal weight */
+.node.major{background:#191510}
+.node.major .nm{font-size:14px}
+@media(max-width:620px){.ob p{font-size:14.2px}.ob h4{font-size:11px}}
+
+
+/* ── SITE NETWORK — the compressed knowledge ecosystem, restored to the main
+   page. Its job is to show a whole field at a glance, in one screen, without
+   asking the reader to travel. That is why it belongs here and not on a tab. ── */
+.eco{border-top:1px solid var(--umber-pale)}
+.depth .eco{border-color:#3A342B}
+.ecorow{display:grid;grid-template-columns:118px minmax(0,1fr);gap:3px 14px;align-items:baseline;
+  padding:10px 2px;border-bottom:1px solid var(--umber-pale);text-decoration:none;color:inherit}
+.depth .ecorow{border-color:#3A342B}
+.ecorow:hover{background:rgba(168,146,92,.08)}
+.ecorow .layer{font-family:var(--mono);font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--umber)}
+.ecorow .name{font-family:var(--mono);font-size:12.5px;font-weight:600;color:var(--t1)}
+.depth .ecorow .name{color:var(--t1-d)}
+.ecorow .what{grid-column:2;font-size:14px;color:var(--t2);line-height:1.45}
+.depth .ecorow .what{color:var(--t2-d)}
+.ecorow .host{grid-column:2;font-family:var(--mono);font-size:9px;color:var(--umber);letter-spacing:.04em}
+.ecorow.here .layer::before{content:"● ";color:var(--crimson-lt)}
+.ecofoot{margin-top:14px;font-family:var(--mono);font-size:9.5px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--umber);text-align:center}
+
+/* ── SURFACE VARIANTS (2026-08-06) — the descent belongs to the MAIN page only.
+   Subpages are single plates on paper: cream ground, no membrane, no depth.
+   These components were tuned for soot; on vellum they need their own values or
+   they render dark-on-dark. Scoping the dark values under .depth/.membrane and
+   giving the surface real defaults is the fix — not a filter. ── */
+.surface .observ{background:var(--vellum-hi);border-color:var(--umber-pale);border-left-color:var(--gold)}
+.surface .observ .fig{color:var(--umber-dim)}
+.surface .observ .figl{color:var(--t2)}
+.surface .observ p{color:var(--t2)}
+.surface .observ p b{color:var(--t1)}
+.surface .ob{border-bottom-color:var(--umber-pale)}
+.surface .ob h4{color:var(--t1)}
+.surface .ob p{color:var(--t2)}
+.surface .ob .mark{color:var(--crimson)}
+.surface .symb .half{background:var(--vellum-hi);border-color:var(--umber-pale);color:var(--t2)}
+.surface .symb .half b{color:var(--t1)}
+.surface .symb .half .k{color:var(--umber-dim)}
+.surface .checks a{color:var(--verdigris);border-bottom-color:var(--umber-pale)}
+.surface .aperture{background:var(--vellum-hi);border-color:var(--ultramarine);color:var(--ultramarine)}
+.surface .orbit{background:var(--vellum-hi)}
+.surface .orbit .in{border-color:var(--umber-pale)}
+.surface .restnote{color:var(--t3)}
+.surface .plate-state,.surface .plate-sub{color:var(--t2)}
+/* a subpage's onward links, in the interpretive tier */
+.onward{margin-top:26px;padding-top:14px;border-top:1px solid var(--umber-pale);
+  font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase}
+.onward a{color:var(--verdigris);text-decoration:none;margin-right:20px;border-bottom:1px solid var(--umber-pale)}
+.onward a:hover{color:var(--crimson);border-color:var(--crimson)}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   THE CONTINUOUS DESCENT (2026-08-06) — supersedes the three discrete zones.
+
+   The problem: a plate with a FIXED colour sitting on a MOVING ground must
+   produce a visible edge wherever the two diverge. Compressing the gradient to
+   avoid that made the fade abrupt; lengthening it put text on mid-tones.
+
+   The resolution inverts the relationship. THE PLATES STAY LIT PAPER; THE
+   GROUND DESCENDS AROUND THEM. The gradient now runs the full page in one
+   uninterrupted movement — no zone boundaries, nothing to cross — and every
+   plate is a near-opaque warm sheet floating on it. Because the plate carries
+   its own light, text is ink everywhere and never has to change tier mid-scroll.
+   The fade can therefore be as gradual as it likes: it never passes under a word.
+
+   Doctrinally this is the aesthetic's own rule rather than a workaround —
+   light is intelligibility, and the work illuminates the institution.
+   ═══════════════════════════════════════════════════════════════════════════ */
+body{
+  background:linear-gradient(180deg,
+    var(--vellum) 0%, #EAE3D0 14%, #D8CEB6 30%, #A99C81 48%,
+    #6E6352 62%, #40392F 76%, #262119 88%, var(--soot) 100%) no-repeat;
+  background-size:100% 100%;
+  background-attachment:local;
+}
+.zone,.zone.surface,.zone.membrane,.zone.depth{background:none;padding-top:0}
+.zone::before{background:rgba(120,104,70,.34)}   /* one thread, one value, all the way down */
+
+/* PLATES — lit sheets, not painted rectangles. The border is a soft rgba
+   hairline and the shadow does the separating, so nothing reads as a ruled box
+   cut into the ground. */
+.plate,.depth .plate,.membrane .plate{
+  background:rgba(250,246,236,.955);
+  border:1px solid rgba(120,104,70,.26);
+  box-shadow:0 3px 22px rgba(24,20,15,.16), 0 1px 3px rgba(24,20,15,.10);
+}
+/* one text tier inside every plate, on every part of the descent */
+.plate,.plate p,.depth .plate p,.membrane .plate p{color:var(--t2)}
+.plate p b,.depth .plate p b,.membrane .plate p b,
+.plate .overview,.depth .plate .overview,.membrane .plate .overview{color:var(--t1)}
+.plate .plate-title,.depth .plate .plate-title,.membrane .plate .plate-title{color:var(--t1)}
+.plate .plate-sub,.plate .plate-state,
+.depth .plate .plate-sub,.depth .plate .plate-state,
+.membrane .plate .plate-sub,.membrane .plate .plate-state{color:var(--t2);border-color:var(--umber-pale)}
+.plate .plate-no,.depth .plate .plate-no{color:var(--crimson)}
+.plate .opstage h3,.depth .plate .opstage h3,.membrane .plate .opstage h3{color:var(--t1)}
+.plate .ob{border-bottom-color:var(--umber-pale)}
+.plate .ob h4{color:var(--t1)}
+.plate .ob p{color:var(--t2)}
+.plate .ecorow{border-bottom-color:var(--umber-pale)}
+.plate .ecorow .name{color:var(--t1)}
+.plate .ecorow .what{color:var(--t2)}
+.plate .checks a{color:var(--verdigris);border-bottom-color:var(--umber-pale)}
+.plate mark.hl{background:rgba(51,80,122,.13);color:#24466F}
+.plate mark.gd{background:rgba(184,150,74,.16);color:#7A6220}
+.plate .observ{background:rgba(245,241,228,.9);border-color:var(--umber-pale);border-left-color:var(--gold)}
+.plate .observ .fig{color:var(--umber-dim)}
+.plate .observ .figl,.plate .observ p{color:var(--t2)}
+.plate .symb .half{background:var(--vellum-hi);border-color:var(--umber-pale);color:var(--t2)}
+.plate .symb .half b{color:var(--t1)}
+.plate .symb .half .k{color:var(--umber-dim)}
+.plate .aperture{background:var(--vellum-hi);border-color:var(--ultramarine);color:var(--ultramarine)}
+.plate .orbit{background:var(--vellum-hi)}
+.plate .orbit .in{border-color:var(--umber-pale)}
+.plate .folio{background:none;border-top-color:var(--gold);padding-left:0;padding-right:0;max-width:none}
+.plate .restnote{color:var(--t3)}
+
+/* things OUTSIDE plates ride the ground and must read against its dark foot */
+.mk{color:var(--gold)}
+footer{color:#8E877A}
+footer a{color:#A79E8D}
+.sepmark{color:rgba(184,150,74,.62);font-size:15px;line-height:1}
+
+/* subpages do not descend: they are one plate on paper, held flat. An explicit
+   class rather than :has(), because page structure should not depend on a
+   selector feature — if it failed the page would render dark-on-dark. */
+body.flat{background:var(--vellum)}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PLATES JOIN THE DESCENT (2026-08-06, superseding "plates stay lit")
+
+   Each plate's ground tracks the page gradient at its own position, and its
+   text contrast inverts precisely in reverse: as the sheet darkens, ink gives
+   way to bone. Four steps, each measured — primary 8.6:1 to 15.1:1, secondary
+   6.0:1 to 8.2:1, muted at or above AA. The crossover between steps 2 and 3 is
+   where the text flips, and both sides of it are verified rather than judged.
+
+   Plate-to-ground separation is deliberately slight (~1.2:1): the plate is a
+   sheet lying on the descent, not a box cut into it. The hairline and the
+   shadow do the separating, so nothing reads as a ruled edge.
+   ═══════════════════════════════════════════════════════════════════════════ */
+/* Panel separation raised (was ~1.2:1 against the ground at every step, which
+   read as a tint rather than a sheet) and the gold made a PER-STEP value: at
+   1.88:1 on the old step-2 tan the numerals were effectively invisible. Gold
+   inverts like the text — dark ochre on lit plates, bright gold on dark ones.
+   Measured: separation 1.22–1.58:1; primary 10.7–16.5; secondary 7.6–9.0;
+   muted 5.1–6.2; gold 4.3–9.0. */
+.plate.d1{--pbg:#FAF6EA;--pt1:#1A1714;--pt2:#4A443B;--pt3:#6E6659;--pgold:#7A5A18;--pbd:rgba(120,104,70,.30);--prule:rgba(120,104,70,.24)}
+.plate.d2{--pbg:#DCD3BA;--pt1:#241F1A;--pt2:#3F3930;--pt3:#4E463A;--pgold:#7A5A18;--pbd:rgba(80,68,44,.38);--prule:rgba(80,68,44,.28)}
+.plate.d3{--pbg:#3B342A;--pt1:#F4EFE3;--pt2:#D6CFC0;--pt3:#BEB6A6;--pgold:#D4B24A;--pbd:rgba(232,222,198,.26);--prule:rgba(232,222,198,.20)}
+.plate.d4{--pbg:#17140F;--pt1:#F2EDE0;--pt2:#BDB5A6;--pt3:#8E8778;--pgold:#D4B24A;--pbd:rgba(232,222,198,.20);--prule:rgba(232,222,198,.15)}
+
+.plate.d1,.plate.d2,.plate.d3,.plate.d4,
+.depth .plate.d1,.depth .plate.d2,.depth .plate.d3,.depth .plate.d4,
+.membrane .plate.d1,.membrane .plate.d2,.membrane .plate.d3,.membrane .plate.d4{
+  background:var(--pbg);border-color:var(--pbd);
+  box-shadow:0 3px 20px rgba(16,13,9,.14), 0 1px 3px rgba(16,13,9,.10);
+}
+/* every text tier inside a stepped plate derives from that step — one rule,
+   no per-zone overrides, so a plate can never inherit a colour meant for
+   another ground (the bone-on-bone and charcoal-on-soot failures both came
+   from exactly that). */
+.plate[class*="d"] p,.plate[class*="d"] .ecorow .what,.plate[class*="d"] .ob p,
+.plate[class*="d"] .opstage p,.plate[class*="d"] .observ p,.plate[class*="d"] .observ .figl{color:var(--pt2)}
+.plate[class*="d"] .overview,.plate[class*="d"] p b,.plate[class*="d"] .plate-title,
+.plate[class*="d"] .opstage h3,.plate[class*="d"] .ob h4,.plate[class*="d"] .ecorow .name,
+.plate[class*="d"] figcaption b{color:var(--pt1)}
+.plate[class*="d"] .plate-sub,.plate[class*="d"] .plate-state,
+.plate[class*="d"] .restnote,.plate[class*="d"] figcaption{color:var(--pt3)}
+.plate[class*="d"] .plate-sub,.plate[class*="d"] .ob,.plate[class*="d"] .ecorow,
+.plate[class*="d"] .eco,.plate[class*="d"] h2{border-color:var(--prule)}
+.plate[class*="d"] figure.ev img,.plate[class*="d"] .orbit .in{border-color:var(--prule)}
+/* accents hold their meaning at every depth */
+.plate.d3 .plate-no,.plate.d4 .plate-no,.plate.d3 .ob .mark,.plate.d4 .ob .mark{color:var(--crimson-lt)}
+/* gold-bearing marks follow their plate's step rather than one fixed value */
+.plate[class*="d"] .opstage .rn,.plate[class*="d"] .ecorow .layer,
+.plate[class*="d"] .ecofoot,.plate[class*="d"] .observ .fig,
+.plate[class*="d"] .folio .date{color:var(--pgold)}
+.plate[class*="d"] .opstage .rn{font-weight:700}
+.plate.d3 .checks a,.plate.d4 .checks a,.plate.d3 .vlinks a,.plate.d4 .vlinks a{color:var(--verdigris-lt)}
+.plate.d3 mark.hl,.plate.d4 mark.hl{background:rgba(96,142,201,.22);color:#B7CFEC}
+.plate.d3 .aperture,.plate.d4 .aperture{background:rgba(0,0,0,.22);border-color:#6E8FB8;color:#A9C6E8}
+.plate.d3 .orbit,.plate.d4 .orbit{background:rgba(0,0,0,.20)}
+.plate.d3 .observ,.plate.d4 .observ{background:rgba(0,0,0,.20);border-color:var(--prule)}
+.plate.d3 .observ .fig,.plate.d4 .observ .fig{color:var(--gold)}
+.plate.d3 .symb .half,.plate.d4 .symb .half{background:rgba(0,0,0,.22);border-color:var(--prule);color:var(--pt2)}
+.plate.d3 .symb .half b,.plate.d4 .symb .half b{color:var(--pt1)}
+/* no nested panel: the folio inherits its plate's own tier, at every depth */
+.plate[class*="d"] .folio{background:none}
+.plate[class*="d"] .folio p{color:var(--pt2)}
+.plate[class*="d"] .folio p b,.plate[class*="d"] .folio b{color:var(--pt1)}
+.plate[class*="d"] .folio .date{color:var(--pt3)}
+.plate[class*="d"] .folio .stamp{color:var(--pt3);border-color:var(--prule)}
+.plate[class*="d"] .grants li{color:var(--pt2);border-color:var(--prule)}
+.plate[class*="d"] .grants li b{color:var(--pt1)}
+.plate.d3 .grants li::before,.plate.d4 .grants li::before{color:var(--crimson-lt)}
+
+/* subpages are flat and hold step 1 throughout */
+body.flat .plate{--pbg:#F2ECDB;--pt1:#1A1714;--pt2:#4A443B;--pt3:#6E6659;
+  --pbd:rgba(120,104,70,.26);--prule:rgba(120,104,70,.22);
+  background:var(--pbg);border-color:var(--pbd)}
+
+/* one rail, every page — the current station marked by an obelus rather than a
+   pill or an underline, because this apparatus marks position with a mark */
+.rail .stations a.here{color:var(--crimson);font-weight:600}
+.rail .stations a.here::before{content:"† ";color:var(--crimson)}
+
+/* THE ADDED MARGIN — the band is not an overlay on the hand; it is a margin
+   added beneath it, which is the actual stamp geometry (strip_pt 26, last page
+   mediabox extended). Rendering it as real text rather than baked pixels keeps
+   it selectable, scalable and correctable — and lets it carry the six glyphs,
+   which the PDF text layer cannot render. */
+.marginband{background:#FBF8F1;border-top:1px solid rgba(120,104,70,.42);padding:9px 12px;
+  display:flex;gap:11px;align-items:center;flex-wrap:wrap;font-family:var(--mono)}
+.marginband .bandmark{width:22px;height:22px;flex:0 0 22px}
+.marginband .bandglyphs{font-size:15px;letter-spacing:.04em;line-height:1}
+.marginband .bandtext{font-size:9px;color:#4A443B;letter-spacing:.03em;line-height:1.5}
+.marginband .bandtext b{color:#1A1714;font-weight:600}
+.plate[class*="d"] .marginband .bandtext{color:#4A443B}
+figure.ev .bandnote{display:block;margin-top:10px;font-size:13px;line-height:1.5;color:var(--pt3)}
+figure.ev .bandnote b{color:var(--pt2)}
+
+/* Plate II's figure carries the argument, so the three prose stages can recede */
+.plate-fig svg{width:100%;height:auto;display:block}
+.plate[class*="d"] .plate-fig{background:none;border-color:var(--prule)}
+.plate[class*="d"] .plate-fig figcaption{color:var(--pt3);border-color:var(--prule)}
+.plate[class*="d"] .plate-fig figcaption b{color:var(--pt1)}
+
+/* The symbolon is a PAIR — exactly two flex children. The rest-note had been a
+   third, so flex squeezed it into a narrow column beside the halves and it
+   overflowed. It belongs below the pair, which is also where it reads. */
+.symb{max-width:700px}
+.symb > .restnote{display:none}
+.plate .restnote{display:block;margin-top:9px}
+.symb .half{min-width:0;overflow-wrap:anywhere}
+@media(max-width:620px){
+  .symb{flex-direction:column}
+  .symb .half.l{text-align:left;border-right:1px solid var(--prule);border-bottom:0}
+  .symb .half.r{border-left:1px solid var(--prule)}
+  .symb .edge{width:100%;height:14px}
+  /* stacked, the fracture is horizontal — the seam still runs between them */
+  .symb.met .half.l{transform:translateY(-5px)}
+  .symb.met .half.r{transform:translateY(5px)}
+}
+
+/* NUMBERED STEPS — adopted from the alexanarch stamper, whose sequence was
+   plainly clearer than a wall of plates. Same structure, MSA dress: serif
+   heading, mono numeral, crimson rule. The instrument should read as a
+   procedure, because that is what it is. */
+.step{display:flex;align-items:baseline;gap:12px;margin:26px 0 12px;
+  padding-bottom:7px;border-bottom:1px solid var(--prule,rgba(120,104,70,.24))}
+.step .stepno{font-family:var(--mono);font-size:11px;font-weight:700;color:var(--crimson);
+  letter-spacing:.1em;flex:0 0 auto}
+.step .steph{font-family:var(--serif);font-size:17px;font-weight:700;color:var(--pt1,var(--t1))}
+.step .steph em{font-style:normal;font-family:var(--mono);font-size:10px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--pt3,var(--t3))}
+.specnote{font-size:14px;line-height:1.55;color:var(--pt2,var(--t2));
+  border-left:2px solid var(--gold);padding-left:14px;margin:16px 0 4px}
+.specnote b{color:var(--pt1,var(--t1))}
+
+/* The state label sits right of the title on a wide row — but margin-left:auto
+   inside a wrapping flex container shoves it fully right the moment it wraps,
+   producing a label floating alone above a left-aligned subtitle. When it wraps,
+   it should align with everything else. */
+@media(max-width:700px){
+  .plate-head{gap:6px 12px}
+  .plate-state{margin-left:0;width:100%;order:3}
+  .plate-title{width:100%;order:2}
+  .plate-no{order:1}
+}
+
+/* ── THE NUMERALS, per Enli Lucente's reading (2026-08-07) ──
+   "What do you think about making that gold text a little bolder? Or perhaps
+   adding a very subtle outline? I think it might make those details easier to
+   notice without changing the feel of the design."
+
+   She was describing a measured failure, not a preference: on subpage cream the
+   numerals were falling back to base gold at 2.48:1, below AA for any text. Two
+   corrections, both hers. The tier value raises them to 5.6:1, and a thin darker
+   halo sharpens the stroke edges — an outline that defines the letterform
+   without lightening or altering the gold itself, which is the "without changing
+   the feel" she asked for. */
+.opstage .rn{
+  color:var(--pgold,#7A5A18);
+  font-weight:700;
+  letter-spacing:.02em;
+  text-shadow:0 0 1.5px rgba(74,54,16,.42), 0 0 .5px rgba(74,54,16,.55);
+}
+.plate.d3 .opstage .rn,.plate.d4 .opstage .rn{
+  text-shadow:0 0 2px rgba(20,16,10,.6), 0 0 .5px rgba(20,16,10,.7);
+}
+/* the same reading applies wherever gold carries meaning at small size */
+.ecorow .layer,.ecofoot{font-weight:600}
+/* the byte-family reading line was in the muted tier and italic at once —
+   two reductions stacked on the one line that explains the colours */
+.orbit .reading{color:var(--pt2,var(--t2));font-size:14px}
