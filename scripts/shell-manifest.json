@@ -68,7 +68,11 @@
   {
    "path": "pearl/index.html",
    "depth": 1
+  },
+  {
+   "path": "who/index.html",
+   "depth": 1
   }
  ],
- "asset_version": "20260818c"
+ "asset_version": "20260818d"
 }
