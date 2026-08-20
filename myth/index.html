@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Myth — Lee Sharks</title>
 <link rel="canonical" href="https://www.leesharks.com/myth/">
 <link rel="icon" href="/favicon.ico">
-<link rel="stylesheet" href="/assets/gallery-type.css?v=v20260820aj">
+<link rel="stylesheet" href="/assets/gallery-type.css?v=v20260820ak">
 <style>body{font-family:'Pagella','Palatino Linotype',Palatino,Georgia,serif;color:#2b1d05;max-width:680px;margin:0 auto;padding:2em 1.2em 4em}
 h1{font-variant:small-caps;font-weight:normal;letter-spacing:.24em;text-align:center}
 p.lede{color:#33240b;text-align:center}
@@ -39,10 +39,84 @@ body[data-depth="1"]::before{
 }
 body[data-depth="1"]>*{position:relative;z-index:1}
 body[data-depth="1"] .shell-foot,body[data-depth="1"] .ember{z-index:2}
+
+.kgwrap{margin:1em 0 2em}
+#kg{width:100%;height:auto;background:rgba(255,250,236,.55);border:1px solid #8a6a12;
+ box-shadow:2px 3px 9px rgba(60,40,12,.18)}
+.kgn{cursor:default}
+.kgn:hover circle{stroke-width:2.2}
+.kglegend{display:flex;flex-wrap:wrap;gap:.5em .9em;justify-content:center;margin:0 0 .7em;
+ font-family:var(--mono);font-size:.58rem;letter-spacing:.09em;text-transform:uppercase;color:#4a3612}
+.kglegend span::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;
+ margin-right:.35em;vertical-align:-1px;border:1px solid #2b1d05}
+.kglegend span[data-g=disc]::before{background:#6b4c0c}.kglegend span[data-g=fw]::before{background:#8a6a12}
+.kglegend span[data-g=th]::before{background:#5a3a6b}.kglegend span[data-g=inst]::before{background:#2f5a4a}
+.kglegend span[data-g=het]::before{background:#b08c2e}.kglegend span[data-g=asm]::before{background:#3a5a7a}
+.kglegend span[data-g=jn]::before{background:#7a3a2a}.kglegend span[data-g=not]::before{background:#8a8a8a}
+.kgnote{font-size:.8rem;color:#3f2f14;text-align:center;margin:.7em auto 0;max-width:34em;line-height:1.6}
+.lede2{color:#3f2f14;font-style:italic;max-width:35em;margin:.5em auto 1.4em;text-align:center;line-height:1.65}
 </style>
 </head><body data-depth="1">
-<!-- SHELL:HEAD --><script defer src="/assets/shell.js?v=v20260820aj"></script><div class="shell-plaque">CRIMSON HEXAGONAL ARCHIVE · ORTHONYM WING · <a href="https://www.alexanarch.org/s/records/645/">AXN:01F8.GOVERNANCE.🏗️🤲🧭🖊️👁️□ · deposit #645</a></div><nav class="shell-nav"><a href="/">GALLERY</a> <a href="/work/">WORK</a> <a href="/myth/" aria-current="page">MYTH</a> <a href="/acts/">ACTS</a> <a href="/prize/">PRIZE</a> <a href="/captures/">CAPTURES</a> <a href="/apparatus/">APPARATUS</a> <a href="/who/">THE CARD</a></nav><!-- /SHELL:HEAD --><h1>Myth</h1><p class="lede">The author, in three chapters — and the mantles he bears.</p>
-<div class="hero"><img src="/assets/gallery/wing-myth-column.jpg" alt=""><div class="cap">THE COLUMN AND THE FACES · BY THE AUTHOR</div></div>
+<!-- SHELL:HEAD --><script defer src="/assets/shell.js?v=v20260820ak"></script><div class="shell-plaque">CRIMSON HEXAGONAL ARCHIVE · ORTHONYM WING · <a href="https://www.alexanarch.org/s/records/645/">AXN:01F8.GOVERNANCE.🏗️🤲🧭🖊️👁️□ · deposit #645</a></div><nav class="shell-nav"><a href="/">GALLERY</a> <a href="/work/">WORK</a> <a href="/myth/" aria-current="page">MYTH</a> <a href="/acts/">ACTS</a> <a href="/prize/">PRIZE</a> <a href="/captures/">CAPTURES</a> <a href="/apparatus/">APPARATUS</a> <a href="/who/">THE CARD</a></nav><!-- /SHELL:HEAD --><h1>Myth</h1><p class="lede">The author, in three chapters — and the mantles he bears.</p>
+<div class="hero"><img src="/assets/gallery/wing-myth-column.jpg" alt=""><div class="cap">THE COLUMN AND THE FACES · BY THE AUTHOR</div>
+<h2>The Entity Map</h2>
+<p class="lede2">EA-KG-01 &mdash; the root entity map, drawn. Disciplines founded, frameworks and instruments, theses, the institution lattice, the Dodecad, the Assembly and the journals. Drag a node; hover for its family. Anchored at <a href="https://www.alexanarch.org/s/records/645/">#645</a>.</p>
+<div class="kgwrap">
+ <div class="kglegend">
+  <span data-g="disc">discipline</span><span data-g="fw">framework</span><span data-g="th">thesis</span>
+  <span data-g="inst">institution</span><span data-g="het">heteronym</span><span data-g="asm">assembly</span>
+  <span data-g="jn">journal</span><span data-g="not">not this Lee</span>
+ </div>
+ <svg id="kg" viewBox="0 0 900 700" role="img" aria-label="Lee Sharks entity map"></svg>
+ <p class="kgnote">Two nodes stand apart and unconnected: <b>Lee Sharkey</b> (mechanistic interpretability) and <b>Lei Yang</b> (marine biology). The disambiguation is part of the map.</p>
+</div>
+<script>
+(function(){
+ var C={root:'#8a1c1c',disc:'#6b4c0c',fw:'#8a6a12',th:'#5a3a6b',inst:'#2f5a4a',het:'#b08c2e',asm:'#3a5a7a',jn:'#7a3a2a',not:'#8a8a8a'};
+ fetch('/assets/works/sharksgraph.json').then(function(r){return r.json()}).then(function(d){
+  var svg=document.getElementById('kg'),W=900,H=700,NS='http://www.w3.org/2000/svg';
+  var byId={};d.nodes.forEach(function(n,i){
+   var a=(i/d.nodes.length)*Math.PI*2, rad=n.g==='root'?0:(n.g==='not'?330:120+((i*37)%180));
+   n.x=W/2+Math.cos(a)*rad+(n.g==='not'?(n.id==='Lee Sharkey'?-300:300):0);
+   n.y=H/2+Math.sin(a)*rad*0.78+(n.g==='not'?(n.id==='Lee Sharkey'?-230:250):0);
+   n.vx=0;n.vy=0;byId[n.id]=n;});
+  var L=d.links.filter(function(l){return byId[l.s]&&byId[l.t]});
+  for(var it=0;it<420;it++){
+   d.nodes.forEach(function(a){d.nodes.forEach(function(b){if(a===b)return;
+    var dx=a.x-b.x,dy=a.y-b.y,ds=Math.max(28,Math.hypot(dx,dy)),f=1900/(ds*ds);
+    a.vx+=dx/ds*f;a.vy+=dy/ds*f;});});
+   L.forEach(function(l){var a=byId[l.s],b=byId[l.t],dx=b.x-a.x,dy=b.y-a.y,ds=Math.hypot(dx,dy)||1,f=(ds-118)*0.012;
+    a.vx+=dx/ds*f;a.vy+=dy/ds*f;b.vx-=dx/ds*f;b.vy-=dy/ds*f;});
+   d.nodes.forEach(function(n){
+    if(n.g==='root'){n.x=W/2;n.y=H/2;n.vx=0;n.vy=0;return;}
+    n.vx+=(W/2-n.x)*0.0016;n.vy+=(H/2-n.y)*0.0016;
+    n.x+=n.vx*0.55;n.y+=n.vy*0.55;n.vx*=0.72;n.vy*=0.72;
+    n.x=Math.max(58,Math.min(W-58,n.x));n.y=Math.max(30,Math.min(H-26,n.y));});
+  }
+  var frag=document.createDocumentFragment();
+  L.forEach(function(l){var a=byId[l.s],b=byId[l.t];
+   var e=document.createElementNS(NS,'line');
+   e.setAttribute('x1',a.x);e.setAttribute('y1',a.y);e.setAttribute('x2',b.x);e.setAttribute('y2',b.y);
+   e.setAttribute('stroke','#6b4c0c');e.setAttribute('stroke-width','0.7');e.setAttribute('stroke-opacity','.42');
+   frag.appendChild(e);});
+  d.nodes.forEach(function(n){
+   var g=document.createElementNS(NS,'g');g.setAttribute('class','kgn');g.setAttribute('data-g',n.g);
+   var c=document.createElementNS(NS,'circle');
+   c.setAttribute('cx',n.x);c.setAttribute('cy',n.y);c.setAttribute('r',n.r);
+   c.setAttribute('fill',C[n.g]||'#6b4c0c');c.setAttribute('stroke','#2b1d05');c.setAttribute('stroke-width','.9');
+   var t=document.createElementNS(NS,'text');
+   t.setAttribute('x',n.x+n.r+4);t.setAttribute('y',n.y+3.5);
+   t.setAttribute('font-size',n.g==='root'?'15':(n.r>13?'11':'9.5'));
+   t.setAttribute('fill','#241a06');t.setAttribute('stroke','none');
+   t.textContent=n.id;
+   g.appendChild(c);g.appendChild(t);
+   var ti=document.createElementNS(NS,'title');ti.textContent=n.id;g.appendChild(ti);
+   frag.appendChild(g);});
+  svg.appendChild(frag);
+ });
+})();
+</script>
+</div>
 <ul><li><a href="/about-the-author/">About the Author — I</a></li><li><a href="/about-the-author-ii/">About the Author — II</a></li><li><a href="/about-the-author-iii/">About the Author — III</a></li><li><a href="/about">About, briefly</a></li><li><a href="/10000-macarthurs/">10,000 MacArthurs</a></li></ul>
 <a class="back" href="/">&larr; THE GALLERY</a><!-- SHELL:FOOT --><div class="shell-foot"><div class="colophon-mini">∮ = 1 · <a href="/spxi-index.jsonld">spxi</a> · <a href="/llms.txt">llms.txt</a> · <a href="/axn-resolution.json">axn</a> · <a href="https://www.alexanarch.org/">alexanarch</a></div><div class="ember"></div></div><!-- /SHELL:FOOT -->
 </body></html>
