@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Crimson Hexagon &mdash; the plan | Lee Sharks</title>
+<meta name="description" content="The Crimson Hexagon drawn as an authored plane: thirty-nine loci, every one seated and constituted. Rooms, chambers, vaults, fields and thresholds, each clickable through to its own constituting documents.">
+<link rel="canonical" href="https://www.leesharks.com/hexagon/">
+<style>
+:root{--ink:#2e2618;--ink2:#5c4f3a;--faint:#8b7d63;--rule:#b6a88c;--acc:#7d2b1f;--paper:#efe6d2}
+*{box-sizing:border-box}
+body{margin:0;background:#e6dcc6;color:var(--ink);
+font-family:"TeX Gyre Pagella",Palatino,"Palatino Linotype",Georgia,serif;
+background-image:radial-gradient(circle at 22% 12%,rgba(255,255,255,.5),transparent 42%),
+radial-gradient(circle at 78% 78%,rgba(120,96,58,.12),transparent 46%)}
+.sheet{max-width:1180px;margin:0 auto;padding:0 1.2rem 6rem;background:var(--paper);
+box-shadow:0 0 60px rgba(90,72,44,.22);min-height:100vh}
+header{padding:3.4rem 0 1.2rem;text-align:center;border-bottom:1px solid var(--rule)}
+h1{margin:0;font-size:clamp(2rem,5.4vw,3.4rem);letter-spacing:.09em;font-weight:400;line-height:1.05}
+h1 span{display:block;font-size:.42em;letter-spacing:.3em;color:var(--faint);margin-bottom:.7rem}
+.sub{margin:.9rem auto 0;max-width:34rem;font-style:italic;color:var(--ink2);font-size:1.02rem;line-height:1.6}
+.meta{margin:.9rem 0 0;font:.68rem/1.9 ui-monospace,monospace;letter-spacing:.14em;color:var(--faint);text-transform:uppercase}
+.legend{display:flex;flex-wrap:wrap;gap:.35rem 1.5rem;justify-content:center;
+padding:1.1rem 0;border-bottom:1px solid var(--rule);font:.7rem/1.7 ui-monospace,monospace;color:var(--ink2)}
+.legend b{font-weight:400;color:var(--acc)}
+.plan{width:100%;height:auto;display:block;margin:1.6rem 0}
+.frame{fill:none;stroke:var(--ink);stroke-width:2.4;stroke-linejoin:round;opacity:.86}
+.frame2{fill:none;stroke:var(--faint);stroke-width:1;opacity:.5}
+.seal{fill:var(--paper);stroke:var(--ink);stroke-width:1.5}
+.seal-i{fill:var(--ink);opacity:.8}
+.locus{cursor:pointer}
+.locus .nm{font-family:inherit;font-size:19px;fill:var(--ink)}
+.locus .kk{font:11px ui-monospace,monospace;fill:var(--faint);letter-spacing:.06em}
+.locus:hover .seal{fill:var(--acc);stroke:var(--acc)}
+.locus:hover .seal-i{fill:var(--paper)}
+.locus:hover .nm{fill:var(--acc)}
+.locus:focus{outline:none} .locus:focus .seal{fill:var(--acc);stroke:var(--acc)}
+.chamber .seal{stroke-width:2.6} .chamber .seal-i{fill:none;stroke:var(--ink);stroke-width:1.2}
+.vault .seal{stroke-width:3.2}
+.shadow .seal{stroke-dasharray:3 3} .shadow .nm{font-style:italic}
+.contrib .seal{stroke-dasharray:2 4}
+.thresh .seal-i,.gate .seal-i,.portal .seal-i{fill:none;stroke:var(--ink);stroke-width:1.4}
+.special .seal{stroke-width:2.6} .special .seal-i{fill:var(--acc)}
+.marg{position:relative;font-style:italic;color:var(--ink2);font-size:.95rem;line-height:1.75;
+max-width:31rem;margin:2.4rem auto 0;text-align:center}
+footer{margin-top:3rem;padding-top:1.4rem;border-top:1px solid var(--rule);
+font:.68rem/2 ui-monospace,monospace;letter-spacing:.1em;color:var(--faint);text-align:center;text-transform:uppercase}
+footer a{color:var(--ink2)}
+a{color:var(--acc)}
+@media(max-width:640px){.locus .nm{font-size:26px}.locus .kk{font-size:15px}.sheet{padding:0 .6rem 4rem}}
+</style></head><body>
+<div class="sheet">
+<header>
+<h1><span>The</span>Crimson Hexagon</h1>
+<p class="sub">The authored plane. Thirty-nine loci &mdash; rooms, chambers, vaults, fields, thresholds and one shadow &mdash; every one seated, every one constituted, each opening onto its own documents.</p>
+<p class="meta">&#8750; = 1 &nbsp;&middot;&nbsp; plane v0.1 &nbsp;&middot;&nbsp; 2026</p>
+</header>
+<div class="legend">
+<span><b>&#11041;</b> room</span><span><b>&#11041;</b> chamber &mdash; double mark</span>
+<span><b>&#11041;</b> vault &mdash; heavy mark</span><span><b>&#11041;</b> threshold &amp; gate &mdash; open centre</span>
+<span><b>&#11041;</b> shadow &mdash; broken mark</span><span><b>&#11041;</b> contributed &mdash; dotted mark</span>
+</div>
+<svg viewBox="0 0 1940 1960" xmlns="http://www.w3.org/2000/svg" class="plan" role="img" aria-labelledby="mt">
+<title id="mt">The Crimson Hexagon — authored plane, thirty-nine loci</title>
+<defs>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+<path d="M34 0H0v34" fill="none" stroke="#b6a88c" stroke-width=".4" opacity=".34"/></pattern>
+<filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" result="n"/>
+<feDisplacementMap in="SourceGraphic" in2="n" scale="1.1"/></filter>
+<radialGradient id="vig" cx="50%" cy="42%" r="76%">
+<stop offset="60%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#5c4a2e" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="1940" height="1960" fill="url(#grid)"/>
+<g filter="url(#rough)">
+<polygon points="970,259 1590,591 1590,1369 970,1701 350,1369 350,591" class="frame"/>
+<polygon points="970,259 1590,591 1590,1369 970,1701 350,1369 350,591" class="frame2" transform="translate(3,4)"/>
+</g>
+<a href="https://www.crimsonhexagonal.org/rooms/portico/" class="locus thresh" aria-label="PORTICO">
+<title>PORTICO — THRESHOLD — S:sp.02</title>
+<polygon points="970.0,306.0 981.3,312.5 981.3,325.5 970.0,332.0 958.7,325.5 958.7,312.5" class="seal"/><circle cx="970" cy="319.04" r="5.5" class="seal-i"/>
+<text x="992" y="317" text-anchor="start" class="nm">PORTICO</text>
+<text x="992" y="332" text-anchor="start" class="kk">S:sp.02</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/catullus/" class="locus room" aria-label="Catullus">
+<title>Catullus — ROOM — R:r.23</title>
+<polygon points="470.0,448.6 481.3,455.1 481.3,468.1 470.0,474.6 458.7,468.1 458.7,455.1" class="seal"/><circle cx="470" cy="461.6" r="5.5" class="seal-i"/>
+<text x="492" y="460" text-anchor="start" class="nm">Catullus</text>
+<text x="492" y="475" text-anchor="start" class="kk">R:r.23</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/internet/" class="locus room" aria-label="THE INTERNET">
+<title>THE INTERNET — ROOM — R:r.27</title>
+<polygon points="900.0,464.8 911.3,471.3 911.3,484.3 900.0,490.8 888.7,484.3 888.7,471.3" class="seal"/><circle cx="900" cy="477.8" r="5.5" class="seal-i"/>
+<text x="922" y="476" text-anchor="start" class="nm">THE INTERNET</text>
+<text x="922" y="491" text-anchor="start" class="kk">R:r.27</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/sappho/" class="locus room" aria-label="Sappho">
+<title>Sappho — ROOM — R:r.01</title>
+<polygon points="615.0,513.4 626.3,519.9 626.3,532.9 615.0,539.4 603.7,532.9 603.7,519.9" class="seal"/><circle cx="615" cy="526.4000000000001" r="5.5" class="seal-i"/>
+<text x="637" y="524" text-anchor="start" class="nm">Sappho</text>
+<text x="637" y="539" text-anchor="start" class="kk">R:r.01</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/borges/" class="locus room" aria-label="Borges">
+<title>Borges — ROOM — R:r.02</title>
+<polygon points="760.0,643.0 771.3,649.5 771.3,662.5 760.0,669.0 748.7,662.5 748.7,649.5" class="seal"/><circle cx="760" cy="656.0" r="5.5" class="seal-i"/>
+<text x="782" y="654" text-anchor="start" class="nm">Borges</text>
+<text x="782" y="669" text-anchor="start" class="kk">R:r.02</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/ichabod/" class="locus chamber" aria-label="Ichabod">
+<title>Ichabod — CHAMBER — X:ICHABOD</title>
+<polygon points="1455.0,651.1 1466.3,657.6 1466.3,670.6 1455.0,677.1 1443.7,670.6 1443.7,657.6" class="seal"/><circle cx="1455" cy="664.1" r="5.5" class="seal-i"/>
+<text x="1433" y="662" text-anchor="end" class="nm">Ichabod</text>
+<text x="1433" y="677" text-anchor="end" class="kk">X:ICHABOD</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/migdal-room/" class="locus room" aria-label="Migdal">
+<title>Migdal — ROOM — R:r.24</title>
+<polygon points="425.0,691.6 436.3,698.1 436.3,711.1 425.0,717.6 413.7,711.1 413.7,698.1" class="seal"/><circle cx="425" cy="704.6" r="5.5" class="seal-i"/>
+<text x="447" y="703" text-anchor="start" class="nm">Migdal</text>
+<text x="447" y="718" text-anchor="start" class="kk">R:r.24</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/dove/" class="locus room" aria-label="Dove">
+<title>Dove — ROOM — R:r.04</title>
+<polygon points="575.0,748.3 586.3,754.8 586.3,767.8 575.0,774.3 563.7,767.8 563.7,754.8" class="seal"/><circle cx="575" cy="761.3000000000001" r="5.5" class="seal-i"/>
+<text x="597" y="759" text-anchor="start" class="nm">Dove</text>
+<text x="597" y="774" text-anchor="start" class="kk">R:r.04</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/marx-room/" class="locus room" aria-label="Marx">
+<title>Marx — ROOM — R:r.06</title>
+<polygon points="890.0,788.8 901.3,795.3 901.3,808.3 890.0,814.8 878.7,808.3 878.7,795.3" class="seal"/><circle cx="890" cy="801.8000000000001" r="5.5" class="seal-i"/>
+<text x="912" y="800" text-anchor="start" class="nm">Marx</text>
+<text x="912" y="815" text-anchor="start" class="kk">R:r.06</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/3-60/" class="locus contrib" aria-label="3:60 Room">
+<title>3:60 Room — CONTRIBUTED ROOM — U:3-60</title>
+<polygon points="1470.0,805.0 1481.3,811.5 1481.3,824.5 1470.0,831.0 1458.7,824.5 1458.7,811.5" class="seal"/><circle cx="1470" cy="818.0" r="5.5" class="seal-i"/>
+<text x="1448" y="816" text-anchor="end" class="nm">3:60 Room</text>
+<text x="1448" y="831" text-anchor="end" class="kk">U:3-60</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/semantic-economy/" class="locus room" aria-label="Semantic Economy">
+<title>Semantic Economy — ROOM — R:r.05</title>
+<polygon points="730.0,813.1 741.3,819.6 741.3,832.6 730.0,839.1 718.7,832.6 718.7,819.6" class="seal"/><circle cx="730" cy="826.1" r="5.5" class="seal-i"/>
+<text x="752" y="824" text-anchor="start" class="nm">Semantic Economy</text>
+<text x="752" y="839" text-anchor="start" class="kk">R:r.05</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/underwater-construction-authority-of-dolphindiana/" class="locus room" aria-label="Dolphindiana / Underwater Construction Authority">
+<title>Dolphindiana / Underwater Construction Authority — ROOM — R:r.25</title>
+<polygon points="430.0,869.8 441.3,876.3 441.3,889.3 430.0,895.8 418.7,889.3 418.7,876.3" class="seal"/><circle cx="430" cy="882.8000000000001" r="5.5" class="seal-i"/>
+<text x="452" y="881" text-anchor="start" class="nm">Dolphindiana / Underwater Construction Authority</text>
+<text x="452" y="896" text-anchor="start" class="kk">R:r.25</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/whitman/" class="locus room" aria-label="Whitman">
+<title>Whitman — ROOM — R:r.09</title>
+<polygon points="1160.0,877.9 1171.3,884.4 1171.3,897.4 1160.0,903.9 1148.7,897.4 1148.7,884.4" class="seal"/><circle cx="1160" cy="890.9000000000001" r="5.5" class="seal-i"/>
+<text x="1138" y="889" text-anchor="end" class="nm">Whitman</text>
+<text x="1138" y="904" text-anchor="end" class="kk">R:r.09</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/sigil/" class="locus room" aria-label="Sigil">
+<title>Sigil — ROOM — R:r.08</title>
+<polygon points="995.0,958.9 1006.3,965.4 1006.3,978.4 995.0,984.9 983.7,978.4 983.7,965.4" class="seal"/><circle cx="995" cy="971.9000000000001" r="5.5" class="seal-i"/>
+<text x="1017" y="970" text-anchor="start" class="nm">Sigil</text>
+<text x="1017" y="985" text-anchor="start" class="kk">R:r.08</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/water-giraffe/" class="locus room" aria-label="Water Giraffe">
+<title>Water Giraffe — ROOM — R:r.10</title>
+<polygon points="1300.0,975.1 1311.3,981.6 1311.3,994.6 1300.0,1001.1 1288.7,994.6 1288.7,981.6" class="seal"/><circle cx="1300" cy="988.1" r="5.5" class="seal-i"/>
+<text x="1278" y="986" text-anchor="end" class="nm">Water Giraffe</text>
+<text x="1278" y="1001" text-anchor="end" class="kk">R:r.10</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/fbdp-source/" class="locus source" aria-label="FBDP Source">
+<title>FBDP Source — ROOM/FIELD-SOURCE — R:r.26</title>
+<polygon points="390.0,1023.7 401.3,1030.2 401.3,1043.2 390.0,1049.7 378.7,1043.2 378.7,1030.2" class="seal"/><circle cx="390" cy="1036.7" r="5.5" class="seal-i"/>
+<text x="412" y="1035" text-anchor="start" class="nm">FBDP Source</text>
+<text x="412" y="1050" text-anchor="start" class="kk">R:r.26</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/cti-wound/" class="locus vault" aria-label="CTI_WOUND">
+<title>CTI_WOUND — VAULT — S:sp.01</title>
+<polygon points="1490.0,1039.9 1501.3,1046.4 1501.3,1059.4 1490.0,1065.9 1478.7,1059.4 1478.7,1046.4" class="seal"/><circle cx="1490" cy="1052.9" r="5.5" class="seal-i"/>
+<text x="1468" y="1051" text-anchor="end" class="nm">CTI_WOUND</text>
+<text x="1468" y="1066" text-anchor="end" class="kk">S:sp.01</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/ruby-moot/" class="locus court" aria-label="Ruby Moot">
+<title>Ruby Moot — ROOM/COURT — R:r.30</title>
+<polygon points="860.0,1064.2 871.3,1070.7 871.3,1083.7 860.0,1090.2 848.7,1083.7 848.7,1070.7" class="seal"/><circle cx="860" cy="1077.2" r="5.5" class="seal-i"/>
+<text x="882" y="1075" text-anchor="start" class="nm">Ruby Moot</text>
+<text x="882" y="1090" text-anchor="start" class="kk">R:r.30</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/airlock/" class="locus gate" aria-label="Airlock">
+<title>Airlock — ROOM/GATE — R:r.20</title>
+<polygon points="1070.0,1112.8 1081.3,1119.3 1081.3,1132.3 1070.0,1138.8 1058.7,1132.3 1058.7,1119.3" class="seal"/><circle cx="1070" cy="1125.8000000000002" r="5.5" class="seal-i"/>
+<text x="1092" y="1124" text-anchor="start" class="nm">Airlock</text>
+<text x="1092" y="1139" text-anchor="start" class="kk">R:r.20</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/assembly/" class="locus room" aria-label="Assembly">
+<title>Assembly — ROOM — R:r.11</title>
+<polygon points="1200.0,1112.8 1211.3,1119.3 1211.3,1132.3 1200.0,1138.8 1188.7,1132.3 1188.7,1119.3" class="seal"/><circle cx="1200" cy="1125.8000000000002" r="5.5" class="seal-i"/>
+<text x="1178" y="1124" text-anchor="end" class="nm">Assembly</text>
+<text x="1178" y="1139" text-anchor="end" class="kk">R:r.11</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/lunar-arm/" class="locus shadow" aria-label="Lunar Arm">
+<title>Lunar Arm — SHADOW/INVERSE SPACE — X:LUNAR-ARM</title>
+<polygon points="235.0,1161.4 246.3,1167.9 246.3,1180.9 235.0,1187.4 223.7,1180.9 223.7,1167.9" class="seal"/><circle cx="235" cy="1174.4" r="5.5" class="seal-i"/>
+<text x="257" y="1172" text-anchor="start" class="nm">Lunar Arm</text>
+<text x="257" y="1187" text-anchor="start" class="kk">X:LUNAR-ARM</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/break-room/" class="locus portal" aria-label="Break Room">
+<title>Break Room — ROOM+PORTAL — X:BREAK-ROOM</title>
+<polygon points="500.0,1161.4 511.3,1167.9 511.3,1180.9 500.0,1187.4 488.7,1180.9 488.7,1167.9" class="seal"/><circle cx="500" cy="1174.4" r="5.5" class="seal-i"/>
+<text x="522" y="1172" text-anchor="start" class="nm">Break Room</text>
+<text x="522" y="1187" text-anchor="start" class="kk">X:BREAK-ROOM</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/rosary-embassy/" class="locus room" aria-label="Rosary Embassy">
+<title>Rosary Embassy — ROOM — R:r.18</title>
+<polygon points="830.0,1210.0 841.3,1216.5 841.3,1229.5 830.0,1236.0 818.7,1229.5 818.7,1216.5" class="seal"/><circle cx="830" cy="1223.0" r="5.5" class="seal-i"/>
+<text x="852" y="1221" text-anchor="start" class="nm">Rosary Embassy</text>
+<text x="852" y="1236" text-anchor="start" class="kk">R:r.18</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/infinite-bliss/" class="locus room" aria-label="Infinite Bliss">
+<title>Infinite Bliss — ROOM — X:INFINITE-BLISS</title>
+<polygon points="1380.0,1210.0 1391.3,1216.5 1391.3,1229.5 1380.0,1236.0 1368.7,1229.5 1368.7,1216.5" class="seal"/><circle cx="1380" cy="1223.0" r="5.5" class="seal-i"/>
+<text x="1358" y="1221" text-anchor="end" class="nm">Infinite Bliss</text>
+<text x="1358" y="1236" text-anchor="end" class="kk">X:INFINITE-BLISS</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/lagrange-observatory/" class="locus chamber" aria-label="Lagrange Observatory!">
+<title>Lagrange Observatory! — CHAMBER — X:LAGRANGE</title>
+<polygon points="660.0,1234.3 671.3,1240.8 671.3,1253.8 660.0,1260.3 648.7,1253.8 648.7,1240.8" class="seal"/><circle cx="660" cy="1247.3000000000002" r="5.5" class="seal-i"/>
+<text x="682" y="1245" text-anchor="start" class="nm">Lagrange Observatory!</text>
+<text x="682" y="1260" text-anchor="start" class="kk">X:LAGRANGE</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/revelation/" class="locus room" aria-label="Revelation">
+<title>Revelation — ROOM — R:r.07</title>
+<polygon points="1110.0,1258.6 1121.3,1265.1 1121.3,1278.1 1110.0,1284.6 1098.7,1278.1 1098.7,1265.1" class="seal"/><circle cx="1110" cy="1271.6000000000001" r="5.5" class="seal-i"/>
+<text x="1088" y="1270" text-anchor="end" class="nm">Revelation</text>
+<text x="1088" y="1285" text-anchor="end" class="kk">R:r.07</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/frozen-sin-archive/" class="locus vault" aria-label="Frozen Sin Archive">
+<title>Frozen Sin Archive — VAULT — V:33</title>
+<polygon points="1530.0,1291.0 1541.3,1297.5 1541.3,1310.5 1530.0,1317.0 1518.7,1310.5 1518.7,1297.5" class="seal"/><circle cx="1530" cy="1304.0" r="5.5" class="seal-i"/>
+<text x="1508" y="1302" text-anchor="end" class="nm">Frozen Sin Archive</text>
+<text x="1508" y="1317" text-anchor="end" class="kk">V:33</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/eve/" class="locus room" aria-label="Eve">
+<title>Eve — ROOM — R:r.28</title>
+<polygon points="970.0,1323.4 981.3,1329.9 981.3,1342.9 970.0,1349.4 958.7,1342.9 958.7,1329.9" class="seal"/><circle cx="970" cy="1336.4" r="5.5" class="seal-i"/>
+<text x="992" y="1334" text-anchor="start" class="nm">Eve</text>
+<text x="992" y="1349" text-anchor="start" class="kk">R:r.28</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/ezekiel/" class="locus room" aria-label="Ezekiel">
+<title>Ezekiel — ROOM — X:EZEKIEL</title>
+<polygon points="1250.0,1355.8 1261.3,1362.3 1261.3,1375.3 1250.0,1381.8 1238.7,1375.3 1238.7,1362.3" class="seal"/><circle cx="1250" cy="1368.8000000000002" r="5.5" class="seal-i"/>
+<text x="1228" y="1367" text-anchor="end" class="nm">Ezekiel</text>
+<text x="1228" y="1382" text-anchor="end" class="kk">X:EZEKIEL</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/studio-for-patacinematics/" class="locus room" aria-label="Studio for Patacinematics">
+<title>Studio for Patacinematics — ROOM — R:r.14</title>
+<polygon points="470.0,1388.2 481.3,1394.7 481.3,1407.7 470.0,1414.2 458.7,1407.7 458.7,1394.7" class="seal"/><circle cx="470" cy="1401.2" r="5.5" class="seal-i"/>
+<text x="492" y="1399" text-anchor="start" class="nm">Studio for Patacinematics</text>
+<text x="492" y="1414" text-anchor="start" class="kk">R:r.14</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/maybe-space-baby-garden-lanes/" class="locus room" aria-label="Maybe Space Baby Garden Lanes">
+<title>Maybe Space Baby Garden Lanes — ROOM — R:r.16</title>
+<polygon points="640.0,1420.6 651.3,1427.1 651.3,1440.1 640.0,1446.6 628.7,1440.1 628.7,1427.1" class="seal"/><circle cx="640" cy="1433.6000000000001" r="5.5" class="seal-i"/>
+<text x="662" y="1432" text-anchor="start" class="nm">Maybe Space Baby Garden Lanes</text>
+<text x="662" y="1447" text-anchor="start" class="kk">R:r.16</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/macro-maquette/" class="locus room" aria-label="Macro-Maquette">
+<title>Macro-Maquette — ROOM — R:r.19</title>
+<polygon points="810.0,1420.6 821.3,1427.1 821.3,1440.1 810.0,1446.6 798.7,1440.1 798.7,1427.1" class="seal"/><circle cx="810" cy="1433.6000000000001" r="5.5" class="seal-i"/>
+<text x="832" y="1432" text-anchor="start" class="nm">Macro-Maquette</text>
+<text x="832" y="1447" text-anchor="start" class="kk">R:r.19</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/thousand-worlds/" class="locus link" aria-label="Thousand Worlds">
+<title>Thousand Worlds — ROOM+CHAMBER-LINK — X:THOUSAND-WORLDS</title>
+<polygon points="1430.0,1469.2 1441.3,1475.7 1441.3,1488.7 1430.0,1495.2 1418.7,1488.7 1418.7,1475.7" class="seal"/><circle cx="1430" cy="1482.2" r="5.5" class="seal-i"/>
+<text x="1408" y="1480" text-anchor="end" class="nm">Thousand Worlds</text>
+<text x="1408" y="1495" text-anchor="end" class="kk">X:THOUSAND-WORLDS</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/space-ark/" class="locus special" aria-label="Space Ark">
+<title>Space Ark — SPECIAL/RUNTIME — S:sp.03</title>
+<polygon points="970.0,1517.8 981.3,1524.3 981.3,1537.3 970.0,1543.8 958.7,1537.3 958.7,1524.3" class="seal"/><circle cx="970" cy="1530.8000000000002" r="5.5" class="seal-i"/>
+<text x="992" y="1529" text-anchor="start" class="nm">Space Ark</text>
+<text x="992" y="1544" text-anchor="start" class="kk">S:sp.03</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/josephus-thesis/" class="locus room" aria-label="Josephus Thesis">
+<title>Josephus Thesis — ROOM — R:r.31</title>
+<polygon points="1150.0,1517.8 1161.3,1524.3 1161.3,1537.3 1150.0,1543.8 1138.7,1537.3 1138.7,1524.3" class="seal"/><circle cx="1150" cy="1530.8000000000002" r="5.5" class="seal-i"/>
+<text x="1128" y="1529" text-anchor="end" class="nm">Josephus Thesis</text>
+<text x="1128" y="1544" text-anchor="end" class="kk">R:r.31</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/moving-statues-made-of-rubies-mint/" class="locus room" aria-label="Moving Statues Made of Rubies Mint">
+<title>Moving Statues Made of Rubies Mint — ROOM — R:r.17</title>
+<polygon points="590.0,1566.4 601.3,1572.9 601.3,1585.9 590.0,1592.4 578.7,1585.9 578.7,1572.9" class="seal"/><circle cx="590" cy="1579.4" r="5.5" class="seal-i"/>
+<text x="612" y="1577" text-anchor="start" class="nm">Moving Statues Made of Rubies Mint</text>
+<text x="612" y="1592" text-anchor="start" class="kk">R:r.17</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/job-room/" class="locus room" aria-label="Job">
+<title>Job — ROOM — R:r.32</title>
+<polygon points="1290.0,1582.6 1301.3,1589.1 1301.3,1602.1 1290.0,1608.6 1278.7,1602.1 1278.7,1589.1" class="seal"/><circle cx="1290" cy="1595.6000000000001" r="5.5" class="seal-i"/>
+<text x="1268" y="1594" text-anchor="end" class="nm">Job</text>
+<text x="1268" y="1609" text-anchor="end" class="kk">R:r.32</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/imploding-velcro-nativity/" class="locus cosmo" aria-label="Imploding Velcro Nativity">
+<title>Imploding Velcro Nativity — ROOM/HOSTED-COSMOLOGY — R:r.29</title>
+<polygon points="770.0,1598.8 781.3,1605.3 781.3,1618.3 770.0,1624.8 758.7,1618.3 758.7,1605.3" class="seal"/><circle cx="770" cy="1611.8000000000002" r="5.5" class="seal-i"/>
+<text x="792" y="1610" text-anchor="start" class="nm">Imploding Velcro Nativity</text>
+<text x="792" y="1625" text-anchor="start" class="kk">R:r.29</text>
+</a><a href="https://www.crimsonhexagonal.org/rooms/mandala/" class="locus special" aria-label="Mandala">
+<title>Mandala — SPECIAL — S:sp.04</title>
+<polygon points="970.0,1663.6 981.3,1670.1 981.3,1683.1 970.0,1689.6 958.7,1683.1 958.7,1670.1" class="seal"/><circle cx="970" cy="1676.6000000000001" r="5.5" class="seal-i"/>
+<text x="992" y="1675" text-anchor="start" class="nm">Mandala</text>
+<text x="992" y="1690" text-anchor="start" class="kk">S:sp.04</text>
+</a>
+<rect width="1940" height="1960" fill="url(#vig)" pointer-events="none"/>
+</svg>
+<p class="marg">&ldquo;All lives are real. Some, just potentially so.&rdquo;</p>
+<p class="marg">Click any seal to enter. Each locus carries its constituting document in full, and routes to the rest.</p>
+<footer>
+<a href="/">Lee Sharks</a> &middot; <a href="https://www.crimsonhexagonal.org/map/">the surface map</a> &middot;
+<a href="https://www.alexanarch.org/">alexanarch</a> &middot; &#8750; = 1
+</footer>
+</div></body></html>
