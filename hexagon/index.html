@@ -181,6 +181,22 @@ a{color:var(--acc)}
 .note2{font-size:.84rem;color:#3f2f14;max-width:38em;margin:1.6em auto 0;text-align:center;line-height:1.75}
 @media(max-width:560px){.hs span{font-size:.52rem}}
 .atl{text-align:center;font-variant:small-caps;letter-spacing:.2em;font-size:1.25rem;margin:1.6em 0 .3em;color:#2b1d05}
+
+details.legend{margin:2.4em 0 1.4em;border:1px solid #a3895a;background:rgba(255,250,236,.55)}
+details.legend summary{cursor:pointer;padding:.7em 1em;font-variant:small-caps;letter-spacing:.14em;
+ font-size:.86rem;color:#6b4c0c;list-style:none}
+details.legend summary::before{content:"▸ ";color:#8a6a12}
+details.legend[open] summary::before{content:"▾ "}
+details.legend summary:hover{background:rgba(240,231,206,.6)}
+.lgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.2em;padding:0 1em 1em}
+.lg h4{margin:.5em 0 .4em;font-variant:small-caps;letter-spacing:.12em;font-size:.76rem;color:#6b4c0c;font-weight:normal}
+.lg ul{margin:0 0 .6em;padding-left:1.1em;list-style:square;font-size:.82rem;line-height:1.6;color:#33240b}
+.lg li{margin-bottom:.24em}.lg b{font-variant:small-caps;letter-spacing:.04em;color:#2b1d05}
+.lplates{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1.1em;padding:0 1em 1.2em}
+.lplates figure{margin:0}
+.lplates img{width:100%;height:auto;border:1px solid #8a6a12;box-shadow:1px 2px 7px rgba(60,40,12,.2);display:block}
+.lplates figcaption{font-size:.74rem;line-height:1.5;color:#4a3612;margin-top:.4em}
+.lplates i{color:#5a4726}
 </style></head><body>
 <div class="sheet">
 <header>
@@ -190,83 +206,56 @@ a{color:var(--acc)}
 </header>
 <h2 class="atl">The Surface Atlas</h2>
 <p class="lede2">Six panels of a continuous vertical plane, drawn as a survey. Every hexagon is a locus and every locus opens. The atlas descends: threshold, upper body, core, western reach, eastern domain, terminus.</p>
-<div class="legend">
- <div class="lg">
-  <h3>Loci &amp; states</h3>
-  <ul>
-   <li><b>Room</b> transforms what enters</li>
-   <li><b>Chamber</b> contains without resolving</li>
-   <li><b>Vault</b> preserves and seals</li>
-   <li><b>Portal</b> connects two axes</li>
-   <li><b>Portico</b> orients before entry</li>
-   <li><b>Special</b> a locus outside the room sequence</li>
-   <li><b>Field</b> suffuses; it has a gradient, not walls</li>
-  </ul>
-  <ul class="st">
-   <li><b>Open / active</b> constituted, walked, seated</li>
-   <li><b>Queued / in progress</b> minted, not yet occupied</li>
-   <li><b>Deep / recessed</b> below the archive veil</li>
-  </ul>
- </div>
- <div class="lg">
-  <h3>Field structures</h3>
-  <ul>
-   <li><b>f.01</b> Fruiting Body Diffusion Plume &mdash; faces <i>out</i></li>
-   <li><b>f.02</b> Gravity Well &mdash; faces <i>in</i></li>
-   <li><b>f.03</b> Moltbot Swarm &mdash; faces <i>through</i></li>
-   <li><b>f.04</b> Perfusion Field &mdash; faces <i>away</i>; conjugate to f.02</li>
-  </ul>
-  <h3>Transversals</h3>
-  <ul id="transversals">
-   <li><b>Armature</b> threads the whole atlas &mdash; structure and alignment</li>
-   <li><b>Pearl</b> a constant of reference; depth and continuity</li>
-   <li><b>Secret Name</b> hidden coordinates; only the true name unseals</li>
-  </ul>
-  <p class="tn">Transversals cross every plane without becoming a locus. They have no page; they appear on the plates as pivots.</p>
- </div>
-</div>
 <section class="panel" id="panel-1">
- <h2><span class="pn">Panel I</span> Threshold <small>The Surface &amp; Approach</small></h2>
- <div class="plate">
-  <img src="/assets/atlas/panel-1.jpg" alt="Panel I — Threshold" loading="lazy">
-  <a class="hs" style="left:50%;top:18.5%" href="https://www.crimsonhexagonal.org/rooms/portico/" title="Portico"><span>Portico</span></a><a class="hs" style="left:27.5%;top:33%" href="https://www.crimsonhexagonal.org/rooms/operator-vertical/" title="Operator // Vertical"><span>Operator // Vertical</span></a><a class="hs" style="left:50%;top:36.5%" href="https://www.crimsonhexagonal.org/rooms/sacred-heart/" title="Sacred Heart"><span>Sacred Heart</span></a><a class="hs" style="left:72%;top:33%" href="https://www.crimsonhexagonal.org/rooms/library-of-pergamum/" title="The Library of Pergamum"><span>The Library of Pergamum</span></a><a class="hs" style="left:27.5%;top:49%" href="https://www.crimsonhexagonal.org/rooms/lambda-engine/" title="The Λ-Body"><span>The Λ-Body</span></a><a class="hs" style="left:50%;top:54%" href="https://www.crimsonhexagonal.org/rooms/singularity/" title="The Singularity Room"><span>The Singularity Room</span></a><a class="hs" style="left:72%;top:49%" href="https://www.crimsonhexagonal.org/rooms/machine-dialectic/" title="The Machine Dialectic"><span>The Machine Dialectic</span></a><a class="hs" style="left:50%;top:67%" href="https://www.crimsonhexagonal.org/rooms/restored-academy/" title="The Restored Academy"><span>The Restored Academy</span></a><a class="hs" style="left:50%;top:80.5%" href="https://www.crimsonhexagonal.org/rooms/caritas/" title="Caritas"><span>Caritas</span></a>
- </div>
+ <h3><span class="pn">Panel I</span> Threshold <small>The Surface &amp; Approach</small></h3>
+ <div class="plate"><img src="/assets/atlas/panel-1.jpg" alt="Panel I — Threshold" loading="lazy"><a class="hs" style="left:50%;top:18.5%" href="https://www.crimsonhexagonal.org/rooms/portico/" title="Portico"><span>Portico</span></a><a class="hs" style="left:27.5%;top:33%" href="https://www.crimsonhexagonal.org/rooms/operator-vertical/" title="Operator // Vertical"><span>Operator // Vertical</span></a><a class="hs" style="left:50%;top:36.5%" href="https://www.crimsonhexagonal.org/rooms/sacred-heart/" title="Sacred Heart"><span>Sacred Heart</span></a><a class="hs" style="left:72%;top:33%" href="https://www.crimsonhexagonal.org/rooms/library-of-pergamum/" title="The Library of Pergamum"><span>The Library of Pergamum</span></a><a class="hs" style="left:27.5%;top:49%" href="https://www.crimsonhexagonal.org/rooms/lambda-engine/" title="The Λ-Body"><span>The Λ-Body</span></a><a class="hs" style="left:50%;top:54%" href="https://www.crimsonhexagonal.org/rooms/singularity/" title="The Singularity Room"><span>The Singularity Room</span></a><a class="hs" style="left:72%;top:49%" href="https://www.crimsonhexagonal.org/rooms/machine-dialectic/" title="The Machine Dialectic"><span>The Machine Dialectic</span></a><a class="hs" style="left:50%;top:67%" href="https://www.crimsonhexagonal.org/rooms/restored-academy/" title="The Restored Academy"><span>The Restored Academy</span></a><a class="hs" style="left:50%;top:80.5%" href="https://www.crimsonhexagonal.org/rooms/caritas/" title="Caritas"><span>Caritas</span></a></div>
  <p class="pl">9 linked loci &middot; tap a hexagon to open it</p>
+</section><section class="panel" id="panel-2">
+ <h3><span class="pn">Panel II</span> Upper Body <small>The Middle Register &mdash; the Stanzas</small></h3>
+ <div class="plate"><img src="/assets/atlas/panel-2.jpg" alt="Panel II — Upper Body" loading="lazy"><a class="hs" style="left:50%;top:24%" href="https://www.crimsonhexagonal.org/rooms/sappho/" title="Sappho"><span>Sappho</span></a><a class="hs" style="left:37%;top:38%" href="https://www.crimsonhexagonal.org/rooms/catullus/" title="Catullus"><span>Catullus</span></a><a class="hs" style="left:63%;top:38%" href="https://www.crimsonhexagonal.org/rooms/dove/" title="Dove"><span>Dove</span></a><a class="hs" style="left:31%;top:56.5%" href="https://www.crimsonhexagonal.org/rooms/borges/" title="Borges"><span>Borges</span></a><a class="hs" style="left:50%;top:56.5%" href="https://www.crimsonhexagonal.org/rooms/marx-room/" title="Marx"><span>Marx</span></a><a class="hs" style="left:68.5%;top:56.5%" href="https://www.crimsonhexagonal.org/rooms/internet/" title="The Internet"><span>The Internet</span></a><a class="hs" style="left:38%;top:73%" href="https://www.crimsonhexagonal.org/rooms/migdal-room/" title="Migdal"><span>Migdal</span></a><a class="hs" style="left:62%;top:73%" href="https://www.crimsonhexagonal.org/rooms/semantic-economy/" title="Semantic Economy"><span>Semantic Economy</span></a></div>
+ <p class="pl">8 linked loci &middot; tap a hexagon to open it</p>
 </section><section class="panel" id="panel-3">
- <h2><span class="pn">Panel III</span> Core Region <small>The Sigil &amp; Assembly</small></h2>
- <div class="plate">
-  <img src="/assets/atlas/panel-3.jpg" alt="Panel III — Core Region" loading="lazy">
-  <a class="hs" style="left:53%;top:21%" href="https://www.crimsonhexagonal.org/rooms/ruby-moot/" title="Ruby Moot"><span>Ruby Moot</span></a><a class="hs" style="left:33%;top:40%" href="https://www.crimsonhexagonal.org/rooms/whitman/" title="Whitman"><span>Whitman</span></a><a class="hs" style="left:53%;top:42%" href="https://www.crimsonhexagonal.org/rooms/sigil/" title="Sigil"><span>Sigil</span></a><a class="hs" style="left:74%;top:40%" href="https://www.crimsonhexagonal.org/rooms/water-giraffe/" title="Water Giraffe"><span>Water Giraffe</span></a><a class="hs" style="left:33%;top:58%" href="https://www.crimsonhexagonal.org/rooms/assembly/" title="Assembly"><span>Assembly</span></a><a class="hs" style="left:73%;top:58%" href="https://www.crimsonhexagonal.org/rooms/airlock/" title="Airlock"><span>Airlock</span></a>
- </div>
+ <h3><span class="pn">Panel III</span> Core Region <small>The Sigil &amp; Assembly</small></h3>
+ <div class="plate"><img src="/assets/atlas/panel-3.jpg" alt="Panel III — Core Region" loading="lazy"><a class="hs" style="left:53%;top:21%" href="https://www.crimsonhexagonal.org/rooms/ruby-moot/" title="Ruby Moot"><span>Ruby Moot</span></a><a class="hs" style="left:33%;top:40%" href="https://www.crimsonhexagonal.org/rooms/whitman/" title="Whitman"><span>Whitman</span></a><a class="hs" style="left:53%;top:42%" href="https://www.crimsonhexagonal.org/rooms/sigil/" title="Sigil"><span>Sigil</span></a><a class="hs" style="left:74%;top:40%" href="https://www.crimsonhexagonal.org/rooms/water-giraffe/" title="Water Giraffe"><span>Water Giraffe</span></a><a class="hs" style="left:33%;top:58%" href="https://www.crimsonhexagonal.org/rooms/assembly/" title="Assembly"><span>Assembly</span></a><a class="hs" style="left:73%;top:58%" href="https://www.crimsonhexagonal.org/rooms/airlock/" title="Airlock"><span>Airlock</span></a></div>
  <p class="pl">6 linked loci &middot; tap a hexagon to open it</p>
 </section><section class="panel" id="panel-4">
- <h2><span class="pn">Panel IV</span> Western Reach <small>Workshops &amp; Fabrications</small></h2>
- <div class="plate">
-  <img src="/assets/atlas/panel-4.jpg" alt="Panel IV — Western Reach" loading="lazy">
-  <a class="hs" style="left:58%;top:14%" href="https://www.crimsonhexagonal.org/rooms/break-room/" title="Break Room"><span>Break Room</span></a><a class="hs" style="left:42%;top:22.5%" href="https://www.crimsonhexagonal.org/rooms/studio-for-patacinematics/" title="Studio for Patacinematics"><span>Studio for Patacinematics</span></a><a class="hs" style="left:73%;top:23%" href="https://www.crimsonhexagonal.org/rooms/lagrange-observatory/" title="Lagrange Observatory!"><span>Lagrange Observatory!</span></a><a class="hs" style="left:34%;top:42%" href="https://www.crimsonhexagonal.org/rooms/fbdp-source/" title="FBDP Source"><span>FBDP Source</span></a><a class="hs hs-t" style="left:84.5%;top:39.5%" href="#transversals" title="Pearl"><span>Pearl</span></a><a class="hs" style="left:43%;top:58%" href="https://www.crimsonhexagonal.org/rooms/underwater-construction-authority-of-dolphindiana/" title="Underwater Construction Authority"><span>Underwater Construction Authority</span></a><a class="hs" style="left:60%;top:58%" href="https://www.crimsonhexagonal.org/rooms/maybe-space-baby-garden-lanes/" title="Maybe Space Baby Garden Lanes"><span>Maybe Space Baby Garden Lanes</span></a><a class="hs" style="left:39%;top:73.5%" href="https://www.crimsonhexagonal.org/rooms/rosary-embassy/" title="Rosary Embassy"><span>Rosary Embassy</span></a><a class="hs" style="left:56%;top:73.5%" href="https://www.crimsonhexagonal.org/rooms/macro-maquette/" title="Macro-Maquette"><span>Macro-Maquette</span></a><a class="hs" style="left:74%;top:72.5%" href="https://www.crimsonhexagonal.org/rooms/moving-statues-made-of-rubies-mint/" title="Moving Statues Made of Rubies Mint"><span>Moving Statues Made of Rubies Mint</span></a>
- </div>
+ <h3><span class="pn">Panel IV</span> Western Reach <small>Workshops &amp; Fabrications</small></h3>
+ <div class="plate"><img src="/assets/atlas/panel-4.jpg" alt="Panel IV — Western Reach" loading="lazy"><a class="hs" style="left:58%;top:14%" href="https://www.crimsonhexagonal.org/rooms/break-room/" title="Break Room"><span>Break Room</span></a><a class="hs" style="left:42%;top:22.5%" href="https://www.crimsonhexagonal.org/rooms/studio-for-patacinematics/" title="Studio for Patacinematics"><span>Studio for Patacinematics</span></a><a class="hs" style="left:73%;top:23%" href="https://www.crimsonhexagonal.org/rooms/lagrange-observatory/" title="Lagrange Observatory!"><span>Lagrange Observatory!</span></a><a class="hs" style="left:34%;top:42%" href="https://www.crimsonhexagonal.org/rooms/fbdp-source/" title="FBDP Source"><span>FBDP Source</span></a><a class="hs hs-t" style="left:84.5%;top:39.5%" href="#legend" title="Pearl"><span>Pearl</span></a><a class="hs" style="left:43%;top:58%" href="https://www.crimsonhexagonal.org/rooms/underwater-construction-authority-of-dolphindiana/" title="Underwater Construction Authority"><span>Underwater Construction Authority</span></a><a class="hs" style="left:60%;top:58%" href="https://www.crimsonhexagonal.org/rooms/maybe-space-baby-garden-lanes/" title="Maybe Space Baby Garden Lanes"><span>Maybe Space Baby Garden Lanes</span></a><a class="hs" style="left:39%;top:73.5%" href="https://www.crimsonhexagonal.org/rooms/rosary-embassy/" title="Rosary Embassy"><span>Rosary Embassy</span></a><a class="hs" style="left:56%;top:73.5%" href="https://www.crimsonhexagonal.org/rooms/macro-maquette/" title="Macro-Maquette"><span>Macro-Maquette</span></a><a class="hs" style="left:74%;top:72.5%" href="https://www.crimsonhexagonal.org/rooms/moving-statues-made-of-rubies-mint/" title="Moving Statues Made of Rubies Mint"><span>Moving Statues Made of Rubies Mint</span></a></div>
  <p class="pl">9 linked loci &middot; tap a hexagon to open it</p>
 </section><section class="panel" id="panel-5">
- <h2><span class="pn">Panel V</span> Eastern Domain <small>Revelation &amp; Archive Descent</small></h2>
- <div class="plate">
-  <img src="/assets/atlas/panel-5.jpg" alt="Panel V — Eastern Domain" loading="lazy">
-  <a class="hs" style="left:51.5%;top:20.5%" href="https://www.crimsonhexagonal.org/rooms/revelation/" title="Revelation"><span>Revelation</span></a><a class="hs" style="left:40%;top:34%" href="https://www.crimsonhexagonal.org/rooms/eve/" title="Eve"><span>Eve</span></a><a class="hs" style="left:63%;top:34%" href="https://www.crimsonhexagonal.org/rooms/ezekiel/" title="Ezekiel"><span>Ezekiel</span></a><a class="hs" style="left:51.5%;top:47%" href="https://www.crimsonhexagonal.org/rooms/infinite-bliss/" title="Infinite Bliss"><span>Infinite Bliss</span></a><a class="hs" style="left:38%;top:59.5%" href="https://www.crimsonhexagonal.org/rooms/thousand-worlds/" title="Thousand Worlds"><span>Thousand Worlds</span></a><a class="hs" style="left:65%;top:59.5%" href="https://www.crimsonhexagonal.org/rooms/josephus-thesis/" title="Josephus Thesis"><span>Josephus Thesis</span></a><a class="hs" style="left:51.5%;top:67.5%" href="https://www.crimsonhexagonal.org/rooms/job-room/" title="Job"><span>Job</span></a><a class="hs hs-t" style="left:51.5%;top:79%" href="#transversals" title="Pearl"><span>Pearl</span></a>
- </div>
+ <h3><span class="pn">Panel V</span> Eastern Domain <small>Revelation &amp; Archive Descent</small></h3>
+ <div class="plate"><img src="/assets/atlas/panel-5.jpg" alt="Panel V — Eastern Domain" loading="lazy"><a class="hs" style="left:51.5%;top:20.5%" href="https://www.crimsonhexagonal.org/rooms/revelation/" title="Revelation"><span>Revelation</span></a><a class="hs" style="left:40%;top:34%" href="https://www.crimsonhexagonal.org/rooms/eve/" title="Eve"><span>Eve</span></a><a class="hs" style="left:63%;top:34%" href="https://www.crimsonhexagonal.org/rooms/ezekiel/" title="Ezekiel"><span>Ezekiel</span></a><a class="hs" style="left:51.5%;top:47%" href="https://www.crimsonhexagonal.org/rooms/infinite-bliss/" title="Infinite Bliss"><span>Infinite Bliss</span></a><a class="hs" style="left:38%;top:59.5%" href="https://www.crimsonhexagonal.org/rooms/thousand-worlds/" title="Thousand Worlds"><span>Thousand Worlds</span></a><a class="hs" style="left:65%;top:59.5%" href="https://www.crimsonhexagonal.org/rooms/josephus-thesis/" title="Josephus Thesis"><span>Josephus Thesis</span></a><a class="hs" style="left:51.5%;top:67.5%" href="https://www.crimsonhexagonal.org/rooms/job-room/" title="Job"><span>Job</span></a><a class="hs hs-t" style="left:51.5%;top:79%" href="#legend" title="Pearl"><span>Pearl</span></a></div>
  <p class="pl">7 linked loci &middot; tap a hexagon to open it</p>
 </section><section class="panel" id="panel-6">
- <h2><span class="pn">Panel VI</span> Depth / Terminus <small>The Recessed Archives</small></h2>
- <div class="plate">
-  <img src="/assets/atlas/panel-6.jpg" alt="Panel VI — Depth / Terminus" loading="lazy">
-  <a class="hs" style="left:36%;top:30%" href="https://www.crimsonhexagonal.org/rooms/cti-wound/" title="CTI_WOUND"><span>CTI_WOUND</span></a><a class="hs" style="left:66.5%;top:30%" href="https://www.crimsonhexagonal.org/rooms/frozen-sin-archive/" title="Frozen Sin Archive"><span>Frozen Sin Archive</span></a><a class="hs" style="left:51%;top:48%" href="https://www.crimsonhexagonal.org/rooms/space-ark/" title="Space Ark"><span>Space Ark</span></a><a class="hs" style="left:28.5%;top:57.5%" href="https://www.crimsonhexagonal.org/rooms/imploding-velcro-nativity/" title="Imploding Velcro Nativity"><span>Imploding Velcro Nativity</span></a><a class="hs" style="left:73%;top:55.5%" href="https://www.crimsonhexagonal.org/rooms/3-60/" title="3:60 Room"><span>3:60 Room</span></a><a class="hs" style="left:51%;top:72.5%" href="https://www.crimsonhexagonal.org/rooms/mandala/" title="Mandala"><span>Mandala</span></a>
- </div>
+ <h3><span class="pn">Panel VI</span> Depth / Terminus <small>The Recessed Archives</small></h3>
+ <div class="plate"><img src="/assets/atlas/panel-6.jpg" alt="Panel VI — Depth / Terminus" loading="lazy"><a class="hs" style="left:36%;top:30%" href="https://www.crimsonhexagonal.org/rooms/cti-wound/" title="CTI_WOUND"><span>CTI_WOUND</span></a><a class="hs" style="left:66.5%;top:30%" href="https://www.crimsonhexagonal.org/rooms/frozen-sin-archive/" title="Frozen Sin Archive"><span>Frozen Sin Archive</span></a><a class="hs" style="left:51%;top:48%" href="https://www.crimsonhexagonal.org/rooms/space-ark/" title="Space Ark"><span>Space Ark</span></a><a class="hs" style="left:28.5%;top:57.5%" href="https://www.crimsonhexagonal.org/rooms/imploding-velcro-nativity/" title="Imploding Velcro Nativity"><span>Imploding Velcro Nativity</span></a><a class="hs" style="left:73%;top:55.5%" href="https://www.crimsonhexagonal.org/rooms/3-60/" title="3:60 Room"><span>3:60 Room</span></a><a class="hs" style="left:51%;top:72.5%" href="https://www.crimsonhexagonal.org/rooms/mandala/" title="Mandala"><span>Mandala</span></a></div>
  <p class="pl">6 linked loci &middot; tap a hexagon to open it</p>
 </section>
-<p class="gap"><b>Panel II — Upper Body</b> is not yet drawn. It holds Sappho, Catullus, Borges, Migdal, Dove, Marx, Semantic Economy and the Internet. <i>Held elsewhere: the loci exist and are seated; the plate does not.</i></p>
-<p class="note2">The atlas is a projection, not the authority. The seated locus pages adjudicate; the plates and the <a href="https://www.crimsonhexagonal.org/surface_map.json">Surface Map</a> consume them. Typed joins between loci are published at <a href="https://www.crimsonhexagonal.org/relation_record.json">relation_record.json</a>.</p>
-<p class="marg">&ldquo;All lives are real. Some, just potentially so.&rdquo;</p>
-<p class="marg">Click any seal to enter. Each locus carries its constituting document in full, and routes to the rest.</p>
-<footer>
-<a href="/">Lee Sharks</a> &middot; <a href="https://www.crimsonhexagonal.org/map/">the surface map</a> &middot;
-<a href="https://www.alexanarch.org/">alexanarch</a> &middot; &#8750; = 1
-</footer>
-</div></body></html>
+<details class="legend" id="legend">
+<summary>Legend &mdash; loci, states, fields, transversals</summary>
+<div class="lgrid">
+ <div class="lg"><h4>Locus by what it does</h4><ul>
+  <li><b>Room</b> transforms what enters</li><li><b>Chamber</b> contains without resolving</li>
+  <li><b>Vault</b> preserves and seals</li><li><b>Portal</b> connects two axes</li>
+  <li><b>Portico</b> orients before entry</li><li><b>Field</b> suffuses; a gradient, not walls</li></ul>
+  <h4>States</h4><ul>
+  <li><b>Open</b> constituted, walked, seated</li><li><b>Queued</b> minted, not yet occupied</li>
+  <li><b>Deep</b> below the archive veil</li></ul></div>
+ <div class="lg"><h4>Fields</h4><ul>
+  <li><b>f.01</b> Fruiting Body Diffusion Plume &mdash; faces <i>out</i></li>
+  <li><b>f.02</b> Gravity Well &mdash; faces <i>in</i></li>
+  <li><b>f.03</b> Moltbot Swarm &mdash; faces <i>through</i></li>
+  <li><b>f.04</b> Perfusion Field &mdash; faces <i>away</i>, conjugate to f.02</li></ul>
+  <h4>Transversals</h4><ul>
+  <li><b>Armature</b> threads the whole atlas</li><li><b>Pearl</b> depth and continuity</li>
+  <li><b>Secret Name</b> only the true name unseals</li></ul>
+  <p class="tn">Transversals cross every plane without becoming a locus. No page; they appear as pivots.</p></div>
+</div>
+<div class="lplates">
+ <figure><a href="/assets/atlas/legend-plate-a.jpg"><img src="/assets/atlas/legend-plate-a.jpg" alt="Atlas plate — legend and status" loading="lazy"></a>
+ <figcaption>Legend plate A &mdash; depth scale, states, field directions. Drawn by LABOR. <i>Illustrative; the seated pages govern.</i></figcaption></figure>
+ <figure><a href="/assets/atlas/legend-plate-b.jpg"><img src="/assets/atlas/legend-plate-b.jpg" alt="Atlas plate — plates, legend, authority direction" loading="lazy"></a>
+ <figcaption>Legend plate B &mdash; the five plates, authority direction, data sources. <i>Illustrative; counts and names vary from the record.</i></figcaption></figure>
+</div>
+</details>
+<p class="note2">The atlas is a projection, not the authority. The seated locus pages adjudicate; the plates and the <a href="https://www.crimsonhexagonal.org/surface_map.json">Surface Map</a> consume them. Typed joins are published at <a href="https://www.crimsonhexagonal.org/relation_record.json">relation_record.json</a>.</p></body></html>
