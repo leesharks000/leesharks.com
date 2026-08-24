@@ -164,6 +164,29 @@ function getImgSrc(img){
     return IMG_BASE + img;
   }
 
+let activeSort = 'alpha';
+
+// Locale-aware, guarded comparators. A bare .sort() orders by UTF-16 code unit,
+// which puts every capital before every lowercase and scatters quoted, prefixed
+// and non-ASCII queries — and the registry carries all three.
+const COLLATOR = new Intl.Collator('en', { sensitivity: 'base', numeric: true, ignorePunctuation: true });
+function sortKey(e) {
+  // Normalise the issued string for ordering only. The stored value is untouched:
+  // «quoted» and site: prefixes are display-significant but must not drive order.
+  return String(e.q || '').replace(/^[«"'\s]+/, '').trim();
+}
+const SORTS = {
+  alpha:  (a, b) => COLLATOR.compare(sortKey(a), sortKey(b)) || String(a.date||'').localeCompare(String(b.date||'')),
+  newest: (a, b) => String(b.date||'').localeCompare(String(a.date||'')) || COLLATOR.compare(sortKey(a), sortKey(b)),
+  oldest: (a, b) => String(a.date||'').localeCompare(String(b.date||'')) || COLLATOR.compare(sortKey(a), sortKey(b)),
+};
+function setSort(s) {
+  activeSort = s;
+  document.querySelectorAll('.sort-nav a').forEach(a => a.classList.toggle('active', a.dataset.sort === s));
+  renderEntries();
+  return false;
+}
+
 function renderEntries() {
   const q = document.getElementById('search').value.toLowerCase();
   let entries = D.entries.filter(e => {
@@ -171,6 +194,7 @@ function renderEntries() {
     if (q && !e.q.toLowerCase().includes(q) && !(e.d||'').toLowerCase().includes(q)) return false;
     return true;
   });
+  entries = entries.slice().sort(SORTS[activeSort] || SORTS.alpha);
 
   const el = document.getElementById('entries');
   el.innerHTML = entries.map((e, i) => {
@@ -211,7 +235,8 @@ async function init() {
     document.getElementById('stats').innerHTML = `<span>${D.total_captures}</span> captures · v${D.version} · ${D.date||''}`;
     
     // Category nav
-    const cats = [...new Set(D.entries.map(e => e.s))].sort();
+    const cats = [...new Set(D.entries.map(e => e.s).filter(Boolean))]
+    .sort((a, b) => String(a).localeCompare(String(b), 'en', { sensitivity: 'base', numeric: true }));
     const nav = document.getElementById('catNav');
     nav.innerHTML = `<a href="#" class="active" onclick="activeCat='';renderEntries();document.querySelectorAll('.cat-nav a').forEach(a=>a.classList.remove('active'));this.classList.add('active');return false;">All</a>` +
       cats.map(c => `<a href="#" onclick="activeCat='${c}';renderEntries();document.querySelectorAll('.cat-nav a').forEach(a=>a.classList.remove('active'));this.classList.add('active');return false;">${c}</a>`).join('');
