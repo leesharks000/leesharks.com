@@ -93,6 +93,8 @@ a{color:var(--teal);text-decoration:none}a:hover{text-decoration:underline}
   --msp-dim:#8a8070;
 }
 /* MSP-SKIN-END */
+.sort-nav a{text-decoration:none;opacity:.6}
+.sort-nav a.active{opacity:1;font-weight:600;text-decoration:underline}
 </style>
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -121,6 +123,8 @@ a{color:var(--teal);text-decoration:none}a:hover{text-decoration:underline}
 <div class="stats" id="stats">Loading...</div>
 <input class="search-box" id="search" placeholder="Search queries or descriptions..." type="text"/>
 <div class="cat-nav" id="catNav"></div>
+<div class="sort-nav" style="margin:.6rem 0 1rem;font-size:.85em;opacity:.85">sort: <a href="#" class="active" data-sort="alpha" onclick="return setSort('alpha')">alphabetical</a> · <a href="#" data-sort="newest" onclick="return setSort('newest')">newest</a> · <a href="#" data-sort="oldest" onclick="return setSort('oldest')">oldest</a></div>
+
 <div id="entries"></div>
 <div class="footer">
   Lee Sharks · <a href="https://orcid.org/0009-0000-1599-0703">ORCID 0009-0000-1599-0703</a> · Crimson Hexagonal Archive<br/>
