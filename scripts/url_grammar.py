@@ -28,6 +28,7 @@ def main():
         q = ''
         if '?' in path or '#' in path:
             i = min([x for x in (path.find('?'), path.find('#')) if x >= 0]); path, q = path[:i], path[i:]
+        if path in ('', '/'): return WWW + '/' + q                      # root keeps its slash (also before #fragment / ?query)
         if re.search(r'\.[a-z0-9]{2,5}$', path): return WWW + path + q   # files keep their name
         path = path.rstrip('/'); path = path + '/' if a.slash == 'always' else path
         return WWW + path + q
