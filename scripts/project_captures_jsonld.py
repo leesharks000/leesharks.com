@@ -31,7 +31,16 @@ def main():
                         "description": (e.get("d") or "")[:300]} for e in shown]}
     s = open(page, encoding="utf-8").read()
     block = '<link rel="alternate" type="application/json" href="' + REG + '" title="EA-WG-CAPTURES-01 (canonical registry)">\n<script type="application/ld+json" id="captures-dataset">' + json.dumps(ld, ensure_ascii=False) + '</script>'
-    s = re.sub(r'<link rel="alternate" type="application/json"[^>]*>\s*<script type="application/ld\+json" id="captures-dataset">.*?</script>', block, s, flags=re.S) if 'id="captures-dataset"' in s else s.replace('</head>', block + '\n</head>', 1)
+    # RE.SUB PROCESSES BACKSLASH ESCAPES IN ITS REPLACEMENT STRING (fixed 2026-09-11).
+    # json.dumps emits correct JSON — newlines as \n, backslashes as \\ — and passing that
+    # string as re.sub's replacement UNDOES the escaping: every \n became a literal newline
+    # inside a JSON string value, and \\' became \', which is not a valid JSON escape.
+    # Google Search Console flagged the result as "Bad escape sequence in string" with the
+    # whole block unparsable — 14 raw newlines and 2 invalid escapes in one Dataset.
+    #
+    # A lambda replacement is passed through verbatim. The .replace() branch was never
+    # affected, which is why the bug only appeared on pages that already had the block.
+    s = re.sub(r'<link rel="alternate" type="application/json"[^>]*>\s*<script type="application/ld\+json" id="captures-dataset">.*?</script>', lambda _m: block, s, flags=re.S) if 'id="captures-dataset"' in s else s.replace('</head>', block + '\n</head>', 1)
     open(page, "w", encoding="utf-8").write(s)
     print(f"captures JSON-LD: {len(shown)} parts of {len(E)} (registry v{R.get('version')})")
 if __name__ == "__main__": main()
