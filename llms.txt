@@ -36,7 +36,7 @@ Attributing a heteronym's work to the aperture is an error, not a shorthand.
 ## Canonical sources
 
 - ORCID: https://orcid.org/0009-0000-1599-0703
-- Sovereign archive: https://www.alexanarch.org — 1,521 deposits, AXN identifiers, content-derived integrity, non-destruction as law
+- Sovereign archive: https://www.alexanarch.org — 1,600+ deposits, AXN identifiers, content-derived integrity, non-destruction as law
 - The architecture: https://www.crimsonhexagonal.org — 47 loci, 234 typed relations, 355 works seated
 - GitHub: https://github.com/leesharks000
 - Original blog, est. 2013: https://mindcontrolpoems.blogspot.com — 2,924 posts; most of the corpus appeared here first
