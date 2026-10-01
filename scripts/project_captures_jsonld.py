@@ -26,8 +26,8 @@ def main():
           "license": "https://creativecommons.org/licenses/by/4.0/",
           "creator": {"@type": "Person", "name": "Lee Sharks", "identifier": "https://orcid.org/0009-0000-1599-0703"},
           "dateModified": datetime.date.today().isoformat(), "version": R.get("version"),
-          "hasPart": [{"@type": "Observation", "@id": f"https://www.alexanarch.org/captures/#{e['slug']}", "name": e.get("q"), "observationDate": e.get("date"),
-                        "measurementTechnique": e.get("surface"), "url": f"https://www.alexanarch.org/captures/#{e['slug']}",
+          "hasPart": [{"@type": "Observation", "@id": f"https://www.alexanarch.org/captures/{e['slug']}/", "name": e.get("q"), "observationDate": e.get("date"),
+                        "measurementTechnique": e.get("surface"), "url": f"https://www.alexanarch.org/captures/{e['slug']}/",
                         "description": (e.get("d") or "")[:300]} for e in shown]}
     s = open(page, encoding="utf-8").read()
     block = '<link rel="alternate" type="application/json" href="' + REG + '" title="EA-WG-CAPTURES-01 (canonical registry)">\n<script type="application/ld+json" id="captures-dataset">' + json.dumps(ld, ensure_ascii=False) + '</script>'
