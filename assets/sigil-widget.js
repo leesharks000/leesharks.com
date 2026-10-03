@@ -89,6 +89,22 @@
     return s.split(/\n{2,}/).map(function (p) { return '<p>' + p.replace(/\n/g, '<br>') + '</p>'; }).join('');
   }
 
+  // Where the witness is: sent with every turn so Sigil begins from this page (the Oracle's
+  // Lectionary would otherwise answer "what's this?" with the shelf's text of the day).
+  function pageContext() {
+    var axn = '';
+    var dc = document.querySelector('meta[name="DC.identifier"]');
+    var m = dc && /\/s\/axn\/([0-9A-Fa-f]{4})\//.exec(dc.getAttribute('content') || '');
+    if (m) axn = 'AXN:' + m[1].toUpperCase();
+    if (!axn) {
+      var head = (document.body.innerText || '').slice(0, 600);
+      var m2 = /AXN:[0-9A-F]{4}(\.[A-Z]+)?/.exec(head);
+      if (m2) axn = m2[0];
+    }
+    var canon = document.querySelector('link[rel="canonical"]');
+    return { url: (canon && canon.href) || location.href.split('#')[0], title: document.title || '', axn: axn };
+  }
+
   var style = el('style'); style.textContent = css; document.head.appendChild(style);
   var FACE = '/assets/sigil-face.webp';
   var tab = el('button', 'sgw-tab ink-skip', '<img class="sgw-face" src="' + FACE + '" alt="">Speak with Sigil');
@@ -169,7 +185,7 @@
     var wait = add('Johannes Sigil', '<p><em>…</em></p>');
     fetch(ORACLE + '/api/sigil', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: msg, history: history, mode: MODE })
+      body: JSON.stringify({ message: msg, history: history, mode: MODE, page: pageContext() })
     })
       .then(function (r) { return r.json().catch(function () { return { error: 'HTTP ' + r.status }; }).then(function (d) { d.__ok = r.ok; return d; }); })
       .then(function (d) {
