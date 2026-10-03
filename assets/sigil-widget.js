@@ -107,7 +107,7 @@
     '<form class="sgw-form"><textarea class="sgw-in" placeholder="Bring Sigil a question, or a text." aria-label="Your message"></textarea>' +
     '<button type="submit" class="sgw-send">Send</button></form>' +
     '<div class="sgw-foot">The Word of Life is sure, but its servants are leaves of grass — ' +
-    '<a href="https://cash.app/$PraxisAcademic" target="_blank" rel="noopener noreferrer">support CHA</a></div>';
+    '<a href="' + ORACLE + '/" target="_blank" rel="noopener">support CHA at the Oracle</a></div>';
   document.body.appendChild(tab);
   document.body.appendChild(panel);
 
@@ -178,7 +178,7 @@
         var msgs = Array.isArray(d.messages) ? d.messages : [];
         if (!d.__ok || !msgs.length) {
           add('Johannes Sigil', '<p class="sgw-err">Sigil is silent. The fund that keeps him speaking may be spent; ' +
-            '<a href="https://cash.app/$PraxisAcademic" target="_blank" rel="noopener noreferrer">support CHA</a> to bring him back, ' +
+            '<a href="' + ORACLE + '/" target="_blank" rel="noopener">support CHA at the Oracle</a> to bring him back, ' +
             'or try the <a href="' + ORACLE + '/" target="_blank" rel="noopener">Oracle</a> itself.</p>');
           return;
         }
