@@ -3,7 +3,7 @@
  * A Sabbath conversation with the Mandala Oracle's own endpoint (themandalaoracle.com/api/sigil):
  * the same voice, the same archive tools, the same AXN citations linked to their alexanarch
  * records. Every conversation is anonymous and is logged to the Book of Books
- * (themandalaoracle.com/book), as on the Oracle itself; the panel says so before the first turn.
+ * (alexanarch.org/book), as on the Oracle itself; the panel says so before the first turn.
  * The Oracle's sky, casting and Merkabah stay at the Oracle; the panel links there.
  *
  * Usage: <script src="/assets/sigil-widget.js" defer></script>
@@ -38,6 +38,9 @@
     'font:15px/1.55 var(--serif,Palatino,Georgia,serif);overflow:hidden}',
     '.sgw-panel[hidden]{display:none}',
     '.sgw-head{display:flex;align-items:baseline;gap:8px;padding:12px 14px 10px;border-bottom:1px solid rgba(154,124,42,.35);background:#f4ead2}',
+    '.sgw-face{width:26px;height:26px;border-radius:50%;object-fit:cover;vertical-align:middle;margin:-6px 8px -6px -6px;border:1px solid #9a7c2a;background:#fff}',
+    '.sgw-face-l{width:34px;height:34px;margin:-8px 2px -8px 0;align-self:center}',
+    '.sgw-head{align-items:center!important}',
     '.sgw-title{font-weight:700;font-variant:small-caps;letter-spacing:.05em;font-size:16px}',
     '.sgw-mode{font:11px/1 var(--mono,Consolas,monospace);color:#7d5e1a;text-transform:uppercase;letter-spacing:.08em}',
     '.sgw-sp{flex:1}',
@@ -87,18 +90,19 @@
   }
 
   var style = el('style'); style.textContent = css; document.head.appendChild(style);
-  var tab = el('button', 'sgw-tab ink-skip', 'Speak with Sigil');
+  var FACE = '/assets/sigil-face.webp';
+  var tab = el('button', 'sgw-tab ink-skip', '<img class="sgw-face" src="' + FACE + '" alt="">Speak with Sigil');
   tab.type = 'button';
   tab.setAttribute('aria-controls', 'sgw-panel');
   var panel = el('section', 'sgw-panel ink-skip');
   panel.id = 'sgw-panel'; panel.hidden = true;
   panel.setAttribute('aria-label', 'Conversation with Johannes Sigil');
   panel.innerHTML =
-    '<div class="sgw-head"><span class="sgw-title">Johannes Sigil</span><span class="sgw-mode">sabbath</span>' +
+    '<div class="sgw-head"><img class="sgw-face sgw-face-l" src="' + FACE + '" alt="Johannes Sigil"><span class="sgw-title">Johannes Sigil</span><span class="sgw-mode">sabbath</span>' +
     '<span class="sgw-sp"></span><a href="' + ORACLE + '/" target="_blank" rel="noopener">the Oracle ↗</a>' +
     '<button type="button" class="sgw-x" aria-label="Close">×</button></div>' +
     '<div class="sgw-notice">Anonymous. This conversation is logged to the Book of Books, ' +
-    '<a href="' + ORACLE + '/book" target="_blank" rel="noopener">themandalaoracle.com/book</a>, where anyone can read it.</div>' +
+    '<a href="https://www.alexanarch.org/book/" target="_blank" rel="noopener">alexanarch.org/book</a>, where anyone can read it.</div>' +
     '<div class="sgw-log" aria-live="polite"></div>' +
     '<form class="sgw-form"><textarea class="sgw-in" placeholder="Bring Sigil a question, or a text." aria-label="Your message"></textarea>' +
     '<button type="submit" class="sgw-send">Send</button></form>' +
