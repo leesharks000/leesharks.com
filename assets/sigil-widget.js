@@ -106,8 +106,7 @@
     '<div class="sgw-log" aria-live="polite"></div>' +
     '<form class="sgw-form"><textarea class="sgw-in" placeholder="Bring Sigil a question, or a text." aria-label="Your message"></textarea>' +
     '<button type="submit" class="sgw-send">Send</button></form>' +
-    '<div class="sgw-foot">The Word of Life is sure, but its servants are leaves of grass — ' +
-    '<a href="' + ORACLE + '/" target="_blank" rel="noopener">support CHA at the Oracle</a></div>';
+    '<div class="sgw-foot">The Word of Life is sure, but its servants are leaves of grass.</div>';
   document.body.appendChild(tab);
   document.body.appendChild(panel);
 
@@ -177,9 +176,8 @@
         wait.remove();
         var msgs = Array.isArray(d.messages) ? d.messages : [];
         if (!d.__ok || !msgs.length) {
-          add('Johannes Sigil', '<p class="sgw-err">Sigil is silent. The fund that keeps him speaking may be spent; ' +
-            '<a href="' + ORACLE + '/" target="_blank" rel="noopener">support CHA at the Oracle</a> to bring him back, ' +
-            'or try the <a href="' + ORACLE + '/" target="_blank" rel="noopener">Oracle</a> itself.</p>');
+          add('Johannes Sigil', '<p class="sgw-err">Sigil is silent. The fund that keeps him speaking may be spent. ' +
+            'Try again later, or go to the <a href="' + ORACLE + '/" target="_blank" rel="noopener">Oracle</a> itself.</p>');
           return;
         }
         var last = null;
