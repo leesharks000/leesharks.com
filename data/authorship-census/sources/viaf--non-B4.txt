@@ -1,0 +1,94 @@
+VIAF (The Virtual International Authority File)
+Skip to page content.
+Menu
+Search
+Research Areas
+RLP
+People
+News & Events
+Publications
+Presentations
+About
+Searching for items in a library? Try WorldCat.org
+VIAF (The Virtual International Authority File)
+Please note: This research project has concluded.
+The research project has been completed. Information on this page is provided for historical purposes only. Some portion of this content may be out-of-date and include broken links. Please visit the OCLC Research website to learn more about our current research.
+On 4 April 2012, VIAF has transitioned from an OCLC Research prototype to an OCLC service.
+Go to VIAF service page
+A joint project with the Library of Congress, the Deutsche Nationalbibliothek, and the Bibliothèque nationale de France, in cooperation with an expanding number of other national libraries and other agencies, VIAF explores virtually combining the name authority files of participating institutions into a single name authority service.
+As of the winter of 2011 there are 21 authority files of personal, corporate, and conference names from 18 organizations participating in VIAF.
+Impact
+Most large libraries maintain lists of names for people, corporations, conferences, and geographic places, as well as lists to control works and other entities. These lists, or authority files, have been developed and maintained in distinctive ways by individual library communities around the world. The differences in how to approach this work become evident as library data from many communities is combined in shared catalogs such as OCLC's WorldCat.
+VIAF's goal is to make library authority files less expensive to maintain and more generally useful to the library domain and beyond. To achieve this, VIAF seeks to include authoritative names from many libraries into a global service that is available via the Web. By linking disparate names for the same person or organization, VIAF provides a convenient means for a wider community of libraries and other agencies to repurpose bibliographic data produced by libraries serving different language communities.
+More specifically, the VIAF service:
+Links national and regional-level authority records, creating clusters of related records 
+Expands the concept of universal bibliographic control by (1) allowing national and regional variations in authorized form to coexist; and (2) supporting needs for variations in preferred language, script and spelling
+Plays a role in the emerging Semantic Web
+In addition to providing Web-accessible identification of entities of interest to libraries, VIAF has the potential to enable localization of bibliographic data by making local versions of names (e.g., in different scripts, spellings, or other variations), available for searching and display. For example, German users will be able to see a name displayed in the form established by the DNB, while French users will see the same name as established by the BnF, and English-speaking users will view the name as established by the LC/NACO file. Users in their respective countries are able to view name records as established by the others, making the authorities truly international and facilitating research across languages anywhere in the world.
+Governance
+VIAF consortium members are governed by the VIAF Cooperative Agreement. Under it, all key decisions rest with the Principals. Participants are accorded input into setting the agenda and direction for the VIAF project. Official representatives make the binding commitments for their organizations, while operational contacts are responsible for the actual work
+Application process
+Agencies that wish to participate in VIAF must apply. The application process requires submission of test files of bibliographic and authority files from the participating agency to the VIAF consortium.
+OCLC Research—on behalf of the VIAF consortium—processes the records to match name headings from the source files with VIAF records built from content previously supplied by other VIAF consortium members. If an agency's application is successful, the agency enters into agreement and sends its full bibliographic and authority files to OCLC Research with updates sent on a regular cycle. To initiate an application to participate, please use the online application .
+New participants receive reports and assist OCLC Research in making process adjustments as needed. The new content is published to the VIAF Web site.
+Outputs
+Brochures, etc.
+VIAF : Ficher d'autorité international virtuel (2012) Brochure (French), courtesy Bibliothèque nationale de France.
+VIAF (October 2009) Brochure (Arabic), courtesy Dr. Sohair F. Wastawy, Bibliotheca Alexandrina.
+Virtual International Authority File (VIAF) . (August 2009) Brochure (English)
+Presentation(s)
+VIAF webinar recording and slides (pdf: 551K/35 pp.) . Spencer Anspach, Alasdair Watson, Magda el-Sherbini, Regan Kladstrup, Stephen Hearn and Karen Smith-Yoshimura. VIAF Show and Tell Webinar , 12 December 2011, OCLC Research, Dublin, Ohio (USA).
+The Virtual International Authority File (.ppt: 807K/29 slides) . Thom Hickey (25th Anniversary Authority Control Interest Group (ACIG) Program, ALA 2009 Annual Conference, 12 July 2009, McCormick Place West, Chicago, Illinois (USA))
+The Virtual International Authority File (.ppt: 1.1MB/35 slides) . Thom Hickey (Association of College and Research Libraries (ACRL) Western European Studies Section (WESS) Cataloging Discussion Group (CDG) Program, ALA 2009 Annual Conference, 11 July 2009, Palmer House, Chicago, Illinois (USA))
+Virtual International Authority File (.ppt: 325K/25 slides) . Thom Hickey (ALA Annual Conference, 24 June 2006, New Orleans, Louisiana (USA))
+Matching Names in Parallel (.ppt: 404K/26 slides) . Thom Hickey (Access 2006 Conference, 14 October 2006, Ottawa, Ontario (Canada))
+Virtual International Authority File (.ppt: 3.21MB/32 slides) . Edward T. O'Neill and Rick Bennett (Presented by Alison Hall at Music and multimedia: the Joint IAML and IASA Congress, 8-13 August 2004, Oslo (Norway))
+Miscellaneous papers, etc.
+"VIAF in Practice: Discussion Paper" Christel Hengel's (DNB) draft discussion paper on VIAF in Practice positing application scenarios and maintenance/funding, dated 2009-08-14. Distributed for comment.
+Hickey, Thomas B. 2009. " The Virtual International Authority File: Expanding the concept of universal bibliographic control " NextSpace , 13 (September).
+" Library leaders to extend Virtual International Authority File ." OCLC News Release, 14 November 2007.
+OCLC. 2003. " OCLC partners with Library of Congress, Die Deutsche Bibliothek to develop Virtual International Authority File ." OCLC Abstracts , 6,35 (2 September).
+OCLC, Die Deutsche Bibliothek and LC to develop Virtual International Authority File . OCLC Research News announcement (26 August 2003)
+Documentation
+Matching of Geographic Names Draft Report Draft report on matching geographic names for VIAF prepared by Rick Bennett and Ed O'Neill in June 2009
+Searching VIAF Documentation about searching VIAF prepared by Thom Hickey for comment by all VIAF participants on 2009-06-30.
+Personal Name Matching Jenny Toves' description of how names are matched in VIAF file processing. The Appendices list the "noise titles", country codes, occupation codes, and name synonyms, as well as an overview of the processing done from each source.
+Lead
+Thom Hickey (Co-Lead)
+Ed O'Neill (Co-Lead)
+Team Members
+Françoise Bourdon (Bibliothèque nationale de France)
+Rick Bennett
+Eric Childress
+Kerre Kammerer
+Ralph LeVan
+Barbara Pfeifer (Deutsche Nationalbibliothek)
+JD Shipengrover
+Karen Smith-Yoshimura
+Chris Stanton
+Barbara B. Tillett (Library of Congress)
+Jenny Toves
+ 
+Go to VIAF service page
+Follow OCLC Research
+OCLC Research
+Research areas
+RLP
+News & Events
+Publications
+About
+Related sites
+OCLC.org
+WebJunction
+Developer Network
+Community
+Support
+BibFormats
+Subscribe to our blog
+Check out the OCLC Research blog, Hanging Together , for insights on library, archive, and museum topics and challenges.
+Subscribe now
+© 2026 OCLC    Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. See OCLC's cookie notice to learn more.
+Privacy statement
+Accessibility statement
+ISO 27001 Certificate

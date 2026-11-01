@@ -1,0 +1,736 @@
+ORCID - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ Uses 
+
+ 2 
+ Development and launch 
+
+ 3 
+ Adoption 
+
+ 4 
+ Identifiers 
+
+ 5 
+ Members, sponsors and registrants 
+
+ Toggle Members, sponsors and registrants subsection 
+
+ 5.1 
+ National implementations 
+
+ 6 
+ Integrations 
+
+ 7 
+ See also 
+
+ 8 
+ References 
+
+ 9 
+ External links 
+
+ Toggle the table of contents 
+
+ ORCID 
+
+ 51 languages 
+
+ Afrikaans 
+ العربية 
+ مصرى 
+ Asturianu 
+ Azərbaycanca 
+ বাংলা 
+ Català 
+ Čeština 
+ Dansk 
+ Deutsch 
+ Ελληνικά 
+ Esperanto 
+ Español 
+ Euskara 
+ فارسی 
+ Suomi 
+ Français 
+ Nordfriisk 
+ Galego 
+ עברית 
+ हिन्दी 
+ Magyar 
+ Հայերեն 
+ Bahasa Indonesia 
+ Ilokano 
+ Italiano 
+ 日本語 
+ Қазақша 
+ 한국어 
+ Ligure 
+ मराठी 
+ Bahasa Melayu 
+ Malti 
+ မြန်မာဘာသာ 
+ Nederlands 
+ Norsk bokmål 
+ Polski 
+ Português 
+ Română 
+ Русский 
+ Srpskohrvatski / српскохрватски 
+ Simple English 
+ Slovenčina 
+ Slovenščina 
+ Српски / srpski 
+ Svenska 
+ தமிழ் 
+ Türkçe 
+ Українська 
+ Tiếng Việt 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikimedia Commons 
+ Wikidata 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ Alphanumeric technical code
+
+ Not to be confused with ORCHID .
+
+ For ORCID use on Wikipedia, see Wikipedia:ORCID .
+
+ 14,727,479<!-- ...without also updating it in the body of the article -->"},"digits":{"wt":"16"},"check_digit":{"wt":"0009-0004-9914-908X"},"example":{"wt":"https://orcid.org/my-orcid?orcid=0009-0004-9914-908X"},"website":{"wt":"{{URL|orcid.org}}"},"organization":{"wt":"ORCID, Inc."}},"i":0}}]}'> ORCID 
+
+ Full   name
+ Open Researcher and Contributor ID
+
+ Organization
+ ORCID, Inc.
+
+ Introduced
+ 16   October 2012 (14 years ago)   ( 2012-10-16 ) 
+
+ Number</span>"}]]}'>No. issued
+ 14,727,479
+
+ Number</span>"}]]}'>No.   of   digits
+ 16
+
+ Check digit 
+ 0009-0004-9914-908X
+
+ Example
+ https://orcid.org/my-orcid?orcid=0009-0004-9914-908X 
+
+ Website
+ orcid .org 
+
+ The ORCID ( / ˈ ɔːr k ɪ d / ⓘ ; Open Researcher and Contributor ID ) is a nonproprietary persistent identifier , in the form of an alphanumeric code, to uniquely identify authors and contributors of scholarly communication . [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] 
+
+ This addresses the problem that a particular author's contributions to the scientific literature or humanities publications can be hard to recognize, as most personal names are not unique, they can change ( such as with marriage ), have cultural differences in name order, contain inconsistent use of first-name abbreviations and employ different writing systems . It provides a persistent identity for humans, similar to tax ID numbers, that are created for content-related entities on digital networks by digital object identifiers (DOIs). [ 6 ] 
+
+ The ORCID system includes a website and services to look up authors and their bibliographic output (and other user-supplied pieces of information).
+
+ Uses
+ [ edit ] 
+
+ ORCID aims to provide a persistent code for people, [ 7 ] to address the problem that a particular author's contributions to scholarly communication can be hard to recognize, as most personal names are not unique, and thus multiple persons of the same name could contribute to the same scholarly field, even from the same institutional department. Further, names can change ( such as with marriage ); there are cultural differences in name ordering conventions ; journals make inconsistent use of first-name abbreviations, name suffixes , and middle initials; and employ different writing systems and transliterations .
+
+ The ORCID organization, ORCID Inc., offers registered users an online means of maintaining "a constantly updated 'digital curriculum vitae' providing a picture of their contributions to science going far beyond the simple publication list", [ 8 ] hosted by ORCID, edited by the user.
+
+ Development and launch
+ [ edit ] 
+
+ ORCID was first announced in 2009 as a collaborative effort by publishers of scholarly research "to resolve the author name ambiguity problem in scholarly communication". [ 9 ] The "Open Researcher Contributor Identification Initiative"—hence the name ORCID – was created temporarily prior to incorporation. [ 10 ] [ 11 ] 
+
+ A prototype was developed on software adapted from that used by Thomson Reuters for its ResearcherID system. [ 12 ] ORCID, Inc. was incorporated as an independent nonprofit organization in August 2010 in Delaware, United States of America, with an international board of directors. [ 13 ] [ 14 ] Its executive director, Chris Shillum, was appointed in September 2020; [ 15 ] he succeeded the founding ED, Laurel Haak , who was appointed in April 2012. [ 16 ] From 2026, the board is chaired by Heath Marks of the Australian Access Federation [ 17 ] (the previous chair was Veronique Kiermer of PLOS ). ORCID is freely usable and interoperable with other ID systems. [ 8 ] On 16   October 2012, ORCID launched its registry services [ 18 ] [ 19 ] and started issuing user identifiers. [ 20 ] 
+
+ Adoption
+ [ edit ] 
+
+ On 15 November 2014, ORCID announced the one-millionth registration. [ 21 ] 
+
+ On 20 November 2020, ORCID announced the ten-millionth registration. [ 22 ] 
+
+ As of 2   August   2022 [ update ] , the number of live accounts reported by ORCID was 14,727,479. [ 23 ] 
+
+ To encourage others to join them in supporting the adoption of ORCID, an open letter dated 1   January 2016 was crafted with "publishers that signed this open letter committed to requiring ORCID iDs following specific implementation standards". [ 24 ] [ 25 ] 
+
+ In a 2021 update to the Springer Nature website, they noted that they would thenceforth "support verifying and crediting your [peer] review activity directly from our manuscript submission systems to ORCID". [ 26 ] 
+
+ Identifiers
+ [ edit ] 
+
+ Formally, ORCID IDs are specified as URLs, [ 27 ] for example, the ORCID ID for Josiah S. Carberry (a fictitious professor used in examples and testing) is https://orcid.org/0000-0002-1825-0097 [ 28 ] [ 29 ] (both https:// and http:// forms are supported; the former became canonical in November 2017 [ 30 ] ). However, some publishers use the short form, e.g. "ORCID: 0000-0002-1825-0097" [ 31 ] (as a URN ).
+
+ ORCID IDs are a subset of the International Standard Name Identifier (ISNI), [ 32 ] under the auspices of the International Organization for Standardization (as ISO 27729), and the two organizations are cooperating. ISNI will uniquely identify contributors to books , television programmes , and newspapers , and has reserved a block of identifiers for use by ORCID, [ 32 ] [ 33 ] in the range 0000-0001-5000-0007 to 0000-0003-5000-0001. [ 34 ] It is therefore possible for a person to legitimately have both an ISNI and an ORCID ID [ 35 ] [ 36 ] – effectively, two ISNIs.
+
+ Both ORCID and ISNI use 16-character identifiers, [ 33 ] using the digits 0–9, and separated into groups of four by hyphens. [ 31 ] The final character, which may also be a letter "X" representing the value "10" (for example, Stephen Hawking 's ORCID is https://orcid.org/0000-0002-9079-593X [ 37 ] ), is a MOD 11-2 check digit conforming to the ISO/IEC 7064:2003 standard.
+
+ Members, sponsors and registrants
+ [ edit ] 
+
+ By the end of 2013, ORCID had 111 member organizations and over 460,000 registrants. [ 38 ] [ 39 ] [ 40 ] On 15 November 2014, ORCID announced the one-millionth registration, [ 21 ] and on 20 November 2020 the ten-millionth registration. [ 22 ] As of 2   August   2022 [ update ] , ORCID reported 1258 member organizations and 14,727,479 live accounts. [ 41 ] The organizational members include many research institutions such as Caltech and Cornell University , and publishers such as Elsevier , Springer , Wiley and Nature Publishing Group . There are also commercial companies including Thomson Reuters , academic societies and funding bodies. [ 42 ] 
+
+ Grant-making bodies such as the Wellcome Trust (a charitable foundation) also mandate that applicants for funding provide an ORCID identifier. [ 43 ] 
+
+ National implementations
+ [ edit ] 
+
+ In several countries, consortia, including government bodies as partners, are operating at a national level to implement ORCID. For example, in Italy, seventy universities and four research centres are collaborating under the auspices of the Conference of Italian University Rectors   [ it ] (CRUI) and the National Agency for the Evaluation of the University and Research Institutes (ANVUR), in a project implemented by Cineca, a not-for-profit consortium representing the universities, research institutions, and the Ministry of Education. [ 44 ] In Australia, the government's National Health and Medical Research Council (NHMRC) and Australian Research Council (ARC) "encourage all researchers applying for funding to have an ORCID identifier". [ 45 ] The French scientific article repository HAL also invites its users to enter their ORCID ID. [ 46 ] 
+
+ Integrations
+ [ edit ] 
+
+ Nick Jennings's ORCID in his Wikidata entry 
+
+ Both Wikipedia and Wikidata include pages with ORCID identifiers. [ 47 ] [ 48 ] 
+
+ As of 2014 in addition to members and sponsors, journals, publishers, and other services have or had included ORCID in their workflows or databases. [ 49 ] [ 50 ] [ 51 ] [ 31 ] [ 52 ] [ 53 ] In 2014 to 2016 some online services created tools for exporting data to, or importing data from, ORCID. [ 54 ] [ 55 ] [ 56 ] [ 57 ] [ 58 ] [ 59 ] [ 60 ] 
+
+ In October 2015, DataCite , Crossref and ORCID announced that the former organisations would update ORCID records, "when an ORCID identifier is found in newly registered DOI names". [ 61 ] [ 62 ] 
+
+ Some ORCID data may also be retrieved as RDF/XML , RDF Turtle , XML or JSON . [ 63 ] [ 64 ] ORCID uses GitHub as its code repository. [ 65 ] 
+
+ See also
+ [ edit ] 
+
+ Authority control 
+
+ Digital Author Identifier (DAI)
+
+ Digital object identifiers (DOI)
+
+ List of academic databases and search engines 
+
+ Research Organization Registry (ROR) – similar concept for research organizations
+
+ Ringgold identifier (RIN)
+
+ Virtual International Authority File (VIAF)
+
+ References
+ [ edit ] 
+
+ ↑ "Credit where credit is due" . Nature . 462 (7275): 825. December 2009. Bibcode : 2009Natur.462Q.825. . doi : 10.1038/462825a . PMID   20016547 . 
+
+ ↑ "ORCID" . orcid.org . Retrieved 15 August 2026 . 
+
+ ↑ Butler, Declan (31 May 2012). "Scientists: your number is up" . Nature . 485 (7400): 564. Bibcode : 2012Natur.485..564B . doi : 10.1038/485564a . PMID   22660298 . S2CID   205071928 . Retrieved 15 August 2026 . 
+
+ ↑ "Ten things you need to know about ORCID right now" . OpenAlex blog . 10 April 2014 . Retrieved 15 August 2026 . 
+
+ ↑ Meadows, Alice (6 October 2015). "ORCID – Unique Author Identifier" . ChemistryViews (Interview). Interviewed by Koester, Vera. doi : 10.1002/chemv.201500088 . Retrieved 15 August 2026 . 
+
+ ↑ "CrossRef & ORCID" . CrossRef . 24 March 2011. Archived from the original on 10 January 2017 . Retrieved 15 August 2026 . 
+
+ ↑ Farley, Isaac. "ORCID auto-update" . Crossref . 
+
+ 1 2 "Credit where credit is due" . Nature . 462 (7275): 825. 2009. Bibcode : 2009Natur.462Q.825. . doi : 10.1038/462825a . PMID   20016547 . S2CID   110700750 . 
+
+ ↑ "Research Stakeholders Announce Collaboration Among Broad Cross-Section of Community to Resolve Name Ambiguity in Scholarly Research" (PDF) . Archived from the original (PDF) on 2 February 2010 . Retrieved 19 June 2018 – via internet archive. 
+
+ ↑ "Welcome to the Open Researcher Contributor Identification Initiative (or ORCID) group on Nature Network" . Archived from the original on 21 September 2013 . Retrieved 1 June 2017 – via internet archive. 
+
+ ↑ "What is the relationship between the ORCID Initiative and ORCID, Inc.? – Feedback & support for ORCID" . support.orcid.org . Archived from the original on 19 June 2018 . Retrieved 19 June 2018 . 
+
+ ↑ "Press Release: ORCID funding and development efforts on target" . 15 August 2011. ORCID also announced today that Thomson Reuters has provided ORCID with a perpetual license and royalty free use of ResearcherID code and intellectual property, giving ORCID the critical technology to create its system. [ dead link ] 
+
+ ↑ Craig Van Dyck. "Wiley-Blackwell Publishing News: An Update on the Open Researcher and Contributor Identifier (ORCID)" . Retrieved 23 October 2012 . {{ cite web }} : CS1 maint: deprecated archival service ( link ) 
+
+ ↑ "Certificate of Incorporation of ORCID Inc" (PDF) . State of Delaware. 5 August 2015. Archived (PDF) from the original on 4 March 2022 . Retrieved 27 August 2015 . 
+
+ ↑ Petro, Julie Anne (14 September 2020). "ORCID Proudly Announces its New Executive Director" . EIN Presswire . Retrieved 15 September 2020 . 
+
+ ↑ Butler, Declan (30 May 2012). "Scientists: your number is up" . Nature . 485 (7400): 564. Bibcode : 2012Natur.485..564B . doi : 10.1038/485564a . PMID   22660298 . 
+
+ ↑ "ORCID Board" . ORCID . Retrieved 17 August 2026 . 
+
+ ↑ "ORCID Launches Registry" . 16 October 2012. Archived from the original on 14 March 2013 . Retrieved 18 October 2012 . 
+
+ ↑ "ORCID vs ISNI; ORCID lanceert vandaag hun Author Register" . SURFspace (in Dutch). Archived from the original on 14 April 2014 . Retrieved 24 October 2012 . 
+
+ ↑ "Register for an ORCID iD" . Retrieved 18 October 2012 . 
+
+ 1 2 "Tweet" . ORCID. 15 November 2014 . Retrieved 15 November 2014 . It's official! 1M of you have an ORCID iD! We thank the community, and look forward to continued collaboration. 
+
+ 1 2 "10M ORCID iDs!" . ORCID. 20 November 2020 . Retrieved 16 January 2021 . 
+
+ ↑ ORCID. "ORCID Statistics" . orcid.org . Retrieved 2 August 2022 . 
+
+ ↑ various (1 January 2016). "Requiring ORCID in Publication Workflows: Open Letter" . Retrieved 8 January 2016 . 
+
+ ↑ "Why Some Publishers are Requiring ORCID iDs for Authors: An Interview with Stuart Taylor, The Royal Society" . The Scholarly Kitchen . 7 January 2016 . Retrieved 8 January 2016 . 
+
+ ↑ "ORCID iDs at Springer Nature" . Springer Nature . Retrieved 31 January 2021 . 
+
+ ↑ "Trademark and iD Display Guidelines" . ORCID. 19 February 2013 . Retrieved 21 August 2013 . 
+
+ ↑ "Structure of the ORCID Identifier" . ORCID. 
+
+ ↑ "Josiah Carberry" . Biography . ORCID, Inc . Retrieved 22 December 2014 . Josiah Carberry is a fictitious person. 
+
+ ↑ Meadows, Alice (15 November 2017). "Announcing API 2.1 – ORCID iDs are now HTTPS!" . ORCID . Retrieved 16 November 2017 . 
+
+ 1 2 3 "Hiroshi Asakura" . Hindawi Publishing Corporation . Archived from the original on 1 November 2014 . Retrieved 20 April 2014 . 
+
+ 1 2 "ISNI and ORCID" . ISNI. Archived from the original on 4 March 2013 . Retrieved 29 March 2013 . 
+
+ 1 2 "What is the relationship between ISNI and ORCID?" . 10 October 2012. Archived from the original on 10 September 2012 . Retrieved 23 October 2012 . 
+
+ ↑ "Structure of the ORCID Identifier" . ORCID. Archived from the original on 22 January 2018 . Retrieved 23 July 2014 . 
+
+ ↑ "ISNI 0000000031979523" . ISNI. Archived from the original on 1 November 2014 . Retrieved 20 April 2014 . 
+
+ ↑ "ORCID 0000-0001-5882-6823" . ORCID . Retrieved 20 April 2014 . 
+
+ ↑ ORCID. "Stephen Hawking (0000-0002-9079-593X) – ORCID | Connecting Research and Researchers" . orcid.org . Retrieved 23 October 2017 . 
+
+ ↑ "2013 Year in review" . ORCID, Inc. 6 January 2014 . Retrieved 1 February 2014 . 
+
+ ↑ "Members" . ORCID, Inc . Retrieved 20 July 2013 . 
+
+ ↑ O'Beirne, Richard. "OUP and ORCID" . Oxford Journals. Archived from the original on 30 March 2014 . Retrieved 15 April 2014 . 
+
+ ↑ ORCID. "ORCID Statistics" . orcid.org . Retrieved 2 August 2022 . 
+
+ ↑ "ORCID Community" . info.orcid.org . 
+
+ ↑ Wilsdon; et   al. (July 2015). "The Metric Tide" (PDF) . Archived from the original (PDF) on 21 August 2015 . Retrieved 10 July 2015 . 
+
+ ↑ Meadows, Alice (22 June 2015). "Italy Launches National ORCID Implementation" . ORCID . Retrieved 29 June 2015 . 
+
+ ↑ "NHMRC and ARC Statement on Open Researcher and Contributor ID (ORCID)" . National Health and Medical Research Council. 10 April 2015. Archived from the original on 13 March 2018 . Retrieved 29 June 2015 . 
+
+ ↑ "Identifiant auteur IdHAL et CV" . 1 June 2018. 
+
+ ↑ Wikipedia authors. "Category:Wikipedia articles with ORCID identifiers" . Wikipedia . Wikimedia Foundation . Retrieved 20 April 2014 . 
+
+ ↑ Wikidata contributors. "Pages that link to "Property:P496" " . Wikidata . Wikimedia Foundation . Retrieved 20 April 2014 . 
+
+ ↑ "Announcements" . Journal of Neuroscience. April 2014. Archived from the original on 22 June 2014 . Retrieved 20 April 2014 . 
+
+ ↑ "The Journal of Neuroscience Rolls Out ORCID Integration" . Society for Neuroscience . Retrieved 20 April 2014 . 
+
+ ↑ "Author Zone 16 – ORCID" . Springer Publishing . Retrieved 21 April 2014 . 
+
+ ↑ "ORCID Article Claiming" . Europe PubMed Central . Retrieved 16 May 2014 . 
+
+ ↑ "ORCID integration" . Researcher Name Resolver . National Institute of Informatics . Archived from the original on 21 April 2014 . Retrieved 20 April 2014 . 
+
+ ↑ "Scopus2Orcid – Use the Scopus to Orcid Author details and documents wizard to collect all your Scopus records in one unique author profile" . Scopus . Archived from the original on 24 July 2014 . Retrieved 7 May 2014 . 
+
+ ↑ "figshare ORCID integration" . Figshare . Archived from the original on 31 May 2014 . Retrieved 7 May 2014 . 
+
+ ↑ "RID – ORCID Integration – IP & Science" . Thomson Reuters. Archived from the original on 12 September 2015 . Retrieved 29 March 2013 . 
+
+ ↑ "Researchfish now integrating with the ORCID registry" . Researchfish. 4 July 2015. Archived from the original on 15 July 2015 . Retrieved 14 July 2015 . 
+
+ ↑ "British Library EThOS – about searching and ordering theses online" . British Library . Archived from the original on 21 March 2016 . Retrieved 15 October 2015 . 
+
+ ↑ }}"}},"i":0}}]}'/> "Connected from the Beginning: Adding ORCID to ETDs" . 12 October 2015 . Retrieved 15 October 2015 . 
+
+ ↑ Ponto, Michelle (7 October 2015). "ORCID and Loop: A New Researcher Profile System Integration" . ORCID . Retrieved 7 September 2016 . 
+
+ ↑ "Explaining the DataCite/ORCID Auto-update" . DataCite . 29 October 2015. 
+
+ ↑ "Auto-Update Has Arrived! ORCID Records Move to the Next Level" . Crossref . 26 October 2015. Archived from the original on 18 November 2015 . Retrieved 17 November 2015 . 
+
+ ↑ "Q&D RDF Browser" . Retrieved 17 June 2014 . 
+
+ ↑ Archer, Phil. "Proposal for the Improvement of the Semantics of ORCIDs" . W3C . Retrieved 19 April 2015 . 
+
+ ↑ "ORCID, Inc" . GitHub . Retrieved 19 April 2015 . 
+
+ External links
+ [ edit ] 
+
+ Wikidata has the property: 
+ ORCID iD (P496) (see uses )
+
+ Wikimedia Commons has media related to ORCID .
+
+ Wikibooks has a book on the topic of: ORCiD Advocacy Toolkit 
+
+ Official website 
+
+ v 
+ t 
+ e 
+
+ Academic publishing 
+
+ Journals
+
+ Academic journal 
+ Public health 
+
+ Papers
+
+ Paper 
+ Abstract 
+
+ Review article 
+
+ Position paper 
+
+ Literature review 
+
+ Grey literature 
+
+ Working paper 
+
+ White paper 
+
+ Technical report 
+
+ Annual report 
+
+ Pamphlet 
+
+ Essay 
+
+ Lab notes 
+
+ Other publication types
+
+ Thesis 
+ Collection of articles 
+
+ Patent 
+ Biological 
+
+ Chemical 
+
+ Book 
+ Monograph 
+
+ Edited volume 
+
+ Festschrift 
+
+ Chapter 
+
+ Treatise 
+
+ Poster session 
+
+ Proceedings 
+
+ Impact and ranking 
+
+ Acknowledgment index 
+
+ Altmetrics 
+
+ Article-level metrics 
+
+ Author-level metrics 
+
+ Bibliometrics 
+
+ C-score 
+
+ Journal ranking 
+
+ Eigenfactor 
+
+ g-index 
+
+ h -index 
+
+ Impact factor 
+
+ Rankings of academic publishers 
+
+ Science-wide author databases of standardized citation indicators 
+
+ Scientometrics 
+
+ SCImago Journal Rank 
+
+ Citation cartel 
+
+ Reform and access
+
+ Academic journal publishing reform 
+
+ Open access 
+ Citation advantage 
+
+ Serials crisis 
+
+ Sci-Hub 
+
+ #ICanHazPDF 
+
+ Versioning
+
+ Preprint 
+
+ Postprint 
+
+ Version of record 
+
+ Erratum 
+
+ Retraction 
+
+ Indexes and search engines 
+
+ Google Scholar 
+
+ AMiner 
+
+ BASE 
+
+ CORE 
+
+ Semantic Scholar 
+
+ Scopus 
+
+ Web of Science 
+
+ Paperity 
+
+ OpenAlex 
+
+ Index Copernicus 
+
+ ERIH PLUS 
+
+ Sherpa Romeo 
+
+ OpenAIRE 
+
+ Related topics
+
+ Imprint 
+
+ Scientific writing 
+
+ Peer review 
+ Scholarly 
+
+ Scholarly communication 
+
+ Scientific literature 
+
+ Learned society 
+
+ Open research 
+
+ Open scientific data 
+
+ ORCID 
+
+ Electronic publishing 
+
+ Documentary editing 
+
+ Text publication society 
+
+ Ingelfinger rule 
+
+ Least publishable unit 
+
+ " Publish or perish "
+
+ Lists
+
+ Academic databases and search engines 
+
+ Academic journals 
+
+ Copyright policies 
+
+ Highly Cited Researchers 
+
+ Open-access journals 
+
+ Preprint policies 
+
+ Scientific journals 
+
+ Style/formatting guides 
+
+ University presses 
+
+   Category 
+
+ Commons 
+
+ Authority control databases 
+ GND 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=ORCID&oldid=1380970142 "
+
+ Categories : 2012 introductions 
+ Academic publishing 
+ Identifiers 
+ Technical communication 
+ Library cataloging and classification 
+ Scholarly communication 
+ Companies based in Bethesda, Maryland 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Use dmy dates from September 2021 
+ Pages using the Phonos extension 
+ Pages including recorded pronunciations 
+ All articles with dead external links 
+ Articles with dead external links from May 2014 
+ CS1 maint: deprecated archival service 
+ CS1 Dutch-language sources (nl) 
+ Articles containing potentially dated statements from August 2022 
+ All articles containing potentially dated statements 
+ Commons category link from Wikidata 
+
+ This page was last edited on 19 October 2026, at 03:57  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ ORCID 
+
+ 51 languages 
+
+ Add topic

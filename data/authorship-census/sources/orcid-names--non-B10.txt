@@ -1,0 +1,407 @@
+About ORCID - ORCID
+
+Advance Notice: We are performing maintenance over the next several weeks.
+Registry users may experience brief periods of slower performance or intermittent error messages on 10, 12, 17 and 24 February between 13:30-14:30 UTC.
+
+Skip to primary navigation
+
+Skip to main content
+
+Connecting research and researchers
+
+Sign in to ORCID
+
+About
+
+About ORCID
+
+Our Mission
+
+ORCID 2030: Advancing the Future of Research
+
+ORCID Trust
+
+Annual Reports
+
+DEI at ORCID
+
+ORCID’s First Decade: From Startup to Sustainability
+
+Team
+
+ORCID Board
+
+ORCID Team
+
+Work with Us!
+
+ORCID Partners
+
+Our Community
+
+Consortia Interest Group
+
+Funders Interest Group
+
+ORCID Researcher Advisory Council
+
+ORCID’s Historical Community
+
+ORCID Community Partners
+
+Peer PID and Scholarly Infrastructure Providers
+
+Services
+
+Affiliation Manager
+
+Member Portal
+
+Annual data files
+
+Member API
+
+Public API
+
+ORCID Registry
+
+Governance
+
+Audit and Risk Committee
+
+ORCID Board Charter
+
+Board Elections
+
+Board Nominating Committee
+
+Bylaws
+
+Certificate of Incorporation
+
+Executive Committee Charter
+
+Finance Committee Charter
+
+Membership and Fees Charter
+
+Policies
+
+API Version Policy
+
+Brand Guidelines
+
+Contract and Invoicing Policy
+
+Dispute Procedures
+
+Open Source Project License
+
+ORCID Guidance on Publishing Service Providers
+
+ORCID Policy on Mergers and Acquisitions of Member Organizations
+
+ORCID Privacy Policy
+
+Public APIs Terms of Service
+
+Public Data File Use Policy
+
+Schrems II FAQ
+
+Terms of Use
+
+Whistleblower Policy
+
+For Researchers
+
+ORCID for Researchers
+
+Researcher FAQ
+
+Video Tutorials
+
+Your ORCID Record
+
+Get Help
+
+Membership
+
+ORCID Membership is for Organizations
+
+ORCID for Funders and Facilities
+
+ORCID for Government and Policy Makers
+
+ORCID for Publishers
+
+ORCID for Journal Editors
+
+ORCID for Universities and Research Institutions
+
+Request Membership
+
+Member List
+
+How we set our fees
+
+Terms and Conditions for Direct Member Organizations
+
+Vendors and Service Providers
+
+Become an ORCID Certified Service Provider
+
+ORCID Certified Service Providers List
+
+CSP Criteria/ Best Practices
+
+Discovery Systems
+
+Manuscript Submission Systems
+
+Research Information Systems
+
+Repository Systems
+
+Grant/Facility Application Management Systems
+
+ORCID Consortia
+
+Building a Successful Consortium
+
+Consortia Lead Agreement
+
+Consortia Onboarding Checklist
+
+ORCID Regional Consortia
+
+Roles and Responsibilities of ORCID Consortia
+
+Consortia Tools
+
+Affiliation Manager
+
+Member Portal
+
+Documentation
+
+Documentation
+
+Workflows
+
+Journal Articles
+
+Employment
+
+Peer Review
+
+Funder and Grants
+
+View More
+
+Integration Guide
+
+Getting Started with Your Integration
+
+Registering a Member API Client
+
+Integration and API FAQ
+
+View More
+
+Integration Best Practices
+
+Collecting and sharing ORCID iDs
+
+Discovery Systems
+
+Grant/Facility Application Management Systems
+
+Manuscript Submission Systems
+
+Repository Systems
+
+Research Information Systems
+
+Member Portal
+
+Account Management Guide
+
+Affiliation Manager Guide
+
+Manage Membership Info Guide
+
+Member Reporting Guide
+
+Resources
+
+Resources
+
+Global Participation Program
+
+GPP Community Partners
+
+Global Participation Fund
+
+GPF Proposal Submission
+
+Global Participation Fund FAQ
+
+GPF Evaluation Rubric
+
+Global Participation Fund Outcomes
+
+Integration Resources
+
+API Documentation
+
+For Developers
+
+API Users Group
+
+Register a Sandbox API Client
+
+Register a Production API Client
+
+Other Resources
+
+Give Feedback
+
+ORCID Brand Guidelines
+
+ORCID Brand Library
+
+ORCID iD display guidelines
+
+ORCID Outreach Resources
+
+ORCID Public Data File on Google Big Query
+
+ORCID Statistics
+
+News & Events
+
+Upcoming Events & News
+
+News
+
+ORCID News
+
+Consortia News
+
+Registry Release Notes
+
+Integration News
+
+Blog
+
+Product Updates
+
+Use Cases
+
+Events
+
+Events Calendar
+
+In Person Events
+
+Webinars
+
+ORCID On-Demand
+
+Member News
+
+New Certified Service Providers
+
+New Integrations
+
+New Members
+
+You are here: Home / About ORCID
+
+About ORCID
+
+ORCID, which stands for Open Researcher and Contributor ID, is a global, not-for-profit organization sustained by fees from our member organizations. We are community-built and governed by a Board of Directors representative of our membership with wide stakeholder representation. ORCID is supported by a dedicated and knowledgeable professional staff.
+
+Our Vision
+
+ORCID’s vision is a world where all who participate in research, scholarship, and innovation are uniquely identified and connected to their contributions across disciplines, borders, and time.
+
+Our Mission
+
+In order to realize our vision, ORCID strives to enable transparent and trustworthy connections between researchers, their contributions, and their affiliations by providing a unique, persistent identifier for individuals to use as they engage in research, scholarship, and innovation activities.
+
+We do this by providing three interrelated services:
+
+The ORCID iD: a unique, persistent identifier free of charge to researchers
+
+An ORCID record connected to the ORCID iD, and
+
+A set of Application Programming Interfaces (APIs), as well as the services and support of communities of practice that enable interoperability between an ORCID record and member organizations so researchers can choose to allow connection of their iD with their affiliations and contributions
+
+Our Plans
+
+Our strategic focus for 2026–2029 is to expand the value and scope of ORCID as a verifiable identity and contribution data hub in order to proactively empower the global research community and advance transparent, trustworthy scholarship.
+In order to do this, we have identified five themes in our new strategic plan, ORCID 2030: Advancing the Future of Research.
+
+Our Values
+
+ORCID is an integral part of the wider digital infrastructure needed for researchers to share information on a global scale. We position the researcher at the center of everything we do.
+
+Open
+
+Our work is open, transparent, and non-proprietary. We make decisions collaboratively, involving our staff, Board, those who support our mission, and the researchers and community that are the purpose of our work.
+
+Trusted
+
+We strive to be a trusted component of research infrastructure with the goal of providing clarity in the breadth of research contributions and the people who make them. We are guided by the principles of privacy and researcher control and the vision of identifier-enabled research information infrastructure.
+
+Inclusive
+
+We take an inclusive view. We have a diverse team, deployed internationally in our virtual office. We engage with a wide range of organizations and people to ensure broad viewpoints.
+
+Diversity, Equity, and Inclusion at ORCID
+
+Read more about ORCID’s DEI philosophy, our principles, our DEI activities in our community, and how we embed DEI practices into all aspects of operations.
+
+Our Founding Principles
+
+ORCID will work to support the creation of a permanent, clear, and unambiguous record of research and scholarly communication by enabling reliable attribution of authors and contributors.
+
+ORCID will transcend discipline, geographic, national, and institutional boundaries.
+
+Participation in ORCID is open to any organization that has an interest in research and scholarly communications.
+
+Access to ORCID services will be based on transparent and non-discriminatory terms posted on the ORCID website.
+
+Researchers will be able to create, edit, and maintain an ORCID identifier and record free of charge.
+
+Researchers will control the defined privacy settings of their own ORCID record data.
+
+All data contributed to ORCID by researchers or claimed by them will be available in standard formats for free download (subject to the researchers’ own privacy settings) that are updated once a year and released under a CC0 waiver.
+
+All software developed by ORCID will be publicly released under an Open Source Software license approved by the Open Source Initiative. For the software it adopts, ORCID will prefer Open Source.
+
+ORCID identifiers and record data (subject to privacy settings) will be made available via a combination of no-charge and for-a-fee APIs and services. Any fees will be set to ensure the sustainability of ORCID as a not-for-profit, charitable organization focused on the long-term persistence of the ORCID system.
+
+ORCID will be governed by representatives from a broad cross-section of stakeholders, the majority of whom are not-for-profit, and will strive for maximal transparency by publicly posting summaries of all Board meetings and annual financial reports.
+
+The text of this website is published under a
+CC0 license.
+ORCID™ , the ORCID logo, and the iD logo are trademarks of ORCID, Inc. ORCID is registered in the US and other jurisdictions.
+
+About ORCID
+
+Privacy Policy
+
+Terms of Use
+
+Accessibility Statement
+
+ORCID Help Centre
+
+Dispute Procedures
+
+Brand Guidelines
+
+Cookie Settings

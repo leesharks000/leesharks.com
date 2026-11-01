@@ -1,0 +1,245 @@
+The Electronic Literature Lab
+
+The Electronic Literature Lab
+
+ About ELL
+ Projects
+ Retro Computing
+ News & Press
+ People
+ Donate
+
+We grow and
+save things
+
+Human creative expression, no matter the medium, should be nurtured, documented,
+ and preserved. Born-digital art, literature, and games—the genres of human expression
+ generating from the digital age—are unique forms of expression for their wide range of
+ experimentation and visionary uses of technologies. These works are also fragile, requiring special
+ attention so that they endure as a historical record of our culture and humanity.
+
+The
+ Electronic
+ Literature Lab (ELL) at Washington State University Vancouver is dedicated to this
+ mission. Over its 15-year history, ELL has archived, curated, documented, restored, reconstructed,
+ and
+ produced born-digital art, literature, and video games, work requiring legacy hardware and software
+ for accessing floppy disks and CD-ROMs on which much early work was produced. The result is a
+ collection of over 100 Macintosh & Windows computers dating back to 1977, and a library of software,
+ manuals, and born-digital works. We've also built and continue to manage ELO's The NEXT and support radio
+ art
+ through Re-imagined Radio and video game
+ R&D
+ through CMDC Studios.
+
+Explore and
+ learn
+ why—and how—we "grow and save things."
+
+Our spaces
+
+ Take a 360° virtual tour of ELL →
+
+The Marjorie C. Luesebrink Reading Room
+
+One of the only spaces of its type in the world, The Reading Room, named for the pioneering
+ artist Marjorie C. Luesebrink who published under the name M. D. Coverley, is the location where
+ visitors interested in born-digital art, literature, and games can access historical media on
+ one of our many computers.
+
+The Archives Room
+
+Physical archives associated with The NEXT and the Electronic Literature Organization are held in
+ The Archives Room. Digitalizing as well as cataloging materials take place in this space.
+ Archives include artists’ notebooks and personal papers but also performance props and
+ ephemera.
+
+The Restoration Room
+
+To ensure we have the tools we need to maintain the accessibility of born-digital art,
+ literature, and games, ELL keeps a backstock of hardware, software, and their accompanying
+ manuals, and peripherals (e.g., webcams, printers, joysticks) in our Restoration Room. For retro
+ computing fans, it's paradise.
+
+The Studio
+
+Originally a multimedia performance space, The Studio now hosts live Traversals, artists talks,
+ and interviews relating to born-digital art, literature, and games. The space is equipped with
+ sound and video tools, including computers, mixing boards, speakers, microphones, and a
+ large-screen monitor.
+
+Our mission
+
+At the heart of the Electronic Literature Lab’s mission is care for human expression and the human
+ experience. Through our work of curation, documentation, preservation, conservation, and production
+ of born-digital art, literature, and video games, we strive to embody the following values. These
+ principles guide our work and our relationships with creators, collaborators, the public, and each
+ other.
+
+Read ELL's Code of Ethics
+ →
+
+Our history
+
+2008
+
+ELL opens as a reading room for scholars to engage with born-digital media
+
+ELL’s history starts with the exhibition Grigar curated for the Electronic Literature
+ Organization’s 2008 conference. Entitled "Early Authors of Electronic Literature: The
+ Eastgate School, Voyager Artists, and Independent Productions," the event made it possible
+ for visitors to access floppy disks and CD-ROMs held in her personal library on legacy
+ computers she owned and had access to. The positive response she received made it clear a
+ space dedicated to experiencing born-digital art, literature, and was needed.
+
+ On July 15, 2010 Grigar requested a room on campus for a reading room called the
+ “Electronic
+ Literature Lab.” Six months later, on January 10, 2011 Grigar moved into ELL and set
+ up her
+ 16 legacy computers and organized her personal library of born-digital media. Shortly after,
+ on April 15, 2011 Anne Balsamo visited ELL and suggested ideas for its future
+ use.
+
+ National and international recognition led to ELL moving to a more visible space in April
+ 2015, where the Reading Room continues its mission to provide access.
+
+2013
+
+ELL expands its mission to include innovating documentation methodology for born-digital
+ literature
+
+With Anna Balsamo's and Stuart Moulthrop's support, Grigar and Moulthrop receive an NEH grant
+ in April 9, 2013 for Pathfinders, with the first Traversal, Moulthrop’s Victory
+ Garden,
+ taking place on July 8-11, 2013. John McDaid's Traversal of Uncle Buddy’s Phantom
+ Funhouse followed on August 7-10, 2013, and Shelley Jackson's Traversal of
+ Patchwork Girl on October 17-20, 2013. Others, Bill Bly's Traversal of We
+ Descend (with support from Matt Kirschenbaum) and Judy Malloy's Traversal of
+ Uncle Roger were held outside of ELL. 
+
+ On June 1, 2015 the Pathfinders multimedia "Scalar" book was published. A few days
+ later on June 4, 2015 Grigar and Moulthrop sign the contract for Traversals with
+ The MIT Press. The book was published on April 2017. 
+
+ ELL continued to hold Traversals and publishing results in Rebooting Electronic
+ Literature, Volumes 1-5 from 2018- 2021.
+
+2016
+
+ELL becomes involved in archiving and making born-digital art, literature, and games
+ accessible to the public
+
+Beginning December 2016, ELL was given the archives belonging to the trAce Online Writing
+ Centre, with support from Sue Thomas; and Turbulence.org, with support from Helen Thorington
+ and Jo-Anne Green. Realizing the need to create a space for the archives to be accessible to
+ the public, Grigar submitted a proposal to The Alfred W. Mellon Foundation to build a
+ repository. The grant was awarded in May 2018 that year. Six months later, on December 30,
+ the Electronic Literature Repository (ELR) went live with seven collections: trAce,
+ Turbulence, Alan Bigelow, Stephanie Strickland, Marjorie C. Luesebrink, N. Katherine Hayles,
+ and David Kolb. 
+
+ The need to showcase the digital archives more aesthetically led to the ELR to be
+ re-envisioned as a museum and library called The NEXT and built with open Web languages. The
+ work was undertaken by graduating seniors of the Digital Technology and Culture Department
+ at the Vancouver campus. The NEXT launched on May 6, 2020. 
+
+ Broad accessibility remained a goal, so in 2021 ELL team members Holly Slocum and Greg
+ Philbrook rebuilt The NEXT with Semantic Markup and ARIA so that it was accessible via
+ machine readers. They also continued to innovate its design. The next year, in 2022, ELL was
+ given the 2022 Open Scholarship Award by The Canadian Social Knowledge Institute for The
+ NEXT. 
+
+ Innovation continued with the move to make The NEXT's Visualization space accessible as a
+ Virtual Reality experience. Grigar was awarded a grant from WSU Vancouver to achieve this
+ goal.
+
+2019
+
+ELL begins to conserve work by restoring and reconstructing born-digital art, literature,
+ and games held in the archives to ensure outmoded works are accessible to the public
+
+In 2019 ELL restored Deena Larsen's 17 "Kanji-Kus" poems by moving them out of iFrames and
+ programming the functionality provided by the Java Applets with JavaScript. In January 2020
+ ELL picked up its first conservation project: Annie Grosshan's The World Is Not Done
+ Yet; it also begins to preserve Flash works with Ruffle. 
+
+ ELL worked with students from the DTC Vancouver’s 2021 graduating class to translate
+ Thomas
+ Disch's Amnesia, for the Web, calling the project Amnesia Restored; during
+ that same year the ELL Team reconstructed Richard Holeton's hypertext novel, Figurski at
+ Findhorn on Acid.
+
+ Conservation efforts continued in 2022 with ELL building David's Kolb's "Caged Text," a work
+ originally planned for his essay, Socrates in the Labyrinth that had remained
+ unfinished since 1997. The lab also led a team of DTC Vancouver seniors to translate Sarah
+ Smith's King of Space for the Web, and the led reconstructed Stuart Moulthrop's
+ hypertext novel, Victory Garden.
+
+ The next year in 2023 ELL reconstructed Bill Bly's We Descend and led DTC seniors
+ to reconstruct John McDaid's Uncle Buddy's Phantom Funhouse.
+
+ In the spring of 2024 ELL began work on Christy Sanford's "Red Mona" and oversaw the
+ Undergraduate Researcher, James Lesperance, efforts to develop a NetProv engine aimed at
+ documenting Rob Wittig's corpus, a project funded by WSU Vancouver's Undergraduate Research
+ Fellow Award. 
+
+2020
+
+ELL innovates metadata for born-digital media that are interactive, participatory, and
+ experiential
+
+In 2020, ELL created the first iteration of its unique metadata schema, ELMS 1.0, by
+ modifying the schema developed by The CELL Project, which had extended with the controlled
+ vocabularies of MODS. ELL continued to refine the ELMS metadata schema to include more
+ descriptive controlled vocabularies and additional fields, calling this version, ELMS 2.0,
+ in 2022. That same year Grigar and ELL's Associate Director Richard Snyder participated in
+ Triangle SCI 2022 to develop controlled vocabularies that attended to the needs of people
+ with disabilities and sensory sensibilities, a project resulting in ELMS 3.0. 
+
+ In June 2023, Grigar and Snyder were awarded a grant from the Society of American Archivists
+ to test and implement ELMS 3.0 to 30 works in The NEXT. With the successful outcome from the
+ testing, Grigar submitted a proposal in January 2024 for a Level III Advancement Grant from
+ the National Endowment for the Humanities to fund the implementation of ELMS 3.0 to all
+ works in The NEXT. The grant was not funded. 
+
+ Work on metadata refinement continued with a focus on works produced for Extended Reality
+ (XR) environments, an outcome of the Future of Text in XR project Grigar led in 2024-2026
+ and was funded by the Alfred P. Sloan Foundation. 
+
+2024-2026
+
+ELL continues to grow its space and mission
+
+On April 11, 2024 ELL was given a room for the physical archives it had been collecting since
+ 2016, calling it the “Archives Room.” That same year the lab renamed the MOVE
+ Lab where it
+ had been holding its Live Traversals and interviews, as “The
+ Studio.”
+
+ With a long interest in virtual environments, Grigar, with Co-PI Frode Hegland, submitted
+ and were awarded a grant from the Alfred P. Sloan Foundation to experiment with academic
+ reading and writing in XR environments. Work on the project commenced in December 2024 with
+ ELL team member Andrew Thompson taking the role of XR Programmer. 
+
+ Grigar and Thompson gave a TedXTalk on March 8, 2025 at Marshall University about the VR
+ integration at The NEXT. A few months later on May 18, 2025, the lab was featured in an article published by the BBC News and Stories about its
+ collection of hardware and software. 
+
+ Conservation work also continued in June 2017 with a grant from the Society of American
+ Archivists (SAA) Catalyst to document 78 works created with Shockwave Director via
+ Traversals. 
+
+ On July 23, 2025 the lab dedicated the Reading Room to Marjorie C. Luesebrink and celebrated
+ the event with a Traversal by Stephanie Strickland and Grigar of Luesebrink's hypertext
+ novel, Egypt: The Book of Going Forth by Day. The space is now known as The
+ Marjorie C. Luesebrink Reading Room. 
+
+ Donations of hardware and software followed after the publicity from the BBC
+ article, inspiring the lab to put more focus on retro computing efforts and seek additional
+ space to hold its growing collection. In January 2026 the lab expanded into its new space,
+ called the Restoration Room. 
+
+ In February 2026 Grigar submitted a proposal to the ELO 2026 conference for a workshop to
+ provide guidance to born-digital artists and scholars about preparing digital and physical
+ archives for long-term access. She also began work on her next book, entitled Archival
+ Storytelling.

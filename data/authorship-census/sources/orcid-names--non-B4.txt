@@ -1,0 +1,76 @@
+The ORCID iD
+
+Skip To Main Content
+
+Account
+
+Settings
+Logout
+
+placeholder
+
+Account
+
+Settings
+Logout
+
+Filter:
+
+All Files
+
+Submit Search
+
+eRA Commons: Revised October 26, 2026
+
+For additional assistance, please contact the eRA Service Desk.
+
+PDF version
+
+The ORCID iD
+
+The Open Researcher and Contributor ID (ORCID) ID is used within NIH and Grants.gov to relate publications to grants. You can associate your ORCID iD from the Commons Personal Profile module.
+
+Linking Your ORCID iD to Your eRA Commons Account
+
+If no ORCID iD is connected to your profile, use the link in Personal Profile to start the process. You can associate your ORCID iD with your Commons account in the Personal Profile section of eRA Commons. Also see the ORCID iD website help page: How Do I Register for an ORCID ID.
+
+Log into eRA Commons and click the Personal Profile button on the left side of the screen.
+
+In Personal Profile, click the Create or Connect Your ORCID iD link.
+
+The ORCID site is displayed.
+
+If you already have an ORCID iD, you can sign in to ORCID to associate the ORCID iD with your Commons account. If you do not, click the Register now link at the top of the ID section to open the Create Your ORCID iD screen.
+
+Enter your primary email address and a backup email (optional).
+
+Set your password.
+
+Confirm your employment, which is populated based on the affiliation with the email address you provided in Step a.
+
+Select the visibility of the information in your ORCID iD record that can contain links to your research activities, affiliations, awards, other versions of your name and more.
+
+Review the terms and conditions and privacy policy, complete the CAPTCHA and click the Complete Registration button.
+
+Finally, you are prompted to authorize NIH to access your personal ORCID profile by clicking the Authorize Access button.
+
+Once you have successfully linked your ORCID iD to your Commons account, it is displayed on your Personal Profile. This number is linked to the ORCID iD system and clicking it displays your information.
+
+NOTE: If you get an error from eRA Commons when attempting to link your ORCID iD, contact the eRA Service Desk. One common reason why this might not work is that you have two eRA Commons accounts, and the other account is already linked to the ORCID iD. The ORCID iD can be linked to only one Commons account. Also, to remove an ORCID, you must also contact the eRA Service Desk.
+
+IMPORTANT: The ORCID iD is an identifier to enable transparent and trustworthy connections between individuals engaged in research, scholarship, and innovation activities and is tied to an individual researcher's or contributor's name. ORCID iDs have been established worldwide to connect individuals to their professional information (such as publications, awards, affiliations, etc.) for references and citations.
+For more information regarding ORCID iDs please visit https://orcid.org .
+
+Additional Instructions for Fellowship:
+
+For NIH fellowship applications, the personal profile associated with the eRA Commons username entered in the Credential field for the PD/PI (fellowship applicant) must include an ORCID iD (e.g., orcid.org/0000-0001-2345-6789) to pass NIH validation requirements.
+
+Additional Instructions for Career Development:
+
+For NIH Individual career development award applications, the personal profile associated with the eRA Commons username entered in the Credential field for the PD/PI (candidate) must include an ORCID iD (e.g., orcid.org/0000-0001-2345-6789) to pass NIH validation requirements.
+
+Additional Instructions for Trainees:
+
+For NIH trainees, the Personal Profile associated with the eRA Commons user ID must be linked to an ORCID iD (e.g., orcid.org/0000-0001-2345-6789) in order to pass NIH validation requirements.
+
+For feedback on the online help, please email the .

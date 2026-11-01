@@ -1,0 +1,237 @@
+Google's Wordcraft: An AI Writing Tool Powered by LaMDA
+
+The Algorithmic Bridge
+
+SubscribeSign in
+
+Google's Wordcraft: An AI Writing Tool Powered by LaMDA
+
+What do professional creative writers think about these tools?
+
+Alberto Romero
+
+Nov 04, 2022
+
+10
+
+12
+
+Share
+
+Stories can take you far away. Credit: Author via Midjourney
+
+Amidst the rapid emergence of new AI writing tools and the consolidation of old ones, Google has been testing its own: Wordcraft. The company brought together a group of professional authors to try out the tool in a project called the Wordcraft Writers Workshop—and the results are impressive.
+
+Wordcraft, which went under the radar for half a year, was originally released in March. Based on LaMDA—the non-sentient language model that went viral over a conversation on AI consciousness—Wordcraft is presumably more capable than any GPT-3-based tool out there (that is, practically all tools out there).
+
+This innovative workshop was unveiled in this year’s AI@ event in which the company shares the latest news on AI research. It was hosted earlier this week (I recommend you watch it). A whole section was, unsurprisingly, focused on generative AI. Two announcements grabbed my attention.
+
+First, a digression from today’s topic: a notable improvement to text-to-video models.
+
+Last month, Google published not one but two models that can generate videos from prompts. Phenaki shines at storytelling—it can hold time coherence for up to 2 minutes. Its major shortcoming is a lack of visual quality. That’s the specialty of Imagen Video, the other model, which creates short high-resolution clips.
+
+Now, Google has merged both models into one, to leverage their strengths and overcome their most obvious limitations. The combination model can produce long coherent and high-quality videos. No doubt this is the current state of the art in text-to-video and the next step toward text-to-movie and text-to-videogames models.
+
+The second announcement that caught my eye was Wordcraft and the Writers Workshop. Let’s see what this AI tool can do and what impression it caused on this group of published authors.
+
+Wordcraft—an AI writing tool for creative fiction
+
+Wordcraft—in contrast to almost every other AI writing tool—is intended for creative writing, storytelling, and experimental fiction. There are some exceptions, like Sudowrite—and most others could probably be forced to go the creative path—but Wordcraft was explicitly tested for this purpose.
+
+Sadly, before you raise your expectations too high (and in line with Google’s usual modus operandi) Wordcraft isn’t publicly available. What is presumably the best AI writing tool in existence is on chains hidden in Google’s servers—pretty much like PaLM, Imagen, or Phenaki.
+
+It’s still worth learning about this as it’s a peek at what’s coming in the next months.
+
+Wordcraft is a multi-feature web-based word editor. Users can rewrite sentences and prompt the AI to modify them in a specific way (e.g. “make this funnier”). They can also ask it to continue ideas or further elaborate existing ones.
+
+Besides the basics, Google added a feature I haven’t seen anywhere else that they call “freeform prompting.” Given the context, the user can ask Wordcraft to generate a prompt (e.g. “tell me how the flowers made the old man feel”) to then generate a response to that prompt (e.g. “he was reminded of the time he met a woman there when they were young. He remembered falling in love with her”).
+
+Wordcraft also includes a chatbot with which writers can converse about the story—like a meta-feature. The chatbot acts as an “AI editor,” which, in combination with the other “creative partner” features, makes Wordcraft a very complete AI writing tool.
+
+To test Wordcraft in a real-world setting, Google ideated the Wordcraft Writers Workshop. They invited 13 professional creative writers with published work, from diverse backgrounds (scriptwriters, poets, educators, novelists, etc.) and ethnicities, to qualitatively assess the tool (to my knowledge this is the first work of this kind).
+
+This group used Wordcraft for a period of 8 weeks to write stories (you can read them here) without limitations or indications on how much or for what tasks they could use the system. They had complete freedom to explore and integrate Wordcraft as they saw fit in their usual workflows.
+
+The Algorithmic Bridge is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+Subscribe
+
+The Wordcraft Writers Workshop: What do professional writers think of AI writing tools?
+
+This project started with the question: “Could a dialog engine like LaMDA assist writers with storytelling?” I read all the stories the writers published and I can say, from my inexperienced role as a reader of AI writing (or so I want to believe), that the answer is both yes and no.
+
+You know my opinion of these tools as a writer: they’re useful for some tasks (ideation, headlines, minor ideas, and breaking writer’s block) but in no way capable of doing the bulk of the writing. I acknowledge I’m biased because I only write non-creative nonfiction essays. My goals range from sharing news, analyzing events, laying out arguments, or exploring crazy ideas—I try to tell stories, but they’re not fiction stories.
+
+To my surprise, the fiction writers that participated in the workshop held similar opinions. To summarize, AI writing tools are good sources of inspiration and ideation but can’t make critical decisions or lead the story. They concur that Wordcraft “shined the most as a brainstorming partner.”
+
+“The tool had the value … of giving me a place on my computer to go that looked like a blank page but did not behave as such.”
+
+—Michelle Taransky
+
+For writers who haven’t used AI writing tools before, the most confusing aspect is likely the weird idiosyncratic contrast between Wordcraft's ability to write well and its tendency to fail uncannily. AI writing tools often make up events or facts with unapologetic certainty and tend to be unable to keep style or narrative voice reliably.
+
+But, above all else, what probably most frustrates creative writers is their dullness.
+
+This is something I’ve written about recently: these models are too average. Their outputs are bland and boring. It’s nearly impossible to get something truly innovative out of them. Unexpected and intriguing, adjectives that very well define the essence of creative writing, are notable deficiencies of AI writing tools.
+
+“Here is the problem: Wordcraft is too SENSIBLE. Which of course is a great success for the language model: it knows what's sensible! Wow! But “sensible” is another word for predictable; cliched; boring. My intention here is to produce something unexpected.”
+
+—Robin Sloan
+
+These writers had a hard time trying to pull the model out of the standard and archetypal stories. Romance? man and woman. Heroes? fierce warriors. Allison Parrish described Wordcraft as “inherently conservative.”
+
+“Many of the prompts follow a limited idea of speculative fiction and genre. Fantasy is high fantasy, science fiction is robots and spaceships.”
+
+—Nelly Garcia
+
+On the one hand, LaMDA is purposefully trained to be helpful and friendly—which excludes so many avenues for exploration—and, on the other hand, all language models tend to default to normative writing—they’re powerful agents living at the center of the distribution of possibilities. 
+
+Douglas Eck, senior research director at Google Research, summarized the sentiment perfectly at the AI@ event: “One clear finding was that using LaMDA to write full stories is a dead end.”
+
+Why it still makes sense to use AI for creative fiction
+
+Even if my stated opinions on AI writing tools and that of this group of professional writers seem to coincide, I want to make an important qualification to my previous arguments.
+
+Everything I’ve argued about these tools is from the perspective of essay writing. After reading the workshop stories and expanding my point of view to include creative writing, I realize there’s more room in there for AI than I conceded. Essay and fiction writing are different and that’s the key to understanding where it makes sense to use AI writing tools and where it doesn’t.
+
+Let’s say I’m writing an essay about the ethics behind using an artist’s style—honed throughout years of hard work—to train a super-finetuned AI art model. Whatever my stance, I’m going to defend a specific thesis and lay out concrete arguments—all according to my internal opinion on the topic. I’d have no use for an AI partner beyond rewriting a sentence here or making a suggestion there.
+
+If I were to write a story of a fictional artist that saw her life turned upside down when a powerful company created a versatile creative AI, my writing wouldn’t be restricted in the same way.
+
+There’s no predefined path or clear conclusion I’d want to arrive at. The plot, characters, and setting aren’t necessarily defined from the start. Worldbuilding is about letting imagination—as well as the story and the characters in it—drive it somewhere.
+
+It’s about discovery and exploration as much as it is about following certain high-level premises and intentions.
+
+“By taking the seed from LaMDA and saying, "Yes, and..." I can force myself to go down routes I wasn't thinking of exploring and make new discoveries.”
+
+—Ken Liu
+
+We all agree that AI is fine for ideation and inspiration. AI could propose paths and corners to explore that didn’t occur to me. I could either accept or reject the suggestion, but there’s no inherently wrong idea.
+
+The acts of writing and reading are much more entwined in creative fiction than in essays. In a story, the reader explores the world with the writer in some sense—as if they walked together to see what they find out. Reading an essay—like this one—is about you taking a peek at my mind and thoughts.
+
+Rejecting AI writing tools completely is unreasonable as their utility drastically varies depending on the activity at hand.
+
+However, we shouldn’t let AI loose.
+
+Why we shouldn’t let AI take the lead
+
+Let’s say I decide to write a novel but want to use an AI partner to facilitate the process. The degree to which I use it matters as much as the task for which I use it.
+
+Let’s go to the extreme case: I let the AI write the entire book. (Funnily enough, this scenario is very close to the plot of Author’s Note, the first story of the workshop, written by Robin Sloan).
+
+In this case, the AI wouldn’t be removing my intent from the piece because there wasn’t any in the first place. As I said, unlike in essay writing, as a creative, the sensation is more like exploring the world.
+
+But, in letting the AI build the story, I’d no longer be the writer—but another reader.
+
+I said above that writers and readers are not that distant when it comes to fiction. This type of story creation often involves a world with past events, characters with distinct personalities, and a plot that unfolds according to the laws that govern the fictional universe and the wants and needs of the characters. The author is almost like a witness to what the characters do—they come alive.
+
+If I were to let AI take my place, I’d lose what differentiates me from you, the reader—the decision-making of where, how, and what to explore—by delegating it to the AI tool.
+
+Both writer and reader explore the world together but it’s the writer who takes the lead. That’s why readers can get annoyed when an author decides to force a character to do something that doesn’t quite make sense. I wouldn’t like Wordcraft to do that.
+
+The more those decisions are delegated to the AI writing tool, the more the human writer becomes a reader—exploring still but not deciding much—and the less vivid the characters become.
+
+Final thoughts
+
+Google’s Wordcraft applicability to creative writing is more interesting than anything I’ve seen for nonfiction writing (although highly specialized tools like Copy.ai work fine for the tasks they’re intended to).
+
+Some final thoughts on Wordcraft.
+
+I can’t pinpoint LaMDA’s contributions
+
+I’ve realized just now how hard it is to discern AI from humans in creative writing. Because this type of fiction is inherently experimental, the turns the story takes can loosely resemble AI’s hallucinations—with the main difference being that humans do it with purpose.
+
+I can’t discern LaMDA from GPT-3
+
+Also, LaMDA-based tools (Wordcraft) should be better than GPT-3-based tools (Jasper, Lex, Copy, Sudowrite, etc.) given the former’s better language abilities. But I realize that I no longer have the ability to discern both in the hands of a skilled writer.
+
+This may imply that, from now on, only creators will be able to tell which tool is better for what. Witnesses, consumers, and readers won’t be able to recognize one tool as more advanced than the others.
+
+This means that, even if we keep improving language models, there may not be an incentive to switch from Jasper to a PaLM-based copywriting tool (despite the latter’s significantly greater language skills). 
+
+Early players may have already taken a good chunk of the pie. Jasper may remain on top for the foreseeable future—unless a true breakthrough language model appears.
+
+How to make better AI writing tools
+
+Google researchers concluded that to fulfill writers’ needs, they need to train the underlying models (LaMDA, GPT-3) to be more controllable and build the interfaces to be more effective.
+
+In the end, neither GPT-3 nor LaMDA were trained to write essays or creative fiction. All companies that are built on top of them are doing finetune heuristics to tweak them away enough from those limitations.
+
+“Participants emphasized again and again that the user interface matters as much as the underlying language generation model … In the short-term, AI-assisted writing will most likely be successful in smaller and more focused domains.”
+
+Will AI writing tools replace writers?
+
+“The writers in the workshop unanimously agreed that AI-powered writing won’t replace writers anytime soon. 
+
+However, they would consider including the tool in their already-matured workflows. Most of them agree that this is a game-changer for the craft of writing that will affect mainly beginners who neither have honed their craft nor have a loyal audience and distinctive voice.
+
+Ending on a high note
+
+Google encourages “open dialog” between those who build the tools (technologists) and those who either leverage or suffer them (artists, creatives, and writers):
+
+“The accelerating pace of innovation, the combination of hype and inscrutability surrounding AI, and an increasingly competitive economic landscape have made things feel more high-stakes than ever. Only through open and ongoing dialog between technologists and artists can we build tools that have a positive impact on the world.”
+
+The Algorithmic Bridge is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+Subscribe
+
+10
+
+12
+
+Share
+
+PreviousNext
+
+Discussion about this post
+
+CommentsRestacks
+
+The Algorithmic Bridge reply rules
+
+Anonymole
+
+Nov 10, 2022
+
+Liked by Alberto Romero
+
+"Here's an interesting writing tool -- but you can't use it."
+
+Gee thanks, Google. NOT.
+
+Reply
+
+Share
+
+1 reply by Alberto Romero
+
+Charlotte Dune
+
+Nov 5, 2022
+
+Liked by Alberto Romero
+
+Very interesting. I’d just love a perfect one click copy editor and proofreader. Fix it all instantly and perfectly. That’s the dream. Sorry human editors.
+
+Reply
+
+Share
+
+11 replies by Alberto Romero and others
+
+10 more comments...
+
+TopLatestDiscussions
+
+No posts
+
+Ready for more?
+
+Subscribe
+
+© 2026 Alberto Romero · Privacy ∙ Terms ∙ Collection notice
+
+ Start your SubstackGet the app
+
+Substack is the home for great culture

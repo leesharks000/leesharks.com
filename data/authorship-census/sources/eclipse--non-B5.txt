@@ -1,0 +1,403 @@
+archive | Eclipse Plugins, Bundles and Products - Eclipse Marketplace | Eclipse Foundation 
+
+ Skip to main content
+
+ Log in
+
+ Manage Cookies
+
+ Main menu 
+
+ My Marketplace 
+
+ Add content 
+
+ More 
+
+ Community 
+
+ Marketplace 
+
+ Events 
+
+ Planet Eclipse 
+
+ Newsletter 
+
+ Videos 
+
+ Blogs 
+
+ Participate 
+
+ Report a Bug 
+
+ Forums 
+
+ Mailing Lists 
+
+ Wiki 
+
+ IRC 
+
+ Research 
+
+ Eclipse IDE 
+
+ Download 
+
+ Learn More 
+
+ Documentation 
+
+ Getting Started / Support 
+
+ How to Contribute 
+
+ IDE and Tools 
+
+ Newcomer Forum 
+
+ Search 
+
+ Toggle navigation
+
+ Home 
+
+ Marketplace 
+
+ archive
+
+ 1341 Solutions and counting
+
+ Category 
+
+ All Solutions Categories Application Development Frameworks Application Management Application Server BIRT Build and Deploy Business Intelligence, Reporting and Charting Code Management Collaboration Database Database Development Database Persistence Documentation Eclipse Kura Eclipse SmartHome EclipseRT Target Platform Components Editor Entertainment General Purpose Tools Graphics IDE Internet of Things (IoT) J2EE Development Platform J2ME Languages Linux Tools Logging Mobile and Device Development Modeling Modeling Tools Mylyn Connectors Network Other Process Profiling Programming Languages Reporting Rich Client Applications Science SCM Search SOA Development Source Code Analyzer Systems Development Team Development Testing Tools UI UML Web Web Services Web, XML, Java EE and OSGi Enterprise Development XML 
+
+ Markets 
+
+ All Markets Eclipse Project Tools IoT RCP Applications Training & Consulting 
+
+ Advanced Search 
+
+ Status 
+
+ - Any - Alpha Beta Production/Stable Mature 
+
+ License 
+
+ - Any - Commercial Commercial - Free EPL EPL 2.0 GPL LGPL Apache 2.0 BSD Free for non-commerical use Other Other Open Source MIT 
+
+Search 
+
+ Spotlight 
+
+ JArchiveExplorer 
+
+ 17
+
+ 4 
+
+ JArchiveExplorer 
+
+ Solution Description 
+ JArchiveExplorer is an Eclipse plug-in which provides a convenient and quick means for exploring and searching through Java-API supported archive files (like JAR or ZIP) in the... 
+
+ Eclipse Zip Editor 
+
+ 182
+
+ 8 
+
+ Install 
+
+ Drag to Install! 
+ Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client 
+
+ Eclipse Zip Editor 
+
+ Solution Description 
+ This is a Zip archive editor for the Eclipse platform. Features: - Direct modification of files in archives using the editor itself. - Add and extract files also via drag & drop... 
+
+ Eclipse Archive Utility 
+
+ 156
+
+ 1 
+
+ Install 
+
+ Drag to Install! 
+ Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client 
+
+ Eclipse Archive Utility 
+
+ Solution Description 
+ The Archive Utility extends the Eclipse IDE to browse and extract zip archive files within the workspace. Zip-compatible archives like JARs, WARs, etc. are of course also supported... 
+
+ archive 
+
+ Primary tabs 
+ Alphabetical 
+ Last Updated 
+ Foundation Members 
+ Most popular 
+ Top Favorites 
+
+ Eclipse Zip Editor 
+
+ 182
+
+ 8 
+
+ Install 
+
+ Drag to Install! 
+ Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client 
+
+ Eclipse Zip Editor 
+
+ Saturday, March 14, 2026 - 15:10
+ by
+
+ Uwe Voigt 
+
+ This is a Zip archive editor for the Eclipse platform. Features: - Direct modification of files in archives using the editor itself. - Add and extract files also via drag & drop... 
+
+ Editor 
+
+ Eclipse Archive Utility 
+
+ 156
+
+ 1 
+
+ Install 
+
+ Drag to Install! 
+ Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client 
+
+ Eclipse Archive Utility 
+
+ Thursday, March 6, 2025 - 06:20
+ by
+
+ Anonymous (not verified) 
+
+ The Archive Utility extends the Eclipse IDE to browse and extract zip archive files within the workspace. Zip-compatible archives like JARs, WARs, etc. are of course also supported... 
+
+ General Purpose Tools , Tools 
+
+ JArchiveExplorer 
+
+ 17
+
+ 4 
+
+ JArchiveExplorer 
+
+ Friday, June 28, 2024 - 00:31
+ by
+
+ Missing name M… 
+
+ JArchiveExplorer is an Eclipse plug-in which provides a convenient and quick means for exploring and searching through Java-API supported archive files (like JAR or ZIP) in the... 
+
+ Code Management , General Purpose Tools , IDE , Tools 
+
+ Subscribe to archive
+
+ Markets 
+
+ Eclipse Project
+ (48) 
+
+ Tools
+ (1241) 
+
+ Application Development Frameworks (174) 
+
+ Application Management (39) 
+
+ Application Server (29) 
+
+ BIRT (12) 
+
+ Build and Deploy (95) 
+
+ Business Intelligence, Reporting and Charting (12) 
+
+ Code Management (103) 
+
+ Collaboration (34) 
+
+ Database (46) 
+
+ Database Development (28) 
+
+ Database Persistence (17) 
+
+ Documentation (49) 
+
+ EclipseRT Target Platform Components (10) 
+
+ Editor (335) 
+
+ Entertainment (15) 
+
+ General Purpose Tools (125) 
+
+ Graphics (35) 
+
+ IDE (345) 
+
+ Internet of Things (IoT) (32) 
+
+ J2EE Development Platform (34) 
+
+ J2ME (3) 
+
+ Languages (129) 
+
+ Linux Tools (18) 
+
+ Logging (16) 
+
+ Mobile and Device Development (45) 
+
+ Modeling (80) 
+
+ Modeling Tools (121) 
+
+ Mylyn Connectors (14) 
+
+ Network (14) 
+
+ Other (73) 
+
+ Process (14) 
+
+ Profiling (19) 
+
+ Programming Languages (109) 
+
+ Reporting (30) 
+
+ Rich Client Applications (46) 
+
+ Science (5) 
+
+ SCM (14) 
+
+ Search (33) 
+
+ SOA Development (14) 
+
+ Source Code Analyzer (99) 
+
+ Systems Development (58) 
+
+ Team Development (45) 
+
+ Testing (76) 
+
+ Tools (534) 
+
+ UI (92) 
+
+ UML (30) 
+
+ Web (82) 
+
+ Web Services (24) 
+
+ Web, XML, Java EE and OSGi Enterprise Development (33) 
+
+ XML (24) 
+
+ IoT - Eclipse Kura
+ (134) 
+
+ RCP Applications
+ (61) 
+
+ Training & Consulting
+ (55) 
+
+ Back to the top
+
+ Eclipse Foundation
+
+ About Us
+
+ Contact Us
+
+ Donate
+
+ Members
+
+ Governance
+
+ Code of Conduct
+
+ Logo and Artwork
+
+ Board of Directors
+
+ Legal
+
+ Privacy Policy
+
+ Terms of Use
+
+ Compliance
+
+ Eclipse Public License
+
+ Legal Resources
+
+ Useful Links
+
+ Report a Bug
+
+ Documentation
+
+ How to Contribute
+
+ Mailing Lists
+
+ Forums
+
+ Marketplace
+
+ Other
+
+ IDE and Tools
+
+ Projects
+
+ Working Groups
+
+ Research@Eclipse
+
+ Report a Vulnerability
+
+ Service Status
+
+ Copyright © Eclipse Foundation AISBL. All Rights Reserved.
+
+ X account 
+
+ Bluesky account 
+
+ Mastodon account 
+
+ Facebook account 
+
+ Instagram account 
+
+ YouTube account 
+
+ LinkedIn account 
+
+ Back to the top

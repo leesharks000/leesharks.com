@@ -1,0 +1,794 @@
+My Concerns About the Authors Guild Human Authored Certification—and Their Comprehensive Response | Jane Friedman
+
+ Skip to content 
+
+ Menu 
+
+About
+
+Resource List
+
+SUBSCRIBER LOGIN
+
+ Menu 
+
+Topics
+
+Search Entire Site
+
+The Key Book Publishing Paths: 2025–2026
+
+Traditional Publishing
+
+Browse all
+
+Queries & Synopses
+
+Book Proposals
+
+Researching & Evaluating Publishers
+
+Small and Independent Publishers
+
+Literary Agents
+
+Self-Publishing
+
+Hybrid Publishing
+
+Other Publishing Paths
+
+Working with Editors
+
+Marketing & Promotion
+
+Author Platform
+
+Browse all
+
+Author Websites
+
+Email Newsletters
+
+Social Media
+
+Creativity & Writing Life
+
+Improve Your Writing
+
+Browse all
+
+Fiction Craft
+
+Nonfiction Craft
+
+Memoir Craft
+
+Self-Editing & Revision
+
+First Page Critiques
+
+Publishing Industry Reporting
+
+AI
+
+Legal Issues
+
+Books
+
+Newsletters
+
+Browse all
+
+Subscribe to Electric Speed
+
+Subscribe to The Bottom Line
+
+Speaking
+
+Online Classes
+
+Paid Classes
+
+Classes taught by Jane
+
+Free Business Classes
+
+My Concerns About the Authors Guild Human Authored Certification—and Their Comprehensive Response
+
+ March 17, 2026March 16, 2026 by Jane Friedman 65 Comments 
+
+Recently, the Authors Guild expanded its human certification program for books to non-members (and the UK’s Society of Authors has partnered up on it as well). If you haven’t heard of this program, it was first launched in January 2025 for Authors Guild members only. The goal: to offer an official certification system that writers and publishers can use in their books and in marketing to indicate if the text of a book was human written. The logo and name are pending registration with the US Patent and Trademark Office and supported by a registration system that creates a public database where anyone can verify a book’s human origins. (Disclosure: I am a member of the Authors Guild and have a marketing partnership with them for my industry newsletter, The Bottom Line.) 
+
+The Authors Guild certification does permit a small amount of AI-generated text, mainly to allow for AI-powered grammar and spell-check applications. Use of AI for research or brainstorming does not disqualify a book, as long as the text is human written.
+
+When the certification was first announced more than a year ago, I couldn’t help but wonder if it would be a short-lived effort, given the pace of change surrounding AI technology and writers’ use of it. I have noticed a handful of competing efforts to certify human-written work, such as Verify My Writing. It uses Pangram, considered the industry leader in AI detection, to issue a human score (0–100) based on the likelihood and amount of human-written content. A “certified human written” seal is offered if the score is 95 or higher. When I asked the founder of Verify My Writing what motivates writers to pay for this certification (as it is not required by agents, publishers, or retailers), he said pride—proving that they did the work—and market differentiation.
+
+Now that Authors Guild has announced expansion of its program, opening it up to all authors for a $10 fee per certification, I find it problematic that certification is done on the honor system. That means the Authors Guild is not analyzing the manuscript for evidence of AI use but taking the author’s word for it. I wrote in my newsletter, The Bottom Line, “I’m sorry to say that certification without some kind of independent verification is not meaningful. Of course one might argue there is no way to know with 100 percent certainty whether AI has been used in a work, so this has to be on the honor system, but then … how can you really certify? This problem is not going away anytime soon.”
+
+I heard from the Authors Guild’s CEO, Mary Rasenberger, who wrote me that no AI detection tool exists today that is sufficiently accurate for their purposes, but if and when that time comes, they will use it.
+
+Her initial response really pushed me to reflect, though, on the deeper concerns I have with any human certification program. My initial commentary wasn’t intended to dismiss the initiative, but to point to the challenge the entire industry grapples with: the tension between honor systems and verifiable standards. As AI tools become more sophisticated, I’m not sure how much any certification will hold up under scrutiny.
+
+Partly this is because there’s evidence authors are not entirely honest about their AI use despite the risks involved, which can be significant if you attest that your work is one thing and it is not. (See Mary’s full statement below about the risks.) Or authors don’t understand the risks involved or they think their particular use is acceptable. Rather than worrying about scammers taking advantage of this Authors Guild certification, I worry about legitimate authors who may not be entirely honest about their AI use because I don’t think they’re honest in other contexts where repercussions also apply. After having some conversations with small presses at AWP earlier this month about what AI use they’re seeing (using Pangram) from their contracted authors, my hunch is that the number of works with some percentage of AI-generated or AI-assisted text within their pages is approaching 25 to 50 percent for nonfiction in particular and may soon be the majority. These works are going on to be copyrighted, I might add. (Despite some agents and publishers saying that authors using AI assistance cannot gain copyright protection for their work, that is not true. It’s complicated.)
+
+I also don’t see evidence in the market that human authorship certification means anything (yet) to readers. Regardless of who’s certifying, there are no studies showing increased market value for books certified with human authorship; publishers don’t seem eager to certify books, either. This leads to the question: What is the purpose of this type of certification?
+
+Personally, I believe this desire for certification says more about people who desire to broadcast a strong anti-AI stance or who don’t feel secure in the current market. I worry this certification plays on people’s feelings of anger and professional insecurity during a confusing time. And while the program may give writers a sense of fighting back, it may be a sign of weakness, not strength, to feel you must signpost your humanness. And I think the signpost will lose value quickly even if it does in fact offer value today.
+
+I also have concerns about false accusations by authors against other authors they don’t like (it’s already a well-worn insult on social media to accuse writers, or anyone, of using AI), and I have been consistent in my critiques around this issue. When the SFWA came out with a strict anti-AI policy for its Nebula Awards, I commented that it’s not a real policy if you don’t enforce it with third-party AI detection tools.
+
+Meanwhile, other people have argued that the Authors Guild has this notification system backward—that it’s AI-created work that should be labeled as such. One author wrote, “What if I step into a bookstore and I see some books with the Authors Guild’s Human Authored Certification Mark on them; will that mean that all those other books that don’t have the mark mean they were created by AI? Will libraries have to go through their shelves and retrospectively mark all books…?”
+
+I voiced all of these concerns to the Authors Guild last week.
+
+Here is the full response from Mary Rasenberger at the Authors Guild.
+
+Jane, I appreciate your sharing your thoughts and those of others with us. We created this program because our members asked for it. Despite our efforts to ensure that AI generated content is labeled so that consumers have full disclosure, there are no such requirements yet, and even Amazon, who we tried to persuade to provide such disclosure, still does not make it public. So when some members came to us and asked if we could instead offer a way for them to indicate to potential readers that they did not use AI, we agreed. In a world where so many are using AI, some authors who are not want a way to stand behind their work.
+
+We did an enormous amount of research in 2024, receiving excellent guidance from diverse companies that must deal with scammers in the book marketplace and also those who might be interested in the program, including from Amazon, publishers, and others. We have a pending registered certification mark with the US Trademark Office—like the types of marks you find on various products, including food and electronics (think Gluten free, Free trade, Woman-Owned, Energy Star and on and on). It is a licensed trademark program—not a logo that anyone can freely use.
+
+We have protected against scammers by (1) requiring non-members to be verified through a well-known, third party identity verification system, (2) limiting the number of books that any one person can certify in a year without reaching out to us for an exception, (3) charging a small fee which will discourage scammers, and (4) providing a unique registration number for each title, with a public searchable database of registered titles, so that any use of a certification can be checked. 
+
+We also prevent fraudulent certification by requiring all users to sign a license agreement for each title registered that makes the user represent and warrant that the title was “Human Authored”—meaning the text of the work itself (excluding the table of contents or index) was written by one or more humans (excepting de minimis use for spell check and editing). As we clearly state in the contract, if a licensee-author registers a book that the author knows contains AI generated text, they will be liable for breach of contract, trademark infringement, and likely consumer fraud under various laws. We believe that should disincentivize authors who use AI to generate text for them from registering their books. The Human Authored certification is not a requirement after all—it is only for those who wish to distinguish their work. In addition, we also continue to look at AI detection services and may introduce one in the future. We will likely have to raise fees though if we do.
+
+I know you find the notion of “self-certification” meaningless because people will not be honest. But we do not agree. First, in our experience, most authors are honest and also are concerned about liability. Few will want to risk liability of hundreds of thousands of dollars to fraudulently obtain a Human Authored certificate. Moreover, it is not uncommon for certification to be enforced through agreements, like ours, rather than through testing. License agreements are the standard way to enforce a trademark; license agreements have covenants, representations, and warranties, such as the promise that the work is Human Authored in ours. Indeed, contracts are how much of our economy functions—through enforceable promises and consequences for breach backed by a legal system.
+
+As to the question of why certify Human Authored instead of AI generated? The latter is of course preferable, and we have fought hard to get requirements for labeling AI generated content. But Congress has not yet acted (surprise, surprise) and Amazon did start requiring disclosure but still refuses to make the info public. We are still trying for AI disclosure but meanwhile offer this solution as well.
+
+We do not expect to break even from this project, much less earn money from it. We currently are charging members $10. The fee covers:
+
+Verification: The out-of-pocket cost of verification for non-members. We need to verify that people are who they say they are. Members are verified when they join, so this only applies to non-members. There is a cost of around $2 a person.
+
+Enforcement: The logo is a trademark certification mark that needs to be enforced to retain its trademark status. We need to have staff who constantly monitor for fraudulent uses. We may also start using AI detection software once we find one that is reliable and won’t incorrectly identify human written as AI generated and that will cost money. Then we need to take legal action against any unauthorized uses. Some of it we can do with staff—such as sending cease and desist letters and working with Amazon to get books using the mark fraudulently taken down—though it may require bringing in additional staff if the workload is great. In some cases, we will inevitably have to bring lawsuits to enforce the mark against illegal uses. Any lawsuit costs minimally six figures. We are a not for profit without a litigation war chest and so will create an account with fees, minus the out-of-pocket costs, to use when we need to hire outside lawyers.
+
+Technology: We built an online platform for registration and a searchable database. We are currently building a portal for publishers. And like any technology will have ongoing updating and maintenance costs.
+
+I appreciate the Authors Guild taking time to send this explanation. It’s a well-intentioned program meant to serve the author community, not a cash grab. While I still believe this certification has negligible value in the market, my copyeditor, Nicole Klungle—an avid fiction reader and Kindle Unlimited user—wrote me, “As a reader, I would absolutely value some kind of ‘entirely human authored’ signal that is more than ‘passed the captcha.’” At this point she can even tell which ones have been written by ChatGPT versus an Asian AI model.
+
+Jane Friedman
+
+Jane Friedman has spent her entire career working in the publishing industry, with a focus on business reporting and author education. Established in 2015, her newsletter The Bottom Line provides nuanced market intelligence to thousands of authors and industry professionals; in 2023, she was named Publishing Commentator of the Year by Digital Book World.
+
+Jane’s expertise regularly features in major media outlets such as The New York Times, The Atlantic, NPR, The Today Show, Wired, The Guardian, Fox News, and BBC. Her book, The Business of Being a Writer, Second Edition (The University of Chicago Press), is used as a classroom text by many writing and publishing degree programs. She reaches thousands through speaking engagements and workshops at diverse venues worldwide, including NYU’s Advanced Publishing Institute, Frankfurt Book Fair, and numerous MFA programs.
+
+ Categories AI Tags Free 
+
+ Share on:
+
+Related Articles
+
+I Would Rather See My Books Get Pirated Than This (Or: Why Goodreads and Amazon Are Becoming Dumpster Fires)
+
+by Jane Friedman
+August 7, 2023
+
+How AI-Generated Books Could Hurt Self-Publishing Authors
+
+by Jane Friedman
+August 20, 2023
+
+After Editing Two AI-Assisted Manuscripts, I Rewrote My Client Agreement
+
+by Mary Kole
+August 13, 2026
+
+Writers and Artists Need a Way to Label AI Use: Here’s What That Could Look Like
+
+by Dave Malone
+January 14, 2026
+
+ Subscribe to comments
+
+Notify of 
+
+ new follow-up comments
+ new replies to my comments
+
+ Label
+
+ {}
+ [+]
+
+ Name*
+
+ Email*
+
+ Website URL
+
+Δ
+
+ Label
+
+ {}
+ [+]
+
+ Name*
+
+ Email*
+
+ Website URL
+
+Δ
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+ 65 Comments 
+
+ oldest
+
+ newest
+ most voted
+
+ quacker
+
+ 7 months ago
+
+I would definitely value some sort of reliable certifictation of non-AI authorship. But the big question for me is how on earth you can do this reliably? I certainly don’t see taking the author’s or publisher’s word for it.
+
+5
+
+ Reply
+
+ A. Elizabeth West
+
+ 7 months ago
+
+This is so tough. I’ve just been saying it in social media posts, that my indie stuff is 100% written by me. But I’ve also been railing against generative AI all along, so I guess that does back up my statement to some extent. Anyone who cares to look can see how I feel about it. 
+
+I do think the whole AI push is a bubble and it WILL burst. We shall see. In the meantime, I’m not going to compromise — I will not be using it, not even at my day job. To paraphrase a comment I saw elsewhere, I don’t need to suck up a lake in a marginalized community to write an email.
+
+4
+
+ Reply
+
+ Jane Friedman
+
+ Post author
+
+ Reply to 
+
+ A. Elizabeth West
+
+ 7 months ago
+
+I know many feel as you do. It bears pointing out that many people who have a day job do not have a choice whether they use it or not. It is becoming part of the fabric of systems and softwares everywhere, including governments.
+
+10
+
+ Reply
+
+ Barbara Wanchisen
+
+ 7 months ago
+
+Thanks for this in depth article, Jane. I have wondered about the certification that the Authors Guild introduced but I didn’t give it much careful thought until reading your article. Thanks for taking the time and effort to lay it out for us.
+
+4
+
+ Reply
+
+ Dave Malone
+
+ 7 months ago
+
+I keep thinking about the music and film industries. They seem to have less fear about AI involvement in creative work (for years now, digital sound editing and enhancements; in film, special effects). As an author, I understand of course the fear. And I think it’s easier as a seasoned author to have less fear, with the knowledge that AI is simply yet another tool for enhancing one’s work (and helping find the right literary presses for one’s work, just one of the many admin tasks you can delegate to AI). Regarding creation, transparency is key. Not fear. 
+
+I see a whole host of problems with this type of certification system. 
+
+1 – The honor system. I appreciate Mary Rasenberger’s belief in author honesty, but the issue is so complex for authors. They have to think through the life of a manuscript that may have been in the works for years.
+
+Obviously, some situations will be more straightforward, but I offer this as a possible scenario for a ms that’s been in the works for some time. Did AI ever help fix any of my sentences? When I had my first dev edit on my ms, did that first editor use AI? On my third draft, did AI help me rewrite this paragraph? Did I use AI to help me organize my chapters? Did I delete one of the chats with regard to those early chapters when I was really struggling, and I asked for some help? How does the author determine, over the long life of a manuscript, that this was a wee bit of AI-assistance or a wee bit of AI-generation, but nothing that I need to report? 
+
+1a – On honesty, as you note from asking questions at AWP, authors aren’t being fully honest about how much they’re using AI. (See also 2a.)
+
+2 – Certification software can give false positives.
+
+2a – Moving forward, as human and AI work blends, how then does the certification software adapt and be accurate?
+
+3 – You note a good question from an author. If you go into a bookstore or library, and some books have the certification label, does one presume the other books have some type of AI-generation or assistance? 
+
+Thanks! I’m passionate about the subject, and I ask these types of questions because I want authors, publishers, and readers to thrive in this new landscape. 
+
+2
+
+ Reply
+
+ Jane Friedman
+
+ Post author
+
+ Reply to 
+
+ Dave Malone
+
+ 7 months ago
+
+Thanks, Dave. It’s fascinating to see how other cultural industries are dealing with this. I can’t stop thinking about what the head of the Grammys said to the WSJ about this issue: “AI is going to be much better than most people think. AI is going to be able to make great music—it already can—but I believe humans are always going to be able to make better music and things that mean something to people. … You’re going to see a new generation of people who make music, and people who make music to me are considered musicians. I don’t think the next generation of music creator is going to be any less of a musician than the people who were writing concertos or playing classical instruments. How many really special, long-lasting, meaningful classics are going to be produced and by how many people? We’ll have to see.” —Harvey Mason Jr. 
+
+More: https://www.wsj.com/tech/ai/ai-music-recording-academy-harvey-mason-4dbd1e63
+
+2
+
+ Reply
+
+ Dave Malone
+
+ Reply to 
+
+ Jane Friedman
+
+ 7 months ago
+
+Love this. Especially: “I believe humans are always going to be able to make better music and things that mean something to people.” I think it goes back to the idea of Directorship. And that AI is only as good as the prompter and director behind it. I have a subscription to WonderaAI because I love music, and I’ve been writing lyrics for the last three years, and I’m a part of an amazing singer-songwriter group on Facebook (with some very very talented musicians). But. My ability to create powerful music through WonderaAI is limited because of my lack of knowledge. Thus, I am auditing a music fundamentals class at the local college. Will I some day, with the help of AI, create a Grammy-winning album or well-respected EP of emo rock or dream pop? Unlikely. But will my music, through a Directorship that I nurture and grow, some day, reach a few people and entertain them and be something I am proud of, given how much musical expertise I’ve grown over the years. I hope so. : ) 
+
+1
+
+ Reply
+
+ Ellen Hudson
+
+ Reply to 
+
+ Dave Malone
+
+ 7 months ago
+
+Dave,
+
+ You read my mind, and as an unpublished author, I’m terrified of making a mistake. I have wondered if when I use a writing software and it flags one of my sentences and I look at the suggestion, am I at fault? Even if I don’t just accept their suggestion but consider revising my sentence to be a morph between it and my original prose?
+
+ By nature and by how I was raised, I am an extremely honest person. I won’t run a stop sign even in the middle of the night with nobody in sight. I just won’t do it. Thankfully, when I have looked at the sentence suggestions from the AI, they are laughable!! But I know they are getting better and better.
+
+Thank for your question to Jane. I wish she might have answered it more directly, but I suspect she can’t really answer it either.
+
+3
+
+ Reply
+
+ Jane Friedman
+
+ Post author
+
+ Reply to 
+
+ Ellen Hudson
+
+ 7 months ago
+
+When it comes to this issue, I think there are only questions!
+
+3
+
+ Reply
+
+ Dave Malone
+
+ Reply to 
+
+ Ellen Hudson
+
+ 7 months ago
+
+Ellen,
+
+I’m so glad! Yes, this is the tough stuff. But we can work our way through it. 
+
+I’ll say this, if you treat AI like an editor you trust (or at least most of the time), the power resides with you. If you consider revising your sentence, then 3 things are happening: 1- you know something’s wrong with it in the first place. 2- you need another set of eyes on it, albeit AI eyes. 3- when you get feedback, you get to choose. 
+
+This is where the idea of Directorship (and possibly seasoned writer) comes in. You have to be clear. I think if there’s any doubt, and you just go with the AI suggestion, that spells trouble. And this is also true of writers who take any editor’s feedback just because the editor is in a power role. I’ve seen this trend with some writers who take every editors’ suggestions as the Gospel and then have a real mess on their hands because the piece ends up being in six different voices and not their own. It comes down to the joy and pain from making executive decisions in a state of tranquility (to steal from Wordsworth!). Hope this helps.
+
+2
+
+ Reply
+
+ David Condrey
+
+ Reply to 
+
+ Ellen Hudson
+
+ 6 months ago
+
+Ellen, this is exactly why I built WritersLogic. In dozens of conversations I had with writers, every one I spoke to said they would lean on their drafts to prove authorship. But revisions can just as easily be faked. The idea that stuck was proving the process. With cryptographic process evidence you can attest to how your writing came to be, from the first word to the last chapter. Process is recorded in patterns, not content; content is hashed to a reference string. The other options are: a surveillance-state, a biased opinion, or an imprecise black-box detector score.
+
+Last edited 6 months ago by David Condrey
+
+-1
+
+ Reply
+
+ David Condrey
+
+ Reply to 
+
+ Dave Malone
+
+ 7 months ago
+
+For multimedia, the Coalition for Content Provenance and Authenticity is developing the standards to assert to the creation of an images and videos. I’m actively involved with them as a contributing member to ensure their standard is extensible and able to externally reference a cryptographic proof of process assertion to attest to the creation of textual content.
+
+0
+
+ Reply
+
+ NBC
+
+ 7 months ago
+
+If I knew that a book wasn’t human generated, I wouldn’t read it. Period.
+
+Among the things I do, I teach composition and other writing courses to college students. The bane of my existence are papers that fail the AI-text detection systems we use—and the students who swear up, down, and sideways that they’re the false positives that prove the system is flawed.
+
+I cannot wait for this bubble to deflate. 🙁 Environmentally and culturally, it is a nightmare.
+
+4
+
+ Reply
+
+ Neil S. Plakcy
+
+ Reply to 
+
+ NBC
+
+ 7 months ago
+
+I appreciate your honesty in making this statement. Could you clarify a bit by indicating what you read and how frequently? For example, many romance readers read 100 books a year, and romance is a genre very open to AI use because of the clear structure and tropes expected by readers. However, if you are reading literary fiction, and only a few books a year, your experience may be different. Not wrong, just different.
+
+0
+
+ Reply
+
+ David Condrey
+
+ Reply to 
+
+ NBC
+
+ 6 months ago
+
+Even when they’re telling the truth, you can’t prove it. And when they’re lying, you can’t prove that either.
+
+0
+
+ Reply
+
+ David Biddle
+
+ 7 months ago
+
+An important essay here Jane. Thank you. I am stupidly (perhaps) guilty of ignoring all this AI stuff (mostly because it just messes with my sense of mission as I work on my next project). But I definitely wanted to read Jane Friedman’s thoughts! In particular, this is the take away nugget from you: “Personally, I believe this desire for certification says more about people who desire to broadcast a strong anti-AI stance or who don’t feel secure in the current market. I worry this certification plays on people’s feelings of anger and professional insecurity during a confusing time. And while the program may give writers a sense of fighting back, it may be a sign of weakness, not strength, to feel you must signpost your humanness. And I think the signpost will lose value quickly even if it does in fact offer value today.”
+
+Last edited 7 months ago by David Biddle
+
+3
+
+ Reply
+
+ D.L. Lee
+
+ 7 months ago
+
+Thanks Jane, an excellent article that covered some of my own concerns (actually, cynicism) when I signed up for the Authors Guild Human Authored TM in 2025. Despite the seeming hopelessness of the initiative, I’m still glad for the opportunity to be formally aligned with an organization that for many discerning readers is a trusted source. In a world where lying has become a thing, it makes me feel less alone.
+
+2
+
+ Reply
+
+ Edward Sechkar
+
+ 7 months ago
+
+Another informative and timely article, Jane, like so many before. Thank you! The solution I propose here shouldn’t be considered a detailed, final plan, but perhaps it can point the process of verifying non-AI writing in a helpful direction.
+
+In my writing, I use Scrivener from start to finish for the manuscript, then, after it’s complete, I parcel it out into formatted Word docs for the print versions. After a day of writing in Scrivener, I use the program’s built-in back up feature, which saves it “as is” on my laptop. So, for any of my books, I could produce a trove of documentation that shows a progression from 0 words on day 1 to wherever it all ends up. I can also produce the outlines, and there are usually more than one, showing how those often evolve too.
+
+What if . . .
+
+ > Some trusted org like the Author’s Guild maintained a database for each book that any author who wishes to participate could enroll
+
+ > Software packages like Scrivener had an additional “back up” option, whereby the current state of the manuscript, maybe as a stripped-down text file, could be uploaded directly to that trusted org’s database
+
+ > Automated tools scan that database for progress on each manuscript, compile dates/times of writing, daily word counts, etc.
+
+ > A summary report (judgment?) could be a constantly updated feature and possibly the ONLY info that would need to ever be viewed, even by the trusted org
+
+For my writing process, this would be only one small step, that uploading of any day’s work to the database. I wouldn’t feel that I’d be taking on much risk for having my early versions possibly available. Assuming a reader liked the finished work, should I take seriously any criticism like, “Hey, it wasn’t so good until you, you know, uh, made it better.”
+
+In fact, in recent times, I’ve started saving the first drafts for every book that I write. Sure, no one will likely ever care to see any of it, but if any of my books become wildly popular and bask in endless acclaim, literary folks who study such things will be able to chart the advancement from first draft to final copy.
+
+So, just a thought. I share the opinion that the experience of reading a book isn’t just about a compelling story, nor appreciation of a well-designed cover, nor even flawless formatting and editing. No, it’s about taking in ALL of that and realizing that it came from the imagination and passion of a fellow human being.
+
+3
+
+ Reply
+
+ Anne
+
+ Reply to 
+
+ Edward Sechkar
+
+ 7 months ago
+
+That sounds like a possibility for massive privacy infringement and data scraping (for AI or humans), personally. I would never want some centralized database to have pure control of my drafts and I think there’d probably be some sort of biased exclusionary policies implemented soon too.
+
+0
+
+ Reply
+
+ Edward Sechkar
+
+ Reply to 
+
+ Anne
+
+ 7 months ago
+
+I agree completely that my suggestion, still quite rough around its edges, is fraught with serious concerns and likely wouldn’t appeal to a wide range of authors. Privacy is a good thing! 
+
+The essence of the idea, though, might be a basis for a workable solution. That essence is that a natural human author goes about writing a manuscript a certain way, i.e. parts at a time. And over time, earlier parts are revisited and updated, sometimes a lot, and it all ends up at a first draft. Then, that entire draft is revisited again and again until some satisfaction with it is achieved. That’s an extensive “paper trail” without any special effort.
+
+I’m not familiar with writing a manuscript with AI, so I can only question: is the start-to-finish work of an AI author similar to that of a human author, i.e. small amounts created over many days? Or is it largely all written as a block in a nanosecond? If there’s a significant difference in the evolution between the two “authors,” there might be a way to use that as a proof of human effort in the writing.
+
+Would an AI author leave an identical type of “paper trail?” If not, would any of them go to the trouble to fake that, adding daily amounts over a period of weeks or months, correcting it continuously?
+
+As for my writing, besides using the Scrivener backup onto my laptop, I typically back up the entire folder daily to OneDrive. Should I trust Microsoft with that content more than I would a reputable org like the Authors Guild? Besides that, I have a sneaking suspicion that something called Copilot is built into almost every system now, including Windows (worth investigating!). Copilot is another thing about which I have no deep knowledge, but a lot of discussions on the Internet revolve around Copilot basically taking everything you type and feeding it to AI. This quote from a Microsoft “Community Support Specialist” (from a search I just did) isn’t all that reassuring: “For individual users, Copilot *“*will not ‘spy’ on your writing or continuously record your content without your permission”. [Note: the emphasis is from them]
+
+And since one or more AI entities are probably scanning through this blog, I’ll say to all of them, “Hey, at least wait for my final draft, which you’ll probably scrape off of Amazon or wherever anyway!” 
+
+And that brings up perhaps a final point about my idea: I believe any self-respecting AI would pass on the lead-up rough drafts—those daily increments—wait for the final manuscript to be published, then unapologetically scrape the heck out of it once it’s turned loose into the world.
+
+1
+
+ Reply
+
+ David Condrey
+
+ Reply to 
+
+ Edward Sechkar
+
+ 7 months ago
+
+You’ve described the conceptual foundation of what I built. CPoP formalizes the process trail into a cryptographic credential without requiring authors to upload drafts or expose content to anyone. Nothing leaves your machine except the attestation itself.
+
+Would love to show you how it works and how it fits into your existing workflow without changing how you write.
+
+0
+
+ Reply
+
+ Edward Sechkar
+
+ Reply to 
+
+ David Condrey
+
+ 7 months ago
+
+That’s fantastic! I had only hoped to spark some thought and conversation about the possibility that the process, rather than the finished manuscript, could be used to determine who (or what) wrote it.
+
+Sadly, I’m in no imminent danger of any human caring who or what wrote my 25 books (so far, no. 26 in process). I’ve sold so few that at this point, probably no one is scrutinizing any of it all that much. Someday, perhaps! 
+
+0
+
+ Reply
+
+ Meghan Stevenson
+
+ 7 months ago
+
+As a professional NF collaborator — I question the notion that most nonfiction (at least prescriptive titles published by the Big 5) is written by AI. In the last year or two agents have included strict contractual clauses about using AI in our contracts with authors where we have to get carve-out language for tools like Otter for transcription of calls and using AI tools for research and formatting citations. 
+
+I think there is a responsible way to use and incorporate AI into writing and publishing workflows that we haven’t quite figured out yet.
+
+2
+
+ Reply
+
+ Jane Friedman
+
+ Post author
+
+ Reply to 
+
+ Meghan Stevenson
+
+ 7 months ago
+
+Hi Meghan: I didn’t mean to imply Big 5 (or other publishers’) nonfiction work is generated or written wholly by AI. Only that any kind of tool like Pangram, if assessing the entire work, would find more than a de minimis percentage of AI in the work. I could be wrong, but this is my guess based on talking to both publishers and authors, that it’s affecting at least a quarter of published books on the market. For self-published work, it’s a far higher percentage.
+
+2
+
+ Reply
+
+ Meghan Stevenson
+
+ Reply to 
+
+ Jane Friedman
+
+ 7 months ago
+
+That makes complete sense! When it comes to AI or anything related to quality, traditional versus hybrid versus self need to be separated out.
+
+0
+
+ Reply
+
+ reader
+
+ 7 months ago
+
+Re: readers caring about books with AI in them: Check out the response to Libby’s announcement about AI. They talked about their AI policies/features on Jan. 12, and since then, they’ve had to turn off or limit comments on their Instagram posts because every time they post, readers leave comments like “No AI in Libby.” It’s been a big backlash with readers asking Libby to take AI-narrated or AI-written books out of Libby and asking to be able to opt out of AI features. Just one example of how readers do care about reading books written and narrated by humans in 2026! (Reddit post for more details: https://www.reddit.com/r/LibbyApp/comments/1qb7p85/libby_statement_regarding_ai/)
+
+0
+
+ Reply
+
+ Jane Friedman
+
+ Post author
+
+ Reply to 
+
+ reader
+
+ 7 months ago
+
+Appreciate you pointing to one of the ways AI work has infiltrated library systems (it’s infiltrated bookstores as well). I’m no defender of wholly AI-generated work, but I don’t think a human certification can rectify or resolve this kind of issue.
+
+2
+
+ Reply
+
+ Load more comments 
+
+ wpDiscuz
+
+Get new articles emailed to you
+
+Daily: receive new articles when they publish
+
+Weekly digest: receive a Sunday digest
+
+Search this site
+
+Search
+Search
+
+Browse by category
+
+Categories
+ Select Category
+ AI  (208)
+ Amazon  (250)
+ Ask the Editor  (22)
+ Audio  (221)
+ Author Earnings & Careers  (199)
+ Author Platform  (61)
+ Author Q&A  (108)
+ Author Websites  (35)
+ Bestsellers  (197)
+ Big Five  (162)
+ Book Proposals  (12)
+ Bookstores & Bookselling  (403)
+ Children’s Publishing  (103)
+ Creativity & Writing Life  (239)
+ Culture and Politics  (177)
+ Ebooks  (132)
+ Email Newsletters  (29)
+ Fiction Craft  (131)
+ First Page Critiques  (37)
+ Freelancing  (17)
+ Getting Traditionally Published  (621)
+ Guest Post  (1,149)
+ Hybrid Publishers  (19)
+ Improve Your Writing  (334)
+ Legal Issues  (134)
+ Libraries  (73)
+ Links of Interest  (338)
+ Literary Agents  (245)
+ Marketing & Promotion  (404)
+ Memoir Craft  (58)
+ Nonfiction Craft  (47)
+ Online Literature  (197)
+ Other Publishing Paths  (19)
+ Publishing Industry Reporting  (1,372)
+ Publishing Trends  (75)
+ Queries & Synopses  (24)
+ Researching & Evaluating Publishers  (7)
+ Rights and Licensing  (76)
+ Self-Editing & Revision  (34)
+ Self-Publishing  (232)
+ Small and Independent Publishers  (19)
+ Social Media  (193)
+ TikTok  (24)
+ Tools and Services  (217)
+ TV/Film and Other Media  (14)
+ Work-Life  (18)
+ Working with Editors  (15)
+
+Next online class
+
+Recent articles
+
+Why the AI Detection Scandals Will End—Probably Quite Soon
+
+ October 30, 2026 • Jane Friedman
+
+Don’t Trust a Writer’s Origin Story
+
+ October 27, 2026 • Amy Jones
+
+To Read a Little or To Read a Lot? Are You Kidding? Read a LOT!
+
+ October 22, 2026 • Andrew Welsh-Huggins
+
+How to Research a Historical Novel Inspired by Family History
+
+ October 21, 2026 • Constance Hays Matsumoto
+
+What Many Novelists Get Wrong About Preparation
+
+ October 20, 2026 • Karmen Spiljak
+
+Latest comments
+
+Neil Plakcy on Don’t Trust a Writer’s Origin StoryOctober 31, 2026
+
+Alec on Why the AI Detection Scandals Will End—Probably Quite SoonOctober 31, 2026
+
+Jane Friedman on Why the AI Detection Scandals Will End—Probably Quite SoonOctober 31, 2026
+
+Jane Friedman on Why the AI Detection Scandals Will End—Probably Quite SoonOctober 31, 2026
+
+Ross Lampert on Why the AI Detection Scandals Will End—Probably Quite SoonOctober 30, 2026
+
+Learn more
+
+About Jane
+
+Speaking & Events
+
+Contact
+
+Guest Contributor Guidelines
+
+Products + Services
+
+Subscribe to Jane’s paid newsletter
+
+Online Classes
+
+Advertising
+
+Free Resources
+
+Article Archive
+
+Jane’s Resource List
+
+Free Business Classes for Writers
+
+Find Jane elsewhere
+
+Jane on Instagram
+
+Jane on LinkedIn
+
+Jane on YouTube
+
+Threads
+
+Facebook
+
+Amazon
+
+ © 2026 Jane Friedman | Proudly built with Wordpress | Privacy policy 
+
+wpDiscuz
+
+Insert

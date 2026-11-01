@@ -1,0 +1,83 @@
+VIAF: Convenient access to name authority files | OCLC
+Skip to page content.
+Menu
+English
+Deutsch
+English
+Español
+Français
+Nederlands
+中文简体
+Sign in
+Search
+About
+Products
+Learn
+Support
+Searching for items in a library? Try WorldCat.org .
+" id="dataEnableQuerySuggestAddon">
+VIAF ®
+Overview
+Contributing
+VIAF Council
+Connect authority data across cultures and languages to facilitate research.
+Access VIAF
+Simplify the management of authority data
+The VIAF (Virtual International Authority File) service provides libraries and library users with convenient access to the world’s major name authority files. VIAF Contributors regularly supply authority data that VIAF matches, links, and groups. All descriptions for a given entity are merged into a cluster that brings together the different names for that entity. This service allows researchers to identify names, locations, works, and expressions while preserving regional preferences for language, spelling, and script.
+Learn more about contributing to VIAF
+Collaborate with other libraries to increase access to information
+VIAF Contributors include national libraries, cultural agencies, and other major institutions from around the world. The data of more than 50 organizations from more than 30 countries is represented in VIAF. These Contributors participate in the governance of VIAF through the VIAF Council, which provides guidance on the policies, practices, and operation of VIAF.
+Learn more about VIAF governance
+Join a trusted global authority file
+The United States Library of Congress, the Deutsche Nationalbibliothek, and OCLC began a proof-of-concept project to link their authority records in April 1998. After four years of testing authority file linking, this group formed the VIAF Consortium at the 69th IFLA General Conference in August 2003. The Bibliothèque nationale de France joined the consortium in October 2007.The four original VIAF Consortium members served as Principals, while other organizations joined as contributors .
+In 2012, the 22 VIAF Principals and Contributors in 18 countries worked with OCLC as VIAF transitioned into an OCLC service. With advice from the VIAF Council, OCLC maintains the hosting, software, and data for VIAF. VIAF continues to grow in both number of Contributors and worldwide representation.
+The VIAF (Virtual International Authority File) combines multiple name authority files into a single OCLC-hosted name authority service. The goal of the service is to lower the cost and increase the utility of library authority files by matching and linking widely used authority files and making that information available online.
+Service availability
+Available everywhere
+Learn more
+Visit the VIAF website to learn more
+See the 2012 press release about VIAF transitioning to OCLC
+Discuss the next steps for your library
+Contact us
+About
+About OCLC
+Careers
+Respect and Belonging
+Finance
+Leadership
+Membership
+Sustainability
+Trust Center
+Products
+Discovery and reference
+Library management
+Metadata
+Resource sharing
+Member stories
+All products and services »
+Learn
+Research
+WebJunction
+Events
+On-demand webinars
+Support
+Support and training
+Librarian’s toolbox
+Community center
+Developer Network
+BibFormats
+System status dashboard
+Blogs
+Next blog
+Hanging together
+President's Leadership blog
+Stay in the know
+Get the latest product updates, research, events, and much more—right to your inbox.
+Subscribe now
+Follow OCLC
+© 2026 OCLC    Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates
+Privacy statement
+Cookie notice
+Cookie settings
+Accessibility statement
+ISO 27001 Certificate

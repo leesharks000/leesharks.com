@@ -1,0 +1,218 @@
+CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities | alphaXiv
+
+BlogSend Feedback?
+
+AbstractPaper
+
+Submitted 25 Jan 2022
+
+en
+
+CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
+
+Stanford UniversityCornell University
+
+Mina LeePercy LiangQian Yang
+
+Abstract
+
+Large language models (LMs) offer unprecedented language generation capabilities and exciting opportunities for interaction design. However, their highly context-dependent capabilities are difficult to grasp and are often subjectively interpreted. In this paper, we argue that by curating and analyzing large interaction datasets, the HCI community can foster more incisive examinations of LMs' generative capabilities. Exemplifying this approach, we present CoAuthor, a dataset designed for revealing GPT-3's capabilities in assisting creative and argumentative writing. CoAuthor captures rich interactions between 63 writers and four instances of GPT-3 across 1445 writing sessions. We demonstrate that CoAuthor can address questions about GPT-3's language, ideation, and collaboration capabilities, and reveal its contribution as a writing "collaborator" under various definitions of good collaboration. Finally, we discuss how this work may facilitate a more principled discussion around LMs' promises and pitfalls in relation to interaction design. The dataset and an interface for replaying the writing sessions are publicly available at this https URL.
+
+Show more
+
+View Paper
+
+5
+
+Save
+
+GitHub
+
+Cite
+
+AI Overview
+
+Copy
+
+Our new overview generator adds more detail and page citations
+
+Generate overview
+
+Understanding Human-AI Collaboration in Writing
+
+The development of large language models (LMs) like GPT-3 has created new possibilities for human-AI collaboration in creative tasks. However, evaluating these systems poses unique challenges that traditional natural language processing (NLP) and human-computer interaction (HCI) approaches struggle to address comprehensively. This research introduces a systematic methodology for understanding how humans and AI systems work together in collaborative writing tasks.
+
+Figure 1: The CoAuthor interface showing the three-step writing process: (1) Write initial text, (2) Get AI suggestions by pressing tab, (3) Edit and incorporate suggestions
+
+The Challenge of Evaluating Human-AI Collaboration
+
+Current evaluation methods for language models face significant limitations when applied to interactive settings. Traditional NLP evaluation focuses on automated metrics and assumes full automation, measuring only final outputs rather than the collaborative process. Meanwhile, HCI research typically relies on small-scale qualitative studies that, while rich in insight, lack the generalizability needed for broad design conclusions.
+
+The researchers identify a critical gap: language models exhibit highly context-dependent capabilities that are difficult to characterize objectively. Their performance varies significantly based on the specific task, user interaction patterns, and even the randomness settings used during generation. This variability makes it challenging to develop principled design guidelines for human-AI collaborative systems.
+
+The CoAuthor Dataset and Methodology
+
+To address these challenges, the researchers developed CoAuthor, a large-scale dataset capturing detailed human-AI collaborative writing interactions. The dataset was designed around four key principles:
+
+Diverse Contexts: The study included both creative writing (storytelling) and argumentative writing (evidence-based reasoning) tasks, using 20 different prompts sourced from Reddit's r/WritingPrompts and The New York Times. This diversity ensures the findings apply across different writing styles and cognitive demands.
+
+Process-Oriented Data Collection: Rather than simply collecting final outputs, CoAuthor records every interaction as timestamped events, including text insertions, deletions, cursor movements, and AI suggestion requests. This granular logging allows researchers to reconstruct entire writing sessions and analyze the collaborative process itself.
+
+Systematic Variation: The researchers used GPT-3's davinci engine with two different randomness settings - high randomness (temperature=0.75, frequency penalty=1) and low randomness (temperature=0.3, frequency penalty=0) - to understand how model behavior affects collaboration.
+
+The data collection involved 63 qualified crowd workers who completed 1,445 writing sessions using a custom web-based text editor. Writers could request up to five AI suggestions at any point by pressing the tab key, then choose to accept or dismiss each suggestion.
+
+Key Findings on GPT-3's Collaborative Capabilities
+
+Language Quality and Diversity
+
+The analysis revealed that GPT-3 demonstrates strong grammatical capabilities in collaborative settings. Sentences generated by GPT-3 and accepted by human writers contained fewer spelling and grammatical errors (0.033 errors per word) compared to human-only text (0.037 errors per word). Notably, text segments created jointly by humans and AI showed the lowest error rates (0.032 errors per word), suggesting beneficial synergy between human and AI contributions.
+
+Figure 2: Grammaticality comparison showing joint human-AI text has the fewest errors
+
+Figure 3: Vocabulary diversity measured by distinct-2 score, showing collaborative text achieves highest diversity
+
+Regarding vocabulary diversity, collaborative texts achieved higher diversity scores (0.923) than either human-only (0.884) or AI-only accepted text (0.876). This suggests that incorporating AI suggestions encourages writers to use broader vocabulary or that writers selectively choose more diverse suggestions.
+
+Ideation and Creative Influence
+
+One of the most significant findings concerns GPT-3's ability to contribute new ideas to the writing process. The analysis showed that 13% of accepted suggestions in creative writing and 7% in argumentative writing contained new named entities (characters, locations, concepts) not present in the preceding text.
+
+Figure 4: Creative writing example showing how AI-introduced characters ("Dr. John") are reused by human writers
+
+Figure 5: Proportion of AI-introduced named entities that writers subsequently reuse in their own text
+
+Crucially, writers subsequently reused 20% of AI-introduced named entities in creative writing and 14% in argumentative writing. This provides concrete evidence that GPT-3 can serve as an effective ideation partner, influencing the direction and content of human writing beyond mere text completion.
+
+Collaboration Patterns and Individual Differences
+
+The research revealed that collaboration patterns vary significantly across individual writers but remain relatively consistent across different writing prompts. This suggests that personal writing style and preferences are more influential than topic-specific factors in determining how people collaborate with AI.
+
+Figure 6: Collaboration equality and mutuality metrics showing significant variation across individual writers
+
+The study measured collaboration through two metrics:
+
+Equality: The evenness of turn-taking between human and AI
+
+Mutuality: The level of human interaction with AI suggestions
+
+These metrics revealed that some writers engage in highly collaborative partnerships with the AI, while others use it more sparingly as a supplementary tool.
+
+Implications for Design and Future Research
+
+The CoAuthor dataset enables exploration of different definitions of "good collaboration" and their design implications:
+
+Productivity Enhancement: The research found strong correlations between final text length and both the number of AI queries (r=0.42) and accepted suggestions (r=0.48). This correlation was stronger than with time spent writing (r=0.29), suggesting that active AI engagement may be more effective for productivity than simply allocating more time.
+
+Ownership and Satisfaction: Writers reported stronger feelings of ownership when they authored a larger proportion of the final text (r=0.3). Interestingly, the amount of editing performed showed no meaningful correlation with ownership, suggesting that text origin matters more than editorial effort in human-AI collaboration.
+
+Broader Impact and Future Directions
+
+This research establishes interaction datasets as valuable "boundary objects" between the HCI and NLP communities. By capturing both quantitative interaction patterns and qualitative user experiences, such datasets can bridge the gap between scalable technical evaluation and human-centered design insights.
+
+The CoAuthor dataset opens several research directions:
+
+Hypothesis Generation: Researchers can use the detailed interaction logs to identify patterns and formulate testable hypotheses about human-AI collaboration
+
+Model Training: The dataset provides supervision signals for training language models specifically for interactive, collaborative settings
+
+Design Guidelines: The empirical findings can inform the development of more effective collaborative writing tools
+
+The work demonstrates that large-scale interaction datasets can provide the systematic, empirical foundation needed to move beyond anecdotal observations toward principled design of human-AI collaborative systems. As language models become increasingly powerful and prevalent, such rigorous evaluation methodologies will become essential for understanding their real-world impact and designing effective human-AI partnerships.
+
+Language Models are Few-Shot Learners
+This paper introduced GPT-3, which is the specific large language model whose capabilities are being investigated in the main paper. The entire CoAuthor study and dataset are designed to reveal and analyze the collaborative writing potential of GPT-3, making this a foundational citation.
+
+Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel Ziegler, Jeffrey Wu, Clemens Winter, Chris Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, and Dario Amodei. 2020. Language Models are Few-Shot Learners. In Advances in Neural Information Processing Systems, H. Larochelle, M. Ranzato, R. Hadsell, M. F. Balcan, and H. Lin (Eds.), Vol. 33. Curran Associates, Inc., 1877–1901.
+
+Automated Assistance for Creative Writing with an RNN Language Model
+
+This is a key methodological precursor, cited for its approach of logging writer interactions and varying the randomness of AI suggestions to evaluate the system. The CoAuthor paper explicitly adopts a similar strategy to explore GPT-3's capabilities under different configurations.
+
+Melissa Roemmele and Andrew S. Gordon. 2018. Automated Assistance for Creative Writing with an RNN Language Model. In Proceedings of the 23rd International Conference on Intelligent User Interfaces Companion (Tokyo, Japan) (IUI ’18 Companion). Association for Computing Machinery, New York, NY, USA, Article 21, 2 pages.
+
+The Impact of Multiple Parallel Phrase Suggestions on Email Input and Composition Behaviour of Native and Non-Native English Writers
+
+This work is cited as a direct influence on the CoAuthor paper's data collection interface design. It also represents an emerging approach of analyzing interaction logs to understand human-AI writing collaboration, which the main paper builds upon and scales up significantly.
+
+Daniel Buschek, Martin Zürn, and Malin Eiband. 2021. The Impact of Multiple Parallel Phrase Suggestions on Email Input and Composition Behaviour of Native and Non-Native English Writers. Association for Computing Machinery, New York, NY, USA.
+
+Patterns of interaction in ESL pair work
+
+The main paper directly adapts the theoretical concepts of 'equality' and 'mutuality' from this work to create novel metrics for analyzing the collaborative dynamics between writers and GPT-3. This citation is fundamental to a significant part of the paper's analytical contribution.
+
+Neomy Storch. 2002. Patterns of interaction in ESL pair work. Language learning 52, 1 (2002), 119–158.
+
+Audio
+
+Audio summary
+
+Generate an ~8 minute deep dive into this paper's concept and methodology.
+
+Sign up to generate
+
+Similar papers
+
+From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps07 Apr 2025Writing as a testbed for open ended agents25 Mar 2025The Effectiveness of LLMs as Annotators: A Comparative Overview and Empirical Analysis of Direct Representation29 Jun 2025LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset10 Mar 2024Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild21 Jun 2025
+Show moreShow less
+CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis11 Feb 2025Cultivating Pluralism In Algorithmic Monoculture: The Community Alignment Dataset19 Feb 2026The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course04 Mar 2026Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language Models18 Feb 2024EDA Corpus: A Large Language Model Dataset for Enhanced Interaction with OpenROAD04 May 2024
+
+Discussion
+
+Comment
+
+GitHub
+
+Autoresearch
+
+226 views812 citations
+
+v2
+
+BibTeX
+
+Copy
+
+@misc{lee2022coauthordesigninghumanaicollaborative,
+title={CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities},
+author={Mina Lee and Percy Liang and Qian Yang},
+year={2022},
+eprint={2201.06796},
+archivePrefix={arXiv},
+primaryClass={cs.HC},
+doi={https://doi.org/10.1145/3491102.3502030},
+url={https://arxiv.org/abs/2201.06796},
+}
+
+AI detection
+
+Analyze
+
+Related papers
+
+From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps07 Apr 2025
+
+Writing as a testbed for open ended agents25 Mar 2025
+
+The Effectiveness of LLMs as Annotators: A Comparative Overview and Empirical Analysis of Direct Representation29 Jun 2025
+Show moreShow less
+
+LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset10 Mar 2024
+
+Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild21 Jun 2025
+
+CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis11 Feb 2025
+
+Cultivating Pluralism In Algorithmic Monoculture: The Community Alignment Dataset19 Feb 2026
+
+The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course04 Mar 2026
+
+Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language Models18 Feb 2024
+
+EDA Corpus: A Large Language Model Dataset for Enhanced Interaction with OpenROAD04 May 2024
+
+Sign in
+
+Assistant
+
+Sign in to save

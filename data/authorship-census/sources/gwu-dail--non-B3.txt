@@ -1,0 +1,1957 @@
+AI Hallucination Cases Database – Damien Charlotin
+
+ Damien Charlotin
+ AI, law, and pelicans.
+
+ Hallucinations
+
+ 1
+ 1. Fake cites, wrong cites, real consequences.
+
+ Adversarial Inputs
+
+ 2
+ 2. All things you want to tell your opponent’s AI without their notice.
+
+ Further Data+
+
+AI Hallucinations
+
+AI Deepfakes in Court
+
+AI Evidence
+
+AI Discovery
+
+ Writing+
+
+Artificial Authority
+
+Op-eds
+
+Essays
+
+Books / Longform
+
+ Research+
+
+Scholarship
+
+Courses
+
+SSRN
+
+Media
+
+CV
+
+AI Hallucination Cases
+
+ This database tracks legal decisions1
+
+ I.e., all documents where the use of AI, whether established or merely alleged, is addressed in more than a passing reference by the court or tribunal.
+
+ Notably, this does not cover mere allegations of hallucinations, but only cases where the court or tribunal has explicitly found (or implied) that a party relied on hallucinated content or material.
+
+ As an exception, the database also covers some judicial decisions where AI use was alleged but not confirmed. This is a judgment call on my part.
+
+ in cases where generative AI produced hallucinated content – typically fake citations, but also other types of AI-generated arguments. It does not track the (necessarily wider) universe of all fake citations or use of AI in court filings.
+
+ While seeking to be exhaustive (2246 cases identified so far), it is a work in progress and will expand as new examples emerge. This database has been featured in news media, and indeed in several decisions dealing with hallucinated material.2
+
+ Examples of media coverage include: 
+
+ - M. Hiltzik, AI 'hallucinations' are a growing problem for the legal profession (LA Times, 22 May 2025)
+
+ - E. Volokh, "AI Hallucination Cases," from Courts All Over the World (Volokh Conspiracy, 18 May 2025)
+
+ - J-.M. Manach, "Il génère des plaidoiries par IA, et en recense 160 ayant « halluciné » depuis 2023" (Next, 1 July 2025)
+ - J. Koebler & J. Roscoe, "18 Lawyers Caught Using AI Explain Why They Did It (404 Media, 30 September 2025)
+
+ If you have any questions about the database, a FAQ is available here.
+
+And if you know of a case that should be included, feel free to 
+ contact me.3
+
+ (Readers may also be interested in this project regarding AI use in academic papers.)
+
+ Based on this database, I have developed an automated reference checker that also detects hallucinations: PelAIkan. Check the Reports in the database for examples, and reach out to me for a demo.
+
+ For weekly takes on cases like these, and what they mean for legal practice, subscribe to Artificial Authority.
+
+ Click to Download CSV
+
+ Last updated: 31 October 2026
+
+ Licence
+
+ CC BY 4.0 — free to reuse, including commercially,
+ with attribution.
+
+ Cite as: AI Hallucination Cases Database, Damien Charlotin,
+ https://www.damiencharlotin.com/hallucinations/.
+
+ Full licence terms
+
+ I want graphs
+
+State
+
+ Argentina (10)
+
+ Australia (112)
+
+ Austria (2)
+
+ Belgium (8)
+
+ Brazil (41)
+
+ Canada (240)
+
+ Chile (3)
+
+ China (5)
+
+ Colombia (3)
+
+ Costa Rica (8)
+
+ Czech Republic (2)
+
+ Denmark (2)
+
+ Domestic Arbitration (3)
+
+ France (14)
+
+ Germany (11)
+
+ Hong Kong (5)
+
+ India (16)
+
+ International Arbitration (1)
+
+ Ireland (6)
+
+ Israel (58)
+
+ Italy (15)
+
+ Kenya (1)
+
+ Malaysia (1)
+
+ Namibia; UK (1)
+
+ Netherlands (7)
+
+ New Zealand (7)
+
+ Northern Cyprus (KKTC) (1)
+
+ Papua New Guinea (1)
+
+ Poland (10)
+
+ Portugal (1)
+
+ Qatar (1)
+
+ Russian Federation (1)
+
+ Singapore (8)
+
+ South Africa (7)
+
+ South Korea (8)
+
+ Spain (8)
+
+ Tanzania (3)
+
+ The Bahamas (1)
+
+ Trinidad & Tobago (1)
+
+ UAE (2)
+
+ Uganda (2)
+
+ UK (89)
+
+ Ukraine (2)
+
+ USA (1517)
+
+ WIPO (2)
+
+ Zimbabwe (1)
+
+Party
+
+ Arbitrator (1)
+
+ Expert (17)
+
+ Federal Defender (1)
+
+ Governement Lawyer (3)
+
+ Judge (33)
+
+ Lawyer (887)
+
+ Paralegal (3)
+
+ Prosecutor (5)
+
+ Pro Se Litigant (1296)
+
+ From period:
+ Q2 2023
+
+Nature – Category
+
+ Fabricated (1843)
+
+ False Quotes (597)
+
+ Misrepresented (953)
+
+ Outdated Advice (38)
+
+Nature – Subcategory
+
+ Case Law (2011)
+
+ Doctrinal Work (56)
+
+ Exhibits & Submissions (162)
+
+ Legal Norm (259)
+
+ Other (44)
+
+ Overturned Case Law (19)
+
+ Repealed Law (19)
+
+Legal Field
+
+ All legal fields
+
+ Contract (460)
+
+ Administrative (284)
+
+ Civil rights (215)
+
+ Employment (206)
+
+ Tort (194)
+
+ Other (186)
+
+ Family (146)
+
+ Criminal (70)
+
+ Bankruptcy (57)
+
+ Immigration (43)
+
+ IP (26)
+
+ Tax (26)
+
+ Landlord-tenant (21)
+
+ Habeas (10)
+
+ Monetary sanction
+
+ ⓘ
+
+ Disciplinary Referral
+
+ Case
+
+ Court / Jurisdiction
+
+ Date
+ ▼
+
+Party Using AI
+
+AI Tool
+
+ ⓘ
+
+Nature of Hallucination
+
+Outcome / Sanction
+
+Monetary Penalty
+
+ ⓘ
+
+Details
+
+Report(s)
+
+ Clifford v. Neidle et al.
+
+ decision
+
+ D. Wyoming
+
+ (USA)
+
+28 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (5)
+
+ Misrepresented
+
+ Case Law
+
+ (1), 
+
+ Legal Norm
+
+ (1)
+
+Plaintiff’s filings and motion for alternative service were stricken; he was ordered to show cause why sanctions should not issue.
+
+ —
+
+ ▸
+
+ —
+
+The Court found that Plaintiff’s filings contained multiple inaccurate or hallucinated legal citations, indicating possible improper use of artificial intelligence without adequate oversight. The Court struck the motion for alternative service and responses to the show-cause order, required Plaintiff to produce copies of two cited cases or explain under oath why he should not be sanctioned, and ordered further submissions regarding possible sanctions under Rule 11, 28 U.S.C. § 1927, and the Court’s inherent authority. No monetary or professional sanction was imposed in this order.
+
+ American Leadership Academy, et al. v. Kristina Sherburne, et al.
+
+ decision
+
+ CA Arizona (1d)
+
+ (USA)
+
+23 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Adverse Costs Order
+
+ 1 USD ⓘ
+
+ —
+
+ Boyd v. Beachwood City School District Board of Education
+
+ decision
+
+ N.D. Ohio
+
+ (USA)
+
+23 October 2026
+
+ Pro Se Litigant
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (2), 
+
+ Legal Norm
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Paananen v. Peckham, Inc.
+
+ decision
+
+ W.D. Michigan
+
+ (USA)
+
+23 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Lewis v. Cameron-Nichols
+
+ decision
+
+ CA Arizona
+
+ (USA)
+
+23 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ —
+
+Adverse Costs Order
+
+ 1 USD ⓘ
+
+ —
+
+ South African Post Office SOC Ltd (In Business Rescue) and Others v Commissioner Menzi Fakude N.O. and Others
+
+ decision
+
+ Labour Court of South Africa
+
+ (South Africa)
+
+23 October 2026
+
+ Lawyer, 
+
+ Judge
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Arbitration stayed; arbitrator's ruling held prima facie unlawful and materially irregular
+
+ —
+
+ ▸
+
+ —
+
+The arbitrator relied on a purported Constitutional Court judgment, South African Post Office SOC Ltd (In Business Rescue) and Others v Communication Workers Union and Others, cited as 2023 ZACC 40, to conclude that business rescue did not prevent the unfair-dismissal arbitration. The Labour Court searched the relevant databases and found that no such case existed; citation 2023 ZACC 40 actually referred to Rayment and Others v Minister of Home Affairs and Others, which concerned immigration visas and had nothing to do with business rescue or labour disputes. The Court inferred that the authority was likely generated through AI-assisted research and held that the arbitrator's failure to verify it constituted misconduct, a material irregularity, and a failure to apply his mind. The arbitration was stayed and interdicted pending review, with no order as to costs.
+
+ Johnny Tyson II v. Warren Inn Haltom City Ltd. d/b/a Acacia Apartments
+
+ decision
+
+ CA Texas (2d)
+
+ (USA)
+
+22 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (5)
+
+ —
+
+ —
+
+ Ocean Wave Drywall Ltd. v. Johal
+
+ decision
+
+ BC CRT
+
+ (Canada)
+
+22 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+ —
+
+ —
+
+ Source: Courtready
+
+ Kapur v. Area 01
+
+ decision
+
+ BC PAAB
+
+ (Canada)
+
+22 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Outdated Advice
+
+ Repealed Law
+
+ (2)
+
+ —
+
+ ▸
+
+ —
+
+The appellant relied on sections 58(1), 58(3), and 37(1)(b) of British Columbia’s Assessment Act as authority for an application to reassess. The Board found that section 58 had been repealed and that section 37 no longer contained the cited subsection or served the relied-on purpose. The Assessor suggested that the use of outdated provisions might result from AI. The Board noted that AI-generated submissions must be disclosed and accurate, but accepted the appellant’s materials because the appellant stated they had been reviewed and there was no contrary evidence. The outdated statutory references were disregarded, and no sanction or penalty was imposed.
+
+ Source: Courtready
+
+ U.S. Department of Health and Human Services and National Treasury Employees Union, 74 FLRA No. 87
+
+ decision
+
+ Federal Labor Relations Authority
+
+ (USA)
+
+21 October 2026
+
+ Lawyer
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ Misrepresented
+
+ Case Law
+
+ (4)
+
+Warning
+
+ —
+
+ ▸
+
+ —
+
+The Authority found that 22 of the Agency's 29 footnotes, and 35 of its 42 legal or record citations, were fictitious, erroneous, or irrelevant. It specifically identified a nonexistent FLRA decision, numerous citations with incorrect parties, pincites, or reporters, and authorities that did not support the propositions for which they were cited. The scope and nature of the errors led the Authority to state that the Agency may have used a generative-AI tool, while emphasizing that AI use is not prohibited but that filings must be checked for accuracy. The Agency's exceptions were denied as unsupported or meritless, without sanctions or a monetary penalty.
+
+ Moore v. Jackson Walker LLP, et al.
+
+ decision
+
+ S.D. Texas
+
+ (USA)
+
+21 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (2)
+
+Monetary Sanction; Adverse Costs Order
+
+ 7500 USD
+
+ —
+
+ Weyland v. Second Judicial District Court, et al.
+
+ decision
+
+ D. Nevada
+
+ (USA)
+
+20 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+Warning
+
+ —
+
+ —
+
+ Chilingarian v. Blanche
+
+ decision
+
+ 10th Cir. CA
+
+ (USA)
+
+20 October 2026
+
+ Lawyer
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ —
+
+ —
+
+ Commonwealth v. Butler
+
+ decision
+
+ SC Pennsylvania
+
+ (USA)
+
+19 October 2026
+
+ Lawyer
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (6)
+
+ Misrepresented
+
+ Case Law
+
+ (3)
+
+Warning
+
+ —
+
+ —
+
+ Hadarou Sare v. Central Collection Unit, et al.
+
+ decision
+
+ AC Maryland
+
+ (USA)
+
+16 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Waushara County v. Beatrice Bruning
+
+ decision
+
+ CA Wisconsin
+
+ (USA)
+
+15 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Sabatini v. Pennsylvania Public Utility Commission
+
+ decision
+
+ C. Pennsylvania
+
+ (USA)
+
+14 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (3)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Davis v. Tressler and York
+
+ decision
+
+ CA Indiana
+
+ (USA)
+
+14 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (7)
+
+ Misrepresented
+
+ Case Law
+
+ (5), 
+
+ Legal Norm
+
+ (1)
+
+Adverse Costs Order
+
+ 1 ⓘ
+
+ —
+
+ King v. AT&T Corp. et al.
+
+ decision
+
+ W.D. Washington
+
+ (USA)
+
+13 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (3)
+
+Certification requirement in communication with opposing counsel
+
+ —
+
+ ▸
+
+ —
+
+Order to Show Cause is here.
+
+ Deen v. VMK, Inc.
+
+ decision
+
+ CA California (6d)
+
+ (USA)
+
+13 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ —
+
+ —
+
+ Thornton v. Amazon.com Services LLC
+
+ decision
+
+ E.D. California
+
+ (USA)
+
+13 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Misrepresented
+
+ Case Law
+
+ (4)
+
+Warning
+
+ —
+
+ —
+
+ Cox v. Mitchell
+
+ decision
+
+ 5th Cir. CA
+
+ (USA)
+
+9 October 2026
+
+ Pro Se Litigant
+
+Unidentified
+
+ —
+
+ —
+
+ —
+
+ Glenn v. Absolute Resolutions Investments, LLC, et al.
+
+ decision
+
+ M.D. Florida
+
+ (USA)
+
+9 October 2026
+
+ Lawyer
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ —
+
+ ▸
+
+ —
+
+Counsel filed a memorandum containing at least two AI-generated errors: one citation referred to a nonexistent case, and another cited an existing case that did not contain the quotation attributed to it. Counsel admitted failing to review AI-assisted research before filing. The Court emphasized counsel’s duty to provide accurate citations and found that his apology, client and opposing-counsel notifications, donation of approximately $10,000 in fees to Jacksonville Area Legal Aid, AI-ethics CLE, and revised office procedures were a suitable remedy. No further action was ordered.
+
+ Thorogood v. Merit Systems Protection Board
+
+ decision
+
+ Fed. Cir.
+
+ (USA)
+
+8 October 2026
+
+ Pro Se Litigant
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (1), 
+
+ Doctrinal Work
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ In the Matter of Gary Brown, Jr.
+
+ decision
+
+ AC Maryland
+
+ (USA)
+
+8 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Avargil et al. v. Yaakov et al.
+
+ decision
+
+ MC Nof HaGalil-Nazareth
+
+ (Israel)
+
+8 October 2026
+
+ Expert
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (1), 
+
+ Doctrinal Work
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1), 
+
+ Legal Norm
+
+ (2)
+
+Report Struck; Adverse Costs Order
+
+ 2500 ILS
+
+ —
+
+ U.S. Bank Trust National Association, as Trustee of the Chalet Series IV Trust v. Rosy Esprecion Thomas
+
+ decision
+
+ Hawaii ICA
+
+ (USA)
+
+8 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (3)
+
+Violations of HRCP Rule 11(b)(2), but no sanctions
+
+ —
+
+ —
+
+ Washington v. Justice
+
+ decision
+
+ CA Florida (2d)
+
+ (USA)
+
+7 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Appeal dismissed; future related pro se filings were restricted unless signed by Florida Bar counsel.
+
+ —
+
+ —
+
+ Source: Christian Silva
+
+ Tapscott v. Fariss
+
+ decision
+
+ CA Iowa
+
+ (USA)
+
+7 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Appeal dismissed
+
+ —
+
+ ▸
+
+ —
+
+The court identified multiple hallucinated citations in Tapscott’s final self-represented appellate brief. It ordered him to provide the cases relied upon or explain the citations, but he did not respond. In combination with his repeated failures to comply with appellate briefing rules and prior warnings, the court dismissed the appeal.
+
+ Illinois Department of Healthcare and Family Services ex rel. Shaina Matos v. Daniel Badea
+
+ decision
+
+ CA Illinois (1d)
+
+ (USA)
+
+7 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ —
+
+ —
+
+ Kid International, LLC v. City National Bank of Florida
+
+ decision
+
+ CA Florida (4d)
+
+ (USA)
+
+7 October 2026
+
+ Lawyer
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (3)
+
+Adverse Costs Order
+
+ —
+
+ —
+
+ In re Alexis Lorene Landrum
+
+ decision
+
+ CA Texas (5d)
+
+ (USA)
+
+7 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ —
+
+ —
+
+ Duckett v. Board of Regents of the University of Wisconsin System
+
+ decision
+
+ W.D. Wisconsin
+
+ (USA)
+
+7 October 2026
+
+ Lawyer
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+Admonishment
+
+ —
+
+ —
+
+ Butler v. The Travelers Indemnity Company
+
+ decision
+
+ SC Connecticut
+
+ (USA)
+
+7 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (5)
+
+ False Quotes
+
+ Case Law
+
+ (3)
+
+ Misrepresented
+
+ Case Law
+
+ (14)
+
+Filings struck
+
+ —
+
+ —
+
+ Slim v. Cox Communications, Inc.
+
+ decision
+
+ D. Kansas
+
+ (USA)
+
+6 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+Warning
+
+ —
+
+ —
+
+ Smith v. Yavapai-Prescott Indian Tribe Local Board
+
+ decision
+
+ CA Arizona
+
+ (USA)
+
+6 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Admonishment
+
+ —
+
+ —
+
+ Cooper v. John Doe County Court Clerk et al.
+
+ decision
+
+ S.D. New York
+
+ (USA)
+
+5 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+ Outdated Advice
+
+ Overturned Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Grobler v. Kentucky Housing Corporation
+
+ decision
+
+ CA Kentucky
+
+ (USA)
+
+2 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (3)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+ —
+
+ ▸
+
+ —
+
+The Court of Appeals identified multiple citations in Grobler’s pro se brief as apparently AI-hallucinated, including three nonexistent Kentucky cases: Hunt v. Smith, 670 S.W.2d 248 (Ky. App. 1984), Bargo v. Bargo, 616 S.W.3d 389 (Ky. App. 2020), and Roberts v. Hensley, 422 S.W.3d 727 (Ky. App. 2013). The court also stated that several citations to real cases did not support the propositions for which they were cited. Treating these errors as a substantive violation of the appellate rules, the court limited review to manifest injustice and affirmed the order. The court separately rejected Grobler’s purported IRS Form 1099-C as plainly unauthenticated and not issued by the IRS, but did not identify that document as an AI hallucination.
+
+ Shannon v. Shannon
+
+ decision
+
+ SC Nebraska
+
+ (USA)
+
+2 October 2026
+
+ Pro Se Litigant
+
+Unidentified
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+Brief struck
+
+ —
+
+ —
+
+ Mercante v. Tarzia
+
+ decision
+
+ E.D. New York
+
+ (USA)
+
+2 October 2026
+
+ Lawyer
+
+Westlaw AI
+
+ Fabricated
+
+ Case Law
+
+ (3)
+
+ False Quotes
+
+ Case Law
+
+ (2)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+ —
+
+ ▸
+
+ —
+
+Defense counsel admitted using a Westlaw AI tool to identify cases and copying propositions without verifying the authorities or citations. The court found one fictitious case, several false quotations and mis-citations, and at least one materially misrepresented precedent. It held that citing the fictitious case violated Rule 11, but affirmed the magistrate judge's decision not to issue an order to show cause or impose sanctions because Rule 11 sanctions are discretionary, the errors caused no sufficiently demonstrated burden requiring further proceedings, and an admonition was within the court's discretion.
+
+Upon reconsideration, the judge found (here) that the cited decision in fact exists, but was nonetheless miscited, and decliend to amend the Rule 11 findings since they also relied on counsel's admissions.
+
+ MeetingTV, Inc. v. KOI Security Inc. et al.
+
+ decision
+
+ S.D. California
+
+ (USA)
+
+2 October 2026
+
+ Lawyer
+
+Implied
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ —
+
+ —
+
+ P. M. M. c/ G. A., F. M. d. S.H. s/ cobro ordinario de sumas de dinero
+
+ decision
+
+ CA Morón
+
+ (Argentina)
+
+1 October 2026
+
+ Lawyer
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Appeal dismissed; Bar Referral
+
+ —
+
+ —
+
+ Simpson v. Porter
+
+ decision
+
+ SC Arkansas
+
+ (USA)
+
+1 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Order to show cause
+
+ —
+
+ —
+
+ Sanchez v. Synchrony Bank N.A.
+
+ decision
+
+ S.D. California
+
+ (USA)
+
+1 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ FJ v Secretary of State for the Home Department
+
+ decision
+
+ First-tier Tribunal (Immigration and Asylum Chamber)
+
+ (UK)
+
+1 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ —
+
+ ▸
+
+ —
+
+The appellant’s skeleton argument cited two apparent Upper Tribunal decisions—AA (Afghanistan) CG [2024] UKUT 00123 (IAC) and AS (Afghanistan: risk categories) CG [2023] UKUT 00456 (IAC). The judge stated that these appeared to be AI hallucinations and therefore focused on the Respondent’s current policy documents as the relevant country-information sources. The appeal was dismissed, with no separate professional sanction or monetary penalty imposed for the citations.
+
+ Droit de la famille — 261553
+
+ decision
+
+ CA Québec
+
+ (Canada)
+
+1 October 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (2)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Adverse Costs Order
+
+ 1 CAD ⓘ
+
+ —
+
+ Source: Courtready
+
+ Terrence Jamal Fitch v. Educators Credit Union and Landmark Credit Union
+
+ decision
+
+ CA Wisconsin
+
+ (USA)
+
+30 September 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Sexton v. Department of Homeless Services, et al.
+
+ decision
+
+ S.D. New York
+
+ (USA)
+
+30 September 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Miller v. Colorado Department of Revenue
+
+ decision
+
+ D. Colorado
+
+ (USA)
+
+30 September 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (1)
+
+ Misrepresented
+
+ Case Law
+
+ (4)
+
+Order to Show Cause
+
+ —
+
+ —
+
+ United States v. Charles Randall Sorensen
+
+ decision
+
+ D. Minnesota
+
+ (USA)
+
+30 September 2026
+
+ Pro Se Litigant
+
+Implied
+
+ Fabricated
+
+ Case Law
+
+ (1)
+
+ False Quotes
+
+ Case Law
+
+ (13), 
+
+ Doctrinal Work
+
+ (1), 
+
+ Exhibits or Submissions
+
+ (1), 
+
+ Legal Norm
+
+ (4)
+
+ Misrepresented
+
+ Case Law
+
+ (1)
+
+Warning
+
+ —
+
+ —
+
+ Page 1 of 45
+
+ Next »
+
+ Graphs reflect the cases currently matching your search and filters
+ (0 cases).
+
+Cases over time (by decision date)
+
+Not enough data
+
+Timing: offending document vs. decision
+
+ ⓘ
+
+Not enough data
+
+Who used AI, over time
+
+Not enough data
+
+By jurisdiction
+
+Not enough data
+
+Cases by jurisdiction
+
+ ⓘ
+
+Not enough data
+
+Nature of hallucination
+
+Not enough data
+
+Nature – subcategory
+
+Not enough data
+
+Outcome severity
+
+Not enough data
+
+Monetary penalty distribution (USD)
+
+ ⓘ
+
+Not enough data
+
+By legal field
+
+Not enough data
+
+Offending document by month of year
+
+Not enough data
+
+AI tools named
+
+ ⓘ
+
+Not enough data
+
+Excuses & responses when caught
+
+ ⓘ
+
+Not enough data
+
+ Twitter
+ LinkedIn
+ SSRN
+
+ © 2026 Damien Charlotin.
+
+ Licence
+
+ The case databases are licensed under CC BY 4.0
+ — free to reuse, including commercially, with attribution.
+
+ Cite as: <database name>, Damien Charlotin,
+ damiencharlotin.com.
+
+ Full licence terms

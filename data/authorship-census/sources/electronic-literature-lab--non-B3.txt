@@ -1,0 +1,314 @@
+Electronic Literature Lab - Wikipedia
+
+Jump to content
+
+Main menu
+
+Main menu
+
+ move to sidebar
+ hide
+
+ Navigation
+
+Main page
+
+Contents
+
+Current events
+
+Random article
+
+About Wikipedia
+
+Contact us
+
+ Contribute
+
+Help
+
+Learn to edit
+
+Community portal
+
+Recent changes
+
+Upload file
+
+Special pages
+
+Search
+
+ Search
+
+Appearance
+
+Donate
+
+Create account
+
+Log in
+
+Personal tools
+
+Donate
+
+Create account
+
+Log in
+
+Contents
+
+ move to sidebar
+ hide
+
+(Top)
+
+ 1
+ Laboratory description
+
+ 2
+ Awards and grants
+
+ 3
+ References
+
+ 4
+ External links
+
+Toggle the table of contents
+
+Electronic Literature Lab
+
+Add languages
+
+Add links
+
+Article
+
+Talk
+
+ English
+
+Read
+
+Edit
+
+View history
+
+Tools
+
+Tools
+
+ move to sidebar
+ hide
+
+ Actions
+
+Read
+
+Edit
+
+View history
+
+ General
+
+What links here
+
+Related changes
+
+Upload file
+
+Permanent link
+
+Page information
+
+Cite this page
+
+Get shortened URL
+
+Switch to legacy parser
+
+ Print/export
+
+Download as PDF
+
+Printable version
+
+ In other projects
+
+Wikidata item
+
+Appearance
+
+ move to sidebar
+ hide
+
+From Wikipedia, the free encyclopedia
+
+Research lab and archive of old electronic literature
+Electronic Literature Lab
+
+Founded
+2011; 15 years ago (2011)
+
+Founder
+Dene Grigar
+
+Website
+https://electronicliteraturelab.org/
+
+The Electronic Literature Lab, housed in Washington State University, Vancouver, maintains obsolete computers and hardware to preserve and present early electronic literature, video games, and internet works such as Instagram zines.[1] It was founded in 2011 by Dene Grigar.[2]
+
+Part of the Electronic Literature Lab housed in the Washington State University at Vancouver
+
+Laboratory description
+[edit]
+
+The Electronic Literature Lab holds the hardware and software that the NEXT Museum, Library, and Preservation Space depends on to show electronic literature works in their original environment.[3] The lab forms the center of archiving electronic literature for the Electronic Literature Organization.[4] Because electronic literature works were built on specific hardware, software, and platforms, these works are now largely inaccessible as hardware and software becomes obsolete.[5] Thus the lab maintains over 80 vintage computers from 1977 onwards[6][7] to serve over 3,000[8] works of electronic literature[9] for researchers to analyze, such as the over 60 works from M.D. Coverley.[10] The lab also hosts video games, such as Amnesia (1986).[11]
+
+This lab has been called unique as it is "a reading room preserves literature, art and games created on computers that cannot be printed."[12] James O'Sullivan called it "what is possibly the greatest collection of first-generation e-lit in the Western world."[13] As Kristin Lillvis and Melinda White note, "the Electronic Literature Lab has preserved many of these works in the collection through restoration processes involving migration and emulation to make them once-again accessible."[14] The lab documents these archival processes in scholarly publications such as The Challenges of Born-Digital Fiction (2023)[15] and Traversals: The Use of Preservation for Early Electronic Writing (2018).[16]
+
+Dene Grigar founded and directs this lab.[17] She describes her theory of preservation for electronic items in her 2025 Ted Talk Making the Virtual Real and the Real Virtual.[18] As Jan Beatens explained, Stuart Moulthrop and Dene Grigar explicate the challenges in this pioneering field of preserving electronic literature in the Electronic Literature Lab.[19] Part of this work is interviews with pioneers in the electronic literature field such as Bob Stein, founder of Voyager Press.[20]
+
+This is a working research lab as "Kristin Lillvis and Melinda White note: "even more significantly, the Electronic Literature Lab has preserved many of these works in the collection through restoration processes involving migration and emulation to make them once-again accessible."[21] ELL hosts online events such as the List of 280 Women E-Lit Pioneers & Visionaries (1985-2020).[22] The lab has hosted post-graduate students and research studies into born digital works.[23][24] Electronic literature critics, such as Astrid Ensslin[25] and Mariusz Pisarski, have collaborated with WSUV students and professors to analyze and archive electronic literature works.[26] The works from the lab were exhibited at the Library of Congress in 2013.[27]
+
+Awards and grants
+[edit]
+
+The lab received an Open Scholarship Award from the Canadian Social Knowledge Institute in 2022.[28]
+
+Other grant and award-winning studies at the lab included Chronicles: Documenting the Articulation of Culture in Video Games (2016), by Madeleine Brookman which garnered WSUV's 2016 Emeritus Society Undergraduate Research Award,[29] the 2015 CAS Summer Mini-Grant, and the 2014-5 Auvril Fellowship.[23]
+
+References
+[edit]
+
+↑ Germain, Thomas (2025-05-18). "Still booting after all these years: The people stuck using ancient Windows computers". BBC. Retrieved 2025-05-25.
+
+↑ "The Electronic Literature Lab". dtc-wsuv.org. Retrieved 2025-08-09.
+
+↑ "Electronic Literature Lab (ELL) | ELMCIP". elmcip.net. Retrieved 2025-05-25.
+
+↑ Grigar, Dene (May 2019). "Archiving Electronic Literature: Selection Criteria, Methodology, and Challenges". Journal of Archival Organization. 15 (1–2): 20–33. doi:10.1080/15332748.2019.1609310.
+
+↑ culturalstudiesleuven (2018-07-02). "Traversals: The Use of Preservation for Early Electronic Writing". Cultural Studies Leuven. Retrieved 2025-05-25.
+
+↑ "The Electronic Literature Lab". dtc-wsuv.org. Retrieved 2024-05-06.
+
+↑ webmaster (2025-05-19). "La tecnología que se negó a morir: cómo Windows XP, DOS y otros fantasmas digitales aún gobiernan el mundo". mi Manizales del alma! (in Spanish). Retrieved 2025-08-23.
+
+↑ EBonline. "Electronic Literature Lab". EarlyBirds Open Innovation Ecosystem. Retrieved 2025-08-23.
+
+↑ "Pathfinders: Collection of Early Digital Literature in the Electronic Literature Lab (ELL)". Pathfinders. Retrieved 2025-08-23.
+
+↑ Lillvis, Kristen; White, Melinda (2023-08-28). "Review: Marjorie C. Luesebrink Collection at ELO's The NEXT". Reviews in Digital Humanities. IV (8). doi:10.21428/3e88f64f.fb0bd342. ISSN 2766-9297.
+
+↑ "fireworks24 added AMNESIA: Restored to Computer". itch.io. Retrieved 2025-07-13.
+
+↑ "WSUV's Electronic Literature Lab 'the only place in the world that does born-digital conservation'". The Columbian. 2025-08-01. Retrieved 2025-08-23.
+
+↑ O'Sullivan, James (2017-11-07). "Electronic Literature's Contemporary Moment: Breeze and Campbell's "All the Delicate Duplicates"". Los Angeles Review of Books. Los Angeles. OCLC 904358349. Archived from the original on 2025-08-16. Retrieved 2025-09-10.
+
+↑ Lillvis, Kristen; White, Melinda (2023-08-28). "Review: Marjorie C. Luesebrink Collection at ELO's The NEXT". Reviews in Digital Humanities. IV (8). doi:10.21428/3e88f64f.fb0bd342. ISSN 2766-9297.
+
+↑ Grigar, Dene; Pisarski, Mariusz (February 2024). "The Challenges of Born-Digital Fiction: Editions, Translations, and Emulations". Elements in Digital Literary Studies. doi:10.1017/9781009181488. ISBN 978-1-009-18148-8.{{cite journal}}: CS1 maint: periodical has ISBN (link)
+
+↑ Stuart, Moulthrop; Dene, Grigar; Joseph, Tabbi (2017-04-07). "Traversals: The Use of Preservation for Early Electronic Writing". OUP Academic. doi:10.7551/mitpre (inactive 1 July 2025).{{cite journal}}: CS1 maint: DOI inactive as of July 2025 (link)
+
+↑ "Electronic Literature Lab | Washington State University". vancouver.labs.wsu.edu. Retrieved 2025-05-25.
+
+↑ TEDx Talks (2025-04-09). Making the Virtual Real and the Real Virtual | Dene Grigar | TEDxMarshallU. Retrieved 2025-05-26 – via YouTube.
+
+↑ "Review of Traversals: The Use of Preservation for Early Electronic Writing". Leonardo/ISASTwith Arizona State University. 2018-07-01. Retrieved 2025-05-25.
+
+↑ Electronic Literature Lab (ELL) (2019-10-31). Electronic Literature Lab: Interview with Bob Stein of Voyager. Retrieved 2025-08-23 – via YouTube.
+
+↑ Lillvis, Kristen; White, Melinda (2023-08-28). "Review: Marjorie C. Luesebrink Collection at ELO's The NEXT". Reviews in Digital Humanities. IV (8). doi:10.21428/3e88f64f.fb0bd342. ISSN 2766-9297.
+
+↑ "Nuestras voces en la historia de la literatura electrónica". centroculturadigital.mx. Retrieved 2025-08-23.
+
+1 2 "Rebooting Electronic Literature: About the Electronic Literature Lab and Its Library of Electronic Media". Rebooting Electronic Literature: Documenting Pre-Web Born Digital Media. Retrieved 2025-08-23.
+
+↑ Pawlicka-Deger, Urszula. "research | Urszula Pawlicka-Deger". www.pawlickadeger.com. Retrieved 2025-08-23.
+
+↑ "Digital Histories: A review of Astrid Ensslin's Pre-web Digital Publishing and the Lore of Electronic Literature | ebr". electronicbookreview.com. Retrieved 2025-08-23.
+
+↑ "International scholars join Electronic Literature Lab". College of Arts and Sciences. Retrieved 2025-05-25.
+
+↑ Ashenfelder, Mike (2013-11-13). "Preserving Vintage Electronic Literature | The Signal". The Library of Congress. Retrieved 2025-08-23.
+
+↑ "2022 Open Scholarship Awards | Electronic Textual Cultures Lab". etcl.uvic.ca. Retrieved 2025-05-25.
+
+↑ "2016 Undergraduate Research Award Winners | Emerita/Emeritus Society | Washington State University". emeritussociety.wsu.edu. Retrieved 2025-08-23.
+
+External links
+[edit]
+
+Electronic Literature Lab official website
+
+The NEXT Museum, Library, and Preservation, Space website
+
+Infographic on ELL's importance to electronic literature
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electronic_Literature_Lab&oldid=1366171755"
+
+Categories: 
+Electronic literature organizations
+
+Archival technology
+
+2008 establishments in Washington (state)
+
+Literary archives in the United States
+
+Video games archiving
+
+Hidden categories: 
+Articles with short description
+
+Short description matches Wikidata
+
+CS1 Spanish-language sources (es)
+
+CS1 maint: periodical has ISBN
+
+CS1 maint: DOI inactive as of July 2025
+
+ This page was last edited on 26 July 2026, at 18:30 (UTC).
+
+Page was rendered with Parsoid.
+
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Legal & safety contacts
+
+Code of Conduct
+
+Developers
+
+Statistics
+
+Cookie statement
+
+Mobile view
+
+Search
+
+ Search
+
+Toggle the table of contents
+
+Electronic Literature Lab
+
+Add languages
+
+Add topic

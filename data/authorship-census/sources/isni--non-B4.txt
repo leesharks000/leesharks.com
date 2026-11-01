@@ -1,0 +1,207 @@
+ISNI - Book Industry Study Group
+
+ Skip to content
+
+ in your cart View Cart
+
+ Cart
+
+ Join
+
+ Login
+
+ Contact
+
+ BISAC
+
+ (Free) Complete BISAC Subject Headings
+
+ BISAC Merchandising Themes (2025)
+
+ BISAC Regional Themes (2025)
+
+ Purchase/Download Complete BISAC List
+
+ BISAC FAQ
+
+ BISAC Suggestion Form
+
+ COMMITTEES
+
+ Metadata Committee
+
+ Rights Committee
+
+ Subject Codes Committee
+
+ Supply Chain Committee
+
+ Workflow Committee
+
+ WORKING GROUPS
+
+ Accessibility
+
+ Artificial Intelligence
+
+ Audiobook Best Practices
+
+ Book Publishing Next
+
+ Sustainability
+
+ MEMBERSHIP
+
+ Become a Member
+
+ Member Benefits 
+
+ Member Directory
+
+ EVENTS
+
+ Celebrate BISG@50 
+
+ Calendar
+
+ Webinars
+
+ Meetings
+
+ In-Person Events
+
+ Training & Education
+
+ Industry Events
+
+ JOB BOARD
+
+ KNOWLEDGE CENTER
+
+ Contact
+
+ Join
+
+ Login
+
+ISNI Working Group
+
+Working group plans and resources
+
+What is ISNI? 
+
+The International Standard Name Identifier (ISNI), one of the family of ISO identifiers, provides users with the ability to identify a creator, author, or contributor using a unique 16-digit identifier. ISNI use cases may also include the ability to identify entities, such as publishers and imprints, among other applications. An ISNI identifier can be included in metadata and communicated to trading partners looking to disambiguate authors or contributors with the same or similar names. An ISNI can also be used to help connect  works done by a single author under different or multiple  names. ISNI shares a 16-digit namespace with ORCID, which provides a similar function in the scholarly publishing space.  
+
+Current situation
+
+Over the past several years, ISNI use has grown, particularly in the national library community and the music industry, where it is a part of the workflow for paying creators. Several countries around the world have experimented with workflows that include ISNI in the set of identifiers used in book metadata. A few trial projects, including one led by the British Library, have helped publishers surface ISNIs already assigned to authors and return them to the publishers’ database.
+
+The US market does not yet have a national agreement on how ISNIs might be managed and used in the book publishing industry. At the end of 2024, the US also lacked a formal registry to issue ISNIs in the market, although non-US registration agencies can be used to obtain ISNIs for US purposes. These gaps potentially limit the uptake of ISNIs in the US market. 
+
+Objectives
+
+Recommend one or more approaches to ISNI workflows that would work in the US market.
+
+Identify or recruit organizations that can assist in ISNI assignment, use, or maintenance roles across the US market.
+
+Develop use cases and publicize the benefits of ISNI in the US market, and promote its use by publishers, libraries, retailers and others
+
+Participate in the ISNI-IA Book Publishers consultation group and represent US publishers and resellers who do not themselves choose to attend
+
+Share progress with the broader community to increase understanding and support for ISNI in the US marketplace.
+
+Stakeholder Impact / Benefits
+
+Effective management of ISNIs can help publishers by: clarifying authors and contributors in publishers' contacts databases and across the metadata supply chain; enabling grouping of authors and aiding disambiguation where names may be shared by two or more contributors; resolving  pseudonyms, alternative names, and multiple presentations (scripts, spellings) of a name when selling in multiple markets / regions; bridging the gap between contributors known by two or more names, empowering publishers to be able to report on linked identities; enabling cross-referencing more easily; aiding contact management for authors, agents, and others; facilitating payment to contributors; and connecting cross-sector contributors to the products they are publishing, e.g. books by artists from the music or entertainment sectors.
+
+Effective management of ISNIs can help booksellers by: disambiguating authors with similar names, helping to create detailed and accurate "About this Author" webpages; enhancing relationships with readers, connecting them to the content they're seeking and creating a service/community that they'll want to return to; reducing frustration/disappointment for readers,  ensuring the information provided on a site is accurate and as detailed as possible; and increasing discoverability of individual authors' titles, especially their backlist.
+
+Deliverables
+
+The working group will meet in 2025 to:
+
+Discuss and promote one or more options to support a national workflow for ISNI in the US market. Consider potential models already in use in other markets or industries.
+
+Identify key players, including publishers, retailers, and systems vendors,  currently using, supporting,  or considering use of ISNI in the US market. Convene an online conversation in June to explore options to implement one or more of the options for a national workflow, including the need for a US-based registration agency.
+
+Build on work done by the ISNI Book Publishers consultation group to develop a business case for ISNI in the US market, citing benefits and the changes needed to start a national workflow.
+
+Work to resolve backlogs of ISNIs for established authors, proposing a best practices for assigning new ISNIs for emerging contributors
+
+Blockers
+
+Resources already exist to support the efforts of this working group. To be successful, the working group should reach out to publishers, retailers, bibliographic reference organizations such as BDS, OCLC and the Library of Congress, and others to gather a wide perspective. In some cases, participants may not be currently involved with BISG, so finding the right volunteer in each organization may take time.
+
+The Organization
+
+About BISG
+
+Contact Us
+
+Meet Our Board
+
+Meet Our Staff
+
+Book Association Advisory Council (BAAC)
+
+Policy Statements
+
+Core Resources
+
+BISAC Codes
+
+Barcoding Guidelines
+
+Find A Rightsholder
+
+Knowledge Center
+
+Research
+
+Webinars, Events & Training
+
+Press & News
+
+BISG Blog
+
+News & Media Inquiries
+
+Press Archive
+
+Sponsorship Opportunities
+
+Subscribe to our Newsletter
+
+Legal
+
+AI Statement
+
+Antitrust Guidelines
+
+Bylaws
+
+Code of Conduct
+
+Privacy Policy
+
+Terms & Conditions
+
+ 244 Madison Avenue Suite 230
+New York, New York 10016
+United States
+
+ —
+
+ 646.336.7141
+
+ Association Management Software
+
+ Copyright © 2026 - Book Industry Study Group. Legal
+
+ ×
+
+Membership & Account Access
+
+ Create an Account
+
+ View Membership Information

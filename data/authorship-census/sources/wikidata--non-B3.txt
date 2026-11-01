@@ -1,0 +1,19 @@
+Toggle navigation
+SPARQL
+Wikimedia Toolforge
+ ×
+Test result
+ Loading...
+Explorer×
+ctrl+enter
+ctrl+escape
+esc
+?
+i
+r
+f
+s
+m
+e
+h
+l

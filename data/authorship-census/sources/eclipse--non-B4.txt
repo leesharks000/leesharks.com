@@ -1,0 +1,23 @@
+Eclipse Project Archives 
+
+ Eclipse project archived downloads 
+ Archived downloads of the Eclipse project 
+
+ Archived Downloads 
+
+ On this page you can find the archived builds produced by the Eclipse Project .
+ Archived builds consist of older releases and not propagated to Eclipse mirrors.
+ To get started run the program and go through the user and developer documentation provided in the online help system.
+ If you have problems downloading the drops, contact the webmaster .
+ If you have problems installing or getting the workbench to run, check the main download area for resolution strategies.
+
+ All downloads are provided under the terms and conditions of the Eclipse.org Software User Agreement unless otherwise specified.
+
+ Current builds are available from the main download area .
+ For information about different kinds of builds look here .
+
+ Archived Releases 
+
+ Eclipse 4 
+
+ Eclipse 1, 2 and 3
