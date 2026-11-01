@@ -1,0 +1,1195 @@
+Organization for Transformative Works - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ Services and platforms 
+
+ 2 
+ Legal activism 
+
+ 3 
+ Fandom archival projects 
+
+ 4 
+ Archive of Our Own 
+
+ 5 
+ Transformative Works and Cultures 
+
+ 6 
+ References 
+
+ 7 
+ External links 
+
+ Toggle the table of contents 
+
+ Organization for Transformative Works 
+
+ 4 languages 
+
+ Français 
+ Bahasa Indonesia 
+ Svenska 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikimedia Commons 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ (Redirected from Fanlore ) 
+
+ Nonprofit organization for fan activity
+
+ "},"caption":{"wt":"Organization for Transformative Works (OTW) graphic banner, umbrella of OTW's projects"},"map":{"wt":"<!-- optional -->"},"formation":{"wt":"{{Start date and age|df=yes|2007|05|17}}<ref name=\"annual-report-2007\">{{Citation | author= Organization for Transformative Works | title = Annual Report 2007 | volume = 1 | page = 4 | year = 2007 | url = https://www.transformativeworks.org/reports_docs/annual-report-2007/ | access-date = 2 October 2021}}</ref>"},"extinction":{"wt":"<!-- date of extinction, optional -->"},"type":{"wt":"[[Non-profit]]"},"status":{"wt":"<!-- ad hoc, treaty, foundation, etc -->"},"purpose":{"wt":"<!-- focus as e.g. humanitarian, peacekeeping, etc -->"},"coordinates":{"wt":"<!-- Coordinates of location using a coordinates template -->"},"language":{"wt":"<!-- official languages -->"},"leader_title":{"wt":"<!-- position title for the leader of the org -->"},"leader_name":{"wt":"<!-- name of leader -->"},"main_organ":{"wt":"Board of directors, elected annually"},"affiliations":{"wt":"<!-- if any -->"},"budget":{"wt":""},"remarks":{"wt":""},"name":{"wt":"Organization for Transformative Works"},"image_border":{"wt":""},"image_size":{"wt":""},"map_size":{"wt":"<!-- map size, optional, default 200px -->"},"map_alt":{"wt":"<!-- map alt text -->"},"map_caption":{"wt":"<!-- optional -->"},"abbreviation":{"wt":"OTW"},"region_served":{"wt":""},"num_members":{"wt":""},"num_staff":{"wt":""},"num_volunteers":{"wt":""},"website":{"wt":"{{official URL}}"}},"i":0}}]}'> Organization for Transformative Works Organization for Transformative Works (OTW) graphic banner, umbrella of OTW's projects
+
+ Abbreviation
+ OTW
+
+ Formation
+ 17   May 2007 ; 19 years ago   ( 2007-05-17 ) [ 1 ] 
+
+ Type
+ Non-profit 
+
+ Main organ
+
+ Board of directors, elected annually
+
+ Website
+ www .transformativeworks .org 
+
+ The Organization for Transformative Works ( OTW ) is a nonprofit , fan activist organization. Its mission is to serve fans by preserving and encouraging transformative fan activity, known as " fanwork ", and by making fanwork widely accessible. [ 2 ] 
+
+ OTW advocates for the transformative, legal, and legitimate nature of fan labor activities, including fan fiction , fan videos , fan art , anime music videos , podfic (audio recordings of fan fiction [ 3 ] ), and real person fiction . [ 4 ] [ 5 ] Its vision is to nurture fans and fan culture, and to protect fans' transformative work from legal snafus and commercial exploitation. [ 2 ] [ 6 ] 
+
+ OTW has 983 volunteers, [ 7 ] net assets of approximately $3.8 million and at least 14,959 paying members according to its annual report in 2024. [ 8 ] 
+
+ Services and platforms
+ [ edit ] 
+
+ The Organization for Transformative Works offers the following services and platforms to fans in a myriad of fandoms :
+
+ Archive of Our Own (AO3): An open-source, non-commercial, non-profit, multi-fandom web archive built by fans for hosting fan fiction and for embedding other fanwork, including fan art, fan videos, and podfic.
+
+ Fanlore : A wiki for fans from a wide range of communities whose published mission is to provide a platform "to record and share their histories, experiences and traditions" [ 9 ] in fandom and fanwork history. The site suffered a data breach in August 2026. [ 10 ] 
+
+ Open Doors : Preservation of fannish historical artifacts, such as zines and GeoCities websites, as well as transferring fanfiction to Archive of Our Own from other websites when they shut down .
+
+ Transformative Works and Cultures : A peer-reviewed academic journal for scholarship on fanworks and practices
+
+ Legal advocacy to the fandom community, addressing the legal issues with fan fiction and other fan works, including defending fans' fair use of copyrighted material. [ 11 ] 
+
+ Vidding (2008): a series of six short documentaries on vidding , in combination with participatory-culture academic Henry Jenkins and the New Media Literacies project at Massachusetts Institute of Technology . [ 12 ] 
+
+ Fanhackers : A directory of information and resources to help fans, academics, and activists, including good metadata (information, analysis, and discussion about data). [ 13 ] 
+
+ Legal activism
+ [ edit ] 
+
+ The OTW provides legal assistance to the fandom community, addressing the legal issues with fan fiction and other fan works. Rebecca Tushnet , a noted legal scholar on fanfiction and fair use in copyright and trademark law, works with the OTW's legal project. In 2008, the OTW (in coordination with the Electronic Frontier Foundation ) successfully submitted requests to the Library of Congress for further exceptions to the Digital Millennium Copyright Act to allow the fair use of video clips for certain noncommercial uses such as video remixes, commentary, and education, as well as to protect technology used for such purposes. The exceptions were also successfully renewed in 2012 and expanded in 2015. [ 14 ] [ 15 ] [ 16 ] The OTW, the Electronic Frontier Foundation, and New Media Rights submitted a new petition for exemptions in 2018. [ 17 ] 
+
+ The OTW has also submitted several amicus briefs to the courts in several cases involving intellectual property law:
+
+ In Fox v. Dish , the OTW (in coalition with the Electronic Frontier Foundation and Public Knowledge ) submitted an amicus brief which argued in defense of digital recording methods used by Dish Network , claiming that "The popular fanwork genre of noncommercial videos ('vids') uses clips from television shows or film, reworking them in a way that comments on or critiques the original. The Copyright Office has held that substantial numbers of vids constitute fair uses. But the creation of fan vids requires intermediate digital copying and processing in order to produce the transformative final product. OTW thus believes that intermediate copying performed to facilitate fair use constitutes fair use." [ 18 ] 
+
+ In the case of Ryan Hart v. Electronic Arts , the OTW (in combination with the Digital Media Law Project and the International Documentary Association ) submitted a brief arguing that Electronic Arts 's use of factual information (such as the height, weight, and jersey number of football players) in creative works (in this case, video games) is protected by the First Amendment to the United States Constitution . [ 19 ] 
+
+ Fandom archival projects
+ [ edit ] 
+
+ The OTW has also instituted several projects for preserving fan history and culture. One such project was the creation of Fanlore, a wiki for preserving fandom history. The Fanlore wiki was first revealed in beta in 2008, with a full release in December 2010. [ 20 ] In June 2018, there were approximately 45,000 articles and 800,000 edits to the wiki, [ 21 ] and it passed a million edits in January 2021. [ 22 ] 
+
+ The OTW also has several "Open Doors" projects dedicated to the preservation of fannish historical artifacts. These projects include The Fan Culture Preservation Project, a joint venture between the OTW and the Special Collections department at the University of Iowa [ 23 ] to archive and preserve fanzines and other non-digital forms of fan culture, and The GeoCities Rescue Project, which attempted to preserve content originally hosted on Yahoo's GeoCities by transferring that content to new locations on the Archive of Our Own or within the Fanlore wiki. [ 24 ] Other miscellaneous artifacts and collections are stored on the OTW's main servers in the Special Collections gallery.
+
+ Archive of Our Own
+ [ edit ] 
+
+ Main article: Archive of Our Own 
+
+ Created by the OTW, the Archive of Our Own (often shortened to AO3) is an open-source, non-commercial, non-profit archive for fan fiction and other transformative fanwork . The Archive is built and run entirely by volunteers, many without previous coding experience. [ 25 ] The Archive was publicly launched into open beta on 14 November 2009, [ 26 ] and has been growing steadily since. [ 27 ] 
+
+ Time magazine included Archive of Our Own on its list of "50 Best Websites 2013". Time said that AO3 "serves all fandoms equally, from The A-Team to Zachary Quinto and beyond", and also called it "the most carefully curated, sanely organized, easily browsable and searchable nonprofit collection of fan fiction on the Web...". [ 28 ] 
+
+ Fans post, tag and categorize their own works on AO3. [ 29 ] [ 30 ] Volunteer "tag wranglers" link similar tags so readers can search for works in the categories and types they want. [ 31 ] The tagging system allows easy compilation of statistics (stats).
+
+ Fan fiction ranges in length, from fewer than one thousand words ( flash fiction , or one-hundred-word drabbles ) to novel-length works, up to millions of words in length. According to an article on fandom statistics published on The Daily Dot newspaper in 2013, AO3 hosts more very short works than long ones, but readers prefer the longer works. The average very short story received fewer than 150 hits, while novel-length works are more likely to receive around 1,500 hits. [ 32 ] 
+
+ A writer who posts a story on AO3 can record its word count on the story's header, along with other information such as the story's fandom, ships , and other tropes. Some fan works are 'crossovers' that draw on two or more universes or characters. Writers can also note if their story is finished or a work in progress (WIP). [ 33 ] 
+
+ As of August 2026, the archive hosts more than 18 million works in more than 80,000 fandoms. [ 34 ] Destination Toast, fan and statistician, [ 35 ] compiles and analyzes fandom statistics, especially stats from Archive of Our Own, which she says is "the most easily searchable archive I know of." [ 36 ] In January 2016, she posted "2015: A (Statistical) Year in Fandom." It includes statistics from two other large fan fiction archives, FanFiction.Net (FFN) and Wattpad as well as the popular microblog platform Tumblr . The post shows that the most active fandoms on AO3 in 2015 were (largest first) Supernatural , Dragon Age , Harry Potter , The Avengers , Teen Wolf , and Sherlock . [ 37 ] Other media sources include movies, television shows, and books including The Lord of the Rings , Doctor Who , and The Hunger Games .
+
+ Transformative Works and Cultures 
+ [ edit ] 
+
+ {{cite journal |url=https://journal.transformativeworks.org/index.php/twc/article/view/1249 |title=Copyright and Open Access |journal=Transformative Works and Cultures |volume=25 |date=2017-09-15 |access-date=2025-12-05}}</ref>\n}}"},"history":{"wt":"2008–present"},"openaccess":{"wt":"Yes"},"impact-year":{"wt":"2015"},"ISSN":{"wt":"1941-2258"},"website":{"wt":"http://journal.transformativeworks.org/index.php/twc/index"}},"i":0}}]}'>
+ Transformative Works and Cultures Discipline
+ Interdisciplinary 
+
+ Language
+ English
+
+ Edited   by
+ Kristina Busse , Karen Hellekson 
+
+ Publication details
+
+ History
+ 2008–present
+
+ Publisher
+ Organization for Transformative Works
+
+ Open access 
+
+ Yes
+
+ License
+
+ Creative Commons Attribution-Noncommercial 3.0 (2008–2017)
+
+ Creative Commons Attribution 4.0 (2017–present) [ 38 ] 
+
+ Impact factor 
+
+ (2015)
+
+ Standard abbreviations
+ ISO 4 ( alt )   · Bluebook ( alt )
+ NLM ( alt )   · MathSciNet ( alt ) 
+
+ ISO 4 
+ Transform. Works Cult. 
+
+ Indexing
+ CODEN ( alt   · alt2 )   · JSTOR ( alt )   · LCCN ( alt )
+ MIAR   · NLM ( alt )   · Scopus   · W&L 
+
+ ISSN 
+ 1941-2258 
+
+ Links
+
+ Journal homepage 
+
+ Transformative Works and Cultures is a peer-reviewed , open-access academic journal published by the Organization for Transformative Works. The journal collects essays, articles, book reviews, and shorter pieces that concern fandom , fanworks, and fan practices. [ 39 ] [ 40 ] According to Humanities, Arts, Science and Technology Alliance and Collaboratory (HASTAC), the journal "supports the [Organization for Transformative Works's] mission to promote the legitimacy and sustainability of non-commercial fan creativity by providing a forum for innovative criticism in fan studies , broadly conceived." [ 41 ] 
+
+ The founding editors were Kristina Busse and Karen Hellekson . [ 42 ] They stepped down from their editorial positions in favor of Mel Stanfill and Poe Johnson in 2022. [ 43 ] It covers "popular media, fan communities, and transformative works". [ 44 ] 
+
+ The journal has raised the academic profile of female fan communities and transformative works, including fan fiction , fan art , fan vids , and cosplay , by serving as a central publication venue for these topics. [ 45 ] Coppa states that many second-wave fan fiction scholars, such as herself, started to publish in Transformative Works and Cultures and that the journal has "nurtured a new wave of scholars". [ 46 ] Via a number of articles, the journal has had a hand in helping to spread Jenkins, Sam Ford, and Joshua Green's idea of "spreadable media". [ 47 ] 
+
+ References
+ [ edit ] 
+
+ ↑ Organization for Transformative Works (2007), Annual Report 2007 , vol.   1, p.   4 , retrieved 2 October 2021 
+
+ 1 2 "What We Believe | Organization for Transformative Works" . transformativeworks.org . Retrieved 8 February 2016 . 
+
+ ↑ "Wiki editors debate audio fiction's place in fandom" . The Daily Dot . 25 September 2012 . Retrieved 12 February 2016 . 
+
+ ↑ Ulaby, Neda (25 February 2009). "Vidders Talk Back To Their Pop-Culture Muses" . NPR . Retrieved 28 November 2009 . 
+
+ ↑ Hill, Logan (12 November 2007). "The Vidder" . New York Magazine . Retrieved 28 November 2009 . 
+
+ ↑ Lieb, Rebecca (28 March 2008). "Transformative Fans Transform Brands" . ClickZ . Retrieved 30 August 2009 . 
+
+ ↑ "November 2025 Newsletter, Volume 206" . Organization for Transformative Works . 
+
+ ↑ Organization for Transformative Works. "Annual Report 2024" . 
+
+ ↑ "Fanlore:About - Fanlore" . fanlore.org . Retrieved 8 February 2016 . 
+
+ ↑ "Have I Been Pwned: Who's Been Pwned" . haveibeenpwned.com . Retrieved 9 October 2026 . 
+
+ ↑ "Legal Advocacy | Organization for Transformative Works" . transformativeworks.org . Retrieved 8 February 2016 . 
+
+ ↑ Jenkins, Henry (5 December 2008). "Fan Vidding: A Labor of Love (Part One)" . Retrieved 28 November 2009 . 
+
+ ↑ "About" . Fanhackers . Retrieved 12 February 2016 . 
+
+ ↑ Estavillo, Maricel (November 2012). "US Makes New Exemptions To Digital Millennium Copyright Act Provision" . Intellectual Property Watch . Retrieved 30 April 2013 . 
+
+ ↑ Staff. "EFF Wins Renewal of Smartphone Jailbreaking Rights" . Kansas City InfoZine. Archived from the original on 27 March 2013 . Retrieved 30 April 2012 . 
+
+ ↑ Mao, David S. (20 October 2015). "Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies" (PDF) . United States Library of Congress . Retrieved 9 June 2018 . 
+
+ ↑ "Comments of the Electronic Frontier Foundation, New Media Rights, Organizational for Transformative Works on Proposed Class 1 – Audovisual Works – Criticism and Comment" (PDF) . United States Copyright Office . Retrieved 9 June 2018 . 
+
+ ↑ "Fox vs. Dish Amici Brief" (PDF) . Organization for Transformative Works. Archived from the original (PDF) on 29 April 2014 . Retrieved 30 April 2013 . 
+
+ ↑ "Ryan Hart vs. Electronic Arts Amici Brief" (PDF) . Organization for Transformative Works. Archived from the original (PDF) on 8 November 2012 . Retrieved 30 April 2013 . 
+
+ ↑ "Our Projects: Fanlore" . Organization for Transformative Works . Retrieved 30 April 2013 . 
+
+ ↑ "Main Page" . Fanlore. 12 May 2018 . Retrieved 9 June 2018 . 45,229 articles, 793,761 edits 
+
+ ↑ Jess H (18 January 2021). "Fanlore Celebrates One Million Edits" . Organization for Transformative Works . Retrieved 4 February 2021 . 
+
+ ↑ "ArchivesSpace at the University of Iowa, Public Interface | University of Iowa Special Collections | Organization for Transformative Works Fanzine and Fan Fiction Collection" . aspace.lib.uiowa.edu . Retrieved 12 February 2016 . 
+
+ ↑ "Open Doors Projects" . Organization for Transformative Works . Retrieved 30 April 2013 . 
+
+ ↑ Torkington, Nat (19 May 2009). "Four short links: 19 May 2009 -- Recession Map, Gaming Psychology, Charging For Unwanted Content, and Two Great Projects" . O'Reilly Radar . Retrieved 28 November 2009 . 
+
+ ↑ "Announcing Open Beta" . AO3 News . 14 November 2009 . Retrieved 19 November 2009 . 
+
+ ↑ Organization for Transformative Works. "Site Stats: A Look at 2013 and Beyond, Part 1, Archive of Our Own" . archiveofourown.org . Retrieved 10 February 2016 . 
+
+ ↑ Grossman, Lev. "50 Best Websites 2013" . Time . Retrieved 8 February 2016 . 
+
+ ↑ Baker-Whitelaw, Gavia (15 July 2013). "Unpacking the unofficial fanfiction census" . The Daily Dot . Retrieved 8 February 2016 . 
+
+ ↑ Jenkins, Henry (18 October 2023). "AO3 - Archive of Our Own" . AO3 . Retrieved 6 April 2026 . 
+
+ ↑ Works, Organization for Transformative. "Show Wrangling Guideline | Archive of Our Own" . archiveofourown.org . Retrieved 8 February 2016 . 
+
+ ↑ "Unpacking the unofficial fanfiction census" . The Daily Dot . 15 July 2013 . Retrieved 12 February 2016 . 
+
+ ↑ Riley, Olivia (2015). "Archive of Our Own and the Gift Culture of Fanfiction: Analysis of an AO3 Fic Header" (PDF) . University of Minnesota Libraries: Digital Conservancy (Author's Thesis). pp.   44– 58 . Retrieved 10 February 2016 . 
+
+ ↑ Works, Organization for Transformative. "Home | Archive of Our Own" . archiveofourown.org . Retrieved 3 March 2026 . 
+
+ ↑ Romano, Aja (30 January 2016). "Is it possible to quantify fandom? Here's one statistician who's crunching the numbers" . The Daily Dot . Retrieved 8 February 2016 . 
+
+ ↑ "Fandom stats" . destinationtoast.tumblr.com . Retrieved 10 February 2016 . 
+
+ ↑ "2015: A (Statistical) Year in Fandom" . ToastyStats . destinationtoast.tumblr.com. January 2015 . Retrieved 8 February 2016 . 
+
+ ↑ "Copyright and Open Access" . Transformative Works and Cultures . 25 . 15 September 2017 . Retrieved 5 December 2025 . 
+
+ ↑ Hellekson, Karen; Blackford, Russell; Murphy, Graham (July 2008). "New Journal: Transformative Works and Cultures". Science Fiction Studies . 35 (2): 360– 362. doi : 10.1525/sfs.35.2.0360 . JSTOR   25475168 . 
+
+ ↑ "Editorial Policies | Focus and Scope" . Transformative Works and Cultures . Organization for Transformative Works. Archived from the original on 11 December 2017 . Retrieved 24 October 2016 . 
+
+ ↑ "Academic Publishing in the Digital Age" . HASTAC . 2 November 2008. Archived from the original on 16 April 2009. 
+
+ ↑ "Transforming academic and fan cultures" . Transformative Works and Cultures . 1 (1). 15 September 2008. doi : 10.3983/twc.2008.071 . 
+
+ ↑ TWC New Coeditors [ Press Release ] , Organization for Transformative Works, 1 September 2021 , retrieved 14 June 2025 
+
+ ↑ Hellekson, Karen (2008). "New Journal: Transformative Works and Cultures". Science Fiction Studies . 35 (2): 360– 361. doi : 10.1525/sfs.35.2.0360 . JSTOR   25475168 . 
+
+ ↑ "Organization for Transformative Works - Fanlore" . fanlore.org . Retrieved 17 October 2019 . 
+
+ ↑ Francesca Coppa (2017). The Fanfiction Reader: Folk Tales for the Digital Age . University of Michigan Press . p.   17. ISBN   9780472053483 . 
+
+ ↑ Jenkins, Henry; Ford, Sam; Green, Joshua. "Spreadable Media in Transformative Works and Cultures" . spreadablemedia.com . Retrieved 24 October 2016 . 
+
+ External links
+ [ edit ] 
+
+ Wikinews has related news:
+ FanFiction.Net adult content purge felt across fandom two weeks on 
+
+ Organization for Transformative Works 
+
+ Archive of Our Own (AO3)
+
+ Fanhackers 
+
+ Fanlore (wiki)
+
+ Open Doors 
+
+ Transformative Works and Cultures 
+
+ Vidding (6 short documentaries, directed by Francesca Coppa)
+
+ OTW Fanzine and Fan Fiction Collection at the University of Iowa Libraries 
+
+ v 
+ t 
+ e 
+
+ Intellectual property activism
+
+ Issues
+
+ Artificial scarcity 
+
+ Censorship by copyright 
+
+ Copyright infringement 
+
+ Copyright troll 
+
+ Digital rights management 
+
+ Fair use 
+
+ Fan labor 
+ art 
+
+ cosplay 
+
+ fiction 
+
+ films 
+
+ games 
+
+ vidding 
+
+ Gripe site 
+
+ Legal aspects of file sharing 
+
+ Mashup 
+ digital 
+
+ music 
+
+ novel 
+
+ videos 
+
+ Monopolies of knowledge 
+
+ Music piracy 
+
+ Orphan works 
+
+ Biopiracy 
+ Bioprospecting 
+
+ Patents 
+ biological 
+
+ software 
+
+ software patent debate 
+
+ trolling 
+
+ Public domain 
+
+ Concepts
+
+ All rights reversed 
+
+ Alternative compensation system 
+
+ Anti-copyright notice 
+
+ Business models for open-source software 
+
+ Copyleft 
+
+ Commercial use of copyleft works 
+
+ Commons-based peer production 
+
+ Electronic sell-through 
+
+ Free content 
+
+ Free-software license 
+
+ Libertarian positions 
+
+ Open content 
+
+ Open-design movement 
+
+ Open music model 
+
+ Open patent 
+
+ Open source 
+ hardware 
+
+ software 
+
+ Prizes instead of patents 
+ contests 
+
+ Share-alike 
+
+ Sound recording copyright 
+
+ Video on demand 
+
+ Movements
+
+ Access to Knowledge movement 
+
+ Anti-copyright 
+
+ Cultural environmentalism 
+
+ Free-culture movement 
+
+ Free software movement 
+
+ Organizations
+
+ Pro-copyright
+
+ Australian Screen Association 
+
+ Copyright Alliance 
+
+ Federation Against Copyright Theft 
+
+ Future of Music Coalition 
+
+ Motion Picture Association 
+
+ Recording Industry Association of America 
+
+ Pro-copyleft
+
+ Anna's Archive 
+
+ Creative Commons 
+
+ Electronic Frontier Foundation 
+
+ Free Software Foundation 
+
+ Library Genesis 
+
+ Open Rights Group 
+
+ Organization for Transformative Works 
+
+ The Anarchist Library 
+
+ The Pirate Bay 
+
+ Piratbyrån 
+
+ Pirate Party 
+
+ Public Knowledge 
+
+ Sci-Hub 
+
+ Shadow library 
+
+ Students for Free Culture 
+
+ Z-Library 
+
+ People
+
+ Cory Doctorow 
+
+ Alexandra Elbakyan 
+
+ Rick Falkvinge 
+
+ Lawrence Lessig 
+
+ Pamela Samuelson 
+
+ Richard Stallman 
+
+ Peter Suber 
+
+ Peter Sunde 
+
+ Aaron Swartz 
+
+ Jack Valenti 
+
+ Documentaries
+
+ Good Copy Bad Copy 
+
+ RiP!: A Remix Manifesto 
+
+ Steal This Film 
+
+ The Internet's Own Boy 
+
+ TPB AFK 
+
+ Books
+
+ Chokepoint Capitalism 
+
+ Code and Other Laws of Cyberspace 
+
+ Free Culture 
+
+ v 
+ t 
+ e 
+
+ Fandoms 
+
+ Classification
+
+ By genre
+
+ Boys' love 
+
+ Fantasy 
+
+ Furry 
+ Kemonā 
+
+ Science fiction 
+
+ By medium
+
+ Anime and manga 
+ in Poland 
+
+ Cinephilia 
+
+ Gaming 
+
+ K-pop and Korean dramas 
+
+ Sports 
+
+ True crime 
+
+ Production
+specific
+
+ AFOL 
+
+ A Song of Ice and Fire 
+
+ Beatlemania 
+
+ Brony 
+ analysis 
+
+ art 
+
+ charity 
+
+ conventions 
+
+ criticism 
+
+ fan fiction 
+
+ music 
+
+ online communities 
+
+ religion and spirituality 
+
+ science and technology 
+
+ slang 
+
+ Deadhead 
+
+ Doctor Who 
+
+ Dragon Ball 
+
+ EarthBound 
+
+ Harry Potter 
+
+ James Bond 
+
+ Disney
+ Disney adults 
+
+ Disneyland social club 
+
+ Donaldism 
+
+ Janeite 
+
+ Juggalo 
+
+ Larries 
+
+ Moonwalker 
+
+ MSTies 
+
+ Sherlock Holmes 
+
+ Star Wars 
+
+ Stargate 
+
+ Shrek 
+
+ Sonic the Hedgehog 
+
+ Swiftie 
+
+ Tolkien 
+
+ Trekkie 
+
+ Twilight 
+
+ Demographics
+
+ Anorak 
+
+ Anti-fan 
+
+ Bookworm 
+
+ Celebrity worship syndrome 
+
+ Cult following 
+
+ Fan 
+
+ Geek 
+
+ Groupie 
+
+ Nerd 
+
+ Otaku 
+
+ Sasaeng 
+
+ Tifosi 
+
+ Ultras 
+
+ Organizations
+and events
+
+ Amateur press association 
+
+ Car club 
+ Boy racer 
+
+ Cruising 
+
+ Import scene 
+
+ Hot rodding 
+ Kustom Kulture 
+
+ Lowrider Club 
+
+ Supercar Season 
+
+ Cosplay 
+
+ Fan club 
+
+ Fandom names 
+
+ Historical reenactment 
+
+ Live action role-playing game 
+
+ Motorcycle club 
+ Harley Owners Group 
+
+ Organization for Transformative Works 
+
+ Railfan 
+
+ Stan Twitter 
+
+ Conventions 
+
+ Anime and manga 
+ list 
+
+ Comic book 
+ list 
+
+ defunct 
+
+ Doujinshi 
+
+ Furry 
+
+ Gaming 
+ list 
+
+ Horror 
+
+ Multigenre 
+
+ Professional wrestling 
+
+ Science fiction 
+ list 
+
+ by date of establishment 
+
+ Publications
+and activities
+
+ Anime music video 
+
+ Autograph collecting 
+
+ Doujin 
+ Doujin music 
+
+ Doujinshi 
+
+ Fan art 
+
+ Fan edit 
+
+ Fan fiction 
+
+ Fan film 
+
+ Fan labor 
+
+ Fan mail 
+
+ Fan rice 
+
+ Fan translation 
+
+ Fanac 
+
+ Fan game 
+ Doujin soft 
+
+ Mod 
+
+ Fansite 
+ Fan wiki 
+ list 
+
+ Fanspeak 
+
+ Fanzine 
+
+ Fictosexuality 
+
+ Filk music 
+
+ Oshikatsu 
+
+ Real person fiction 
+
+ Vidding 
+
+ Zine 
+
+ Topics
+
+ Cringe culture 
+
+ Fan loyalty 
+
+ Fan service 
+
+ Odagiri effect 
+
+ Original character 
+ Fursona 
+
+ Ponysona 
+
+ Parasocial interaction 
+
+ Shipping 
+ Ethics controversy 
+
+ Waifu/Husbando 
+
+   Category 
+
+ Commons 
+
+ v 
+ t 
+ e 
+
+ Fan fiction 
+
+ Genres
+
+ Alternate universe 
+
+ Crossover 
+
+ Expanded universe 
+
+ Fan film 
+
+ Femslash 
+
+ Mpreg 
+
+ Omegaverse 
+
+ Real person fiction 
+
+ Shared universe 
+
+ Slash fiction 
+
+ Uberfic 
+
+ Writing styles
+
+ Author surrogate 
+
+ Mary Sue 
+
+ MSTing 
+
+ Self-insertion 
+
+ Works
+
+ Alchemised 
+
+ All the Young Dudes 
+
+ Another Hope 
+
+ Beautiful Bastard 
+
+ Fallout: Equestria 
+
+ Fifty Shades trilogy 
+
+ Gabriel's Inferno 
+
+ Goncharov 
+
+ Harry Potter and the Methods of Rationality 
+
+ Harry Potter in Calcutta 
+
+ Heat Waves 
+
+ Hogwarts School of Prayer and Miracles 
+
+ I Will Survive 
+
+ The Love Hypothesis 
+
+ My Immortal 
+
+ Time's Champion 
+
+ Websites and
+organizations
+
+ FanFiction.Net 
+
+ Fimfiction 
+
+ The Gossamer Project 
+
+ Organization for Transformative Works 
+ Archive of Our Own 
+
+ Wattpad 
+
+ Shipping 
+
+ Discourse 
+
+ Creek 
+
+ Destiel 
+
+ Drarry 
+
+ Johnlock 
+
+ Kirk/Spock 
+
+ Larries 
+
+ Wolfstar 
+
+ Scorbus 
+
+ Stucky 
+
+ Thasmin 
+
+ Wincest 
+
+ Mileven 
+
+ Related
+
+ After (2019 film) 
+
+ Doujinshi 
+
+ Fan labor 
+
+ Hanahaki disease 
+
+ Legal issues with fan fiction 
+
+ Original character 
+
+ My Little Pony: Friendship Is Magic fan fiction 
+
+ Star Trek fan productions 
+
+ Tolkien fan fiction 
+
+ v 
+ t 
+ e 
+
+ Ebook digital distribution platforms 
+
+ Active
+
+ Archive of Our Own 
+
+ FanFiction.Net 
+
+ Internet Archive 
+
+ Project Gutenberg 
+
+ Standard Ebooks 
+
+ Wikibooks 
+
+ Commercial
+
+ Amazon Kindle 
+
+ Apple Books 
+
+ Barnes & Noble Nook 
+
+ BookWalker 
+
+ cloudLibrary 
+
+ DLsite 
+
+ DMM.com 
+
+ Google Play Books 
+
+ Hoopla Digital 
+
+ Jinjiang Literature City 
+
+ Kindle Direct Publishing 
+
+ Kindle Store 
+
+ Kobo 
+
+ Lulu 
+
+ OverDrive, Inc. 
+
+ Perlego 
+
+ PocketBook Reader 
+
+ Qidian 
+
+ Rokomari.com 
+
+ Scribd 
+
+ Shōsetsuka ni Narō 
+
+ Smashwords 
+
+ Wattpad 
+
+ Discontinued
+
+ NoiseTrade 
+
+ OkadaBooks 
+
+ Oyster 
+
+ Pronoun 
+
+ Sony Reader 
+
+ Authority control databases 
+
+ International
+ VIAF 
+
+ National
+ United States 
+
+ Other
+ Yale LUX 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=Organization_for_Transformative_Works&oldid=1382964524#Services_and_platforms "
+
+ Categories : Intellectual property activism 
+ Fan labor 
+ Fan fiction 
+ Non-profit organizations based in New York City 
+ 2007 establishments in New York City 
+ Internet properties established in 2007 
+ Hugo Award winners 
+ Academic journals established in 2008 
+ Creative Commons-licensed journals 
+ English-language journals 
+ American organizations established in 2007 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Use American English from October 2026 
+ All Wikipedia articles written in American English 
+ Use dmy dates from April 2021 
+ Articles with outdated impact factors from 2015 
+
+ This page was last edited on 31 October 2026, at 06:51  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ Organization for Transformative Works 
+
+ 4 languages 
+
+ Add topic

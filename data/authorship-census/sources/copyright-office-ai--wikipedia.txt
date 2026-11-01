@@ -1,0 +1,943 @@
+Artificial intelligence and copyright - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ Copyright status of AI-generated works 
+
+ Toggle Copyright status of AI-generated works subsection 
+
+ 1.1 
+ United States 
+
+ 1.2 
+ United Kingdom 
+
+ 1.3 
+ China 
+
+ 2 
+ Training AI with copyrighted data 
+
+ Toggle Training AI with copyrighted data subsection 
+
+ 2.1 
+ United States 
+
+ 2.2 
+ EU 
+
+ 2.3 
+ UK 
+
+ 2.4 
+ India 
+
+ 3 
+ Copyright infringing AI outputs 
+
+ 4 
+ Litigation 
+
+ Toggle Litigation subsection 
+
+ 4.1 
+ Doe v. GitHub, Inc. 
+
+ 4.2 
+ Andersen v. Stability AI 
+
+ 4.3 
+ Getty Images v. Stability AI 
+
+ 4.4 
+ Tremblay v. OpenAI, Inc. 
+
+ 4.5 
+ Authors Guild et al v. OpenAI, Inc. 
+
+ 4.6 
+ New York Times v. Microsoft and OpenAI 
+
+ 4.7 
+ Daily News LP v. Microsoft Corp. 
+
+ 4.8 
+ UMG Recordings, Inc. et al v. Suno, Inc. et al 
+
+ 4.9 
+ Robert Kneschke v. LAION 
+
+ 4.10 
+ ANI v. OpenAI, Inc. 
+
+ 4.11 
+ Torstar Corp. et al v. OpenAI, Inc. et al 
+
+ 4.12 
+ GEMA v. OpenAI, Inc. 
+
+ 4.13 
+ Disney Enterprises, Inc. et al v. Midjourney, Inc. 
+
+ 4.14 
+ Disney Enterprises, Inc. et al v. Minimax et al 
+
+ 4.15 
+ Hendrix et al v. Apple, Inc. 
+
+ 4.16 
+ Encyclopaedia Britannica, Inc. et al v. Perplexity AI, Inc. 
+
+ 5 
+ References 
+
+ 6 
+ External links 
+
+ Toggle the table of contents 
+
+ Artificial intelligence and copyright 
+
+ 9 languages 
+
+ العربية 
+ Català 
+ Français 
+ עברית 
+ Bahasa Indonesia 
+ 한국어 
+ Русский 
+ Српски / srpski 
+ Українська 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ Copyright law in the use of AI
+
+In the 2020s, the rapid advancement of deep learning -based generative artificial intelligence models raised questions about the copyright status of AI-generated works, and about whether copyright infringement occurs when such are trained or used. This includes text-to-image models such as Stable Diffusion and large language models such as GPT . Large language models are trained on all the data which can be scraped from the Internet, often utilizing copyrighted material. [ 1 ] As of 2023, there were several pending U.S. lawsuits challenging the use of copyrighted data to train AI models, with defendants arguing that this falls under fair use . [ 2 ] 
+
+ Copyright status of AI-generated works
+ [ edit ] 
+
+ Intellectual property 
+
+ Authors' rights 
+
+ Copyleft 
+
+ Copyright 
+
+ Database right 
+
+ Farmers' rights 
+
+ Geographical indication 
+
+ Indigenous intellectual property 
+
+ Industrial design right 
+
+ Integrated circuit layout design protection 
+
+ Intellectual property infringement 
+
+ Literary property 
+
+ Moral rights 
+
+ Patent 
+
+ Peasants' rights 
+
+ Plant breeders' rights 
+
+ Plant genetic resources 
+
+ Proprietary software 
+
+ Related rights 
+
+ Sound recording copyright 
+
+ Supplementary protection certificate 
+
+ Trade dress 
+
+ Trade secret 
+
+ Trademark 
+
+ Utility model 
+
+ Patent infringement 
+
+Related topics
+
+ Abandonware 
+
+ Artificial intelligence and copyright 
+
+ Brand protection 
+
+ Copyright abolition 
+
+ Copyright troll 
+
+ Criticism of copyright 
+
+ Bioprospecting 
+ Biopiracy 
+
+ Idea–expression distinction 
+
+ Limitations and exceptions to copyright 
+ Fair dealing 
+
+ Fair use 
+
+ Paraphrasing 
+
+ Right to quote 
+
+ Orphan work 
+
+ Patent troll 
+
+ Pirate Party 
+
+ Public domain 
+
+ Outline of intellectual property 
+ Outline of patents 
+
+ Higher categories: 
+ Property and Property law 
+
+ v 
+ t 
+ e 
+
+ Part of a series on
+
+ Artificial intelligence (AI) 
+
+ Major goals 
+
+ Artificial general intelligence 
+ superintelligence 
+
+ AI agent 
+
+ Intelligent agent 
+
+ Recursive self-improvement 
+
+ Planning 
+
+ Computer vision 
+
+ General game playing 
+
+ Knowledge representation 
+
+ Natural language processing 
+
+ Robotics 
+
+ AI safety 
+
+ Approaches
+
+ Machine learning 
+
+ Data mining 
+
+ Symbolic 
+
+ Deep learning 
+
+ Shallow learning 
+
+ Bayesian networks 
+
+ Evolutionary algorithms 
+
+ Neuro-symbolic AI 
+
+ Systems integration 
+
+ Open-source 
+
+ Open weights 
+
+ AI data centers 
+
+ Applications 
+
+ Art 
+ Music 
+
+ Bioinformatics 
+
+ Deepfake 
+
+ Earth sciences 
+
+ Finance 
+
+ Generative AI 
+ Audio 
+
+ Images 
+
+ Government 
+
+ Healthcare 
+
+ Industry 
+
+ Software development 
+
+ Translation 
+
+ Military 
+
+ Physics 
+
+ Projects 
+
+ Philosophy 
+
+ AI alignment 
+
+ Artificial consciousness 
+
+ The bitter lesson 
+
+ Chinese room 
+
+ Friendly AI 
+
+ Ethics 
+
+ Existential risk 
+
+ Turing test 
+
+ Uncanny valley 
+
+ Human–AI interaction 
+
+ History 
+
+ Timeline 
+
+ Progress 
+
+ AI winter 
+
+ AI boom 
+
+ AI build-out financing 
+
+ AI bubble 
+
+ Controversies 
+
+ Deepfake pornography 
+ Taylor Swift deepfake pornography controversy 
+
+ Grok sexual deepfake scandal 
+
+ Google Gemini image generation controversy 
+
+ It's the Most Terrible Time of the Year 
+
+ Navier–Stokes priority controversy 
+
+ Pause Giant AI Experiments 
+
+ Project Panama 
+
+ Removal of Sam Altman from OpenAI 
+
+ Statement on AI Risk 
+
+ Tay (chatbot) 
+
+ Théâtre D'opéra Spatial 
+
+ Voiceverse NFT plagiarism scandal 
+
+ AI-generated violent extremist content 
+
+ Security Incidents
+
+ OpenAI rogue agent breach 
+
+ Black October 
+
+ Glossary 
+
+ v 
+ t 
+ e 
+
+ The United States Copyright Office has declared that works not created by a human author, like this "selfie" portrait taken by a monkey , are not eligible for copyright protection. 
+ Since most legal jurisdictions only grant copyright to original works of authorship by human authors, the definition of originality is central to the copyright status of AI-generated works. [ 3 ] 
+
+ United States
+ [ edit ] 
+
+The Copyright Clause states:
+ The Congress shall have the power ... To promote the Progress of .... useful Arts, by securing for limited Times to Authors ... the exclusive Right to their respective Writings...
+
+ The US Congress and Federal Courts have interpreted this clause as being limited to works "created by a human being", [ 4 ] declining to grant copyright to works generated without human intervention. [ 5 ] Some legal professionals have suggested that Naruto v. Slater (2018), in which the U.S. 9th Circuit Court of Appeals held that non-humans cannot be copyright holders of artistic works , could be a potential precedent in copyright litigation over works created by generative AI. [ 6 ] Some have suggested that certain AI generations might be copyrightable in the U.S. and similar jurisdictions if it can be shown that the human who ran the AI program exercised sufficient originality in selecting the inputs to the AI or editing the AI's output. [ 5 ] [ 4 ] 
+
+ Proponents of this view suggest that an AI model may be viewed as merely a tool (akin to a pen or a camera) used by its human operator to express their creative vision. [ 4 ] [ 7 ] For example, proponents argue that if the standard of originality can be satisfied by an artist clicking the shutter button on a camera, then perhaps artists using generative AI should get similar deference, especially if they go through multiple rounds of revision to refine their prompts to the AI. [ 8 ] Other proponents argue that the Copyright Office is not taking a technology neutral approach to the use of AI or algorithmic tools. For other creative expressions (music, photography, writing) the test is effectively whether there is de minimis , or limited human creativity. For works using AI tools, the Copyright Office has made the test a different one i.e. whether there is no more than de minimis technological involvement. [ 9 ] 
+
+ Théâtre D'opéra Spatial , 2022, created using Midjourney , prompted by Jason M. Allen 
+ This difference in approach can be seen in the recent decision in respect of a registration claim by Jason Matthew Allen for his work Théâtre D'opéra Spatial created using Midjourney and an upscaling tool. The Copyright Office stated: 
+
+ Second Request for Reconsideration for Refusal to Register Théâtre D'opéra Spatial ([https://tmsnrt.rs/3Etzk4k SR # 1-11743923581; Correspondence ID: 1-5T5320R] {{Webarchive|url=https://web.archive.org/web/20231113130806/https://tmsnrt.rs/3Etzk4k |date=November 13, 2023 }}, 2023).</ref>"}},"i":0}}]}'/> The Board finds that the Work contains more than a de minimis amount of content generated by artificial intelligence ("AI"), and this content must therefore be disclaimed in an application for registration. Because Mr. Allen is unwilling to disclaim the AI-generated material, the Work cannot be registered as submitted. [ 10 ] 
+
+ As AI is increasingly used to generate literature, music, and other forms of art, the U.S. Copyright Office has released new guidance emphasizing whether works, including materials generated by artificial intelligence, exhibit a 'mechanical reproduction' nature or are the 'manifestation of the author's own creative conception'. [ 11 ] The U.S. Copyright Office published a Rule in March 2023 on a range of issues related to the use of AI, where they stated:
+
+ [https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence] {{Webarchive|url=https://web.archive.org/web/20240314133458/https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence |date=March 14, 2024 }}, US Copyright Office 2023.</ref>"}},"i":0}}]}'/> ...because the Office receives roughly half a million applications for registration each year, it sees new trends in registration activity that may require modifying or expanding the information required to be disclosed on an application.
+
+ One such recent development is the use of sophisticated artificial intelligence ("AI") technologies capable of producing expressive material. These technologies "train" on vast quantities of preexisting human-authored works and use inferences from that training to generate new content. Some systems operate in response to a user's textual instruction, called a "prompt." 
+
+The resulting output may be textual, visual, or audio, and is determined by the AI based on its design and the material it has been trained on. These technologies, often described as "generative AI," raise questions about whether the material they produce is protected by copyright, whether works consisting of both human-authored and AI-generated material may be registered, and what information should be provided to the Office by applicants seeking to register them. [ 12 ] 
+
+ The Copyright Office further clarified in January 2025 that AI-assisted works where the creative expression of the human remains evident in the work can be copyrighted, which can include creative adaption of prompts for AI generators or usage of AI to assist in the creation process of a work, such as in filmmaking . [ 13 ] Works "where the expressive elements are determined by a machine" still remain uncopyrightable. [ 14 ] Following this guidance, the Copyright Office registered "A Single Piece of American Cheese", the first visual artwork composed solely of AI generated outputs as a composite work in January 2025. [ 15 ] The basis for the copyright involved arguing that human-driven selection, arrangement, and coordination involved in the creative process on a single work constituted sufficient human authorship to merit the copyright.
+
+ Both the federal and circuit courts in the District of Columbia have upheld the Copyright Office's refusal to register copyrights for works generated solely by machines, establishing that machine ownership would conflict with heritable property rights as establish by the Copyright Act of 1975. [ 16 ] As of March 2026 [ update ] , the Supreme Court of the United States has denied hearing challenges to the Copyright Office's decision. [ 17 ] 
+
+ The U.S. Patent and Trademark Office (USPTO) similarly codified restrictions on the patentability of patents credits solely to AI authors in February 2024, following an August 2023 ruling in the case Thaler v. Perlmutter . In this case, the Patent Office denied grant to patents created by Stephen Thaler's AI program, DABUS due to the lack of a "natural person" on the patents' list of inventors. The U.S. Court of Appeals for the Federal Circuit upheld this decision. [ 18 ] [ 19 ] In the subsequent rule-making, the USPTO allows for human inventors to incorporate the output of artificial intelligence, as long as this method is appropriately documented in the patent application. [ 20 ] However, it may become virtually impossible as when the inner workings and the use of AI in inventive transactions are not adequately understood or are largely unknown. [ 19 ] 
+
+ Representative Adam Schiff proposed the Generative AI Copyright Disclosure Act in April 2024. If passed, the bill would require AI companies to submit copyrighted works to the Register of Copyrights before releasing new generative AI systems. These companies would have to file these documents 30 days before publicly showing their AI tools. [ 21 ] 
+
+ United Kingdom
+ [ edit ] 
+
+ Main article: Copyright and artificial intelligence in the United Kingdom 
+
+ Other jurisdictions include explicit statutory language related to computer-generated works, including the United Kingdom's Copyright, Designs and Patents Act 1988 , which states:
+
+ In the case of a literary, dramatic, musical or artistic work which is computer-generated, the author shall be taken to be the person by whom the arrangements necessary for the creation of the work are undertaken. [ 7 ] 
+
+However, the computer generated work law under UK law relates to autonomous creations by computer programs. Individuals using AI tools will usually be the authors of the works assuming they meet the minimum requirements for copyright work. The language used for computer generated work relates, in respect of AI, to the ability of the human programmers to have copyright in the autonomous productions of the AI tools (i.e. where there is no direct human input): 
+ In so far as each composite frame is a computer generated work then the arrangements necessary for the creation of the work were undertaken by Mr Jones because he devised the appearance of the various elements of the game and the rules and logic by which each frame is generated and he wrote the relevant computer program. In these circumstances I am satisfied that Mr Jones is the person by whom the arrangements necessary for the creation of the works were undertaken and therefore is deemed to be the author by virtue of s.9(3) [ 22 ] 
+
+ The UK government has consulted on the use of generative tools and AI in respect of intellectual property leading to a proposed specialist Code of Practice: [ 23 ] "to provide guidance to support AI firms to access copyrighted work as an input to their models, whilst ensuring there are protections on generated output to support right holders of copyrighted work". [ 24 ] In October, 2023, The U.S. Copyright Office published a notice of inquiry and request for comments following its 2023 Registration Guidance. [ 25 ] 
+
+ China
+ [ edit ] 
+
+ On November 27, 2023, the Beijing Internet Court issued a decision recognizing copyright in AI-generated images in a litigation. [ 26 ] 
+
+ As noted by a lawyer and AI art creator, the challenge for intellectual property regulators, legislators and the courts is how to protect human creativity in a technologically neutral fashion whilst considering the risks of automated AI factories. AI tools have the ability to autonomously create a range of material that is potentially subject to copyright (music, blogs, poetry, images, and technical papers) or other intellectual property rights (patents and design rights). [ 9 ] 
+
+ Training AI with copyrighted data
+ [ edit ] 
+
+ Deep learning models source large data sets from the Internet such as publicly available images and the text of web pages. The text and images are then converted into numeric formats the AI can analyze. A deep learning model identifies patterns linking the encoded text and image data and learns which text concepts correspond to elements in images. Through repetitive testing, the model refines its accuracy by matching images to text descriptions. The trained model undergoes validation to evaluate its skill in generating or manipulating new images using only the text prompts provided after the training process. [ 27 ] When assembling these training datasets involves making copies of copyrighted works, this has raised the question of whether this process infringes the copyright holder's exclusive right to make reproductions of their works, or if it falls under fair use allowances. [ 28 ] [ 29 ] 
+
+ United States
+ [ edit ] 
+
+ U.S. machine learning developers have traditionally believed this to be allowable under fair use because using copyrighted work is transformative , and limited. [ 5 ] The situation has been compared to Google Books 's scanning of copyrighted books in Authors Guild, Inc. v. Google, Inc. , which was ultimately found to be fair use, because the scanned content was not made publicly available, and the use was non-expressive. [ 30 ] 
+
+ Timothy B. Lee, in Ars Technica , argues that if the plaintiffs succeed, this may shift the balance of power in favour of large corporations such as Google, Microsoft, and Meta which can afford to license large amounts of training data from copyright holders and leverage their proprietary datasets of user-generated data. [ 30 ] IP scholars Bryan Casey and Mark Lemley argue in the Texas Law Review that datasets are so large that "there is no plausible option simply to license all [of the data...]. So allowing [any generative training] copyright claim is tantamount to saying, not that copyright owners will get paid, but that the use won't be permitted at all." [ 31 ] Other scholars disagree; some predict a similar outcome to the U.S. music licensing procedures. [ 5 ] 
+
+ One of the earliest case to challenge the nature of fair use for training AI was a lawsuit that Thomson Reuters brought against Ross Intelligence first filed in 2020. Thomson Reuters argued that Ross Intelligence had used their Westlaw headnotes , brief summaries of court decisions, to train their AI engine designed to compete with Westlaw. While Thomson Reuters' claims were initially denied by judge Stephanos Bibas of the Third Circuit on the basis that headnotes may not have been copyrightable, Bibas reevaluated his decision in February 2025 and issued a ruling favoring Thomson Reuters, in that headnotes are copyrightable, and that Ross Intelligence, which had since closed down in 2021, had inappropriately used the material. In the case of Ross's AI, the engine was not generative, and produced output that was composed of pieces of Westlaw's material, which aided in Thomson Reuter's claims of reuse, so how the case may apply to generative AI like OpenAI is not clear. [ 32 ] In September 2026, the Third Circuit upheld that Westlaw's headnotes were sufficiently original to qualify for copyright, and thus their unlicensed used by Ross for training AI was not fair use. [ 33 ] 
+
+ In a consolidated case brought by several authors against Meta and OpenAI, federal district judge Vince Chhabria expressed doubt that the use of unlicensed copyrighted material for training AI would fall under fair use. He stated during court hearings to Meta's lawyers that "You have companies using copyright-protected material to create a product that is capable of producing an infinite number of competing products. You are dramatically changing, you might even say obliterating, the market for that person's work, and you're saying that you don't even have to pay a license to that person. I just don't understand how that can be fair use." [ 34 ] Chhabria ruled a summary judgment in Meta's favor in June 2025, but based only on the lack of demonstration of sufficient harm of the output that Meta's LLM could produce, thus finding Meta's use of the authors' works fell within fair use. Chhabria emphasized his rule did not mean that any use Meta made out of copyrighted materials fell within fair use. [ 35 ] 
+
+ In a similar case, several authors including Andrea Bartz , Charles Graeber , and Kirk Wallace Johnson , sued Anthropic in August 2024, for using their works to train their AI model. Some of these works had been part of the Pile , intended as a collection of open source and public domain works but at times had included copyrighted works but since removed. Anthropic affirmed it has used the Pile but also had legally bought books and subsequently digitized them for training. [ 36 ] Judge William Alsup granted a summary judgment for Anthropic that affirmed that their use of purchased books for training was within fair use, but issues related to using the Pile with unlicensed works was not, and would face a separate trial related to damages. [ 37 ] Anthropic offered to settle on the latter matter in August 2025, preparing to pay the authors $1.5 billion, roughly $3000 for the 500,000 authors affected, and would have been the largest payout related to copyright infringement in the United States; [ 38 ] [ 39 ] Alsup rejected the settlement over shortcomings in the settlement details that would be forced "down the throat of authors". [ 40 ] Alsup later retired in 2025, the case falling to Judge Araceli Martinez-Olguin who, by July 2026, approved of the original $1.5 billion settlement, overruling complaints from some affected authors that the settlement was too small. [ 41 ] 
+
+ The U.S. Copyright Office released a report that included review of public comment on matters of AI. Among other topics, the report addressed concerns about fair use of training materials, and considered that two of the fair use factors could be of concern. One factor was the purpose and character of the created work, where the Office directed to the Supreme Court decision in Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith that even though transformation had been performed, the works were still ultimately considered derivative works of the original copyright. The other factor was the impact on the commercial market, with the Office suggesting that AI models trained on copyrighted data to produce works in a specific style could have negative market impacts that would weaken the fair use defense. [ 42 ] 
+
+ EU
+ [ edit ] 
+
+ In the EU, such text and data mining (TDM) exceptions form part of the 2019 Directive on Copyright in the Digital Single Market . [ 43 ] They are specifically referred to in the EU's AI Act (which came into force in 2024), which "is widely seen as a clear indication of the EU legislator's intention that the exception covers AI data collection", a view that was also endorsed in a 2024 German court decision. [ 44 ] Unlike the TDM exception for scientific research, the more general exception covering commercial AI only applies if the copyright holder has not opted out. [ 44 ] In order to facilitate the opt-out to the TDM exception, the EU's AI Act of 2024 requires providers of "general-purpose" AI models to implement a policy to comply with EU law (including the TDM exception opt-out) and to publish a detailed summary of training content according to a template provided by the AI Office. These provisions will come into force in August 2025, with further clarification on exactly what will be required to providers of general-purpose AI models expected to come from a Code of Practice to be released in advance of this. [ 45 ] 
+
+ UK
+ [ edit ] 
+
+ Main article: Copyright and artificial intelligence in the United Kingdom 
+
+ Unlike the EU, the United Kingdom prohibits data mining for commercial purposes but has proposed this should be changed to support the development of AI: "For text and data mining, we plan to introduce a new copyright and database exception which allows TDM for any purpose. Rights holders will still have safeguards to protect their content, including a requirement for lawful access." [ 24 ] 
+
+ India
+ [ edit ] 
+
+ Indian copyright law provides fair use exceptions for scientific research, but lacks specific provisions for commercial AI training models. Unlike the EU and UK, India has not established TDM provisions that explicitly address commercial AI systems. This regulatory uncertainty became apparent in 2024 when Asian News International (ANI) sued OpenAI for using its content to train AI models without authorization. While OpenAI offered an opt-out policy that ANI used in October 2024 to block AI scrapers , ANI claimed this measure was ineffective since their content remained available through content syndication . The case also highlighted jurisdictional challenges, as OpenAI argued it was not subject to Indian law because its servers and training operations were located outside the country. [ 46 ] [ 47 ] 
+
+ Copyright infringing AI outputs
+ [ edit ] 
+
+ Anne Graham Lotz</code>. The research paper from which this example was taken was able to produce similar replications for 0.03% of training images.<ref name=earthquake/>"}},"i":0}}]}'> 
+
+ Generative AI models may produce outputs that are virtually identical to images from their training set.
+The photograph on the left of Anne Graham Lotz was included in Stable Diffusion's training set; the image on the right was generated by Stable Diffusion using the prompt Anne Graham Lotz . The research paper from which this example was taken was able to produce similar replications for 0.03% of training images. [ 30 ] 
+
+ An image generated by Flux using the prompt an astronaut riding a horse, by Picasso and Juan Gris . Generative image models are adept at imitating the visual style of particular artists in their training set. 
+
+ In some cases, deep learning models may replicate items in their training set when generating output. This behaviour is generally considered an undesired overfitting of a model by AI developers, and has in previous generations of AI been considered a manageable problem. [ 48 ] Memorization is the emergent phenomenon of LLMs to repeat long strings of training data, and it is no longer related to overfitting. [ 49 ] Evaluations of controlled LLM output measure the amount memorized from training data (focused on GPT-2 -series models) as variously over 1% for exact duplicates [ 50 ] or up to about 7%. [ 51 ] This is potentially a security risk and a copyright risk, for both users and providers. [ 52 ] As of August 2023 [ update ] , major consumer LLMs have attempted to mitigate these problems, but researchers have still been able to prompt leakage of copyrighted material. [ 53 ] 
+
+ Under U.S. law, to prove that an AI output infringes a copyright, a plaintiff must show the copyrighted work was "actually copied", meaning that the AI generates output which is " substantially similar " to their work, and that the AI had access to their work. [ 4 ] 
+
+ In the course of learning to statistically model the data on which they are trained, deep generative AI models may learn to imitate the distinct style of particular authors in the training set. Since fictional characters enjoy some copyright protection in the U.S. and other jurisdictions, an AI may also produce infringing content in the form of novel works which incorporate fictional characters . [ 4 ] [ 30 ] 
+
+ A generative image model such as Stable Diffusion is able to model the stylistic characteristics of an artist like Pablo Picasso (including his particular brush strokes, use of colour, perspective, and so on), and a user can engineer a prompt such as "an astronaut riding a horse, by Picasso" to cause the model to generate a novel image applying the artist's style to an arbitrary subject. However, an artist's overall style is generally not subject to copyright protection. [ 4 ] Additional questions related to the copyrightability of style and the output of AI models was raised in March 2025, following an update to ChatGPT's model that was able to produce images strongly resembling the work of Studio Ghibli 's artist Hayao Miyazaki . While users initially used it to make "Ghiblification" of popular meme images, further users were found to be distasteful in light of Miyazaki's negative stance on AI, and ChatGPT placed limits on the ability for users to make images in the style of living artists. [ 54 ] [ 55 ] 
+
+ Litigation
+ [ edit ] 
+
+ Doe v. GitHub, Inc.
+ [ edit ] 
+
+ A November 2022 class action lawsuit against Microsoft , GitHub and OpenAI alleged that GitHub Copilot , an AI-powered code editing tool trained on public GitHub repositories, violated the copyright of the repositories' authors, noting that the tool was able to generate source code which matched its training data verbatim, without providing attribution. [ 56 ] 
+
+ Andersen v. Stability AI 
+ [ edit ] 
+
+ In January 2023 three US artists— Sarah Andersen , Kelly McKernan , and Karla Ortiz—filed a class action copyright infringement lawsuit against Stability AI , Midjourney , and DeviantArt , claiming that these companies have infringed the rights of millions of artists by training AI tools on five billion images scraped from the web without the consent of the original artists. [ 57 ] The plaintiffs' complaint has been criticized for technical inaccuracies, such as incorrectly claiming that "a trained diffusion model can produce a copy of any of its Training Images", and describing Stable Diffusion as "merely a complex collage tool". [ 58 ] In addition to copyright infringement, the plaintiffs allege unlawful competition and violation of their right of publicity in relation to AI tools' ability to create works in the style of the plaintiffs en masse . [ 58 ] In July 2023, U.S. District Judge William Orrick inclined to dismiss most of the lawsuit filed by Andersen, McKernan, and Ortiz but allowed them to file a new complaint. [ 59 ] Judge Orrick later dismissed all but one claim, that of copyright infringement towards Stability AI, in October 2023. [ 60 ] However, after refiling on some of the eliminated claims, Orrick agreed in August 2024 to include some of these additional claims against the AI companies, which included both copyright and trademark infringements. [ 61 ] 
+
+ Getty Images v. Stability AI
+ [ edit ] 
+
+ In January 2023, Stability AI was sued in London by Getty Images for using its images in their training data without purchasing a license. [ 62 ] [ 63 ] 
+
+ Getty filed another suit against Stability AI in a U.S. district court in Delaware in February 2023. The suit again alleges copyright infringement for the use of Getty's images in the training of Stable Diffusion, and further argues that the model infringes Getty's trademark by generating images with Getty's watermark . [ 64 ] 
+
+ Tremblay v. OpenAI, Inc.
+ [ edit ] 
+
+ In July 2023, authors Paul Tremblay and Mona Awad filed a lawsuit in a San Francisco court against OpenAI, alleging that its ChatGPT language model had been trained on their copyrighted books without permission, citing ChatGPT's "very accurate" summaries of their works as evidence. [ 65 ] [ 66 ] Two separate lawsuits were filed by authors Sarah Silverman , Christopher Golden and Richard Kadrey against Meta and OpenAI, arguing that in addition to copyright infringement for training their engines on their works, that products produced from the AI engines were derivative works and also copyright infringements. [ 67 ] The two suits against OpenAI were combined (during which Awad left the suit) and by February 2024, Judge Araceli Martínez-Olguín of the Northern District of California threw out all but one claim related to the use of the author's copyrighted works as part of the training data for the AI model. [ 68 ] 
+
+ Authors Guild et al v. OpenAI, Inc.
+ [ edit ] 
+
+ The Authors Guild , on behalf of 17 authors, including George R. R. Martin , filed a copyright infringement complaint against OpenAI in September 2023, claiming "the company illegally copied the copyrighted works of authors" in training ChatGPT. [ 69 ] [ needs update ] 
+
+ New York Times v. Microsoft and OpenAI
+ [ edit ] 
+
+ In December 2023, The New York Times sued Microsoft and OpenAI . The New York Times is a global media company that publishes content in print and online forms, generating revenue from subscriptions, advertising, and licensing. [ 70 ] The Times claimed that ChatGPT and Bing's AI models were trained on articles from the Times and provided end-users with responses based on these works, [ 71 ] which the Times considers infringement of their copyright. The Times further claimed that fair use claims made by these AI companies were invalid since the generated information around news stories directly competes with the Times and impacts the newspaper's commercial opportunities. [ 72 ] Moreover, the plaintiffs contended that the hallucinations created by LLMs were damaging the reputation of the Times. [ 71 ] 
+
+ In March 2025, the federal district judge denied Microsoft and OpenAI's motion to dismiss the lawsuit, while narrowing the Times ' claims to those related to copyright infringement in training OpenAI's models. [ 73 ] 
+
+ The court held that Microsoft and OpenAI can be held liable for direct copyright infringement, contributory copyright infringement, and state and federal trademark dilution claims. However, claims based on common law unfair competition are not plausible, and therefore Microsoft and OpenAI cannot be held liable. [ 74 ] 
+
+ Daily News LP v. Microsoft Corp.
+ [ edit ] 
+
+ Eight U.S. national newspapers owned by Tribune Publishing sued Microsoft and OpenAI in April 2024 over copyright infringement related to the use of their news articles for training data, as well as for output that creates false and misleading statements that are attributed to the newspapers. [ 75 ] 
+
+ UMG Recordings, Inc. et al v. Suno, Inc. et al
+ [ edit ] 
+
+ The Recording Industry Association of America (RIAA) and several major music labels sued the developers of Suno AI and Udio , AI models that can take text input to create songs with both lyrics and backing music, in separate lawsuits in June 2024, alleging that both AI models were trained without consent with music from the labels. [ 76 ] [ 77 ] 
+
+ Robert Kneschke v. LAION
+ [ edit ] 
+
+ In September 2024, the Regional Court of Hamburg dismissed a German photographer's lawsuit against the non-profit organization LAION for unauthorized reproduction of his copyrighted work while creating a dataset for AI training. [ 43 ] The decision was described as a "landmark ruling on TDM exceptions for AI training data" in Germany and EU more generally. [ 43 ] The plaintiff has filed an appeal against the decision.
+
+ ANI v. OpenAI, Inc.
+ [ edit ] 
+
+ Indian news agency ANI sued OpenAI before the Delhi High Court in India. The suit claims that OpenAI's ChatGPT reproduces ANI's copyrighted news content without authorization, amounting to copyright infringement and unauthorized use of proprietary journalistic material. [ 78 ] 
+
+ Torstar Corp. et al v. OpenAI, Inc. et al
+ [ edit ] 
+
+ Several Canadian news agencies under News Media Canada sued OpenAI in November 2024 for copyright violations related to the use of their news articles being used to train ChatGPT. They are seeking damages up to CA$20,000 per news article used for training. [ 79 ] 
+
+ GEMA v. OpenAI, Inc.
+ [ edit ] 
+
+ The German collecting society GEMA has sued OpenAI in November 2024 for copyright infringement by reproducing copyrighted song texts. [ 80 ] And the same society has sued Suno Inc. in January 2025 for reproducing copyrighted works. [ 81 ] Both lawsuits were filed in Munich.
+
+ In November 2025 GEMA won the suit after showing lyrics used to train ChatGPT were returned almost identically as results by the AI when requested. OpenAI had argued the texts were newly generated. OpenAI was ordered to cease saving these lyrics and cease returning them in their AI services. Additionally, OpenAI was required to pay damages and provide usage data of the lyrics in question and revenue generated from them. [ 82 ] 
+
+ In July 2026 GEMA won the suit against Suno Inc. The court ruled that memorizing complete works in music models is a copyright violation and not fair use. Suno was similarly required to pay damages and provide usage data. [ 83 ] 
+
+ Disney Enterprises, Inc. et al v. Midjourney, Inc.
+ [ edit ] 
+
+ Midjourney was sued by Disney and NBCUniversal in June 2025 on claims the AI engine, described in the lawsuit as a "bottomless pit of plagiarism", [ 84 ] was trained on copyrighted works from both companies without permission, including depictions of their characters. [ 85 ] Warner Bros. filed a similar suit in September 2025 against Midjourney. [ 86 ] 
+
+ Disney Enterprises, Inc. et al v. Minimax et al
+ [ edit ] 
+
+ In September 2025, Disney, NBCUniversal, and Warner Bros. Discovery filed a similar lawsuit against the AI image and video generation service Hailuo AI (operated by Chinese technology company MiniMax), alleging that it profits from the unlicensed use of "iconic copyrighted characters. " [ 87 ] 
+
+ Hendrix et al v. Apple, Inc.
+ [ edit ] 
+
+ Apple Inc. was sued in September 2025 by authors Grady Hendrix and Jennifer Roberson , who claimed that Apple trained their Apple Intelligence model from a portion of the Pile dataset that included unlicensed copies of their work. [ 88 ] 
+
+ Encyclopaedia Britannica, Inc. et al v. Perplexity AI, Inc.
+ [ edit ] 
+
+ Encyclopædia Britannica, Inc. sued Perplexity AI search engine in September 2025, claiming that the results pulled material from their encyclopedia and Merriam-Webster dictionary website, denying them visits by users, without permission or compensation, as well as generated false results due to the nature of AI that is then attributed to their sites. [ 89 ] It later sued OpenAI in March 2026 under similar terms. [ 90 ] 
+
+ References
+ [ edit ] 
+
+ <a href=\"./Artificial_intelligence_and_copyright#cite_note-wipo-7\" id=\"mwAuE\"><span class=\"mw-reflink-text\" id=\"mwAuI\"><span class=\"cite-bracket\" id=\"mwAuM\">[</span>7<span class=\"cite-bracket\" id=\"mwAuQ\">]</span></span></a></sup>\n<sup about=\"#mwt308\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAuU\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"crs\"},\"body\":{\"id\":\"mw-reference-text-cite_note-crs-4\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-crs-4\" id=\"mwAuY\"><span class=\"mw-reflink-text\" id=\"mwAuc\"><span class=\"cite-bracket\" id=\"mwAug\">[</span>4<span class=\"cite-bracket\" id=\"mwAuk\">]</span></span></a></sup>\n<sup about=\"#mwt311\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAuo\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"Verge copilot\"},\"body\":{\"id\":\"mw-reference-text-cite_note-Verge_copilot-56\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-Verge_copilot-56\" id=\"mwAus\"><span class=\"mw-reflink-text\" id=\"mwAuw\"><span class=\"cite-bracket\" id=\"mwAu0\">[</span>56<span class=\"cite-bracket\" id=\"mwAu4\">]</span></span></a></sup>\n<sup about=\"#mwt314\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAu8\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"cnn-getty\"},\"body\":{\"id\":\"mw-reference-text-cite_note-cnn-getty-62\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-cnn-getty-62\" id=\"mwAvA\"><span class=\"mw-reflink-text\" id=\"mwAvE\"><span class=\"cite-bracket\" id=\"mwAvI\">[</span>62<span class=\"cite-bracket\" id=\"mwAvM\">]</span></span></a></sup>\n<sup about=\"#mwt317\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAvQ\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"verge3\"},\"body\":{\"id\":\"mw-reference-text-cite_note-verge3-57\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-verge3-57\" id=\"mwAvU\"><span class=\"mw-reflink-text\" id=\"mwAvY\"><span class=\"cite-bracket\" id=\"mwAvc\">[</span>57<span class=\"cite-bracket\" id=\"mwAvg\">]</span></span></a></sup>\n<sup about=\"#mwt320\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAvk\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"ars3\"},\"body\":{\"id\":\"mw-reference-text-cite_note-ars3-58\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-ars3-58\" id=\"mwAvo\"><span class=\"mw-reflink-text\" id=\"mwAvs\"><span class=\"cite-bracket\" id=\"mwAvw\">[</span>58<span class=\"cite-bracket\" id=\"mwAv0\">]</span></span></a></sup>\n<sup about=\"#mwt323\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAv4\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"GettyPress23\"},\"body\":{\"id\":\"mw-reference-text-cite_note-GettyPress23-63\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-GettyPress23-63\" id=\"mwAv8\"><span class=\"mw-reflink-text\" id=\"mwAwA\"><span class=\"cite-bracket\" id=\"mwAwE\">[</span>63<span class=\"cite-bracket\" id=\"mwAwI\">]</span></span></a></sup>\n<sup about=\"#mwt326\" class=\"mw-ref reference\" rel=\"dc:references\" typeof=\"mw:Extension/ref\" id=\"mwAwM\" data-mw='{\"name\":\"ref\",\"attrs\":{\"name\":\"ars-getty\"},\"body\":{\"id\":\"mw-reference-text-cite_note-ars-getty-64\"}}'><a href=\"./Artificial_intelligence_and_copyright#cite_note-ars-getty-64\" id=\"mwAwQ\"><span class=\"mw-reflink-text\" id=\"mwAwU\"><span class=\"cite-bracket\" id=\"mwAwY\">[</span>64<span class=\"cite-bracket\" id=\"mwAwc\">]</span></span></a></sup>\n"}}'> ↑ Levine, Joshua; Belton, John. "Primer: Training AI Models with Copyrighted Work" . AAF . Retrieved March 19, 2024 . 
+
+ ↑ Ahmad, Ariba A; Gross, Andrew M. "Generative AI Systems Tee Up Fair Use Fight" . www.natlawreview.com . Archived from the original on March 19, 2024 . Retrieved March 19, 2024 . 
+
+ ↑ "What is the Copyright Status of AI Generated Works?" . www.linkedin.com . Retrieved March 19, 2024 . 
+
+ 1 2 3 4 5 6 Zirpoli, Christopher T. (February 24, 2023). "Generative Artificial Intelligence and Copyright Law" . Congressional Research Service. Archived from the original on March 22, 2024 . Retrieved April 3, 2023 . 
+
+ 1 2 3 4 Vincent, James (November 15, 2022). "The scary truth about AI copyright is nobody knows what will happen next" . The Verge . Archived from the original on June 19, 2023 . Retrieved March 20, 2024 . 
+
+ ↑ "The Lawsuits That Could Shape the Future of AI and Copyright Law" . The Wall Street Journal . News Corp. April 15, 2024 . Retrieved February 11, 2025 . 
+
+ 1 2 Guadamuz, Andres (October 2017). "Artificial intelligence and copyright" . WIPO Magazine . Archived from the original on May 24, 2022 . Retrieved April 3, 2023 . 
+
+ ↑ "Popular A.I. services for creating images are legal minefields for artists seeking payment for their work" . Fortune . 2023. Archived from the original on June 21, 2023 . Retrieved June 21, 2023 . 
+
+ 1 2 Peter Pink-Howitt, Copyright, AI And Generative Art Archived December 4, 2023, at the Wayback Machine , Ramparts , 2023. 
+
+ ↑ Second Request for Reconsideration for Refusal to Register Théâtre D'opéra Spatial ( SR # 1-11743923581; Correspondence ID: 1-5T5320R Archived November 13, 2023, at the Wayback Machine , 2023). 
+
+ ↑ "Federal Register   :: Request Access" . unblock.federalregister.gov . Archived from the original on June 5, 2023 . Retrieved March 20, 2024 . 
+
+ ↑ Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence Archived March 14, 2024, at the Wayback Machine , US Copyright Office 2023. 
+
+ ↑ Maddaus, Gene (January 29, 2025). "Copyright Office Offers Assurances on AI Filmmaking Tools" . Variety . Retrieved March 1, 2025 . 
+
+ ↑ "AI-assisted works can get copyright with enough human creativity, says US copyright office" . AP News . January 29, 2025 . Retrieved March 1, 2025 . 
+
+ ↑ "This Company Got a Copyright for an Image Made Entirely With AI. Here's How" . CNET . February 10, 2025 . Retrieved April 9, 2025 . 
+
+ ↑ "Denial of Copyright to AI 'Author' Affirmed by D.C. Circuit (3)" . Bloomberg Law . March 18, 2025 . Retrieved March 19, 2025 . 
+
+ ↑ "US Supreme Court declines to hear dispute over copyrights for AI-generated material" . Reuters . Retrieved March 8, 2026 . 
+
+ ↑ " 'Thaler v. Perlmutter': AI Output is Not Copyrightable" . New York Law Journal . Retrieved December 1, 2023 . 
+
+ 1 2 Valinasab, Omid (2023). "Big Data Analytics to Automate Disclosure of Artificial Intelligence's Inventions" (PDF) . University of San Francisco Intellectual Property and Technology Law Journal . 27 (2): 133– 140 – via USF LJ. 
+
+ ↑ "USPTO says AI models can't hold patents" . February 14, 2024. 
+
+ ↑ Robins-Early, Nick (April 9, 2024). "New bill would force AI companies to reveal use of copyrighted art" . amp.theguardian.com . Retrieved April 13, 2024 . 
+
+ ↑ Nova Production v MazoomaGames [2006] EWHC 24 (Ch) . Archived October 31, 2023, at the Wayback Machine 
+
+ ↑ The UK government's code of practice on copyright and AI. Archived October 31, 2023, at the Wayback Machine UK Government 2023. 
+
+ 1 2 "Artificial Intelligence and Intellectual Property: copyright and patents: Government response to consultation" . GOV.UK . Archived from the original on October 29, 2023 . Retrieved March 20, 2024 . 
+
+ ↑ "Artificial Intelligence and Copyright Docket No. 2023–6" (PDF) . Archived (PDF) from the original on April 6, 2024 . Retrieved October 9, 2023 . 
+
+ ↑ Aaron Wininger (November 29, 2023). "Beijing Internet Court Recognizes Copyright in AI-Generated Images" . The National Law Review . 
+
+ ↑ Takyar, Akash (November 7, 2023). "Model validation techniques in machine learning" . LeewayHertz - AI Development Company . Archived from the original on March 20, 2024 . Retrieved March 20, 2024 . 
+
+ ↑ Murray, Michael (2023). "Generative AI Art: Copyright Infringement and Fair Use" . SMU Science and Technology Law Review . 26 (2): 259. doi : 10.25172/smustlr.26.2.4 . 
+
+ ↑ Henderson, Peter; Li, Xuechen; Jurafsky, Dan; Hashimoto, Tatsunori; Lemley, Mark A.; Liang, Percy (2023). "Foundation Models and Fair Use" . Journal of Machine Learning Research . 24 (400): 1– 79. arXiv : 2303.15715 . Retrieved September 14, 2024 . 
+
+ 1 2 3 4 Lee, Timothy B. (April 3, 2023). "Stable Diffusion copyright lawsuits could be a legal earthquake for AI" . Ars Technica . Archived from the original on April 3, 2023 . Retrieved April 3, 2023 . 
+
+ ↑ Lemley, Mark A.; Casey, Bryan (2020). "Fair Learning" . SSRN Electronic Journal . doi : 10.2139/ssrn.3528447 . ISSN   1556-5068 . 
+
+ ↑ Lawler, Richard (February 11, 2025). "Thomson Reuters wins an early court battle over AI, copyright, and fair use" . The Verge . Retrieved February 11, 2025 . 
+
+ ↑ Healy, Jackson (September 30, 2026). "AI training of copyrighted material not fair use: Third Circuit" . Courthouse News . Retrieved September 30, 2026 . 
+
+ ↑ Britton, Blake (May 1, 2025). "Judge in Meta case warns AI could 'obliterate' market for original works" . Reuters . Retrieved May 2, 2025 . 
+
+ ↑ Peters, Jay (June 25, 2025). "Meta's AI copyright win comes with a warning about fair use" . The Verge . Archived from the original on June 26, 2025 . Retrieved June 25, 2025 . 
+
+ ↑ Roth, Emma (August 20, 2024). "Authors sue Anthropic for training AI using pirated books" . The Verge . Retrieved June 25, 2025 . 
+
+ ↑ Roth, Emma (June 24, 2025). "Anthropic wins a major fair use victory for AI — but it's still in trouble for stealing books" . The Verge . Retrieved June 25, 2025 . 
+
+ ↑ "Anthropic reaches a settlement over authors' class-action piracy lawsuit" . August 26, 2025. 
+
+ ↑ Metz, Cade (September 5, 2025). "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors" . The New York Times . Retrieved September 5, 2025 . 
+
+ ↑ Moon, Mariella (September 8, 2025). "Judge rejects Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit" . Engadget . Retrieved September 9, 2025 . 
+
+ ↑ Brittain, Blake (July 20, 2026). "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit" . Reuters . 
+
+ ↑ "Copyright Office Weighs in on AI and Fair Use Amid Major Leadership Shakeup" . May 12, 2025. Archived from the original on May 13, 2025 . Retrieved May 13, 2025 . 
+
+ 1 2 3 Goldstein, Paul ; Stuetzle, Christiane; Bischoff, Susan (November 13, 2024). "Kneschke vs. LAION - Landmark Ruling on TDM exceptions for AI training data – Part 1" . Kluwer Copyright Blog . Archived from the original on November 27, 2024 . Retrieved November 25, 2024 . 
+
+ 1 2 Goldstein, Paul ; Stuetzle, Christiane; Bischoff, Susan (November 14, 2024). "Kneschke vs. LAION - Landmark Ruling on TDM exceptions for AI training data – Part 2" . Kluwer Copyright Blog . Archived from the original on November 25, 2024 . Retrieved November 25, 2024 . 
+
+ ↑ Buick, Adam (March 2025). "Copyright and AI training data—transparency to the rescue?" . Journal of Intellectual Property Law & Practice . 20 (3): 182– 192. doi : 10.1093/jiplp/jpae102 . Archived from the original on April 4, 2025 . Retrieved April 27, 2025 . 
+
+ ↑ Panday, Jyoti; Jain, Saumya (December 11, 2024). "The significance of ANI versus OpenAI" . The Hindu . Archived from the original on December 10, 2024 . Retrieved December 20, 2024 . 
+
+ ↑ Mittal, Vaishali (December 5, 2024). "ANI v OpenAI: A copyright, AI training and false attribution dispute" . law.asia . Retrieved December 20, 2024 . {{ cite web }} : CS1 maint: deprecated archival service ( link ) 
+
+ ↑ See for example OpenAI's comment in the year of GPT-2 's release: OpenAI (2019). Comment Regarding Request for Comments on Intellectual Property Protection for Artificial Intelligence Innovation (PDF) (Report). United States Patent and Trademark Office. p.   9. PTO–C–2019–0038. Archived (PDF) from the original on October 16, 2021 . Retrieved September 14, 2024 . Well-constructed AI systems generally do not regenerate, in any nontrivial portion, unaltered data from any particular work in their training corpus 
+
+ ↑ Hans et al. 2024 , §2.3 
+
+ ↑ Peng, Zhencan; Wang, Zhizhi; Deng, Dong (June 13, 2023). "Near-Duplicate Sequence Search at Scale for Large Language Model Memorization Evaluation" (PDF) . Proceedings of the ACM on Management of Data . 1 (2): 1– 18. doi : 10.1145/3589324 . S2CID   259213212 . Archived (PDF) from the original on August 27, 2024 . Retrieved January 20, 2024 . Citing Lee et al 2022. 
+
+ ↑ Peng, Wang & Deng 2023 , p.   8 . 
+
+ ↑ Hans, Abhimanyu; Wen, Yuxin; Jain, Neel; Kirchenbauer, John; Kazemi, Hamid; Singhania, Prajwal; Singh, Siddharth; Somepalli, Gowthami; Geiping, Jonas; Bhatele, Abhinav; Goldstein, Tom (June 14, 2024). "Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs". arXiv : 2406.10209 [ cs.CL ], §1. 
+
+ ↑ Hays, Kali (August 15, 2023). "ByteDance AI researchers say OpenAI now tries to hide that ChatGPT was trained on J.K. Rowling's copyrighted Harry Potter books" . Business Insider . Retrieved September 15, 2024 , citing "}},"i":0}}]}'/> Liu, Yang; Yao, Yuanshun; Ton, Jean-Francois; Zhang, Xiaoying; Guo, Ruocheng; Cheng, Hao; Klochkov, Yegor; Taufiq, Muhammad Faaiz; Li, Hang (August 10, 2023). "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment". arXiv : 2308.05374v2 [ cs.AI ]. 
+
+ ↑ O'Brien, Matt; Parvini, Sarah (March 28, 2025). "ChatGPT's viral Studio Ghibli-style images highlight AI copyright concerns" . AP News . Retrieved March 29, 2025 . 
+
+ ↑ Holland, Oscar (March 27, 2025). "Viral Studio Ghibli-style AI images showcase power – and copyright concerns – of ChatGPT update" . CNN . Archived from the original on March 28, 2025 . Retrieved March 29, 2025 . 
+
+ ↑ Vincent, James (November 8, 2022). "The lawsuit that could rewrite the rules of AI copyright" . The Verge . Archived from the original on April 3, 2023 . Retrieved December 7, 2022 . 22-cv-06823-JST 
+
+ ↑ "James Vincent "AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit" The Verge, 16 January, 2023" . January 16, 2023. Archived from the original on March 9, 2023 . Retrieved April 3, 2023 . 
+
+ 1 2 Edwards, Benj (January 16, 2023). "Artists file class-action lawsuit against AI image generator companies" . Ars Technica . Archived from the original on April 3, 2023 . Retrieved April 3, 2023 . 
+
+ ↑ Brittain, Blake (July 19, 2023). "US judge finds flaws in artists' lawsuit against AI companies" . Reuters . Archived from the original on September 6, 2023 . Retrieved August 6, 2023 . 
+
+ ↑ Cho, Winston (October 30, 2023). "Artists Lose First Round of Copyright Infringement Case Against AI Art Generators" . Hollywood Reporter . Archived from the original on October 31, 2023 . Retrieved April 30, 2024 . 
+
+ ↑ Robertson, Adi (August 13, 2024). "Artists' lawsuit against Stability AI and Midjourney gets more punch" . The Verge . Archived from the original on August 13, 2024 . Retrieved August 13, 2024 . 
+
+ ↑ Korn, Jennifer (January 17, 2023). "Getty Images suing the makers of popular AI art tool for allegedly stealing photos" . CNN . Archived from the original on March 1, 2023 . Retrieved January 22, 2023 . 
+
+ ↑ "},"date":{"wt":"17 January 2023"},"website":{"wt":"newsroom.gettyimages.com/"},"publisher":{"wt":""},"access-date":{"wt":"24 January 2023"},"quote":{"wt":""},"archive-date":{"wt":"January 24, 2023"},"archive-url":{"wt":"https://web.archive.org/web/20230124151734/https://newsroom.gettyimages.com/en/getty-images/getty-images-statement"},"url-status":{"wt":"live"}},"i":0}}]}'/> "Getty Images Statement" . newsroom.gettyimages.com/ . January 17, 2023. Archived from the original on January 24, 2023 . Retrieved January 24, 2023 . 
+
+ ↑ Belanger, Ashley (February 6, 2023). "Getty sues Stability AI for copying 12M photos and imitating famous watermark" . Ars Technica . Archived from the original on April 4, 2023 . Retrieved April 4, 2023 . 
+
+ ↑ Ngila, Faustine (July 6, 2023). "The copyright battles against OpenAI have begun" . Quartz . Retrieved November 25, 2024 . 
+
+ ↑ Kris, Jimmy (July 6, 2023). "OpenAI faces copyright lawsuit from authors Mona Awad and Paul Tremblay" . DailyAi . Archived from the original on July 18, 2023 . Retrieved July 10, 2023 . 
+
+ ↑ Davis, Wes (July 9, 2023). "Sarah Silverman is suing OpenAI and Meta for copyright infringement" . The Verge . Archived from the original on November 18, 2023 . Retrieved April 30, 2024 . 
+
+ ↑ David, Emilla (February 13, 2024). "Sarah Silverman's lawsuit against OpenAI partially dismissed" . The Verge . Archived from the original on May 15, 2024 . Retrieved April 30, 2024 . 
+
+ ↑ Spangler, Todd (September 21, 2023). "George R.R. Martin Among 17 Top Authors Suing OpenAI, Alleging ChatGPT Steals Their Works: 'We Are Here to Fight' " . Variety . Archived from the original on May 16, 2024 . Retrieved May 15, 2024 . 
+
+ ↑ "Our Strategy" . The New York Times Company . March 24, 2022 . Retrieved March 30, 2026 . 
+
+ 1 2 "New York Times v. Microsoft Corp. | Loeb & Loeb LLP" . www.loeb.com . Retrieved March 30, 2026 . 
+
+ ↑ O'Brien, Matt (January 9, 2024). "ChatGPT-maker braces for fight with New York Times and authors on 'fair use' of copyrighted works" . AP News . Retrieved March 30, 2026 . 
+
+ ↑ Allyn, Bobby (March 26, 2025). "Judge allows 'New York Times' copyright case against OpenAI to go forward" . NPR . Retrieved March 30, 2026 . 
+
+ ↑ "The New York Times Company v. Microsoft Corporation et al, No. 1:2023cv11195 - Document 514 (S.D.N.Y. 2025)" . Justia Law . Retrieved March 30, 2026 . 
+
+ ↑ Allyn, Bobby (April 30, 2024). "Eight newspapers sue OpenAI, Microsoft for copyright infringement" . NPR . Archived from the original on April 30, 2024 . Retrieved April 30, 2024 . 
+
+ ↑ Sato, Mia (June 24, 2024). "Major record labels sue AI company behind 'BBL Drizzy' " . The Verge . Archived from the original on September 16, 2024 . Retrieved June 24, 2024 . 
+
+ ↑ "UMG Recordings, Inc. v. Suno, Inc., 1:24-cv-11611 - CourtListener.com" . CourtListener . Retrieved March 30, 2026 . 
+
+ ↑ One Law Street (February 19, 2025). "ANI v. OpenAI - Hearing Timeline" . One Law Street . Retrieved March 14, 2025 . 
+
+ ↑ Cecco, Leyland (November 29, 2024). "Canadian media companies sue OpenAI in case potentially worth billions" . The Guardian . Retrieved November 29, 2024 . 
+
+ ↑ "GEMA erhebt Musterklage zur Klärung der Vergütungspflicht von KI-Anbietern in Europa" . gema.de (in German). November 13, 2024 . Retrieved August 9, 2025 . 
+
+ ↑ "Faire Vergütung gefordert: GEMA klagt gegen Suno Inc" . gema.de (in German). January 21, 2025 . Retrieved August 9, 2025 . 
+
+ ↑ "GEMA vs. OpenAI: Niederlage für ChatGPT vor Münchner Gericht" . Die Tageszeitung . November 11, 2025 . Retrieved November 11, 2025 . 
+
+ ↑ 42 O 763/25 (Court case). LG München I (in German). July 31, 2026. 
+
+ ↑ Chmielewski, Dawn (June 11, 2025). "Disney, Universal sue image creator Midjourney for copyright infringement" . Reuters . Retrieved June 11, 2025 . 
+
+ ↑ "Disney and Universal sue AI image company Midjourney for unlicensed use of Star Wars, the Simpsons and more" . CNBC . June 11, 2025. Archived from the original on June 11, 2025 . Retrieved June 11, 2025 . 
+
+ ↑ Maddaus, Gene (September 4, 2025). "Warner Bros. Joins Studios' AI Copyright Battle Against Midjourney" . Variety . Retrieved September 4, 2025 . 
+
+ ↑ Cho, Winston (September 16, 2025). "Disney, Warner Bros., Universal Pictures Sue Chinese AI Company in Escalation of Copyright Battle" . The Hollywood Reporter . Retrieved September 19, 2025 . 
+
+ ↑ Scarcella, Mike (September 6, 2025). "Apple sued by authors over use of books in AI training" . Reuters . Retrieved September 6, 2025 . 
+
+ ↑ Washenko, Anna (September 11, 2025). "Perplexity's definition of copyright gets it sued by the dictionary" . Engadget . Retrieved September 11, 2025 . 
+
+ ↑ Brittain, Blake (March 16, 2026). "Encyclopedia Britannica sues OpenAI over AI training" . Reuters . 
+
+ External links
+ [ edit ] 
+
+ Pamela Samuelson : Will Copyright Derail Generative AI Technologies? (Presentation at a Simons Institute workshop on "Alignment, Trust, Watermarking, and Copyright Issues in LLMs", October 17, 2024) - overview over 32 ongoing lawsuits in the US at the time
+
+ Getting the Innovation Ecosystem Ready for AI: An IP policy toolkit – WIPO 2024
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=Artificial_intelligence_and_copyright&oldid=1383110909 "
+
+ Categories : Regulation of artificial intelligence 
+ Copyright law 
+ Computer law 
+
+ Hidden categories: Articles with short description 
+ Short description matches Wikidata 
+ Use mdy dates from April 2024 
+ Webarchive template wayback links 
+ Articles containing potentially dated statements from March 2026 
+ All articles containing potentially dated statements 
+ CS1 maint: deprecated archival service 
+ Pages using multiple image with auto scaled images 
+ Articles containing potentially dated statements from August 2023 
+ Wikipedia articles in need of updating from June 2025 
+ All Wikipedia articles in need of updating 
+ Pages with non-numeric formatnum arguments 
+ CS1 German-language sources (de) 
+
+ This page was last edited on 1 November 2026, at 01:18  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ Artificial intelligence and copyright 
+
+ 9 languages 
+
+ Add topic

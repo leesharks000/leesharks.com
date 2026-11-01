@@ -1,0 +1,29 @@
+Bot Detection 
+
+ Bot Detection
+
+ Checking you are not a bot
+
+ Loading challenge
+ default-challenge
+
+ Why am I seeing this? 
+
+ You are seeing this because the administrator of this website has set up go-away 
+ to protect the server against the scourge of AI companies aggressively scraping websites .
+
+ Mass scraping can and does cause downtime for the websites, which makes their resources inaccessible for everyone.
+
+ Please note that some challenges requires the use of modern JavaScript features and some plugins may disable these.
+ Disable such plugins for this domain (for example, JShelter) if you encounter any issues.
+
+ Digital Humanities at the University of Cologne
+
+ Cologne Center for eHumanities
+
+ Data Center for the Humanities
+
+ Department for Digital Humanities
+
+ request_id d01c7093026e0909c3ffef375cb176e2, pesky bots please
+ go-away

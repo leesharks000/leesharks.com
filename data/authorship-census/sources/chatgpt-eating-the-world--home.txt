@@ -1,0 +1,296 @@
+Chat GPT Is Eating the World – the latest news in ChatGPT + AI + DALL-E (*not affiliated with their makers OpenAI) 
+
+ About 
+ AI & Authorship Tracker 
+ AI Arms Race: US v. China 
+ AI Copyright Case Timeline 
+ AI Copyright Case Tracker 
+ AI Data Center Bans & Lawsuits Tracker 
+ AI Status Copyright Cases Tracker 
+ AI Tort Lawsuit Tracker 
+ AI Training Court Decisions Tracker 
+ Archives 
+ BIPA Litigation Tracker 
+ Concord Music Group v. Anthropic I 
+ Defense Firms for AI Companies 
+ Doe 1 v. Github 
+ In Re Mosaic LLM Litigation 
+ In re OpenAI Copyright Inf. Ltgn. summary judgment 
+ In re: OpenAI, Inc. Copyright Infringement Litigation (Raw Story Media) 
+ Lawsuits v. OpenAI Tracker 
+ Master Calendar: Copyright Suits v. AI Companies 
+ Most Lawsuits v. AI Cos. Infographic 
+ Plaintiffs’ Firms in AI Copyright Suits Tracker 
+ Reported Incidents of Rogue AI Timeline 
+ Thomson Reuters v. ROSS Intelligence 
+ Web Scraping & AI Agents Case Tracker 
+
+ Chat GPT Is Eating the World 
+
+ Twitter 
+
+ ChatGPT is eating the world 
+
+ Subscribe to our Free substack Newsletter 
+
+ Most Popular News 
+
+ Amici flood OpenAI MDL docket seeking leave to file 52 briefs in key copyright suit 
+ Latest Map of U.S. Copyright Suits v. AI companies. Total = 157 
+ Ted Entertainment abandons lawsuits v. OpenAI and others but Matt Fisher remains as plaintiff 
+
+ Latest Stories 
+
+ Amici flood OpenAI MDL docket seeking leave to file 52 briefs in key copyright suit 
+
+ This week, various individuals (myself included) and entities have asked Judge Stein for leave to file amicus briefs in the OpenAI MDL litigation. By my unofficial count, 52 proposed amicus briefs were filed, with the following breakdown: The large number of amicus briefs reflects the importance of the issues at stake. But the Open MDL… 
+
+ Read more : Amici flood OpenAI MDL docket seeking leave to file 52 briefs in key copyright suit 
+
+ Rosen sues Google CEO Pichai and other officer, directors including Larry Page, Sergey Brin, John Hennessy, John Doerr, Kent Walker. Copyright-BIPA shareholder derivative suit 
+
+ Similar to Rosen v. Cook (Apple suit), Phil Rosen has justed filed Rosen v. Pichai, another copyright shareholder derivative lawuit, only this time it includes a BIPA violation claim. That may explain why it was filed in the Northern District of Illinois. Exerpt: DOWNLOAD COMPLAINT: 
+
+ Read more : Rosen sues Google CEO Pichai and other officer, directors including Larry Page, Sergey Brin, John Hennessy, John Doerr, Kent Walker. Copyright-BIPA shareholder derivative suit 
+
+ Judge Lee dismisses Beaulier’s DMCA CMI claims, agreeing with Judge Breyer’s decision in Beaulier v. Meta 
+
+ Judge Eumi Lee dismissed Beulier’s two DMCA CMI removal claims on the same grounds Judge Breyer did in Beaulier v. Meta. The Order states: “Having considered the parties’ briefs 20 26 29 and relevant legal authority, Defendant’s 20 motion to dismiss is GRANTED with leave to amend. Civ. L.R. 7-1(b). The Court finds Judge Breyer’s… 
+
+ Read more : Judge Lee dismisses Beaulier’s DMCA CMI claims, agreeing with Judge Breyer’s decision in Beaulier v. Meta 
+
+ Latest Map of U.S. Copyright Suits v. AI companies. Total = 157 
+
+ Here’s the latest map of all copyright suits v. AI companies. We added 9 new lawsuits. The new total is 157 copyright suits v. AI companies. Also visit our Interactive Map Case Tracker. DOWNLOAD MAP WITH LINKS TO EACH DOCKET: 
+
+ Read more : Latest Map of U.S. Copyright Suits v. AI companies. Total = 157 
+
+ Ted Entertainment abandons lawsuits v. OpenAI and others but Matt Fisher remains as plaintiff 
+
+ Ted Entertainment, YouTube creator, has voluntarily dismissed without prejudice its lawsuit against OpenAI as it has also its lawsuits against NVIDIA, Apple, Amazon, Bytedance, and Meta. That leaves Matt Fisher as the sole plaintiff in the lawsuit. It looks like the only case Ted Entertainment has not abandoned is the one against Snap. Ted Entertainment… 
+
+ Read more : Ted Entertainment abandons lawsuits v. OpenAI and others but Matt Fisher remains as plaintiff 
+
+ ABG EPE IP LLC v. Anthropic PBC assigned to Judge Orrick for now. Is it related to Concord Music? 
+
+ ABG EPE IP LLC v. Anthropic PBC, aka the Elvis case, has been assigned to Judge Orrick. But there’s a high likelihood it could be deemed a related case to the music cases led by Concord Music v. Anthropic before Judge Lee. Stay tuned. 
+
+ Read more : ABG EPE IP LLC v. Anthropic PBC assigned to Judge Orrick for now. Is it related to Concord Music? 
+
+ Should Elon Musk be deposed in copyright infringement case? Parties disagree. 
+
+ The parties in Alcon Entertainment v. Tesla have provided a status report on their ongoing dispute over whether Elon Musk should be deposed. He is a named defendant in the lawsuit and he did use the allegedly infringing image that Alcon Entertainment contends is substantially similar to its movie Blade Runner 2049. DOWNLOAD: 
+
+ Read more : Should Elon Musk be deposed in copyright infringement case? Parties disagree. 
+
+ Judge Chhabria relates Hobbs, Older, Sheard to Kadrey v. Meta. Expect Winspear, Reno, Levine to follow. 
+
+ Judge Chhabria deemed several newly filed cases v. Meta as related to Kadrey v. Meta. That means they will be reassigned to him: We should expect the same decision on these newly filed cases as well: 
+
+ Read more : Judge Chhabria relates Hobbs, Older, Sheard to Kadrey v. Meta. Expect Winspear, Reno, Levine to follow. 
+
+ Academic textbook authors voice concerns about their publishers seeking 85% cut of Bartz settlement distribution 
+
+ Well, it looks like the Bartz v. Anthropic settlement is not completely in the books. Kim Pawlak, the Executive Director of Textbook & Academic Authors Association (TAA) submitted a 4-page, single-spaced letter to Judge Martínez-Olguín. The letter alleges numerous problems textbook authors have faced. Under the terms of the settlement, the distribution of settlement funds… 
+
+ Read more : Academic textbook authors voice concerns about their publishers seeking 85% cut of Bartz settlement distribution 
+
+ Anthropic defends fair use in acquiring & using training data but flags copyright liability risk on novel issue in S1 prospectus for its IPO 
+
+ Anthropic filed its S1 prospectus with the SEC yesterday. It has a lengthy discussion of “risk factors” related to investing in the company that spans nearly 100 pages. Here’s what the S1 says about copyright issues: We can break this statement into 2 sections: good faith belief in fair use on a novel issue of… 
+
+ Read more : Anthropic defends fair use in acquiring & using training data but flags copyright liability risk on novel issue in S1 prospectus for its IPO 
+
+ Judge Lee issues pre-hearing questions on fair use and Daubert motions 
+
+ In Concord Music v. Anthropic I, Judge Lee issued her pre-hearing questions to the parties’ lawyers regarding fair use and the Daubert motions. These were sent to the lawyers before the hearing but are now being published. Fair Use and Trial Management: Daubert motions on experts: DOWNLOAD: 
+
+ Read more : Judge Lee issues pre-hearing questions on fair use and Daubert motions 
+
+ Copyright owners to Elvis songs sues Anthropic. Total = 157 suits v. AI cos. 
+
+ Copyright owners to some Elvis songs are suing Anthropic for copyright infringement. ABE EPE LLC v. Anthropic is the 8th AI music copyright suit filed by the law firm Adams & Reese this year. Excerpt: DOWNLOAD COMPLAINT IN ABG EPE IP LLC V. ANTHROPIC: 
+
+ Read more : Copyright owners to Elvis songs sues Anthropic. Total = 157 suits v. AI cos. 
+
+ Judge Lee concludes marathon hearing on summary judgment in Concord Music v. Anthropic I; sets 2d hearing to continue Daubert hearing on Oct. 30, 1 PM 
+
+ In a nearly 5-hour hearing, Judge Eumi Lee peppered the attorneys for both Concord Music and Anthropic with questions on the issues raised by their summary judgment motions. The docket gives a brief summary: “Argument of counsel heard. Hearing to be continued as to remaining Daubert motions. The Court ordered the parties to meet and… 
+
+ Read more : Judge Lee concludes marathon hearing on summary judgment in Concord Music v. Anthropic I; sets 2d hearing to continue Daubert hearing on Oct. 30, 1 PM 
+
+ Plaintiffs’ Firms with Most AI Copyright Suits Tracker (beta launch) 
+
+ Today, we are beta launching our newest tracker: Plaintiffs’ Firms with Most AI Copyright Lawsuits. This is still in beta and we are fixing a few glitches, but you can check out the design: One thing is apparent: Plaintiffs’ firms are driving the AI Copyright Litigation. Many plaintiffs’ firms are filing multiple parallel lawsuits involving… 
+
+ Read more : Plaintiffs’ Firms with Most AI Copyright Suits Tracker (beta launch) 
+
+ AI Copyright Wars escalate: 8 cases this week sets record. Suno, Anthropic hit with yet another music lawsuit. 
+
+ The AI Copyright Wars are escalating. We just set a record for most copyright suits filed in 1 week in the last 4 years since the War started: 8 new AI copyright suits in 1 week, which is not yet over. Yesterday, both Suno and Anthropic were hit with copyright lawsuits filed by the same… 
+
+ Read more : AI Copyright Wars escalate: 8 cases this week sets record. Suno, Anthropic hit with yet another music lawsuit. 
+
+ Read All Stories 
+
+ Trackers 
+
+ AI Copyright Case Tracker 
+
+ AI Authorship Tracker 
+
+ AI Tort Lawsuit Tracker 
+
+ AI Data Center Lawsuits Tracker 
+
+ BIPA Litigation Tracker 
+
+ Web Scraping & AI Agents Case Tracker 
+
+ AI Copyright Case Tracker 
+
+ Case Briefing We Track 
+
+ Summary Judgment 
+
+ Appeals 
+
+ Search Search 
+
+ US Map of Copyright Suits v. AI 
+
+ last updated Oct. 8, 2026. Current total = 148 suits in U.S.
+
+ Master List of Lawsuits v. AI 
+
+ last updated Dec. 5, 2025.
+
+ Copyright Dilution Under Constitutional Scrutiny 
+
+ Fair Use and the Origin of AI Training 
+
+ World Map of Copyright Lawsuits v. AI 
+
+ last updated April 5, 2026. Current total = 130 copyright suits = 100 in U.S. + 30 in rest of world. (When updated, the current total = 143 = 113 in U.S. + 30 in rest of the world.)
+
+ Infographic of AI companies sued 
+
+ In need of updating TBA
+
+ Status of Copyright Lawsuits v. AI 
+
+ The Shadow Library Strategy 
+
+ Master Chart of Claims in Cases 
+
+ Last updated Mar. 31, 2026
+
+ Opinion: How courts should analyze authorship with AI 
+
+ US Copyright Office registers copyright of AI-generated image 
+
+ Search Search 
+
+ October 2026 
+
+ September 2026 
+
+ August 2026 
+
+ July 2026 
+
+ June 2026 
+
+ May 2026 
+
+ April 2026 
+
+ March 2026 
+
+ February 2026 
+
+ January 2026 
+
+ December 2025 
+
+ November 2025 
+
+ October 2025 
+
+ September 2025 
+
+ August 2025 
+
+ July 2025 
+
+ June 2025 
+
+ May 2025 
+
+ April 2025 
+
+ March 2025 
+
+ February 2025 
+
+ January 2025 
+
+ December 2024 
+
+ November 2024 
+
+ October 2024 
+
+ September 2024 
+
+ August 2024 
+
+ July 2024 
+
+ June 2024 
+
+ May 2024 
+
+ April 2024 
+
+ March 2024 
+
+ February 2024 
+
+ January 2024 
+
+ December 2023 
+
+ November 2023 
+
+ October 2023 
+
+ September 2023 
+
+ August 2023 
+
+ July 2023 
+
+ May 2023 
+
+ April 2023 
+
+ March 2023 
+
+ February 2023 
+
+ January 2023 
+
+ Featured Articles 
+
+ Powered by WordPress 
+
+ Loading Comments... 
+
+ Write a Comment... 
+
+ Email (Required) 
+
+ Name (Required) 
+
+ Website

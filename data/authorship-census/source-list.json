@@ -1,0 +1,77 @@
+{
+ "ubuweb": {
+  "home": "https://ubu.com/",
+  "faq": "https://ubu.com/resources/faq.html",
+  "wikipedia": "https://en.wikipedia.org/wiki/UbuWeb"
+ },
+ "pennsound": {
+  "home": "https://writing.upenn.edu/pennsound/",
+  "about": "https://writing.upenn.edu/pennsound/about.php",
+  "wikipedia": "https://en.wikipedia.org/wiki/PennSound"
+ },
+ "epc": {
+  "home": "https://writing.upenn.edu/epc/",
+  "about": "https://writing.upenn.edu/epc/about/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Electronic_Poetry_Center"
+ },
+ "jacket2": {
+  "home": "https://jacket2.org/",
+  "about": "https://jacket2.org/about"
+ },
+ "eclipse": {
+  "home": "https://eclipsearchive.org/",
+  "about": "https://eclipsearchive.org/about.html",
+  "wikipedia": "https://en.wikipedia.org/wiki/Craig_Dworkin",
+  "authors": "https://eclipsearchive.org/authors.html",
+  "editor": "https://eclipsearchive.org/Editor"
+ },
+ "dada-iowa": {
+  "home": "https://dada.lib.uiowa.edu/",
+  "about": "https://dada.lib.uiowa.edu/about"
+ },
+ "oulipo": {
+  "home": "https://www.oulipo.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Oulipo"
+ },
+ "arquivo-pessoa": {
+  "home": "http://arquivopessoa.net/",
+  "wikipedia": "https://pt.wikipedia.org/wiki/Arquivo_Pessoa",
+  "ficha": "http://arquivopessoa.net/info/ficha",
+  "autores": "http://arquivopessoa.net/autores"
+ },
+ "pessoa-digital": {
+  "home": "https://pessoadigital.pt/",
+  "about": "https://pessoadigital.pt/en/about"
+ },
+ "fanlore": {
+  "about": "https://fanlore.org/wiki/Fanlore:About",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fanlore",
+  "home": "https://fanlore.org/wiki/Main_Page"
+ },
+ "otw-ao3": {
+  "otw": "https://www.transformativeworks.org/about_otw/",
+  "ao3": "https://archiveofourown.org/about",
+  "wikipedia": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+ },
+ "copyright-office-ai": {
+  "home": "https://www.copyright.gov/ai/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright"
+ },
+ "gwu-dail": {
+  "home": "https://blogs.gwu.edu/law-eti/ai-litigation-database/"
+ },
+ "chatgpt-eating-the-world": {
+  "home": "https://chatgptiseatingtheworld.com/",
+  "about": "https://chatgptiseatingtheworld.com/about/"
+ },
+ "authors-guild-human-authored": {
+  "home": "https://authorsguild.org/human-authored/"
+ },
+ "wipo-frontier": {
+  "home": "https://www.wipo.int/about-ip/en/frontier_technologies/",
+  "conversation": "https://www.wipo.int/about-ip/en/frontier_technologies/frontier_conversation.html"
+ },
+ "cope-ai": {
+  "home": "https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools"
+ }
+}

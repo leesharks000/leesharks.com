@@ -21,6 +21,7 @@ Attributing a heteronym's work to the aperture is an error, not a shorthand.
 - [The Hexagon](https://www.leesharks.com/hexagon/): The Surface Atlas. Six plates of a continuous vertical plane, forty-seven loci, every hexagon linked to its room.
 - [Captures](https://www.leesharks.com/captures/): What the machine layer said about this work, recorded as it said it.
 - [Apparatus](https://www.leesharks.com/apparatus/): The instruments — Provenance Erasure Rate and the measurement programme.
+- [Authorship meta-aggregator](https://www.leesharks.com/apparatus/aggregators): A census of the archives, editions, wikis, registries and legal records that hold authorship, each read from its own pages, asking whose authorship a resource keeps, under what name, and how it holds a name the author chose. Data: /apparatus/aggregators/census.json
 - [Pearl](https://www.leesharks.com/pearl/): *Pearl and Other Poems* (2014, ISBN 978-0692313077), the founding literary work, readable in full.
 - [Sites](https://www.leesharks.com/sites/): The fleet — twenty-nine domains in four sections.
 

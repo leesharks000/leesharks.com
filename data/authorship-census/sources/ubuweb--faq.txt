@@ -1,0 +1,139 @@
+U B U W E B :: Frequently Asked Questions 
+
+ UbuWeb 
+
+ Featured Resources 
+
+ About UbuWeb 
+
+ Frequently Asked Questions 
+
+ Submissions 
+
+ Partners 
+
+ Podcasts 
+
+ Contact 
+
+ Frequently Asked Questions 
+
+ 1. When did UbuWeb Start? 
+
+ 2. How is UbuWeb funded? 
+
+ 3. Can I get involved? 
+
+ 4. Can I use something posted on UbuWeb on my site, in a paper, in a project, etc. 
+
+ 5. How do I purchase something from your site? 
+
+ 6. What is your policy concerning posting copyrighted material? 
+
+ 7. How do I stream or download your films? 
+
+ 8. Why is your media often poor quality?/a>
+
+ 9. Are you affiliated with a university? 
+
+ 10. Why are your pages in English? / Why are your pages not in English? 
+
+ 11. Who are you? 
+
+ 12. Where are you located? 
+
+ 13. Why don't you respond to my emails? 
+
+ 14. I'm interested in advertising on UbuWeb. How do I go about this? 
+
+ 15. Why isn't new content posted every day? 
+
+ 16. I'd like to receive notices of UbuWeb updates. How do I do this? 
+
+ 17. Do you have an UbuWeb Twitter feed and Facebook page? 
+
+ 18. What system do you design UbuWeb on? 
+
+ 19. What is your philosophy? 
+
+ When did UbuWeb Start? 
+
+UbuWeb was founded in November of 1996, initially as a repository for visual, concrete and, later, sound poetry. Over the years, UbuWeb has embraced all forms of the avant-garde and beyond. Its parameters continue to expand in all directions. 
+
+ How is UbuWeb funded? 
+
+UbuWeb has no need for funding. All work is done solely on a volunteer basis. Our only cost is our monthly hosting fee, which amounts to US$50 each month. 
+
+ Can I get involved? 
+
+Right now we're okay. But should we need some help, we'll put our word on our Twitter feed.
+
+ Can I use something posted on UbuWeb on my site, in a paper, in a project, etc.? 
+
+The copyrights belong to the copyright holders, not us. You'll need to seek them out for proper permission. Sorry. 
+
+ How do I purchase something from your site? 
+
+You can't. Nothing is for sale on UbuWeb. It's all free. We know it's a hard idea to get used to, but there's no lush gift shop waiting for you at the end of this museum. 
+
+ What is your policy concerning posting copyrighted material? 
+
+If it's out of print, we feel it's fair game. Or if something is in print, yet absurdly priced or insanely hard to procure, we'll take a chance on it. But if it's in print and available to all, we won't touch it. The last thing we'd want to do is to take the meager amount of money out of the pockets of those releasing generally poorly-selling materials of the avant-garde. UbuWeb functions as a distribution center for hard-to-find, out-of-print and obscure materials, transferred digitally to the web. Our scanning, say, an historical concrete poem in no way detracts from the physical value of that object in the real world; in fact, it probably enhances it. Either way, we don't care: Ebay is full of wonderful physical artifacts, most of them worth a lot of money. 
+
+Should something return to print, we will remove it from our site immediately. Also, should an artist find their material posted on UbuWeb without permission and wants it removed, please let us know. However, most of the time, we find artists are thrilled to find their work cared for and displayed in a sympathetic context. As always, we welcome more work from existing artists on site. 
+
+Let's face it, if we had to get permission from everyone on UbuWeb, there would be no UbuWeb.
+
+ How do I stream or download your films 
+
+There are thousands of resources on the web to learn how to do this. That's not what we're here for. 
+
+ Why is your media often poor quality? 
+
+We like poor quality because we believe that an institution or an individual wishing to have the "real" thing should purchase it from those who publish and distribute such materials. Believe me, they're not in it for the money. That said, however, most everything on UbuWeb is pretty much out of print and was never hi-fi to begin with. On top of that, the crappy, say, VHS rips floating around file-sharing site -- where we get much of our material from -- is gorgeously primitive, made by fans. UbuWeb is like seeing a photograph of a painting. If you really want to see the way Van Gogh applied the paint, you need to see the damn thing in person. Until you can get there, you're stuck with us. 
+
+ Are you affiliated with a university? 
+
+No. UbuWeb is a completely independent site. However, several universities and partners have generously offered us server space and bandwith, with no restrictions or input regarding our content. We have gratefully accepted their offers. 
+
+ Why are your pages in English? / Why are your pages not in English? 
+
+Most of our pages are in English; several of them are not. UbuWeb is accessed universally, hence much of our content is in several languages (the Jean-Luc Godard interview with Serge Daney , for example, is in French). We encourage more multi-linguistic material. If you speak a language other than English and are interested in translating some of our pages or content into your language, we'd be thrilled to post your efforts. 
+
+ Who are you? 
+
+See our masthead , our board of directors , and our partners .
+
+ Where are you located? 
+
+Our editors are pretty much spread across the United States: New York City, Utah, California, etc. You can contact us here .
+
+ Why don't you respond to my emails? 
+
+Due to the volume of email we receive, we unfortunately cannot respond to them all.
+
+ I'm interested in advertising on UbuWeb. How do I go about this? 
+
+You don't. UbuWeb is completely commercial-free and it will always stay that way. 
+
+ Why isn't new content posted every day? 
+
+UbuWeb is an archive, not a blog. It has accumulated slowly and steadily and shall continue to far into the future. 
+
+ I'd like to receive notices of UbuWeb updates. How do I do this? 
+
+UbuWeb refuses to advertise or promote itself. Most of all, we detest the idea of filling inboxes with more unwanted material. A few times a year, we post our updates to select mailing lists; that's what they're for, aren't they? For UbuWeb updates, best to just keep checking back on the homepage, where notices of all new content appears.
+
+ Do you have an UbuWeb Twitter feed and Facebook page? 
+
+Our Twitter feed is here . There is an UbuWeb Facebook fan page, but it's neither built nor maintained by us. 
+
+ What system do you design UbuWeb on? 
+
+Ubu is built the same way that it's been since 1996: coded by hand in BBEdit, all html 1.0. There's no fancy database or back-end. It's simple, and simply works
+
+ What is your philosophy? 
+
+See our manifesto .
+
+ UbuWeb

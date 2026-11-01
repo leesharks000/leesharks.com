@@ -1,0 +1,919 @@
+Oulipo - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ History 
+
+ 2 
+ Oulipian works 
+
+ 3 
+ Constraints 
+
+ 4 
+ Members 
+
+ Toggle Members subsection 
+
+ 4.1 
+ Founding members 
+
+ 4.2 
+ Living members 
+
+ 4.3 
+ Deceased and former members 
+
+ 5 
+ See also 
+
+ 6 
+ References 
+
+ 7 
+ Further reading 
+
+ 8 
+ External links 
+
+ Toggle the table of contents 
+
+ Oulipo 
+
+ 28 languages 
+
+ Български 
+ Català 
+ Čeština 
+ Dansk 
+ Deutsch 
+ Español 
+ Euskara 
+ فارسی 
+ Suomi 
+ Français 
+ Galego 
+ עברית 
+ Hrvatski 
+ Magyar 
+ Italiano 
+ 日本語 
+ 한국어 
+ Nederlands 
+ Norsk bokmål 
+ Polski 
+ Português 
+ Română 
+ Русский 
+ Svenska 
+ Türkçe 
+ Українська 
+ Walon 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikimedia Commons 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ French literary movement
+
+ French and Francophone literature 
+
+ by category 
+
+History
+
+ Medieval 
+
+ Renaissance 
+
+ 17th 
+
+ 18th 
+
+ 19th 
+
+ 20th century 
+
+ Contemporary 
+
+Movements
+
+ Précieuses 
+
+ Classicism 
+
+ Rococo 
+
+ Decadent 
+
+ Parnassianism 
+
+ Symbolism 
+
+ Nouveau roman 
+
+Writers
+
+ Chronological list 
+
+ Writers by category 
+
+ Essayists 
+
+ Novelists 
+
+ Playwrights 
+
+ Poets 
+
+ Short story writers 
+
+ Children's writers 
+
+Countries and regions
+
+ France 
+
+ Quebec 
+
+ Franco-American 
+
+ Haiti 
+
+ Postcolonial 
+
+Portals
+
+ France 
+
+ Literature 
+
+ v 
+ t 
+ e 
+
+ Oulipo ( French pronunciation: [ ulipo ] , short for French : Ouvroir de littérature potentielle ; roughly translated as "workshop of potential literature", stylized OuLiPo ) is a loose gathering of (mainly) French-speaking writers and mathematicians who seek to create works using constrained writing techniques. It was founded in 1960 by Raymond Queneau and François Le Lionnais . Other notable members have included novelists Georges Perec and Italo Calvino , poets Oskar Pastior and Jean Lescure , and poet/mathematician Jacques Roubaud .
+
+ The group defines the term littérature potentielle as (rough translation): "the seeking of new structures and patterns which may be used by writers in any way they enjoy" [ 1 ] . The group has therefore defined a series of literary methods and documented how they work, so that others can replicate and adapt these constraints [ 2 ] . Queneau described Oulipians as "rats who construct the labyrinth from which they plan to escape." [ 3 ] [ 4 ] 
+
+ Constraints are used as a means of triggering ideas and inspiration, most notably Perec's "story-making machine", which he used in the construction of Life: A User's Manual . As well as established techniques, such as lipograms (Perec's novel A Void ) and palindromes , the group devises new methods, often based on mathematical problems, such as the knight's tour of the chessboard and permutations.
+
+ History
+ [ edit ] 
+
+ Oulipo was founded on November 24, 1960, as a subcommittee of the Collège de 'Pataphysique and titled Séminaire de littérature expérimentale . [ 5 ] At their second meeting, the group changed its name to Ouvroir de littérature potentielle , or Oulipo, at Albert-Marie Schmidt 's suggestion. [ 6 ] The idea had arisen two months earlier, when a small group met in September at Cerisy-la-Salle for a colloquium on Queneau's work. During this seminar, Queneau and François Le Lionnais conceived the society. [ 7 ] 
+
+ During the subsequent decade, Oulipo (as it was commonly known) was only rarely visible as a group. As a subcommittee, they reported their work to the full Collège de 'Pataphysique in 1961. In addition, Temps Mêlés   [ fr ] (in French) devoted an issue to Oulipo in 1964, and Belgian radio broadcast one Oulipo meeting. Its members were individually active during these years and published works which were created within their constraints. The group as a whole began to emerge from obscurity in 1973 with the publication of La Littérature Potentielle   [ fr ] , a collection of representative pieces. Martin Gardner helped to popularize the group in America when he featured Oulipo in his February 1977 Mathematical Games column in Scientific American. [ 8 ] [ 9 ] In 2012 Harvard University Press published a history of the movement, Many Subtle Channels: In Praise of Potential Literature , by Oulipo member Daniel Levin Becker . [ 10 ] 
+
+ Oulipo was founded by a group of men in 1960 and it took 15 years before the first woman was allowed to join; this was Michèle Métail who became a member in 1975 and has since distanced herself from the group. [ 11 ] [ 12 ] Since 1960 only seven women have joined Oulipo, [ 12 ] [ 13 ] with Clémentine Mélois joining in June 2017 and Louise Rose in 2026. [ 14 ] [ 15 ] Mélois left Oulipo in May 2026, citing the group's difficulty integrating women as one reason for her departure. As Oulipo's rules do not permit leaving the group except in the case of death, Mélois staged a pretend suicide at a café in Paris to announce her departure. [ 16 ] 
+
+ One extension of the group is Alamo ( Atelier de Littérature Assistée par la Mathématique et les Ordinateurs , or Workshop for Literature Assisted by Mathematics and Computers) founded in July 1981 by Paul Braffort and Jacques Roubaud. 
+
+ Oulipian works
+ [ edit ] 
+
+ Ambigram Oulipo 
+
+ Some examples of Oulipian writing:
+
+ Queneau's Exercices de Style is the recounting ninety-nine times of the same inconsequential episode, in which a man witnesses a minor altercation on a bus trip; each account is unique in terms of tone and style.
+
+ Queneau's Cent Mille Milliards de Poèmes is inspired by children's picture books in which each page is cut into horizontal strips that can be turned independently, allowing different pictures (usually of people: heads, torsos, waists, legs, etc.) to be combined in many ways. Queneau applies this technique to poetry: the book contains 10 sonnets , each on a page. Each page is split into 14 strips, one for each line. The author estimates in the introductory explanation that it would take approximately 200 million years to read all possible combinations.
+
+ Perec's novel La Disparition , translated into English by Gilbert Adair and published under the title A Void , is a 300-page novel written without the letter "e", an example of a lipogram . The English translation, A Void , is also a lipogram. The novel is remarkable not only for the absence of "e", but it is a mystery in which the absence of that letter is a central theme. Perec would go on to write with the inverse constraint in Les Revenentes , with "e" the only vowel present in the work. Ian Monk would later translate Les Revenentes into English under the title The Exeter Text: Jewels, Secrets, Sex .
+
+ Singular Pleasures by Harry Mathews describes 61 different scenes, each told in a different style (generally poetic, elaborate, or circumlocutory) in which 61 different people (all of different ages, nationalities, and walks of life) masturbate.
+
+ Constraints
+ [ edit ] 
+
+ Some Oulipian constraints: [ 17 ] 
+
+ S+7 , sometimes called N+7
+ Replace every noun in a text with the seventh noun after it in a dictionary. For example, " Call me Ishmael. Some years ago... " becomes "Call me Ishmael. Some yes-men ago...". Results will vary depending upon the dictionary used. This technique can also be performed on other lexical classes, such as verbs.
+
+ Snowball , or a Rhopalism
+ A poem in which each line is a single word, and each successive word is one letter longer.
+
+ Stile
+ A method wherein each "new" sentence in a paragraph stems from the last word or phrase in the previous sentence (e.g. "I descend the long ladder brings me to the ground floor is spacious…"). In this technique the sentences in a narrative continually overlap, often turning the grammatical object in a previous sentence into the grammatical subject of the next. The author may also pivot on an adverb, prepositional phrase, or other transitory moment.
+
+ Lipogram 
+ Writing that excludes one or more letters. The previous sentence is a lipogram in B, F, J, K, Q, V, Y, and Z (it does not contain any of those letters).
+
+ Prisoner's constraint , also called Macao constraint
+ A type of lipogram that omits letters with ascenders and descenders (b, d, f, g, h, j, k, l, p, q, t, and y).
+
+ Palindromes 
+ Sonnets and other poems constructed using palindromic techniques.
+
+ Eodermdrome 
+ Use of words constructed from a set of letters in such a way that they have a non-planar spelling net. [ 18 ] 
+
+ Univocalism 
+ A poem using only one vowel letter. In English and some other languages the same vowel letter can represent different sounds, which means that, for example, "born" and "cot" could both be used in a univocalism. (Words with the same American English vowel sound but represented by different 'vowel' letters could not be used – e.g. "blue" and "stew".)
+
+ Pilish 
+ A method of writing wherein one matches the length of words (or number of words in a sentence) to the digits of pi.
+
+ Mathews' Algorithm
+ Elements in a text are moved around by a set of predetermined rules [ 19 ] [ 20 ] 
+
+ Members
+ [ edit ] 
+
+ Founding members
+ [ edit ] 
+
+ The founding members of Oulipo represented a range of intellectual pursuits, including writers, university professors , mathematicians, engineers , and " pataphysicians ."
+
+ Living members
+ [ edit ] 
+
+ Valérie Beaudouin   [ fr ] 
+
+ Marcel Bénabou 
+
+ Eduardo Berti 
+
+ Bernard Cerquiglini 
+
+ Samuel Deshayes
+
+ Frédéric Forte   [ fr ] 
+
+ Paul Fournel 
+
+ Anne F. Garréta 
+
+ Jacques Jouet 
+
+ Hervé Le Tellier 
+
+ Étienne Lécroart 
+
+ Daniel Levin Becker 
+
+ Guillaume Marie
+
+ Pablo Martín Sánchez   [ fr ] 
+
+ Michèle Métail   [ fr ] 
+
+ Louise Rose
+
+ Olivier Salon   [ fr ] 
+
+ Deceased and former members
+ [ edit ] 
+
+ Noël Arnaud 
+
+ Michèle Audin 
+
+ Jacques Bens 
+
+ Claude Berge 
+
+ André Blavier 
+
+ Paul Braffort   [ fr ] 
+
+ Italo Calvino 
+
+ François Caradec   [ fr ] 
+
+ Ross Chambers   [ fr ] 
+
+ Stanley Chapman 
+
+ Marcel Duchamp 
+
+ Jacques Duchateau   [ fr ] 
+
+ Luc Etienne 
+
+ Michelle Grangaud 
+
+ Emmanuel Peillet   [ fr ] ("Latis")
+
+ François Le Lionnais 
+
+ Jean Lescure 
+
+ Harry Mathews 
+
+ Clémentine Mélois 
+
+ Ian Monk 
+
+ Oskar Pastior 
+
+ Georges Perec 
+
+ Raymond Queneau 
+
+ Jean Queval 
+
+ Pierre Rosenstiehl 
+
+ Jacques Roubaud 
+
+ Albert-Marie Schmidt 
+
+ See also
+ [ edit ] 
+
+ La Bibliothèque oulipienne 
+
+ Anticipatory plagiarism 
+
+ One-letter word 
+
+ E-Prime 
+
+ Modernist poetry 
+
+ Ouxpo 
+
+ Outrapo 
+
+ Ougrapo 
+
+ Oubapo 
+
+ References
+ [ edit ] 
+
+ ↑ Benabou, Marcel (2000). "Quarante siècles d'Oulipo" . Raison présente . 134 (1): 71– 90. doi : 10.3406/raipr.2000.3611 . 
+
+ ↑ Oulipo, ed. (2003). Atlas de littérature potentielle . Collection folio Essais. Paris: Gallimard. ISBN   978-2-07-032500-9 . 
+
+ ↑ Bens, Jacques (1980). Oulipo 1960-1963 . Paris: Bourgois. p.   43. 
+
+ ↑ Motte, Warren (Winter 2026). "Raymond Queneau and the Early Oulipo" . French Forum . 31 (1): 42 . Retrieved 3 March 2026 . 
+
+ ↑ Seaman, Bill (October 2001). "OULIPO VS Recombinant Poetics". Leonardo . 30 (5): 423– 430. doi : 10.1162/002409401753521548 . S2CID   14002965 . 
+
+ ↑ Barry, Robert. "The Exploits And Opinions Of Gavin Bryars, 'Pataphysician" . The Quietus . TheQuietus.com . Retrieved 18 November 2012 . 
+
+ ↑ Sobelle, Stefanie. "The Oulipo" . Bookforum . Retrieved 18 November 2012 . 
+
+ ↑ Playing with Poetry: using mathematics to discover new verses by JoAnne Growney 
+
+ ↑ Review of Imaginary Numbers by William Frucht Mathematical Association of America press release 
+
+ ↑ Levin Becker, Daniel (April 2012). Many Subtle Channels: In Praise of Potential Literature . Boston: Harvard University Press. ISBN   978-0-674-06577-2 . Retrieved 13 May 2017 . 
+
+ ↑ Michèle Métail (21 August 2013). "Michèle Métail" . www.oulipo.net (in French) . Retrieved 18 May 2020 . 
+
+ 1 2 Elkin, Lauren; Esposito, Scott (17 January 2013). "An Attempt at Exhausting a Movement" . The New Inquiry . Retrieved 18 May 2020 . 
+
+ ↑ "Who Are the Women of Oulipo?" . Center for the Art of Translation | Two Lines Press . 12 April 2017. Archived from the original on 27 September 2017 . Retrieved 18 May 2020 . 
+
+ ↑ Mélois, Clémentine (13 June 2017). "Clémentine Mélois" . www.oulipo.net (in French) . Retrieved 18 May 2020 . 
+
+ ↑ "Oulipo — new members including Louise Rose" . Instagram . Oulipo. 14 January 2026 . Retrieved 5 February 2026 . 
+
+ ↑ Pernes, Caroline (6 May 2026). "Lors d'une performance de "suicide putatif", Clémentine Mélois claque la porte de l'Oulipo" . Télérama (in French) . Retrieved 10 May 2026 . 
+
+ ↑ Lundin, Leigh; Grassiot-Gandet (7 June 2009). "L'Oulipo" . Criminal Brief . Retrieved 10 June 2009 . 
+
+ ↑ Andrews, Chris (2012). "Constraints, Poetry and Play in Jacques Roubaud's Parc sauvage " . Australian Journal of French Studies . 49 (2): 142– 152. doi : 10.3828/AJFS.2012.12 . 
+
+ ↑ rules for the algorithm 
+
+ ↑ Clute, Shannon Scott; Edwards, Richard L. (2011). The Maltese Touch of Evil: Film Noir and Potential Criticism . UPNE. ISBN   978-1-61168-047-8 . 
+
+ Further reading
+ [ edit ] 
+
+ Mathews, Harry & Brotchie, Alastair. Oulipo Compendium . London: Atlas, 1998. ISBN   0-947757-96-1 
+
+ Motte, Warren F. (ed) Oulipo: A Primer of Potential Literature . University of Nebraska Press , 1986. ISBN   0-8032-8131-5 .
+
+ Queneau, Raymond, Italo Calvino, et al. Oulipo Laboratory . London: Atlas, 1995. ISBN   0-947757-89-9 
+
+ Terry, Philip (ed). The Penguin Book of Oulipo . New York and London: Penguin, 2019. ISBN   978-0-241-37842-7 
+
+ The State of Constraint: New Work by Oulipo . San Francisco: McSweeney's Quarterly Concern Issue 22 ( Three Books Held Within By Magnets ), 2006. ISBN   1-932416-66-8 
+
+ Marc Lapprand, Poétique de l'Oulipo., Amsterdam, Rodopi, coll. «   Faux Titre   », 1998, 142e éd.
+
+ Warren Motte, Oulipo: A primer in potential literature , University of Nebraska Press , 1988
+
+ Daniel Levin Becker. Many Subtle Channels: In Praise of Potential Literature . Harvard University Press, 2012.
+
+ Lauren Elkin and Scott Esposito. The End of Oulipo? An Attempt to Exhaust a Movement . Zer0 Books, 2013.
+
+ Ian Monk and Daniel Levin Becker (translators), All That Is Evident Is Suspect: Readings from the Oulipo: 1963 - 2018 , McSweeney's, 2018.
+
+ (fr) Jean-Jacques Thomas, La langue, la poésie - essais sur la poésie française contemporaine   : Apollinaire, Bonnefoy, Breton, Dada, Eluard, Faye, Garnier, Goll, Jacob, Leiris, Meschonnic, Oulipo, Roubaud, Lille, Presses Universitaires de Lille, coll. «   problématiques   », 1989
+
+ (fr) Christelle Reggiani et Georges Molinié (dir.), La rhétorique de l'invention de Raymond Roussel à l'Oulipo, thèse de doctorat (nouveau régime) , Université de soutenance   : Paris-Sorbonne, 1997
+
+ (fr) Oulipo poétiques   : Actes du colloque de Salzburg, 23-25 avril 1997 / édités par Peter Kuon; en collaboration avec Monika Neuhofer et Christian Ollivier, Tübingen   : Gunter Narr Verlag, 1999
+
+ Peter Consenstein, Literary memory, consciousness, and the group Oulipo , Amsterdam, Rodopi, 2002
+
+ (fr) Carole Bisenius-Penin, Le roman oulipien , Paris, l'Harmattan, 2008
+
+ Alison James, Constraining chance   : Georges Perec and the Oulipo , Evanston, Ill.   : Northwestern University Press, 2009
+
+ (fr) Christophe Reig, Anne Chamayou (dir.) et Alastair Ducan (dir.), L'Oulipo sur la scène internationale   : ressorts formels et comiques , PUP, 2010 / Actes du Colloque «   Le rire européen - échanges et confrontations   »
+
+ (fr) Christophe Reig, Henri Béhar (dir.) et Pierre Taminiaux (dir.), Oulipo-litiques   : Poésie et Politique au XX° siècle , Paris, Hermann, 2011 / Actes du colloque de juillet 2010, Centre Culturel International de Cerisy
+
+ (fr) Anne Blossier-Jacquemot et Florence Dupont (dir.), Les Oulipiens antiques   : pour une anthropologie des pratiques d'écriture à contraintes dans l'Antiquité , Université Paris Diderot - Paris 7, Atelier national de reproduction des thèses , 2010
+
+ (fr)/(en) «   Oulipo@50/L'Oulipo à 50 ans   », Revue Formules - revue des créations formelles, n° 16, Presses universitaires du Nouveau Monde, New Orleans, juin 2012
+
+ Exhibition at UCL Rm 131 Foster Court - Department of French Prof. Timothy Mathews and Artist in Residence Margarita Saad 'Translation, Transcription, Oulipo Art from French to English' June 2015
+
+ Anna Kemp, Life as Creative Constraint: Autobiography and the Oulipo , Liverpool, Liverpool University Press, 2024
+
+ External links
+ [ edit ] 
+
+ Excerpts from the Oulipo Compendium 
+
+ A special Oulipo folio , Drunken Boat 
+
+ Monica de la Torre, "Oulipo" , Poets.org Website
+
+ Queneau, Cent Mille Milliards de Poèmes , BevRowe, interactive version in French and English
+
+ The N+7 Machine 
+
+ (in French) Official Oulipo Website 
+
+ (in French) Oulipo mailing list 
+
+ (in French) Oulipo Games Website 
+
+ Absurdist Monthly Review , The Writers Magazine of The New Absurdist Movement
+
+ v 
+ t 
+ e 
+
+ Avant-garde movements
+
+ Visual art
+
+ Abstract expressionism 
+
+ Art Nouveau 
+
+ Art & Language 
+
+ Conceptual art 
+
+ Constructivism 
+
+ Proto-Cubism 
+
+ Cubism 
+
+ Functionalism 
+ Bauhaus 
+
+ Grosvenor School 
+
+ Devětsil 
+
+ Divisionism 
+
+ Fauvism 
+
+ Impressionism 
+
+ Neo-Impressionism 
+
+ Post-Impressionism 
+
+ Color Field 
+
+ Incoherents 
+
+ Lyrical Abstraction 
+
+ Mail art 
+
+ Minimalism 
+
+ Mir iskusstva 
+
+ Multidimensional art 
+
+ Neoplasticism 
+ De Stijl 
+
+ Neue Slowenische Kunst 
+
+ Nonconformism 
+
+ Nouveau réalisme 
+
+ Orphism 
+
+ Performance art 
+
+ Pop art 
+
+ Process art 
+
+ Purism 
+
+ Rayonism 
+
+ Suprematism 
+
+ Temporary art 
+
+ Vorticism 
+
+ Literature
+and poetry
+
+ Acmeism 
+
+ Angry Penguins 
+
+ Asemic writing 
+
+ Conceptual poetry 
+
+ Cyberpunk 
+
+ Ego-Futurism 
+
+ Experimental literature 
+
+ Flarf poetry 
+
+ Hungry generation 
+
+ Imaginism 
+
+ Imagism 
+
+ Language poets 
+
+ Neoavanguardia 
+
+ Neoteric 
+
+ Nouveau roman 
+
+ Oberiu 
+
+ Oulipo 
+
+ Slam poetry 
+
+ Ultraísmo 
+
+ Visual poetry 
+
+ Young Vienna 
+
+ Zaum 
+
+ Music 
+
+ By style
+
+ Funk 
+
+ Jazz 
+ Free funk 
+
+ Yass 
+
+ Pop 
+
+ Rock 
+ Prog 
+
+ Punk
+
+ Metal 
+
+ Others
+
+ Aleatoric music 
+
+ Ars nova 
+
+ Ars subtilior 
+
+ Atonal music 
+
+ Electroacoustic music 
+
+ Electronic music 
+ Industrial music 
+
+ Experimental pop 
+
+ Free jazz 
+ Free improvisation 
+
+ Futurism 
+
+ Microtonal music 
+
+ Minimal music 
+ Drone music 
+
+ Music theatre 
+
+ Musique concrète 
+
+ New Complexity 
+
+ No wave 
+
+ Noise music 
+
+ Post-rock 
+
+ Rock in Opposition 
+
+ Second Viennese School 
+
+ Serialism 
+
+ Spectral music 
+
+ Stochastic music 
+
+ Textural music 
+
+ Totalism 
+
+ Twelve-tone technique 
+
+ Cinema
+and theatre
+
+ Cinéma pur 
+
+ Dogme 95 
+
+ Drop Art 
+
+ Epic theatre 
+
+ Experimental film 
+
+ Experimental theatre 
+
+ Modernist film 
+
+ Poetic realism 
+
+ Postdramatic theatre 
+
+ Remodernist film 
+
+ Structural film 
+
+ Theatre of the Absurd 
+
+ Theatre of Cruelty 
+
+ General
+
+ Constructivism 
+
+ Dada 
+
+ Expressionism 
+
+ Fluxus 
+
+ Futurism 
+ Russian Futurism 
+ Cubo-Futurism 
+
+ Lettrism 
+
+ Modernism 
+
+ Minimalism 
+
+ Postminimalism 
+
+ Neo-minimalism 
+
+ Neo-Dada 
+
+ Neoism 
+
+ Postmodernism 
+ Postmodernist film 
+
+ Late modernism 
+
+ Primitivism 
+
+ Situationist International 
+
+ Social realism 
+
+ Socialist realism 
+
+ Surrealism 
+
+ Symbolism 
+ Russian symbolism 
+
+ Authority control databases 
+
+ International
+ ISNI 
+ VIAF 
+ GND 
+
+ National
+ Oulipo (Association)</span>"}]]}'> United States 
+ France 
+ BnF data 
+ Oulipo (sdružení)</span>"}]]}'> Czech Republic 
+ Sweden 
+ Israel 
+ Catalonia 
+
+ Academics
+ zbMATH 
+
+ Other
+ IdRef 
+ ELMCIP 
+ Yale LUX 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=Oulipo&oldid=1366322198 "
+
+ Categories : Oulipo 
+ 1960 establishments in France 
+ Writers' organisations based in France 
+ 'Pataphysics 
+ Constrained writing 
+ Electronic literature organizations 
+ French electronic literature writers 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Use dmy dates from July 2023 
+ Pages with French IPA 
+ Articles containing French-language text 
+ Articles with French-language sources (fr) 
+ CS1 French-language sources (fr) 
+
+ This page was last edited on 27 July 2026, at 10:06  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ Oulipo 
+
+ 28 languages 
+
+ Add topic

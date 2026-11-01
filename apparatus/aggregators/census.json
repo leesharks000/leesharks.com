@@ -1,0 +1,3594 @@
+{
+ "name": "Lee Sharks apparatus meta-aggregator census: authorship",
+ "compiled": "2026-11-01",
+ "schema_version": "1.0",
+ "editor": "Lee Sharks",
+ "family": "Meta-Aggregators of the Crimson Hexagon",
+ "schema_note": "The MMRS, provenance, Labor Vector and left-census core (slug, name, aka, url, operator, kind, unit, count, lifecycle, version_and_time, negative_tags, evidence, relations, unchecked, sources) extended for authorship: areas (one or more of five), evidence_kind, record_object (what it records), record (keeps: whose authorship it keeps; name: under what name it holds a work, and whether it keeps a pseudonym, heteronym, collective or absent name as the author gave it, as the resource itself shows, or 'not recorded'; holder: who holds it and on what terms), method, coverage, holdings, stated_limits, answers and does_not_answer, and ls_reading (where it meets the question of #940 and #1722: the archive's reading, kept apart from the resource's own terms). Every quote is verbatim from a saved source.",
+ "organizing_question": "Whose authorship does it keep, under what name, and how does it hold a name the author chose?",
+ "anchor": {
+  "deposits": [
+   {
+    "deposit": 940,
+    "axn": "AXN:03B8",
+    "title": "EA-HETERONYMY-01 v0.2: Heteronymy as Ethical Operation Against Civil-Name Reduction",
+    "url": "https://www.alexanarch.org/s/records/940/"
+   },
+   {
+    "deposit": 1722,
+    "axn": "AXN:0B2A",
+    "title": "AI Calls You Fake: The Existence Tax on Real People and Real Work",
+    "url": "https://www.alexanarch.org/s/records/1722/"
+   }
+  ]
+ },
+ "areas": {
+  "avant-garde-archives": "Avant-garde and experimental archives: the record of experimental writing, sound, visual and procedural work, and of its small presses",
+  "heteronymy": "Heteronymy and pseudonymous authorship: works held under names their authors made",
+  "collective-authorship": "Collective and distributed authorship: works and practices whose authorship is shared, transformative or unnamed",
+  "ai-authorship": "AI and authorship: law, policy, certification and litigation on who or what can be an author",
+  "meta-aggregation": "Meta-aggregation: a resource that itself gathers and reads other resources"
+ },
+ "evidence_kinds": [
+  "primary text",
+  "audio recording",
+  "facsimile",
+  "scholarly edition",
+  "critical commentary",
+  "catalogue",
+  "wiki",
+  "registration guidance",
+  "legal decision",
+  "litigation record",
+  "policy statement",
+  "certification",
+  "consultation record",
+  "census of resources"
+ ],
+ "unread_sources": {
+  "jacket2--about": {
+   "url": "https://jacket2.org/about",
+   "http": "404",
+   "fetched": "2026-11-01T04:07:51Z"
+  },
+  "eclipse--about": {
+   "url": "https://eclipsearchive.org/about.html",
+   "http": "404",
+   "fetched": "2026-11-01T04:07:52Z"
+  },
+  "arquivo-pessoa--wikipedia": {
+   "url": "https://pt.wikipedia.org/wiki/Arquivo_Pessoa",
+   "http": "404",
+   "fetched": "2026-11-01T04:07:54Z"
+  },
+  "pessoa-digital--home": {
+   "url": "https://pessoadigital.pt/",
+   "http": "418",
+   "fetched": "2026-11-01T04:07:56Z"
+  },
+  "pessoa-digital--about": {
+   "url": "https://pessoadigital.pt/en/about",
+   "http": "418",
+   "fetched": "2026-11-01T04:07:57Z"
+  },
+  "fanlore--about": {
+   "url": "https://fanlore.org/wiki/Fanlore:About",
+   "http": "403",
+   "fetched": "2026-11-01T04:07:57Z"
+  },
+  "otw-ao3--otw": {
+   "url": "https://www.transformativeworks.org/about_otw/",
+   "http": "520",
+   "fetched": "2026-11-01T04:07:58Z"
+  },
+  "otw-ao3--ao3": {
+   "url": "https://archiveofourown.org/about",
+   "http": "418",
+   "fetched": "2026-11-01T04:07:58Z"
+  },
+  "cope-ai--home": {
+   "url": "https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools",
+   "http": "403",
+   "fetched": "2026-11-01T04:08:02Z"
+  },
+  "fanlore--home": {
+   "url": "https://fanlore.org/wiki/Main_Page",
+   "http": "403",
+   "fetched": "2026-11-01T04:08:19Z"
+  }
+ },
+ "pending": [],
+ "rows": [
+  {
+   "slug": "ubuweb",
+   "name": "UbuWeb",
+   "aka": [
+    "Ubu",
+    "ubu.com"
+   ],
+   "url": "https://ubu.com/",
+   "operator": "UbuWeb, a completely independent site run on a volunteer basis by editors spread across the United States; created by the poet Kenneth Goldsmith, who is named its editor (Wikipedia, third party)",
+   "kind": "archive: in its own words 'the internet's largest archive of free avant-garde materials' and 'an archive, not a blog'; a distribution center for hard-to-find, out-of-print and obscure materials",
+   "areas": [
+    "avant-garde-archives"
+   ],
+   "evidence_kind": [
+    "primary text",
+    "audio recording",
+    "facsimile",
+    "critical commentary"
+   ],
+   "unit": "not stated as such in the saved sources; the home page divides the archive into sections (Film & Video, Sound, Dance, Papers, Historical, Visual Poetry, Conceptual Comics, Conceptual Writing, Contemporary, Aspen Magazine, Outsiders, /ubu Editions, 365 Days Project, Ethnopoetics, Electronic Music Resources)",
+   "record_object": "avant-garde materials: founded as a repository for visual, concrete and later sound poetry, and since then 'all forms of the avant-garde and beyond'; out-of-print, hard-to-find and obscure works transferred digitally to the web; Wikipedia (third party) adds film, music, early internet and sound art, and the Tellus Audio Cassette Magazine archive",
+   "record": {
+    "keeps": "the work of the artists whose materials it posts, out-of-print or hard-to-procure avant-garde works; it posts some of them without permission and removes a work when its artist asks",
+    "name": "not recorded: the saved sources show no author page and no policy on pseudonyms, heteronyms or collective names",
+    "holder": "UbuWeb holds copies only; 'The copyrights belong to the copyright holders, not us'; nothing is for sale, the site is commercial-free and volunteer-run, hosted on server space and bandwidth given by universities and partners with no input on content; permanently archived by the Library of Congress"
+   },
+   "method": "editorial selection and digital transfer of out-of-print and hard-to-find material (scans, rips, many from fan-made copies on file-sharing sites), posted without permission where the work is out of print or absurdly priced; hand-coded HTML with no database",
+   "coverage": {
+    "geography": "not stated; most pages in English, some in other languages",
+    "period": "historical and contemporary avant-garde; the site since November 1996"
+   },
+   "count": {
+    "value": "not stated in the saved sources",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "the home page's sections, from Film & Video and Sound to Ethnopoetics and Electronic Music Resources",
+    "/ubu Editions, Papers, Outsiders and the 365 Days Project as curated sections (Wikipedia, third party)",
+    "the entire archive of the Tellus Audio Cassette Magazine (Wikipedia, third party)"
+   ],
+   "stated_limits": [
+    "'if it's in print and available to all, we won't touch it'",
+    "'Should something return to print, we will remove it from our site immediately'",
+    "'should an artist find their material posted on UbuWeb without permission and wants it removed, please let us know'",
+    "media is often poor quality by choice: 'an institution or an individual wishing to have the \"real\" thing should purchase it'",
+    "'Due to the volume of email we receive, we unfortunately cannot respond to them all'"
+   ],
+   "answers": [
+    "whether a named avant-garde work is freely available on UbuWeb, and in which section",
+    "on what terms UbuWeb holds what it posts: copies, with copyright left to its holders and removal on an artist's request"
+   ],
+   "does_not_answer": [
+    "who holds the rights to a posted work, or whether its artist gave permission",
+    "the quality or completeness of a posted work against its original",
+    "under what name an artist chose to be credited (no naming policy in the saved sources)"
+   ],
+   "ls_reading": "The archive reads UbuWeb as keeping avant-garde authorship in circulation outside the market that let it go out of print, with the artist's standing kept to one act, the request for removal; how it holds a chosen name is not shown in the saved sources.",
+   "data_access": "free public website; streaming and download; no registration (Wikipedia, third party); a mirror site is linked from Wikipedia",
+   "license": "not stated; the FAQ leaves copyright with the copyright holders",
+   "lifecycle": {
+    "state": "active",
+    "detail": "founded November 1996; Wikipedia (third party) reports that in January 2024 UbuWeb announced it was no longer active, with the archive preserved in its entirety, and that in February 2025 it resumed its activities; the home page read 2026-11-01 states no status"
+   },
+   "founded": "November 1996",
+   "version_and_time": {
+    "founded": "1996-11",
+    "inactive_announced": "2024-01 (Wikipedia, third party)",
+    "resumed": "2025-02 (Wikipedia, third party)",
+    "wikipedia_edited": "2026-09-22",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT affiliated with a university: 'UbuWeb is a completely independent site'",
+    "NOT a rights holder or licensor of what it posts",
+    "NOT a store: 'Nothing is for sale on UbuWeb'",
+    "NOT a blog or a news feed: 'UbuWeb is an archive, not a blog'",
+    "NOT a source of authoritative copies: the media is often poor quality by choice",
+    "NOT a permissions record: it posts some work without permission"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "ubuweb--home",
+     "basis": "operator",
+     "quote": "Founded in 1996, UbuWeb is the internet's largest archive of free avant-garde materials."
+    },
+    "loc": {
+     "src": "ubuweb--home",
+     "basis": "operator",
+     "quote": "The site is permanently archived by the United States Library of Congress."
+    },
+    "sections": {
+     "src": "ubuweb--home",
+     "basis": "operator",
+     "quote": "Film & Video Sound Dance Papers Historical Visual Poetry Conceptual Comics Conceptual Writing Contemporary Aspen Magazine Outsiders /ubu Editions 365 Days Project Ethnopoetics Electronic Music Resources"
+    },
+    "founded": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "UbuWeb was founded in November of 1996, initially as a repository for visual, concrete and, later, sound poetry. Over the years, UbuWeb has embraced all forms of the avant-garde and beyond."
+    },
+    "volunteer": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "UbuWeb has no need for funding. All work is done solely on a volunteer basis. Our only cost is our monthly hosting fee, which amounts to US$50 each month."
+    },
+    "copyright": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "The copyrights belong to the copyright holders, not us. You'll need to seek them out for proper permission."
+    },
+    "not_for_sale": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "Nothing is for sale on UbuWeb. It's all free."
+    },
+    "policy": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "If it's out of print, we feel it's fair game. Or if something is in print, yet absurdly priced or insanely hard to procure, we'll take a chance on it. But if it's in print and available to all, we won't touch it."
+    },
+    "distribution": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "UbuWeb functions as a distribution center for hard-to-find, out-of-print and obscure materials, transferred digitally to the web."
+    },
+    "removal": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "Should something return to print, we will remove it from our site immediately. Also, should an artist find their material posted on UbuWeb without permission and wants it removed, please let us know."
+    },
+    "permission": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "Let's face it, if we had to get permission from everyone on UbuWeb, there would be no UbuWeb."
+    },
+    "quality": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "We like poor quality because we believe that an institution or an individual wishing to have the \"real\" thing should purchase it from those who publish and distribute such materials."
+    },
+    "fan_copies": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "the crappy, say, VHS rips floating around file-sharing site -- where we get much of our material from -- is gorgeously primitive, made by fans."
+    },
+    "independent": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "No. UbuWeb is a completely independent site. However, several universities and partners have generously offered us server space and bandwith, with no restrictions or input regarding our content."
+    },
+    "languages": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "Most of our pages are in English; several of them are not."
+    },
+    "editors": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "Our editors are pretty much spread across the United States: New York City, Utah, California, etc."
+    },
+    "email": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "Due to the volume of email we receive, we unfortunately cannot respond to them all."
+    },
+    "commercial_free": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "UbuWeb is completely commercial-free and it will always stay that way."
+    },
+    "archive_not_blog": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "UbuWeb is an archive, not a blog."
+    },
+    "system": {
+     "src": "ubuweb--faq",
+     "basis": "operator",
+     "quote": "coded by hand in BBEdit, all html 1.0. There's no fancy database or back-end."
+    },
+    "wp_description": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "UbuWeb is a digital library of freely downloadable avant-garde art , film , music as well as visual , concrete and sound poetry ."
+    },
+    "wp_creator": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "The site was created by poet Kenneth Goldsmith in 1996"
+    },
+    "wp_editor": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "Editor Kenneth Goldsmith"
+    },
+    "wp_registration": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "Registration none"
+    },
+    "wp_inactive": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "In January 2024, UbuWeb announced it was no longer active, posting: \"As of 2024, UbuWeb is no longer active. The archive is preserved for perpetuity, in its entirety\"."
+    },
+    "wp_resumed": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "In February 2025 the site resumed its activities, citing the \"political changes in America and elsewhere around the world\" as a reason to be active again."
+    },
+    "wp_tellus": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "It houses and distributes freely the entire archive of the Tellus Audio Cassette Magazine project."
+    },
+    "wp_sections": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "Beyond its repository of works, UbuWeb features curated sections including /ubu Editions book-length editions of contemporary poetry , selected and introduced by the poet Brian Kim Stefans ."
+    },
+    "wp_partners": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "benefiting from bandwidth donations from its partnerships with GreyLodge, WFMU , PennSound , The Electronic Poetry Center , The Center for Literary Computing, and ArtMob."
+    },
+    "wp_edited": {
+     "src": "ubuweb--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 22 September 2026, at 06:39 (UTC) ."
+    }
+   },
+   "relations": [
+    {
+     "rel": "uses",
+     "target": "pennsound",
+     "note": "Wikipedia (third party) names PennSound among the partners whose bandwidth donations UbuWeb benefits from; the FAQ names no partner"
+    },
+    {
+     "rel": "uses",
+     "target": "epc",
+     "note": "Wikipedia (third party) names The Electronic Poetry Center among the bandwidth partners, and cites Goldsmith's open letter 'Ubuweb Wants to be Free' as hosted by the EPC"
+    }
+   ],
+   "unchecked": [
+    "the home page saved text is a menu and two sentences (456 characters); the sections themselves were not read",
+    "the About page, the manifesto, the masthead, the board of directors and the partners page linked from the FAQ",
+    "any author or artist page, so how UbuWeb names a work's maker is not shown",
+    "the January 2024 inactivity notice and the February 2025 return on UbuWeb's own pages (known here only from Wikipedia)"
+   ],
+   "sources": {
+    "ubuweb--home": {
+     "url": "https://ubu.com/",
+     "read": "2026-11-01",
+     "sha256": "1f9ba3a3325f02a0ff4e76f5e281d431f611cccb454fe000989e1af8e66be489",
+     "http": "200"
+    },
+    "ubuweb--faq": {
+     "url": "https://ubu.com/resources/faq.html",
+     "read": "2026-11-01",
+     "sha256": "e9f6bc0f1f987d9f4581721a651a09f00e75bd9310b86e28baa5f1feb4aa3425",
+     "http": "200"
+    },
+    "ubuweb--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/UbuWeb",
+     "read": "2026-11-01",
+     "sha256": "50efb0eb7d707f0901275ac6bb0ed9fd24889633f665b84d12dfd8b10ebe929e",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "pennsound",
+   "name": "PennSound",
+   "aka": [
+    "PennSound Daily",
+    "the 'iTunes for poetry' (Charles Bernstein, as Wikipedia reports)"
+   ],
+   "url": "https://writing.upenn.edu/pennsound/",
+   "operator": "the Center for Programs in Contemporary Writing, University of Pennsylvania; directors Charles Bernstein, Al Filreis and Chris Mustazza, editor Michael S. Hennessey",
+   "kind": "ongoing project committed to producing new audio recordings and preserving existing audio archives; Wikipedia (third party) calls it a poetry website and online archive of recordings of poets reading their own work",
+   "areas": [
+    "avant-garde-archives"
+   ],
+   "evidence_kind": [
+    "audio recording",
+    "catalogue",
+    "critical commentary"
+   ],
+   "unit": "a recording, broken down into singles (one poem) with complete readings also kept, filed on an author page, a series page, an anthology/collection/group page, the singles archive, Cinema, Podcasts or Classics",
+   "record_object": "recordings of poets, historical and contemporary (the home page's selections run from Apollinaire, 1913, to work of 2016), readings and talks at the Kelly Writers House and reading series, radio programming (the Charles Ruas collection, 1970s to 2000s), poetry-and-music albums, video and podcasts",
+   "record": {
+    "keeps": "poets' readings of their own work and of others' work, with the performer named beside the author where they differ (John Clare's 'Vowelless Letter' performed by Charles Bernstein; Hannah Weiner's Clairvoyant Journal performed by Weiner, Sharon Mattlin and Rochelle Kraut); co-composers credited (music by Christopher Reiner, 'included with permission')",
+    "name": "under the poet's name on an author page; Wikipedia (third party) reports the manifesto's rule that sound files be indexed and retrievable 'under the poet's name'; the saved sources state no policy on pseudonyms, heteronyms or collective names; series pages hold work under a series name (Belladonna*, Love Jawns: A Mixtape)",
+    "holder": "the Center for Programs in Contemporary Writing at Penn; recordings provided by the poets themselves, universities and institutions and poets' estates (Wikipedia, third party); free to download, for non-commercial use (Wikipedia, third party); the rights terms of individual recordings are not stated in the saved sources"
+   },
+   "method": "producing new recordings (Kelly Writers House events, Close Listening and other series) and preserving existing audio archives given by poets, institutions, estates and collectors; segmenting readings into singles; adding bibliographic documentation over time, with users invited to supplement it",
+   "coverage": {
+    "geography": "not stated; recordings from the United States and elsewhere (Apollinaire, Khlebnikov, Schwitters, Bennett among the home page's selections)",
+    "period": "recordings from the 1910s onward; the project since 2005 (Wikipedia, third party)"
+   },
+   "count": {
+    "value": "not stated on PennSound's own saved pages; Wikipedia (third party) gives over 1500 full-length and single-poem recordings and, in another sentence, well over 50,000 sound files",
+    "as_of": "Wikipedia page edited 2026-09-22"
+   },
+   "holdings": [
+    "author pages, series pages, anthologies/collections/groups, singles, Cinema, Classics, podcasts (PennSound Podcasts, PoemTalk, PennSound Rewind)",
+    "the Charles Ruas collection of radio programming, launched 2026-03-27 with hundreds of recordings",
+    "the Eric Mottram Centennial Collection",
+    "per Wikipedia (third party), over 1500 full-length and single-poem recordings and well over 50,000 sound files"
+   ],
+   "stated_limits": [
+    "'We intend to provide as much documentation about individual recordings as possible; new bibliographic information will be added over time'",
+    "the Charles Ruas collection 'is still under construction and over time will see more additions and improvements'"
+   ],
+   "answers": [
+    "whether a recording of a named poet is held, on that poet's author page or a series page",
+    "who performs a given recording where the performer differs from the author",
+    "which reading series and events PennSound has recorded or archived"
+   ],
+   "does_not_answer": [
+    "who holds the rights to a recording (not stated in the saved sources)",
+    "complete bibliographic data for every recording (documentation is added over time)",
+    "how an author who writes under several names is filed (no naming policy in the saved sources)"
+   ],
+   "ls_reading": "The archive reads the author page as the place where PennSound keeps authorship in the poet's own voice, filed under the poet's name, and keeps performance apart from authorship in its credits; whether a chosen name is kept as given is not shown beyond the names it files under.",
+   "data_access": "free streaming and MP3 download; a search box; author, series, singles and anthology indexes",
+   "license": "not stated on PennSound's saved pages; Wikipedia (third party) states the files are intended for non-commercial use",
+   "lifecycle": {
+    "state": "active",
+    "detail": "launched 2005 (Wikipedia, third party); PennSound Daily posts dated 11/12/2025 to 3/27/2026; the New at PennSound list includes a reading dated July 14, 2026"
+   },
+   "founded": "2005 (Wikipedia, third party)",
+   "version_and_time": {
+    "latest_daily_post": "2026-03-27",
+    "latest_listed_recording": "2026-07-14",
+    "wikipedia_edited": "2026-09-22",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a commercial service: free download (Wikipedia, third party: commercial 'No')",
+    "NOT a complete bibliography of the recordings: documentation is added over time",
+    "NOT a rights clearance record: the saved sources state no rights terms per recording",
+    "NOT limited to the poet's own voice: some recordings are performances of one author's work by another"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "PennSound is an ongoing project, committed to producing new audio recordings and preserving existing audio archives."
+    },
+    "operator": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "PennSound is a project of the Center for Programs in Contemporary Writing."
+    },
+    "directors": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "Charles Bernstein , Al Filreis , and Chris Mustazza , Directors"
+    },
+    "editor": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "Michael S. Hennessey , Editor"
+    },
+    "senior_editors": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "Danny Snelson and Kenneth Goldsmith , Senior Editors"
+    },
+    "documentation": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "We intend to provide as much documentation about individual recordings as possible; new bibliographic information will be added over time. Please contact us if you can supplement the information already provided."
+    },
+    "thanks": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "to UbuWeb and the Electronic Poetry Center."
+    },
+    "donors": {
+     "src": "pennsound--about",
+     "basis": "operator",
+     "quote": "We are grateful to Tom and Lindy Gallagher, Paul Williams, David Roberts and an anonymous donor for their generous support of PennSound."
+    },
+    "historical_earliest": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Guillaume Apollinaire, \"Le Pont Mirabeau\" (1913) (1:14):"
+    },
+    "performer_clare": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "John Clare, \"Vowelless Letter\" (1849) performed by Charles Bernstein (2:54):"
+    },
+    "performer_weiner": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Hannah Weiner, from Clairvoyant Journal , performed by Weiner, Sharon Mattlin & Rochelle Kraut (2001) (6:12):"
+    },
+    "contemporary_latest": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Julie Patton, \"Scribbling thru the Times\" (2016) (5:12):"
+    },
+    "ruas": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Today we're happy to announce a new home for Charles Ruas's radio programming from the 70s, 80s, and 00s."
+    },
+    "ruas_date": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Posted 3/27/2026"
+    },
+    "ruas_hundreds": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "this collection at launch features hundreds of recordings with more to come soon"
+    },
+    "ruas_limit": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "The collection is still under construction and over time will see more additions and improvements"
+    },
+    "nielsen_permission": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "with the exception of \"Self-Organizing Networks,\" where the music and performance is by Christopher Reiner (and included with permission)."
+    },
+    "nielsen_free": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "now, thanks to Nielsen, marks the first time they're freely available to the public"
+    },
+    "earliest_daily": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Posted 11/12/2025"
+    },
+    "latest_listed": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "George Quasha reading genius foci , Barrytown, NY, July 14, 2026"
+    },
+    "belladonna": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Three new Belladonna* readings from fall 2025 and spring 2026"
+    },
+    "mottram": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "Eric Mottram Centennial Collection"
+    },
+    "rewind": {
+     "src": "pennsound--home",
+     "basis": "operator",
+     "quote": "at our new PennSound Rewind page and at Jacket2.org ."
+    },
+    "wp_description": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "PennSound is a poetry website and online archive that hosts free and downloadable recordings of poets reading their own work."
+    },
+    "wp_count": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "The website offers over 1500 full-length and single-poem recordings, the largest collection of poetry sound-files on the internet, all of which are available free for download."
+    },
+    "wp_count_files": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "Well over 50,000 sound files [ 4 ] are available for streaming and downloading"
+    },
+    "wp_hd": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "including historic recordings by poets such as Ezra Pound , Wallace Stevens , Guillaume Apollinaire , William Carlos Williams and H.D. ,"
+    },
+    "wp_noncommercial": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "The files are intended to be used non-commercially by anyone interested in listening to them, and are furthermore available for use by teachers and libraries."
+    },
+    "wp_manifesto_name": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "Sound files must be indexed and retrievable from a library catalog under the poet’s name and from search engines on the web."
+    },
+    "wp_manifesto_files": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "All files must be named."
+    },
+    "wp_providers": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "generously provided to PennSound from the poets themselves, universities and institutions such as Harvard University's Woodberry Poetry Room , and from poets' estates."
+    },
+    "wp_launched": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "Launched 2005"
+    },
+    "wp_commercial": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "Commercial No"
+    },
+    "wp_collaboration": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "PennSound works closely in collaboration with the Kelly Writers House , UbuWeb , The Electronic Poetry Center , Jacket2 magazine,"
+    },
+    "wp_edited": {
+     "src": "pennsound--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 22 September 2026, at 03:16 (UTC) ."
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "ubuweb",
+     "note": "the About page thanks UbuWeb; Kenneth Goldsmith, UbuWeb's creator, is a PennSound senior editor; Wikipedia (third party) names UbuWeb among PennSound's collaborators"
+    },
+    {
+     "rel": "neighbour",
+     "target": "epc",
+     "note": "the About page thanks the Electronic Poetry Center; both are served under writing.upenn.edu; Wikipedia (third party) names the EPC among collaborators"
+    },
+    {
+     "rel": "neighbour",
+     "target": "jacket2",
+     "note": "PennSound Rewind is published at PennSound and at Jacket2.org (the home page); Wikipedia (third party) names Jacket2 among collaborators"
+    }
+   ],
+   "unchecked": [
+    "the author pages, series pages and singles archive themselves",
+    "the PennSound Manifesto and the launch press release (linked from the About page; the manifesto is known here only from Wikipedia)",
+    "any rights or permissions statement for the recordings",
+    "the About page's commented-out staff list, which the saved text carries alongside the live one"
+   ],
+   "sources": {
+    "pennsound--about": {
+     "url": "https://writing.upenn.edu/pennsound/about.php",
+     "read": "2026-11-01",
+     "sha256": "9164d92b56f8e207ce9a33bdfcb4a2e710b2623bb60f5446401506c2169c98b0",
+     "http": "200"
+    },
+    "pennsound--home": {
+     "url": "https://writing.upenn.edu/pennsound/",
+     "read": "2026-11-01",
+     "sha256": "2ddc53a3b55b38b5cfbdf85fa933d7c7271ad32e08fcfdf94c0b13e26565e057",
+     "http": "200"
+    },
+    "pennsound--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/PennSound",
+     "read": "2026-11-01",
+     "sha256": "62bae6f428eacdddb2c237178394809c0d83f40edf19387872733c3e6316f5a5",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "epc",
+   "name": "Electronic Poetry Center",
+   "aka": [
+    "EPC",
+    "epc.buffalo.edu (its former address)"
+   ],
+   "url": "https://writing.upenn.edu/epc/",
+   "operator": "Loss Pequeño Glazier (Director and Founder) and Charles Bernstein (Editor, Co-founder), with Al Filreis as publisher for the Center for Programs in Contemporary Writing (CPCW), University of Pennsylvania; affiliated with Poetics and Media Study at SUNY-Buffalo",
+   "kind": "internet archive and resource site for poetry and poetics: in its own words 'the first comprehensive Internet archive of its kind for poetry and poetics', with a Digital Library, E-Poetry and Author libraries",
+   "areas": [
+    "avant-garde-archives"
+   ],
+   "evidence_kind": [
+    "primary text",
+    "facsimile",
+    "critical commentary"
+   ],
+   "unit": "an author page or a Digital Library item (PDFs of books and full journal runs, digital editions, mirrors of authors' sites, bibliographies)",
+   "record_object": "resources centered on digital and contemporary formally innovative poetries, new media writing and literary programming; the archives of the Buffalo Poetics Program (1991 to 2003) and of the Poetics List (1993 to 2014)",
+   "record": {
+    "keeps": "the work of poets with EPC author pages (Mina Loy, Bill Keith, Larry Eigner, Jerome Rothenberg, Lyn Hejinian, Marjorie Perloff among those the home page names), digitized books and journal runs, and the record of the Buffalo Poetics Program and the Poetics List",
+    "name": "not recorded: the saved sources show author pages under poets' names and state no policy on pseudonyms, heteronyms or collective names",
+    "holder": "the EPC, in collaboration with CPCW at Penn since 2003 and affiliated with Poetics and Media Study at Buffalo; the rights terms of the PDFs and pages are not stated (the About page carries '©2011')"
+   },
+   "method": "curated digital library and author pages assembled by its editors; digitization of books and journal runs; mirroring of authors' sites; housing of program and listserv archives",
+   "coverage": {
+    "geography": "not stated",
+    "period": "the site since 1995 (its own About page) or July 10, 1994 (Wikipedia, third party); holdings of 20th- and 21st-century poetry and poetics, including a 1945 text in translation"
+   },
+   "count": {
+    "value": "not stated in the saved sources; Wikipedia (third party) cites a 2000 estimate of 10 million visits a year",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "the Digital Library, E-Poetry and Author libraries",
+    "the archives of the Buffalo Poetics Program (1991 to 2003) and the Poetics List (1993 to 2014)",
+    "Sulfur, ed. Clayton Eshleman, full run",
+    "Ron Silliman's complete blog history (topic headings for entries 2000 to 2020)",
+    "an EPC digital edition of Artifice of Absorption"
+   ],
+   "stated_limits": [
+    "broken links: 'If you have a broken link to an EPC resources, use the top tabs ... or, for a known URL, substitute \"writing.upenn.edu/epc/\" for \"epc.buffalo.edu/\"'"
+   ],
+   "answers": [
+    "whether the EPC holds an author page or a digitized text for a named poet or journal",
+    "what the Buffalo Poetics Program and the Poetics List produced, in their archives"
+   ],
+   "does_not_answer": [
+    "the rights status of a digitized text (not stated)",
+    "how a poet writing under several names is filed (no naming policy in the saved sources)",
+    "a stable address for older resources (links from epc.buffalo.edu may break)"
+   ],
+   "ls_reading": "The archive reads the EPC as an author-page archive for formally innovative poetry that keeps a field's own discussion record (the Poetics List) beside its works; how it holds a chosen name is not shown in the saved sources.",
+   "data_access": "free public website; PDFs; author pages; a custom search bar",
+   "license": "not stated; the About page carries '©2011'",
+   "lifecycle": {
+    "state": "active",
+    "detail": "founded at SUNY-Buffalo's Poetics Program in 1995 (its About page) or on July 10, 1994 (Wikipedia, third party); collaboration with CPCW at Penn from 2003; moved from epc.buffalo.edu to writing.upenn.edu/epc/; the home page lists an item dated 2026 (Brian Kim Stefans, Versuche) and memorial entries for poets who died in 2024 and 2025"
+   },
+   "founded": "1995 (its About page); July 10, 1994 (Wikipedia, third party)",
+   "version_and_time": {
+    "about_copyright": "2011",
+    "latest_home_item": "2026 (Versuche, PDF)",
+    "wikipedia_edited": "2024-03-02",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a recordings archive: its sister site PennSound holds the audio",
+    "NOT a rights holder by any statement in the saved sources",
+    "NOT limited to digital poetry: it also holds contemporary formally innovative print poetries and poetics",
+    "NOT one founding date: its About page gives 1995, Wikipedia gives July 10, 1994"
+   ],
+   "evidence": {
+    "operator_glazier": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "Loss Pequeño Glazier , Director & Founder"
+    },
+    "operator_bernstein": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "Charles Bernstein , Editor, Co-founder"
+    },
+    "publisher": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "Al Filreis , Publisher"
+    },
+    "founded": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "EPC was founed by Loss Peqeño Glazier, with Charles Bernstein, at the Poetics Program of SUNY-Buffalo in 1995."
+    },
+    "goal": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "Our goal was to make available a wide range of resources centered on digital and contemporary formally innovative poetries, new media writing, and literary programming."
+    },
+    "self_description": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "The site was the first comprehensive Internet archive of its kind for poetry and poetics."
+    },
+    "libraries": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "EPC makes extensive resources available through its Digital Library, E-Poetry and Author libraries."
+    },
+    "archives": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "We also house the archives of the Buffalo Poetics Program from its fouding in 1991 to 2003 and of the Poetics List (1993-2014), the first poetry listserv discussion group."
+    },
+    "cpcw": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "In 2003, EPC began its active collaboration with the Center for Programs in Contemporary Writing (CPCW) at the University of Pennsylvania, including its sister site, PennSound."
+    },
+    "affiliation": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "We continue our affilation with Poetics and Media Studies at Buffalo and with CPCW at Penn."
+    },
+    "copyright": {
+     "src": "epc--about",
+     "basis": "operator",
+     "quote": "©2011"
+    },
+    "sulfur": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "Sulfur , ed. Clayton Eshleman"
+    },
+    "silliman": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "Ron SIlliman: Complete Blog History"
+    },
+    "author_pages": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "Author Pages : Mina Loy and Bill Keith"
+    },
+    "artifice": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "EPC Digital Edition of Artifice of Absorption"
+    },
+    "latest_item": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "- Versuche [early work] (2026):PDF"
+    },
+    "katzenelson": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "Yitzhak Katzenelson, Dos Lid Funem Oysgehargen Yidishn Folk / The Song of the Massacred Jewish People. tr. Jack Hirschman (1945/2012): pdf"
+    },
+    "broken_links": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "If you have a broken link to an EPC resources, use the top tabs (e.g. author pages & digital library , etc.), fill in the custom search bar at the foot of this page or, for a known URL, substitute \"writing.upenn.edu/epc/\" for \"epc.buffalo.edu/\" in the address bar above."
+    },
+    "pierre_joris": {
+     "src": "epc--home",
+     "basis": "operator",
+     "quote": "Pierre Joris (1946-2025)"
+    },
+    "wp_description": {
+     "src": "epc--wikipedia",
+     "basis": "third_party",
+     "quote": "The Electronic Poetry Center ( EPC ), is an online resource for digital poetry ."
+    },
+    "wp_founded": {
+     "src": "epc--wikipedia",
+     "basis": "third_party",
+     "quote": "It was founded on July 10, 1994 by Loss Pequeño Glazier and Charles Bernstein , of the Poetics Program at The State University of New York at Buffalo"
+    },
+    "wp_visits": {
+     "src": "epc--wikipedia",
+     "basis": "third_party",
+     "quote": "a 2000 estimate has the site receiving 10 million visits a year."
+    },
+    "wp_partners": {
+     "src": "epc--wikipedia",
+     "basis": "third_party",
+     "quote": "It is partnered with similar organizations, including UbuWeb and the University of Pennsylvania 's PennSound project."
+    },
+    "wp_edited": {
+     "src": "epc--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 2 March 2024, at 09:38 (UTC) ."
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "pennsound",
+     "note": "the About page calls PennSound its sister site at CPCW, Penn; home-page memorial entries link to PennSound pages"
+    },
+    {
+     "rel": "neighbour",
+     "target": "ubuweb",
+     "note": "Wikipedia (third party) states the EPC is partnered with UbuWeb"
+    },
+    {
+     "rel": "neighbour",
+     "target": "jacket2",
+     "note": "the home page's memorial entries link obituaries and tributes at Jacket2"
+    }
+   ],
+   "unchecked": [
+    "the author pages and Digital Library items themselves (the home page is a list of links)",
+    "the E-Poetry library",
+    "the Buffalo Poetics Program and Poetics List archives",
+    "any rights statement for the PDFs"
+   ],
+   "sources": {
+    "epc--about": {
+     "url": "https://writing.upenn.edu/epc/about/",
+     "read": "2026-11-01",
+     "sha256": "8d9fb23b683fa83a6ffc32e08bad29878384c0e38fb91c994ac2fcb63054e4eb",
+     "http": "200"
+    },
+    "epc--home": {
+     "url": "https://writing.upenn.edu/epc/",
+     "read": "2026-11-01",
+     "sha256": "443499b7dcc7846f0144a3ecbd5937abb961f7238ba032001a50c3220f165db5",
+     "http": "200"
+    },
+    "epc--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Electronic_Poetry_Center",
+     "read": "2026-11-01",
+     "sha256": "6f4f0878a826b5729a5411a7b58daace5c437024a9bfcf82f5eb8c5b8c28e8dc",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "jacket2",
+   "name": "Jacket2",
+   "aka": [
+    "J2",
+    "Jacket magazine (1997 to 2010, its archived predecessor)"
+   ],
+   "url": "https://jacket2.org/",
+   "operator": "Jacket2, at the Kelly Writers House, 3805 Locust Walk, Philadelphia (the site footer); the saved sources name no editorial board or institution beyond that address and 'Jacket2 Editors'",
+   "kind": "publication: in its own words it 'offers commentary on modern and contemporary poetry and poetics', publishing content 'as it is ready'; it also maintains the complete archive of Jacket magazine",
+   "areas": [
+    "avant-garde-archives"
+   ],
+   "evidence_kind": [
+    "critical commentary",
+    "audio recording",
+    "primary text",
+    "facsimile"
+   ],
+   "unit": "a piece: an article, feature, review, interview, commentary, reissue, podcast episode (PoemTalk, PennSound podcasts, PennSound Rewind, Sounding Translation), poem or gallery, each under its author's or authors' names",
+   "record_object": "commentary on modern and contemporary poetry and poetics; archival documents; reissues of small-press magazines and presses (Roof 1976 to 79, New Wilderness Letter 1977 to 84, Infolio 1986 to 91, M/E/A/N/I/N/G 1986 to 1996, XCP 1997 to 2010, O Books 1988 to 2009, Aufgabe 2001 to 2014); the complete archive of Jacket magazine (1997 to 2010, 40 issues)",
+   "record": {
+    "keeps": "the authorship of its contributors on each piece, with co-authors, interviewers and translators named in the byline ('Uldis Bērziņš, translated by Kevin M. F. Platt and Sintija Ozoliņa'); some pieces are signed collectively ('Jacket2 Editors'); its media highlight credits the sculpture 'God' as made collaboratively by Morton Schamberg and Elsa von Freytag-Loringhoven",
+    "name": "under the byline as published; the saved sources state no policy on pseudonyms, heteronyms or collective names; one piece is signed 'Jacket2 Editors'",
+    "holder": "Jacket2 (© 2026 Jacket2) at the Kelly Writers House; it maintains the complete archive of Jacket magazine, founded and edited by John Tranter; the Terms of Use were not read"
+   },
+   "method": "editorial publication of commissioned and submitted commentary, reviews, interviews and features as they are ready; reissue of small-press magazines; podcast production with PennSound",
+   "coverage": {
+    "geography": "not stated; pieces on poetry from the United States, Latvia, Russia, Côte d'Ivoire, Indonesia, Poland and elsewhere on the home page",
+    "period": "modern and contemporary poetry; reissued magazines from 1976; Jacket 1997 to 2010; Jacket2 for fifteen years by its own anniversary notice (the year of the notice is not given in the saved text)"
+   },
+   "count": {
+    "value": "Jacket magazine: 40 issues, 1997 to 2010 (the home page's issue list); Jacket2's own count of pieces is not stated",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "sections for Articles, Features, Reviews, Interviews, Commentaries, Reissues, Podcasts, Poems and Galleries",
+    "seven reissued magazines and presses, from Roof (1976 to 79) to Aufgabe (2001 to 2014)",
+    "the complete archive of Jacket magazine, 1997 to 2010",
+    "PoemTalk episodes, numbered to #222 on the home page"
+   ],
+   "stated_limits": [
+    "'Not unlike a daily news forum, we will publish content as it is ready'"
+   ],
+   "answers": [
+    "what Jacket2 has published on a named poet, book or small press, and under whose byline",
+    "whether a small-press magazine it reissues, or an issue of Jacket, is available in its archive"
+   ],
+   "does_not_answer": [
+    "Jacket2's editorial policy and editors (the About page returned 404 when saved)",
+    "how it handles a contributor writing under a pseudonym or heteronym (not stated)",
+    "the rights terms of the reissues and the Jacket archive (the Terms of Use were not read)"
+   ],
+   "ls_reading": "The archive reads Jacket2 as keeping authorship at the byline, including collective signatures and named translators, and notes that its own media highlight holds 'God' as a collaborative work of Schamberg and von Freytag-Loringhoven, a case where the record keeps a shared authorship that a single attribution would reduce.",
+   "data_access": "free public website; a J2 index of all content; RSS feed",
+   "license": "not stated in the saved sources (© 2026 Jacket2; Terms of Use linked, unread)",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the home page carries reviews, podcasts and a commentary excerpt presented on April 7, 2026, and the footer © 2026; an anniversary commentary celebrates fifteen years on April 5th (year not given in the saved text); Jacket magazine (1997 to 2010) is kept as its complete archive"
+   },
+   "founded": "not stated in the saved sources (a fifteenth-birthday notice, April 5th, year not given)",
+   "version_and_time": {
+    "copyright": "2026",
+    "latest_dated_item": "2026-04-07 (the presentation date of an excerpt)",
+    "jacket_archive": "1997-2010",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT Jacket magazine (1997 to 2010), which it keeps as an archive",
+    "NOT a recordings archive: its podcasts come with PennSound, which holds the recordings",
+    "NOT a peer-reviewed journal by any statement in the saved sources: it publishes 'as it is ready', like a daily news forum",
+    "NOT an author-page archive: its unit is the published piece"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Jacket2 offers commentary on modern and contemporary poetry and poetics . We publish articles, reviews, interviews, discussions and collaborative responses, archival documents, podcasts, and descriptions of poetry symposia and projects."
+    },
+    "as_ready": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Not unlike a daily news forum, we will publish content as it is ready."
+    },
+    "index": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Visit our index for an ongoing and comprehensive list of all J2 content."
+    },
+    "jacket_archive": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "We maintain the complete archive of Jacket magazine, founded and edited by John Tranter."
+    },
+    "jacket_years": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Jacket 1997–2010"
+    },
+    "jacket_issues": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "36 37 38 39 40 © 2026 Jacket2"
+    },
+    "address": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Kelly Writers House 3805 Locust Walk Philadelphia, PA 19104-6150"
+    },
+    "translators": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Uldis Bērziņš, translated by Kevin M. F. Platt and Sintija Ozoliņa"
+    },
+    "editors_signed": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "In Memoriam: Alice Notley (1945–2025) Jacket2 Editors"
+    },
+    "reissue_roof": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Roof, 1976–79 (ed. James Sherry)"
+    },
+    "reissue_aufgabe": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Aufgabe, 2001–2014 (ed. E. Tracy Grinnell et al.)"
+    },
+    "reissue_xcp": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "XCP: Cross Cultural Poetics, 1997–2010 (ed. Mark Nowak)"
+    },
+    "god_collaborative": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Made collaboratively from Philadephia-born artist Morton Schamberg and German baroness Elsa von Freytag-Loringhoven, this construction of common, incongruous objects exemplifies the Dadaists' interest in machine imagery"
+    },
+    "fifteen": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "On April 5th, we celebrated Jacket2 ’s fifteenth birthday!"
+    },
+    "poemtalk_222": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Less conversational (PoemTalk #222)"
+    },
+    "ai_event": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "A short excerpt was presented at “Poets Confront AI and Surveillance Capitalism,” curated by William Lessard, at Poets House, New York, on April 7, 2026"
+    },
+    "rewind": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Ashbery week, 2007 (PennSound Rewind #1)"
+    },
+    "pennsound_additions": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "The editors and curators at PennSound are more or less constantly adding new materials to the archive."
+    },
+    "sections": {
+     "src": "jacket2--home",
+     "basis": "operator",
+     "quote": "Articles Features Reviews Interviews Commentaries Reissues Podcasts Poems Galleries"
+    },
+    "about_404": {
+     "src": "jacket2--about",
+     "basis": "operator",
+     "quote": "The requested page could not be found."
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "pennsound",
+     "note": "the home page carries PennSound podcasts and PennSound Rewind and a list of PennSound's newest additions; PennSound's home page states Rewind is published at Jacket2.org"
+    },
+    {
+     "rel": "neighbour",
+     "target": "epc",
+     "note": "the EPC home page links obituaries and tributes at Jacket2"
+    }
+   ],
+   "unchecked": [
+    "the About page (jacket2--about): HTTP 404, 'Page not found'; quoted only for that status",
+    "the Terms of Use",
+    "the J2 index and the Jacket magazine archive themselves",
+    "the editorial masthead and the year Jacket2 began (not in the saved home page)"
+   ],
+   "sources": {
+    "jacket2--home": {
+     "url": "https://jacket2.org/",
+     "read": "2026-11-01",
+     "sha256": "f14fba2f4746f0c1560820acb07d00adf9beee1824a121525839748d0d4c461f",
+     "http": "200"
+    },
+    "jacket2--about": {
+     "url": "https://jacket2.org/about",
+     "read": "2026-11-01",
+     "sha256": "b4126684ddb41f2e898e1f9410408f9de0cbb35ffa642b3ff2f624dc2d3d80bd",
+     "http": "404"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "eclipse",
+   "name": "Eclipse",
+   "aka": [
+    "ECLIPSE",
+    "Eclipse Archive",
+    "eclipsearchive.org"
+   ],
+   "url": "https://eclipsearchive.org/",
+   "operator": "Eclipse: Founding Editor Craig Dworkin, Editor Danny Snelson (the home page); Wikipedia (third party) places Dworkin at the University of Utah and Snelson at UCLA",
+   "kind": "archive: Wikipedia (third party) calls it an online archive of digital facsimiles of radical small-press writing from the last quarter of the 20th century, later also publishing selected new and born-digital works; the saved pages of Eclipse itself carry an author index, a title index and a new-to-the-archive notice",
+   "areas": [
+    "avant-garde-archives",
+    "collective-authorship"
+   ],
+   "evidence_kind": [
+    "facsimile",
+    "catalogue",
+    "primary text"
+   ],
+   "unit": "a title (a book, pamphlet, magazine issue or periodical run) listed under its author or authors in the author index, with co-authors, editors and translators marked in brackets",
+   "record_object": "small-press avant-garde writing, books and magazines (L=A=N=G=U=A=G=E, Roof, This, Hills, Tottel's, Joglars, Big Allis among the editor-credited titles), mostly from the last quarter of the 20th century per Wikipedia (third party), with 21st-century born-digital publications; the newest item is the first issue of Gnome Baker magazine (October 1976)",
+   "record": {
+    "keeps": "the authors of each title in the author index, with collaborations listed under every collaborator ('LEGEND [with Charles Bernstein, Ray DiPalma, Steve McCaffery, and Ron Silliman]' under Bruce Andrews and under each co-author), editors marked '[Editor]', and translators marked '(trans.)' with the author's works listed under the translator as well (Rosmarie Waldrop, for Helmut Heißenbüttel)",
+    "name": "under the author name in the index as printed (entries include 'P. Inman', 'Sandra and Ben Doller', 'T. R. Uthco'); the saved sources state no policy on pseudonyms, heteronyms or collective names",
+    "holder": "Eclipse and its editors; per Wikipedia (third party), most scans come from Dworkin's personal collection; the rights terms are not stated in the saved sources"
+   },
+   "method": "high-resolution scans of every page of each included text, most from the founding editor's personal collection (Wikipedia, third party); indexing by author and by title",
+   "coverage": {
+    "geography": "not stated; predominantly North American small presses in the index, with translations (Heißenbüttel, Pasos)",
+    "period": "20th-century small-press writing (the newest notice is a 1976 magazine issue) and 21st-century born-digital publications; the archive since 2002 (Wikipedia, third party)"
+   },
+   "count": {
+    "value": "not stated in the saved sources",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "an author index, from Emily Abendroth to Suzanne Zavrian",
+    "a title index (unread)",
+    "the first issue of Gnome Baker magazine, October 1976, new to the archive",
+    "per Wikipedia (third party), high-resolution scans of every page of its included texts"
+   ],
+   "stated_limits": [
+    "none stated in the saved sources (the About page returned 404)"
+   ],
+   "answers": [
+    "whether Eclipse holds a facsimile of a named small-press title, and under which authors, editors and translators it lists it",
+    "which titles a named author co-wrote or edited, as the author index brackets them"
+   ],
+   "does_not_answer": [
+    "Eclipse's own statement of purpose, selection or rights (the About page returned 404)",
+    "whether an index name is a pen name or a group (no naming note in the saved sources)",
+    "how many titles it holds"
+   ],
+   "ls_reading": "The archive reads the author index as holding shared authorship without reducing it: a co-written title appears under every collaborator, editors and translators are kept as their own credit, and names stand as printed; whether any of them is a chosen name is not shown.",
+   "data_access": "free public website; author and title indexes",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "started in 2002 by Craig Dworkin (Wikipedia, third party); the home page announces a new item (Gnome Baker no. 1, 1976) undated; the Editor page and Wikipedia name Dworkin as founding senior editor; the About page returned 404 when saved"
+   },
+   "founded": "2002 (Wikipedia, third party)",
+   "version_and_time": {
+    "wikipedia_edited": "2026-11-01",
+    "about_page": "404 at fetch",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a publisher of record for the original presses: it holds facsimiles of their publications",
+    "NOT a rights holder by any statement in the saved sources",
+    "NOT a reading-copy edition: per Wikipedia (third party) it scans every page to conserve the printed object",
+    "NOT the Eclipse of other uses: its name is an homage to Douglas Messerli's Sun & Moon press (Wikipedia, third party)"
+   ],
+   "evidence": {
+    "new_item": {
+     "src": "eclipse--home",
+     "basis": "operator",
+     "quote": "NEW TO THE ARCHIVE: The first issue of the fugitive Gnome Baker magazine, from October, 1976. Edited by Madeleine Burnside and Andrew W. Kelly, the inaugural number featured work by Michael Davidson, Rita Myers, and Michael Palmer."
+    },
+    "editors": {
+     "src": "eclipse--home",
+     "basis": "operator",
+     "quote": "Founding Editor: Craig Dworkin Editor: Danny Snelson"
+    },
+    "editor_page": {
+     "src": "eclipse--editor",
+     "basis": "operator",
+     "quote": "Founding Senior Editor: Eclipse"
+    },
+    "index": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Eclipse: Author Index"
+    },
+    "index_first": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Emily Abendroth Exclosures 1 - 8"
+    },
+    "collab_legend": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "LEGEND [with Charles Bernstein, Ray DiPalma, Steve McCaffery, and Ron Silliman]"
+    },
+    "collab_legend_dipalma": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Ray DiPalma LEGEND [with Bruce Andrews, Charles Bernstein, Steve McCaffery, and Ron Silliman]"
+    },
+    "collab_exla": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "eXcLa [with Maggie O'Sullivan]"
+    },
+    "editor_language": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "L=A=N=G=U=A=G=E [Editor, with Charles Bernstein]"
+    },
+    "translator": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Rosmarie Waldrop (trans.) The Dilemma of Being High and Dry"
+    },
+    "heissenbuttel": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Helmut Heißenbüttel The Dilemma of Being High and Dry"
+    },
+    "name_inman": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "P. Inman Ocker"
+    },
+    "name_doller": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Sandra and Ben Doller Sonneteers"
+    },
+    "name_uthco": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "T. R. Uthco Beyond the Edge"
+    },
+    "index_last": {
+     "src": "eclipse--authors",
+     "basis": "operator",
+     "quote": "Suzanne Zavrian EXTENSIONS [Editor]"
+    },
+    "about_404": {
+     "src": "eclipse--about",
+     "basis": "operator",
+     "quote": "The requested URL was not found on this server."
+    },
+    "wp_description": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "He is the founding senior editor of Eclipse, an online archive of 20th-century small-press writing and 21st-century born-digital publications."
+    },
+    "wp_facsimiles": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "Dworkin is the founding senior editor of Eclipse, an online archive focusing on digital facsimiles of radical small-press writing from the last quarter of the 20th century."
+    },
+    "wp_founded": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "Dworkin started the archive in 2002 to provide readers and scholars with access to avant-garde works that were no longer available in print from their original publishers; Eclipse later expanded to publish selected new works and born-digital publications in the spirit of those earlier presses."
+    },
+    "wp_name": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "The archive's name is an homage to Douglas Messerli ’s Sun & Moon press."
+    },
+    "wp_scans": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "Eclipse includes high-resolution scans of every page of its included texts, most from Dworkin's personal collection,"
+    },
+    "wp_facture": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "in an attempt to \"conserve ... the facture and material specificity of the book or printed document as an object.\""
+    },
+    "wp_snelson": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "Dworkin co-manages the archive with Danny Snelson, assistant professor of English at UCLA ."
+    },
+    "wp_utah": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "Craig Dworkin is an American poet, critic, editor, and Professor of English at the University of Utah ."
+    },
+    "wp_edited": {
+     "src": "eclipse--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 1 November 2026, at 00:58 (UTC) ."
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "ubuweb",
+     "note": "the Editor page lists Dworkin as curator of The UbuWeb Anthology of Conceptual Writing"
+    },
+    {
+     "rel": "neighbour",
+     "target": "pennsound",
+     "note": "Danny Snelson, Eclipse's editor, is a PennSound senior editor (PennSound's About page)"
+    },
+    {
+     "rel": "neighbour",
+     "target": "jacket2",
+     "note": "Wikipedia (third party) cites a Jacket2 interview with Dworkin as a source on Eclipse; Jacket2 reissues Roof, which Eclipse also lists under James Sherry"
+    }
+   ],
+   "unchecked": [
+    "the About page (eclipse--about): HTTP 404, 190 characters; quoted only for that status",
+    "the title index and the facsimiles themselves",
+    "any statement of selection, permissions or rights on Eclipse's own pages",
+    "the Wikipedia source is the article on Craig Dworkin; there is no Wikipedia article on Eclipse among the saved sources"
+   ],
+   "sources": {
+    "eclipse--home": {
+     "url": "https://eclipsearchive.org/",
+     "read": "2026-11-01",
+     "sha256": "7d9418140651879585167ff60bf530768fc3517e146838c3bdd87a5f3ef1d7a9",
+     "http": "200"
+    },
+    "eclipse--editor": {
+     "url": "https://eclipsearchive.org/Editor",
+     "read": "2026-11-01",
+     "sha256": "6ace431d4ff045bc9ca310847127d1cf1dddf23284e410f681c2124f247ba39a",
+     "http": "200"
+    },
+    "eclipse--authors": {
+     "url": "https://eclipsearchive.org/authors.html",
+     "read": "2026-11-01",
+     "sha256": "52a8b02ac16b6665320e9de8793d03955200a4b6f45e98bc1acb4a76a1f53149",
+     "http": "200"
+    },
+    "eclipse--about": {
+     "url": "https://eclipsearchive.org/about.html",
+     "read": "2026-11-01",
+     "sha256": "cc0b4e42510d49c6decd464123ecf3b14ae9b47f9b4ed2ee64893e2d6520a264",
+     "http": "404"
+    },
+    "eclipse--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Craig_Dworkin",
+     "read": "2026-11-01",
+     "sha256": "60ddc0168723cab3dd285834f79d9a0725e4e27d31104dfb528a825d62af5c59",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "dada-iowa",
+   "name": "International Dada Archive",
+   "aka": [
+    "Digital Dada Library",
+    "International Online Bibliography of Dada",
+    "dada.lib.uiowa.edu"
+   ],
+   "url": "https://dada.lib.uiowa.edu/",
+   "operator": "the University of Iowa Libraries; curator Timothy Shipe, 100 Main Library, The University of Iowa",
+   "kind": "archive: in its own words 'a scholarly resource for the study of the historic Dada movement', with an online catalog (the International Online Bibliography of Dada), a Digital Dada Library of page scans, and the journal Dada/Surrealism",
+   "areas": [
+    "avant-garde-archives",
+    "heteronymy"
+   ],
+   "evidence_kind": [
+    "facsimile",
+    "catalogue",
+    "critical commentary"
+   ],
+   "unit": "in the catalog, a title (book, essay in a book, periodical article, manuscript, sound or video recording); in the Digital Dada Library, an original Dada-era document scanned in its entirety, listed under its periodical or under its author",
+   "record_object": "works by and about the dadaists: Dada-era periodicals from Zurich, Berlin, Paris and elsewhere, books, exhibition catalogs, broadsides and ephemera by participants in the movement, microfilmed manuscript collections, and scholarship; a list of individuals on whom the collection focuses",
+   "record": {
+    "keeps": "the authorship of participants in the Dada movement, filed by author in the Digital Dada Library's 'Books by Author' list and by individual in its list of dadaists",
+    "name": "author entries carry a second name in parentheses where the sources give one, in either order: 'EDGAR FIRN (KARL DÖHMAN) (DAIMONIDES)', 'JULIUS KREKEL (CLÉMENT PANSAERS)', 'Iliazd (Ilia Zdanevich)', 'SALOMO FRIEDLAENDER (MYNONA)', 'JEAN (HANS) ARP'; the same book (ZIEK; EENE MOEDER; HERTETOLKEN) is listed under 'JULIUS KREKEL (CLÉMENT PANSAERS)' and under 'CLÉMENT PANSAERS'; the saved sources state no naming policy",
+    "holder": "the University of Iowa Libraries: originals in the Special Collections Department, the wider collection in the Main Library and the Art Library; scans 'provided for research purposes only'; copyrighted matter (new prefaces, critical annotations) omitted from scanned reprints"
+   },
+   "method": "collection and cataloguing of documentation and scholarship since 1979; scanning of original Dada-era documents in their entirety as page images; microfilming of public and private manuscript collections in Europe and North America in the early 1980s, with finding aids for each; publication of a peer-reviewed, open-access journal",
+   "coverage": {
+    "geography": "the Dada movement in Zurich, Berlin, Paris and elsewhere; manuscript collections in Europe and North America",
+    "period": "the historic Dada movement and the scholarship on it; the archive since 1979"
+   },
+   "count": {
+    "value": "approximately 60,000 titles in the International Online Bibliography of Dada",
+    "as_of": "not dated in the saved source (read 2026-11-01)"
+   },
+   "holdings": [
+    "the International Online Bibliography of Dada, approximately 60,000 titles",
+    "the Digital Dada Library: 36 periodicals listed (from 291 and 391 to Zenit and Der Zweemann) and books by author",
+    "microfilmed manuscript collections with detailed finding aids",
+    "the journal Dada/Surrealism"
+   ],
+   "stated_limits": [
+    "'These are page-image files only, not searchable full-text files'",
+    "'In many cases, these are not complete runs of the periodicals'",
+    "'These documents are provided for research purposes only'",
+    "'The International Dada Archive has no staff to process interlibrary loan requests'",
+    "'Unpublished manuscript material cannot normally be loaned'",
+    "'access to some of the Archive's resources is limited when the curator is away'"
+   ],
+   "answers": [
+    "whether the Archive holds or catalogues a named Dada work or scholarship on it",
+    "whether a scanned original of a Dada periodical issue or book is in the Digital Dada Library",
+    "under which names the Archive files a dadaist who published under more than one"
+   ],
+   "does_not_answer": [
+    "full-text searches of the scanned documents (page images only)",
+    "complete runs of most periodicals",
+    "which of an author's names the Archive treats as the author's own (it lists both, in varying order, with no stated rule)"
+   ],
+   "ls_reading": "The archive reads the Books by Author list as keeping a pen name and a civil name side by side and holding one book under both, so the chosen name is kept as an author heading; the order varies from entry to entry, and no rule in the saved sources says which name governs.",
+   "data_access": "free online catalog (the International Online Bibliography of Dada); free page-image scans in the Digital Dada Library; visits to the Archive by appointment; interlibrary loan through the requester's own library, with the Archive as 'lender of last resort'",
+   "license": "not stated; scans 'provided for research purposes only'; the journal Dada/Surrealism is open-access",
+   "lifecycle": {
+    "state": "active",
+    "detail": "founded 1979; a named curator and contact on the home page; the About page's saved text is the site navigation followed by a template placeholder ('This is an example page'), so the site's About content is unwritten"
+   },
+   "founded": "1979",
+   "version_and_time": {
+    "founded": "1979",
+    "microfilming": "early 1980s",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a full-text corpus: the scans are page images only",
+    "NOT complete for most periodicals by its own statement",
+    "NOT an interlibrary lending service: it has no staff for loan requests",
+    "NOT a reprint edition: it scans originals and omits copyrighted matter from the few reprints it includes",
+    "NOT a surrealism archive, though it publishes Dada/Surrealism: its collection focuses on the historic Dada movement"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Founded in 1979, the International Dada Archive is a scholarly resource for the study of the historic Dada movement. The Archive has compiled a comprehensive collection of documentation and scholarship relating to Dada."
+    },
+    "collection": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "The collection of the International Dada Archive is made up of works by and about the dadaists including books, articles, microfilmed manuscript collections, videorecordings, sound recordings, and online resources."
+    },
+    "count": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Primary access to the entire collection is through the International Online Bibliography of Dada, a catalog containing approximately 60,000 titles."
+    },
+    "housed": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "This collection is housed in various departments of the University of Iowa Libraries; most of its holdings are in either the Main Library or the Art Library."
+    },
+    "digital_library": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "These books, pamphlets, and periodicals are housed in the Special Collections Department of the University of Iowa Libraries and include many of the major periodicals of the Dada movement from Zurich, Berlin, Paris, and elsewhere, as well as books, exhibition catalogs, and broadsides by participants in the Dada movement."
+    },
+    "finding_aids": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "The Archive has also microfilmed a number of public and private manuscript collections containing material on the Dada movement and on individual dadaists. Detailed finding aids exist for each of these microfilmed collections."
+    },
+    "curator": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Timothy Shipe, Curator"
+    },
+    "curator_away": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "access to some of the Archive's resources is limited when the curator is away."
+    },
+    "scanned_entire": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Each original document has been scanned in its entirety. These are page-image files only, not searchable full-text files."
+    },
+    "incomplete_runs": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "In many cases, these are not complete runs of the periodicals."
+    },
+    "reprints": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "In a few cases, for the sake of completeness, we have included reprints of issues for which we do not own originals; in those cases, we have omitted any copyrighted materials such as new prefaces and critical annotations."
+    },
+    "research_only": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "These documents are provided for research purposes only."
+    },
+    "dadaists": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "The International Dada Archive focuses its collection and study on the following individuals."
+    },
+    "name_firn": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "EDGAR FIRN (KARL DÖHMAN) (DAIMONIDES): BIBERGEIL"
+    },
+    "name_firn_list": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "EDGAR FIRN (DIAMONIDES)"
+    },
+    "name_krekel": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "JULIUS KREKEL (CLÉMENT PANSAERS): ZIEK; EENE MOEDER; HERTETOLKEN"
+    },
+    "name_pansaers": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "CLÉMENT PANSAERS: L'APOLOGIE DE LA PARESSE BAR NICANOR LE PAN PAN AU CUL DU NU NÈGRE ZIEK; EENE MOEDER; HERTETOLKEN"
+    },
+    "name_iliazd": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Iliazd (Ilia Zdanevich): LIDANTIU FARAM (LEDANTU LE PHARE)"
+    },
+    "name_mynona": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "SALOMO FRIEDLAENDER (MYNONA)"
+    },
+    "name_arp": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "JEAN (HANS) ARP"
+    },
+    "periodicals_first": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "PERIODICALS 291 391 ACTION"
+    },
+    "periodicals_last": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "ZENIT DER ZWEEMANN BOOKS BY AUTHOR"
+    },
+    "journal": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Dada/Surrealism is a peer-reviewed, open-access electronic journal sponsored by the Association for the Study of Dada and Surrealism and published by the International Dada Archive, University of Iowa Libraries."
+    },
+    "catalog": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "The International On-line Bibliography of Dada is the on-line catalog of the International Dada Archive at the University of Iowa Libraries."
+    },
+    "microfilm": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Most of the manuscript holdings are on microfilms that were made in various public and private collections in Europe and North America in the early 1980s, with funding from the National Endowment for the Humanities and the Jerome Foundation."
+    },
+    "no_ill": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "The International Dada Archive has no staff to process interlibrary loan requests."
+    },
+    "last_resort": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Your library should treat the International Dada Archive as a \"lender of last resort.\""
+    },
+    "no_mss_loan": {
+     "src": "dada-iowa--home",
+     "basis": "operator",
+     "quote": "Unpublished manuscript material cannot normally be loaned."
+    },
+    "about_placeholder": {
+     "src": "dada-iowa--about",
+     "basis": "operator",
+     "quote": "This is an example page. Feel free to replace this content, or delete the page and start from scratch."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the About page (dada-iowa--about): the saved text is navigation and a template placeholder, with no About content; quoted only for the placeholder",
+    "the online bibliography and the scans themselves",
+    "the individual pages of the dadaists listed",
+    "the Dada/Surrealism journal site",
+    "the periodical count of 36 is counted here from the saved list; the Archive states no count"
+   ],
+   "sources": {
+    "dada-iowa--home": {
+     "url": "https://dada.lib.uiowa.edu/",
+     "read": "2026-11-01",
+     "sha256": "f009fc17c5ce757f9ee6e39456d5c06d80587e0a0effba31d86768f4259b8598",
+     "http": "200"
+    },
+    "dada-iowa--about": {
+     "url": "https://dada.lib.uiowa.edu/about",
+     "read": "2026-11-01",
+     "sha256": "72816a889beda67431ff948545b8fe790c81b6a37790e70b4c13489c35560375",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "oulipo",
+   "name": "Oulipo",
+   "aka": [
+    "OuLiPo",
+    "Ouvroir de littérature potentielle",
+    "oulipo.net"
+   ],
+   "url": "https://www.oulipo.net/",
+   "operator": "the Oulipo itself, on its own site (oulipo.net); Wikipedia, a third party, describes the group as founded in 1960 by Raymond Queneau and François Le Lionnais",
+   "kind": "the group's own site: 'ouvroir de littérature potentielle', with sections for public readings, members (Oulipiens), publications, news (Faits & dits) and constraints; Wikipedia (third party) calls the Oulipo a loose gathering of writers and mathematicians working in constrained writing",
+   "areas": [
+    "avant-garde-archives",
+    "collective-authorship"
+   ],
+   "evidence_kind": [
+    "primary text"
+   ],
+   "unit": "a signed text on the site: a member's piece, a publication or a constraint, each under the name of the member or members who made it",
+   "record_object": "the work of the Oulipo's members: constrained writing, the constraints themselves (quatroum, sonnet enjambeur, juliennes, à deux voies among those on the home page), public readings at the BnF, publications and the group's news, current to October 2026",
+   "record": {
+    "keeps": "the authorship of the Oulipo's members, each text and constraint credited to the member who made it; one constraint on the home page is credited to a group, the Oplepo (the Italian Oulipo)",
+    "name": "under the member's own published name; two-hand works carry both names (Ian Monk & Michèle Audin; Étienne Lécroart & Hervé Le Tellier), and the constraint 'Critique constructive' is defined as a work of two authors; Wikipedia's member list (third party) gives one member with a second name in parentheses, Emmanuel Peillet ('Latis'); the saved sources state no policy on pen names",
+    "holder": "the Oulipo, on its own site; licence and terms of the texts are not stated in the saved sources; Wikipedia (third party) reports that the group's rules do not permit leaving except by death"
+   },
+   "method": "publication by the group's members on its own site: texts read at the group's public readings, serial publications, constraints with their definitions and examples, news items",
+   "coverage": {
+    "geography": "France chiefly, with workshops abroad (Matsue, Japan, October 2026); Wikipedia (third party) says mainly French-speaking",
+    "period": "1960 (founding, per Wikipedia) to October 2026 (latest news on the home page)"
+   },
+   "count": {
+    "value": "not stated in the saved sources",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "constraints, each defined by its author (home page: Quatroum, Sonnet enjambeur, Juliennes, À deux voies, Un hôte de marque)",
+    "publications, among them Michèle Audin's serial Brouillon pour un atlas, begun online on 3 April 2014",
+    "texts read at the Oulipo's public readings at the BnF (Samuel Deshayes, 30 September 2026)",
+    "news (Faits & dits) to 30 October 2026",
+    "an Archives section (50 ans de l'OUlIPO among its entries)"
+   ],
+   "stated_limits": [
+    "the saved home page states no limits of its own",
+    "the Lectures publiques heading on the home page shows 'Saison 2004–2005', while the Oulipiens section carries a reading of 30 September 2026"
+   ],
+   "answers": [
+    "which member made a given Oulipian constraint and how the constraint is defined",
+    "what the group published and read in public recently, under whose names",
+    "how a two-author constraint (Critique constructive) divides the work between its authors"
+   ],
+   "does_not_answer": [
+    "the full membership and its history (known here only from Wikipedia, a third party)",
+    "whether any member's published name is a pen name, by the group's own statement",
+    "the terms on which the texts may be reused"
+   ],
+   "ls_reading": "The site keeps each work under the name of the member who made it inside the group's collective name, and credits one constraint to another group (the Oplepo); Wikipedia's list carries the second name 'Latis' beside Emmanuel Peillet and reports a rule that membership ends only at death. The archive reads this as collective authorship held by enduring personal names; the saved sources state no position on chosen names.",
+   "data_access": "public website; a newsletter by e-mail; a login (Connexion) whose purpose is not stated",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "news on the home page dated 16 to 30 October 2026, a reading at the BnF on 30 September 2026 and a new book presented at Bordeaux on 29 October 2026; founded 24 November 1960 as a subcommittee of the Collège de 'Pataphysique (Wikipedia, third party)"
+   },
+   "founded": "1960 (Wikipedia, third party: 24 November 1960)",
+   "version_and_time": {
+    "latest_news": "2026-10-30",
+    "wikipedia_last_edited": "2026-07-27",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a closed historical archive of the 1960s group: the site carries the members' work to October 2026",
+    "NOT a catalogue of all constrained writing: it holds the members' own work and constraints",
+    "NOT a statement on pseudonyms: the one second name in the sources ('Latis') comes from Wikipedia's member list"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "ouvroir de littérature potentielle"
+    },
+    "sections": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Une Lectures publiques Oulipiens Publications Faits & dits Contraintes"
+    },
+    "reading_bnf": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Samuel Deshayes Texte lu au grand auditorium de la BnF, le mercredi 30 septembre 2026."
+    },
+    "lectures_heading": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Lectures publiques Saison 2004–2005"
+    },
+    "two_authors_monk_audin": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Le monde des nonines Ian Monk & Michèle Audin"
+    },
+    "two_authors_lecroart": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Critique constructive Étienne Lécroart & Hervé Le Tellier"
+    },
+    "oplepo": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Cette contrainte a été créée par l'Oplepo (Oulipo italien), à l'origine."
+    },
+    "critique_constructive": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "1 - Une autrice (ou un auteur) écrit une critique d'un livre. 2 - Une autre autrice (voire un autre auteur) réalise un extrait de ce livre."
+    },
+    "hote_de_marque": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "La critique a été écrite par Hervé Le Tellier, l'extrait de livre de bande dessinée à été réalisée par Étienne Lécroart"
+    },
+    "brouillon": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Aujourd'hui, jeudi 3 avril 2014, je commence la publication, en ligne et en feuilleton, de ce brouillon."
+    },
+    "constraint_quatroum": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Le quatroum est un poème qui mêle deux contraintes"
+    },
+    "archives": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Archives 50 ans de l'OUlIPO"
+    },
+    "news_latest": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "vendredi 30 octobre 2026"
+    },
+    "matsue": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Paul Fournel, Hervé Le Tellier et Eduardo Berti ont animé un atelier d'écriture à Matsue, au Japon"
+    },
+    "bordeaux": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Ce jeudi 29 octobre à Bordeaux"
+    },
+    "newsletter": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Recevez les actualités de l’Oulipo."
+    },
+    "login": {
+     "src": "oulipo--home",
+     "basis": "operator",
+     "quote": "Connexion Confidentialité Cookies"
+    },
+    "wp_description": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "is a loose gathering of (mainly) French-speaking writers and mathematicians who seek to create works using constrained writing techniques. It was founded in 1960 by Raymond Queneau and François Le Lionnais"
+    },
+    "wp_founded": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "Oulipo was founded on November 24, 1960, as a subcommittee of the Collège de 'Pataphysique and titled Séminaire de littérature expérimentale"
+    },
+    "wp_potential": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "The group has therefore defined a series of literary methods and documented how they work, so that others can replicate and adapt these constraints"
+    },
+    "wp_rule_death": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "As Oulipo's rules do not permit leaving the group except in the case of death, Mélois staged a pretend suicide at a café in Paris to announce her departure."
+    },
+    "wp_latis": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "Emmanuel Peillet [ fr ] (\"Latis\")"
+    },
+    "wp_women": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "Since 1960 only seven women have joined Oulipo"
+    },
+    "wp_last_edited": {
+     "src": "oulipo--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 27 July 2026, at 10:06"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the site's inner pages (Oulipiens member pages, Publications, Contraintes, Archives): only the home page was saved",
+    "any statement by the group on pen names, licence or reuse of texts",
+    "the purpose of the site's login"
+   ],
+   "sources": {
+    "oulipo--home": {
+     "url": "https://www.oulipo.net/",
+     "read": "2026-11-01",
+     "sha256": "bd7248f93daa64774da11aaf7ff1a2e67b92d596074bb9ecdc91227cc5b98f16",
+     "http": "200"
+    },
+    "oulipo--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Oulipo",
+     "read": "2026-11-01",
+     "sha256": "04b2eea64a4a5ea20d3895fcbcc7613321af436e441851284c1d1d9de25805c3",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "arquivo-pessoa",
+   "name": "Arquivo Pessoa",
+   "aka": [
+    "arquivopessoa.net",
+    "Arquivo Pessoa: Obra Édita"
+   ],
+   "url": "http://arquivopessoa.net/",
+   "operator": "Obra Aberta CRL (edition, 2008); conception and direction by Leonor Areal; partners the Instituto de Estudos sobre o Modernismo (FCSH, UNL, Lisboa) and Assírio&Alvim; development by José Cerqueira Esteves / Arte Numérica and João Miguel Neves / Intraneia",
+   "kind": "online edition of Fernando Pessoa's published work (Obra Édita), with a facsimile section and information pages; its home page line: 'Expedições livres para amantes e estudiosos'",
+   "areas": [
+    "heteronymy"
+   ],
+   "evidence_kind": [
+    "primary text",
+    "facsimile",
+    "audio recording"
+   ],
+   "unit": "a text of the published work, reached through an author page: the site indexes 39 names, the orthonym, pseudonyms and heteronyms of Fernando Pessoa, joint attributions among them",
+   "record_object": "the published work (obra édita) of Fernando Pessoa, under each name he wrote as; the original edition is Texto Editora and Casa Fernando Pessoa, 1997",
+   "record": {
+    "keeps": "Fernando Pessoa's authorship, divided among the names he wrote under",
+    "name": "under the name the text bears: the author index is headed 'Ortónimo, pseudónimos e heterónimos de Fernando Pessoa' and lists 39 names (Alberto Caeiro, Ricardo Reis, Álvaro de Campos, Bernardo Soares, Alexander Search, Barão de Teive and the orthonym Fernando Pessoa among them), with joint attributions kept as joint ('Álvaro de Campos e Ricardo Reis', 'A. L. Caeiro e J. Caeiro', 'Wardour + Pessoa'); the saved index does not mark which name is a pseudonym and which a heteronym; the audio readings give a separate reader to each of Ricardo Reis, Alberto Caeiro, Álvaro de Campos and Fernando Pessoa",
+    "holder": "Obra Aberta CRL, which edits the site (2008) from the 1997 edition of Texto Editora and Casa Fernando Pessoa, with funding from the Fundação Calouste Gulbenkian, the CCDR Lisboa e Vale do Tejo, the Fundação Luso-Brasileira and the Direcção-Geral do Livro e das Bibliotecas; terms of use not stated in the saved sources"
+   },
+   "method": "digital edition of a print edition (1997), with text revision by a named team of fifteen revisers, transcription norms (a page unread here), facsimiles, recorded readings of poems and an iconographic illustration (Labirinto)",
+   "coverage": {
+    "geography": "Portugal (Lisbon editors, partners and funders); the languages of the texts are not stated in the saved pages",
+    "period": "Pessoa's published work; the edition 1997 (print) and 2008 (online)"
+   },
+   "count": {
+    "value": "39 author names in the index",
+    "as_of": "2026-11-01 (index read)"
+   },
+   "holdings": [
+    "Pessoa's published work (Obra Édita)",
+    "a facsimile section",
+    "an author index of 39 names: orthonym, pseudonyms and heteronyms",
+    "recorded readings of poems by four readers, one for each of Ricardo Reis, Alberto Caeiro, Álvaro de Campos and Fernando Pessoa",
+    "information pages: aims and readers, corpus, transcription norms, the Labirinto, a teaching manual, a reference bibliography"
+   ],
+   "stated_limits": [
+    "the saved pages state no limits of their own; the pages on the corpus and transcription norms that would state them were not saved"
+   ],
+   "answers": [
+    "under which of Pessoa's names a published text is held",
+    "which names Pessoa wrote under, as the edition indexes them, joint attributions included",
+    "who made the edition and from which print edition"
+   ],
+   "does_not_answer": [
+    "which names the edition counts as heteronyms and which as pseudonyms (the saved index lists them together)",
+    "Pessoa's unpublished papers (the site is the published work, Obra Édita)",
+    "the textual basis of a given text (the transcription norms were not read)"
+   ],
+   "ls_reading": "The edition files Pessoa's published work under each name he wrote as and keeps joint attributions as he gave them; its audio gives Caeiro, Reis, Campos and the orthonym each a reader of their own. The archive reads this as the reference case of #940 held in an edition: the home page names the whole as 'Obra de Fernando Pessoa', the orthonym stands in the index as one name among 39, and the works stay under their authorial names.",
+   "data_access": "free public website: Obra Édita, Facsimile and Info sections",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the site answered on 2026-11-01 (home, technical sheet and author index read); edition 2008, from a 1997 print edition; no later update date in the saved pages"
+   },
+   "founded": "2008 (online edition, Obra Aberta CRL); original edition 1997",
+   "version_and_time": {
+    "original_edition": "1997",
+    "online_edition": "2008",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT Pessoa's estate or papers: it edits the published work (Obra Édita)",
+    "NOT a reduction of the names to Fernando Pessoa: the index keeps 39 names, joint ones among them",
+    "NOT a classification of each name: the saved index does not mark pseudonym or heteronym",
+    "NOT pessoadigital.pt, a separate resource in this census"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "arquivo-pessoa--home",
+     "basis": "operator",
+     "quote": "Obra de Fernando Pessoa Expedições livres para amantes e estudiosos"
+    },
+    "sections": {
+     "src": "arquivo-pessoa--home",
+     "basis": "operator",
+     "quote": "OBRA ÉDITA · FACSIMILE · INFO"
+    },
+    "authors_heading": {
+     "src": "arquivo-pessoa--autores",
+     "basis": "operator",
+     "quote": "Ortónimo, pseudónimos e heterónimos de Fernando Pessoa"
+    },
+    "authors_first": {
+     "src": "arquivo-pessoa--autores",
+     "basis": "operator",
+     "quote": "A. L. Caeiro e J. Caeiro Adolph Moscow Alberto Caeiro Alexander Search António Mora"
+    },
+    "authors_soares": {
+     "src": "arquivo-pessoa--autores",
+     "basis": "operator",
+     "quote": "Barão de Teive Bernardo Soares"
+    },
+    "authors_reis": {
+     "src": "arquivo-pessoa--autores",
+     "basis": "operator",
+     "quote": "Raphael Baldaya Ricardo Reis Thomas Crosse"
+    },
+    "authors_joint": {
+     "src": "arquivo-pessoa--autores",
+     "basis": "operator",
+     "quote": "Wardour Wardour + Pessoa Álvaro de Campos Álvaro de Campos e Ricardo Reis Íbis"
+    },
+    "direction": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Concepção e direcção: Leonor Areal"
+    },
+    "edition": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Edição: Obra Aberta CRL, 2008"
+    },
+    "partners": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Parcerias: Instituto de Estudos sobre o Modernismo (Faculdade de Ciências Sociais e Humanas, UNL, Lisboa) Assírio&Alvim"
+    },
+    "development": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Desenvolvimento: José Cerqueira Esteves / Arte Numérica e João Miguel Neves / Intraneia"
+    },
+    "funding": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Apoio financeiro Fundação Calouste Gulbenkian Comissão de Coordenação e Desenvolvimento da Região de Lisboa e Vale do Tejo Fundação Luso-Brasileira Direcção-Geral do Livro e das Bibliotecas (MC)"
+    },
+    "original_edition": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Edição original: Texto Editora e Casa Fernando Pessoa, 1997"
+    },
+    "revision": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Revisão de textos: Catarina Gomes, Conceição Saraiva"
+    },
+    "readings": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Leitura de poemas: Alberto Pimenta (Ricardo Reis) José Abreu (Alberto Caeiro) José Lopes (Álvaro de Campos) Teresa Faria (Fernando Pessoa)"
+    },
+    "audio": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Gravação audio: Amândio Bastos / Nuvem Eléctrica"
+    },
+    "labirinto": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Ilustração iconográfica (Labirinto)"
+    },
+    "info_pages": {
+     "src": "arquivo-pessoa--ficha",
+     "basis": "operator",
+     "quote": "Objectivos e destinatários Fernando Pessoa porquê? Corpus textual Normas de transcrição Sobre o Labirinto Manual de utilização pedagógica Bibliografia geral de referência"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the Portuguese Wikipedia page (arquivo-pessoa--wikipedia): http 404, no article exists under that title; unread and unquoted",
+    "the info pages on aims, corpus, transcription norms, the Labirinto and the teaching manual (linked from the technical sheet, not saved)",
+    "any single text page, the facsimile section and the audio files",
+    "the site's terms of use",
+    "the count of 39 names is taken from the saved index by counting its entries; the site states no total"
+   ],
+   "sources": {
+    "arquivo-pessoa--home": {
+     "url": "http://arquivopessoa.net/",
+     "read": "2026-11-01",
+     "sha256": "7b6d598dd77a34062e2c8a828f203fb97fd657e0c9286a8abd19a359414589cc",
+     "http": "200"
+    },
+    "arquivo-pessoa--autores": {
+     "url": "http://arquivopessoa.net/autores",
+     "read": "2026-11-01",
+     "sha256": "32e73f337b4601bb8f808ab0cb48f99ed3bd17ee1213582fa6667dc0c56ca6f5",
+     "http": "200"
+    },
+    "arquivo-pessoa--ficha": {
+     "url": "http://arquivopessoa.net/info/ficha",
+     "read": "2026-11-01",
+     "sha256": "0ee561fdf4c22e96e730213519dc0173b51203ebf4f5c843242f82a064512246",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "pessoa-digital",
+   "name": "pessoadigital.pt (the saved sources show no title of its own)",
+   "aka": [
+    "Pessoa Digital (the census's name for it, from the domain)"
+   ],
+   "url": "https://pessoadigital.pt/",
+   "operator": "not recorded in the saved sources: both pages were refused (http 418, a bot-detection challenge)",
+   "kind": "not recorded in the saved sources",
+   "areas": [
+    "heteronymy"
+   ],
+   "evidence_kind": [],
+   "unit": "not recorded in the saved sources",
+   "record_object": "not recorded in the saved sources",
+   "record": {
+    "keeps": "not recorded",
+    "name": "not recorded",
+    "holder": "not recorded"
+   },
+   "method": "not recorded in the saved sources",
+   "coverage": {
+    "geography": "not recorded",
+    "period": "not recorded"
+   },
+   "count": {
+    "value": "not stated in the saved sources",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [],
+   "stated_limits": [
+    "none read: the home page and the English about page both returned a bot-detection challenge in place of the site's text"
+   ],
+   "answers": [],
+   "does_not_answer": [
+    "every question of this census, until the site's own pages are read"
+   ],
+   "ls_reading": "No reading: the resource's pages could not be read on fetch.",
+   "data_access": "not recorded: the server answered automated requests with a challenge page on 2026-11-01",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the host answered on 2026-11-01 with a bot-detection challenge (http 418) at both saved URLs; the resource's own state is not recorded"
+   },
+   "version_and_time": {
+    "read": "2026-11-01 (refused)"
+   },
+   "negative_tags": [
+    "NOT the Arquivo Pessoa (arquivopessoa.net), a separate resource in this census",
+    "NOT read: nothing in this row comes from the resource's own text"
+   ],
+   "evidence": {},
+   "relations": [],
+   "unchecked": [
+    "pessoa-digital--home (https://pessoadigital.pt/): http 418, a bot-detection challenge page; unread and unquoted",
+    "pessoa-digital--about (https://pessoadigital.pt/en/about): http 418, the same challenge page; unread and unquoted",
+    "the challenge page's footer names digital humanities units of the University of Cologne; this is the host's challenge page and is not taken as a statement of who runs the resource",
+    "the area heteronymy is the census's placement by the resource's name; no saved source confirms it"
+   ],
+   "sources": {},
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "fanlore",
+   "name": "Fanlore",
+   "aka": [
+    "fanlore.org",
+    "the Fanlore wiki"
+   ],
+   "url": "https://fanlore.org/wiki/Main_Page",
+   "operator": "the Organization for Transformative Works (OTW), a nonprofit fan activist organization (Wikipedia, third party; Fanlore's own pages were refused)",
+   "kind": "a wiki for fans from a wide range of communities, for recording fandom and fanwork history (Wikipedia, third party)",
+   "areas": [
+    "collective-authorship"
+   ],
+   "evidence_kind": [
+    "wiki"
+   ],
+   "unit": "a wiki article (Wikipedia, third party, counts articles and edits)",
+   "record_object": "the histories, experiences and traditions of fans and fan communities, in fandom and fanwork history (Wikipedia, third party, quoting Fanlore's published mission); content from GeoCities rescued into it by the OTW's Open Doors projects",
+   "record": {
+    "keeps": "not recorded in a saved source of Fanlore's own; Wikipedia (third party) describes a wiki in which fans record their own histories",
+    "name": "not recorded",
+    "holder": "the Organization for Transformative Works, which created Fanlore as one of its fandom archival projects (Wikipedia, third party); terms not recorded"
+   },
+   "method": "wiki editing by fans (Wikipedia, third party, counts edits); transfer of rescued GeoCities content by the OTW's Open Doors projects",
+   "coverage": {
+    "geography": "not recorded",
+    "period": "fandom and fanwork history; the wiki itself from 2008 (beta) and December 2010 (full release), per Wikipedia"
+   },
+   "count": {
+    "value": "approximately 45,000 articles and 800,000 edits (June 2018); past a million edits in January 2021 (Wikipedia, third party)",
+    "as_of": "June 2018 and January 2021"
+   },
+   "holdings": [
+    "approximately 45,000 articles and 800,000 edits in June 2018, past a million edits in January 2021 (Wikipedia, third party)",
+    "content from Yahoo's GeoCities moved in by the GeoCities Rescue Project (Wikipedia, third party)"
+   ],
+   "stated_limits": [
+    "none read: Fanlore's own pages were refused (http 403)",
+    "Wikipedia (third party) reports that the site suffered a data breach in August 2026"
+   ],
+   "answers": [
+    "that Fanlore exists as the OTW's wiki of fandom history, with its scale in 2018 and 2021 (from Wikipedia)"
+   ],
+   "does_not_answer": [
+    "how Fanlore names the fans and fanworks it records, or its policy on pseudonyms and real names (its own pages were not read)",
+    "its present size",
+    "its licence and editing terms"
+   ],
+   "ls_reading": "The saved third-party source places Fanlore with the OTW's projects for a self-recorded fan history; how it holds the names fans give themselves is not shown in what was read.",
+   "data_access": "public wiki (Wikipedia, third party); the saved fetches of 2026-11-01 met a challenge page",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "beta 2008, full release December 2010, a million edits January 2021, a data breach in August 2026 (all Wikipedia, third party); the site answered on 2026-11-01 with a challenge (http 403)"
+   },
+   "founded": "2008 (beta); full release December 2010 (Wikipedia, third party)",
+   "version_and_time": {
+    "wikipedia_last_edited": "2026-10-31",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a fanwork archive: fanworks are hosted on the OTW's Archive of Our Own; Fanlore is a wiki of fandom history",
+    "NOT read from its own pages: every statement here comes from Wikipedia's article on the OTW"
+   ],
+   "evidence": {
+    "redirect": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "(Redirected from Fanlore )"
+    },
+    "otw": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "The Organization for Transformative Works ( OTW ) is a nonprofit , fan activist organization."
+    },
+    "self_description": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "Fanlore : A wiki for fans from a wide range of communities whose published mission is to provide a platform \"to record and share their histories, experiences and traditions\""
+    },
+    "breach": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "The site suffered a data breach in August 2026."
+    },
+    "founded": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "One such project was the creation of Fanlore, a wiki for preserving fandom history. The Fanlore wiki was first revealed in beta in 2008, with a full release in December 2010."
+    },
+    "count_2018": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "In June 2018, there were approximately 45,000 articles and 800,000 edits to the wiki,"
+    },
+    "count_2021": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "it passed a million edits in January 2021."
+    },
+    "geocities": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "The GeoCities Rescue Project, which attempted to preserve content originally hosted on Yahoo's GeoCities by transferring that content to new locations on the Archive of Our Own or within the Fanlore wiki."
+    },
+    "wp_last_edited": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 31 October 2026, at 06:51"
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "otw-ao3",
+     "note": "both are projects of the Organization for Transformative Works (Wikipedia's OTW article); the GeoCities Rescue Project moved content into both"
+    }
+   ],
+   "unchecked": [
+    "fanlore--about (https://fanlore.org/wiki/Fanlore:About): http 403, a 'Just a moment...' challenge (16 characters); unread and unquoted",
+    "fanlore--home (https://fanlore.org/wiki/Main_Page): http 403, the same challenge; unread and unquoted",
+    "the saved Wikipedia source is the article on the Organization for Transformative Works (Fanlore redirects there), so Fanlore is known here only from that article's section on it",
+    "Fanlore's policies on names, real people, licence and editing"
+   ],
+   "sources": {
+    "fanlore--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Fanlore",
+     "read": "2026-11-01",
+     "sha256": "96ddc1e589520305199eecade8ea20321047fa37ca26cf92ed3c7d1653162530",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "otw-ao3",
+   "name": "Archive of Our Own",
+   "aka": [
+    "AO3",
+    "Organization for Transformative Works (OTW)",
+    "archiveofourown.org",
+    "transformativeworks.org"
+   ],
+   "url": "https://archiveofourown.org/",
+   "operator": "the Organization for Transformative Works (OTW), a nonprofit fan activist organization formed 17 May 2007, with a board of directors elected annually; AO3 is built and run by volunteers (Wikipedia, third party; the OTW and AO3 pages were refused)",
+   "kind": "a nonprofit, open-source repository for fanfiction and other fanworks contributed by users, which defines itself primarily as an archive (Wikipedia, third party)",
+   "areas": [
+    "collective-authorship",
+    "heteronymy"
+   ],
+   "evidence_kind": [
+    "primary text",
+    "audio recording"
+   ],
+   "unit": "a work posted by its author under a pseud of the author's account and tagged by the author (rating, warnings, fandom and further tags); works include stories, art pieces and podfics (podcast fic recordings)",
+   "record_object": "fanfiction and other fanworks (fan art, fan videos, podfic) in over 82,900 fandoms, including works related to real people (RPF), and over 500,000 original, non-fanfiction works; older fan archives imported through the OTW's Open Doors project",
+   "record": {
+    "keeps": "the authorship of the fans who post their own works; the OTW's mission is to serve fans by preserving and encouraging transformative fan activity",
+    "name": "under the author's chosen name: users create a unique username and may identify themselves by one or more pseudonyms ('pseuds') linked to their central account; authors may limit their works to registered users; the saved sources show sign-up by an emailed invitation and state no legal-name requirement",
+    "holder": "the Organization for Transformative Works, owner of the site, a nonprofit with 983 volunteers and at least 14,959 paying members (2024 annual report, per Wikipedia); the works are posted by their authors; the OTW's legal team holds that publication of fanfiction on AO3 is legal under the Fair Use doctrine; works are expected to be noncommercial"
+   },
+   "method": "self-archiving by authors, who post, tag and categorize their own works; volunteer tag wranglers connect synonymous tags; moderation under the Terms of Service case by case; imports of defunct archives through Open Doors",
+   "coverage": {
+    "geography": "global; the site is blocked in China (since 29 February 2020) and Russia (2023), per Wikipedia",
+    "period": "created 2008; open beta 14 November 2009; exited open beta 2 April 2026"
+   },
+   "count": {
+    "value": "over 18,470,000 works in over 82,900 fandoms; 11,310,000 users; over 500,000 original works (5 October 2026)",
+    "as_of": "18 September 2026 (Wikipedia, third party)"
+   },
+   "holdings": [
+    "over 18,470,000 works in over 82,900 fandoms, including RPF (18 September 2026)",
+    "over 500,000 original, non-fanfiction works (5 October 2026)",
+    "11,310,000 users (infobox)",
+    "works imported from older and defunct fic archives through Open Doors (from 2012)"
+   ],
+   "stated_limits": [
+    "AO3 does not allow social media posts, prompts or requests, or works its moderators consider spam or non-transformative (Wikipedia, citing the Terms of Service)",
+    "fanfiction on AO3 is expected to be noncommercial",
+    "the archive is down for maintenance: on 29 October 2026, after a security incident, the site went down, extended to two to four weeks (Wikipedia); the saved AO3 page shows the maintenance notice"
+   ],
+   "answers": [
+    "under which pseud a fanwork was posted, and with what tags its author gave it",
+    "which fandoms and how many works the archive holds",
+    "on what terms the OTW holds fanworks (nonprofit, fair use, noncommercial)"
+   ],
+   "does_not_answer": [
+    "the civil identity behind a pseud (the record keeps the pseud linked to an account)",
+    "the legal status of any given work (the fair-use position is the OTW legal team's belief)",
+    "anything during the maintenance closure from 29 October 2026, when the site could not be read"
+   ],
+   "ls_reading": "AO3 holds each work under a pseud its author chose, several pseuds to one account, with no legal name shown in what was read, and it holds works about real people (RPF) as fanworks. The archive reads the pseud as a platform rule that keeps a chosen name as the author's own and answers for it through the account, the condition #940 names as attributable without reduction.",
+   "data_access": "public website; an account (by emailed invitation) needed to post; reading needs no account unless the author restricts a work to registered users",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "paused",
+    "detail": "down for maintenance since 29 October 2026 after a security incident, announced for twelve hours and extended to two to four weeks (Wikipedia, third party); the saved AO3 page (2026-11-01) shows the maintenance notice and the OTW site returned a server error (http 520); open beta from 14 November 2009, official release 2 April 2026"
+   },
+   "founded": "2008 (AO3, created by the OTW; October 2008 per the infobox); the OTW formed 17 May 2007",
+   "version_and_time": {
+    "otw_formed": "2007-05-17",
+    "open_beta": "2009-11-14",
+    "official_release": "2026-04-02",
+    "maintenance_from": "2026-10-29",
+    "counts": "2026-09-18",
+    "wikipedia_last_edited": "2026-10-31",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a social network: it defines itself primarily as an archive",
+    "NOT a commercial platform: works are expected to be noncommercial",
+    "NOT a register of authors' legal names: works stand under pseuds",
+    "NOT readable during the maintenance closure from 29 October 2026"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Archive of Our Own ( AO3 ) is a nonprofit , open-source repository for fanfiction (fanfic) and other fanworks contributed by users. The site was created in 2008 by the Organization for Transformative Works"
+    },
+    "archive_not_community": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "AO3 defines itself primarily as an archive , not an online community"
+    },
+    "owner": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Owner Organization for Transformative Works"
+    },
+    "founded": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Founded October 2008"
+    },
+    "users": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Users 11,310,000"
+    },
+    "count_date": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "As of 18 September 2026"
+    },
+    "count": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Archive of Our Own hosts over 18,470,000 works in over 82,900 fandoms , including those related to real people ( RPF )."
+    },
+    "original_works": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "The site is also open to certain original, non-fanfiction works,"
+    },
+    "original_count": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "hosting over 500,000 such original works as of 5 October 2026"
+    },
+    "podfic": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "AO3 reached one million works (including stories, art pieces, and podcast fic recordings, referred to as podfics) in February 2014."
+    },
+    "pseuds": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "The site allows users to create unique usernames for their account. In addition, users may identify themselves by one or more pseudonyms , referred to as \"pseuds\", linked to their central account."
+    },
+    "invitation": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "In order to sign up, users must request an invitation which will be sent to their email addresses, which usually takes ~20 days."
+    },
+    "restricted": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "An account is not required to view posted content as long as the author has not chosen to show their works only to registered users."
+    },
+    "self_tagging": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "Fans post, tag and categorize their own works on AO3."
+    },
+    "tags": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Writers are generally free to choose whatever tags they like for their stories"
+    },
+    "wranglers": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "The tagging system is maintained by volunteers called \"Tag Wranglers\" who manually connect synonymous tags to bolster the site's search system."
+    },
+    "volunteers_code": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "Archive of Our Own runs on open source code programmed almost exclusively by volunteers in the Ruby on Rails web framework"
+    },
+    "volunteers_ao3": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "AO3 has approximately 700 volunteers"
+    },
+    "fair_use": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "The legal team working on behalf of Organization for Transformative Works believes that the publication of fanfiction on AO3 is legal under the Fair Use doctrine"
+    },
+    "limit_content": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "AO3 does not allow social media posts, prompts or requests, and any works that AO3 moderators consider to be spam or non-transformative."
+    },
+    "noncommercial": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "fanfiction published on AO3 is expected to be \"noncommercial\""
+    },
+    "open_doors": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "The OTW's Open Doors project, which launched in 2012, invited maintainers of older and defunct fic archives to import their stories into Archive of Our Own with the aim of preserving fandom history."
+    },
+    "open_beta": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "established it as an open beta on 14 November 2009,"
+    },
+    "beta_exit": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "AO3 announced that it would be exiting open beta."
+    },
+    "beta_exit_date": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "On 2 April 2026, following the April Fools prank"
+    },
+    "maintenance": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "On 29 October 2026, following a security incident, the site went down for a period of maintenance that was originally announced to last twelve hours, but was extended later that day to two to four weeks."
+    },
+    "china": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "On 29 February 2020, Archive of Our Own was blocked in China"
+    },
+    "russia": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "The site was subsequently blocked in Russia later that same month, after failing to comply with the request."
+    },
+    "otw_description": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "The Organization for Transformative Works ( OTW ) is a nonprofit , fan activist organization."
+    },
+    "otw_mission": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "Its mission is to serve fans by preserving and encouraging transformative fan activity"
+    },
+    "otw_formed": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "Formation 17 May 2007"
+    },
+    "otw_board": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "Board of directors, elected annually"
+    },
+    "otw_members": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "OTW has 983 volunteers,"
+    },
+    "otw_members_2": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "at least 14,959 paying members according to its annual report in 2024."
+    },
+    "otw_rpf": {
+     "src": "fanlore--wikipedia",
+     "basis": "third_party",
+     "quote": "OTW advocates for the transformative, legal, and legitimate nature of fan labor activities, including fan fiction , fan videos , fan art , anime music videos , podfic"
+    },
+    "wp_last_edited": {
+     "src": "otw-ao3--wikipedia",
+     "basis": "third_party",
+     "quote": "This page was last edited on 31 October 2026, at 06:56"
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "fanlore",
+     "note": "both are projects of the Organization for Transformative Works (Wikipedia's OTW article); the GeoCities Rescue Project moved content into both"
+    }
+   ],
+   "unchecked": [
+    "otw-ao3--ao3 (https://archiveofourown.org/about): http 418, a maintenance notice (202 characters); unread as a source of the site's own terms and unquoted",
+    "otw-ao3--otw (https://www.transformativeworks.org/about_otw/): http 520, a Cloudflare server error; unread and unquoted",
+    "AO3's Terms of Service and FAQ on pseuds, orphaning and real person fiction (known here only through Wikipedia's citations)",
+    "the OTW's legal advocacy record (amicus briefs, DMCA exemption requests), named in Wikipedia's OTW article and not counted as a holding here",
+    "the licence of posted works"
+   ],
+   "sources": {
+    "otw-ao3--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own",
+     "read": "2026-11-01",
+     "sha256": "48d94cb9587a6c72cbe16eec2b6c4e84790daf5e4c5d8ec8ba1a58cc63c248b7",
+     "http": "200"
+    },
+    "fanlore--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Fanlore",
+     "read": "2026-11-01",
+     "sha256": "96ddc1e589520305199eecade8ea20321047fa37ca26cf92ed3c7d1653162530",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "copyright-office-ai",
+   "name": "Copyright and Artificial Intelligence",
+   "aka": [
+    "U.S. Copyright Office AI initiative",
+    "Report on Copyright and Artificial Intelligence",
+    "USCO AI page"
+   ],
+   "url": "https://www.copyright.gov/ai/",
+   "operator": "the U.S. Copyright Office (101 Independence Ave. S.E., Washington, D.C.), whose footer links the Library of Congress",
+   "kind": "the Copyright Office's initiative page on copyright law and policy issues raised by AI: a multi-part Report, a registration guidance policy statement, a notice of inquiry, Review Board and registration decisions on AI-generated material, and the government's briefs and the decisions in Thaler v. Perlmutter and Allen v. Perlmutter",
+   "areas": [
+    "ai-authorship"
+   ],
+   "evidence_kind": [
+    "registration guidance",
+    "policy statement",
+    "legal decision",
+    "litigation record",
+    "consultation record"
+   ],
+   "unit": "a document issued by or for the Office: a Part of the Report, a policy statement in the Federal Register, a Review Board or registration decision on a named work, a brief or court decision in a named case, a letter to Congress, or a recorded listening session",
+   "record_object": "the copyright law and policy issues raised by AI, which the page names as including the scope of copyright in AI-generated works and the use of copyrighted materials in AI training; Part 1 addresses digital replicas, Part 2 the copyrightability of outputs created using generative AI, Part 3 generative AI training (pre-publication)",
+   "record": {
+    "keeps": "the Office's own guidance, reports and decisions on whether works containing AI-generated material can be registered, and on the registration claims of named applicants (SURYAST, Théâtre D'opéra Spatial, Zarya of the Dawn, A Recent Entrance to Paradise); Wikipedia (third party) states that the Office has declared works not created by a human author ineligible for copyright protection and that the courts in the District of Columbia upheld its refusal to register works generated solely by machines",
+    "name": "not recorded: the saved page states no rule on pseudonymous, heteronymous, collective or absent names; the decisions it lists are titled by work",
+    "holder": "the U.S. Copyright Office, a federal office whose footer links the Library of Congress; registration runs through its Registration Portal; the documents are public; terms of reuse are not stated on the saved page"
+   },
+   "method": "public listening sessions and webinars, a notice of inquiry in the Federal Register with public comment, a Report issued in Parts, a registration guidance policy statement, Review Board and registration decisions, briefs in litigation, letters to Congress",
+   "coverage": {
+    "geography": "United States",
+    "period": "the initiative since early 2023 (launched March 16, 2023); earlier events in Winter 2020 and Fall 2021 and a Review Board decision of February 14, 2022 are listed"
+   },
+   "count": {
+    "value": "over 10,000 comments on the August 2023 notice of inquiry by December 2023; a Report in three Parts",
+    "as_of": "the page as read 2026-11-01"
+   },
+   "holdings": [
+    "Report Part 1, Digital Replicas (July 31, 2024)",
+    "Report Part 2, Copyrightability (January 29, 2025)",
+    "Report Part 3, Generative AI Training, pre-publication version (May 9, 2025)",
+    "Copyright Registration Guidance for Works Containing AI-Generated Materials, 88 Fed. Reg. 16,190 (Mar. 16, 2023)",
+    "Notice of Inquiry, 88 Fed. Reg. 59,942 (Aug. 30, 2023), over 10,000 comments by December 2023",
+    "four registration decisions for AI-generated materials (2022 to 2023)",
+    "the government's briefs and the decisions in Thaler v. Perlmutter, and a brief in Allen v. Perlmutter"
+   ],
+   "stated_limits": [
+    "the Report 'is being issued in several Parts'",
+    "Part 3 is a pre-publication version: 'A final version of Part 3 will be published in the future, without any substantive changes expected in the analysis or conclusions'"
+   ],
+   "answers": [
+    "what the Office has published on the copyrightability of outputs created using generative AI, and when",
+    "how the Office decided the registration claims for SURYAST, Théâtre D'opéra Spatial, Zarya of the Dawn and A Recent Entrance to Paradise",
+    "what position the government took in Thaler v. Perlmutter through the appeal and the certiorari stage"
+   ],
+   "does_not_answer": [
+    "how the Office registers a work under a pseudonym or heteronym (not on the saved page)",
+    "how courts outside the United States treat AI-generated works",
+    "whether any particular unregistered work would be registered"
+   ],
+   "ls_reading": "The Office holds authorship for human authors and asks how much of a work a human made; the saved page records its decisions by the work's title and says nothing on the name an author chooses. The archive reads it as the civil-legal end of the register #940 names (copyright attaching to legal names) and as an institutional answer to #1722's second question, whether the work happened and who made it, decided claim by claim.",
+   "data_access": "public web pages and linked PDFs; announcements by NewsNet email; Federal Register versions of the policy statement and notice",
+   "license": "not stated on the saved page",
+   "lifecycle": {
+    "state": "active",
+    "detail": "launched March 16, 2023; Parts 1 and 2 published in 2024 and 2025; Part 3 released in pre-publication on May 9, 2025, with a final version still to be published; the latest announcement on the saved page is dated January 29, 2025, and the latest letter to Congress December 16, 2024"
+   },
+   "founded": "2023-03-16 (the initiative)",
+   "version_and_time": {
+    "initiative_launch": "2023-03-16",
+    "guidance": "2023-03-16",
+    "noi": "2023-08-30",
+    "part_1": "2024-07-31",
+    "part_2": "2025-01-29",
+    "part_3_prepublication": "2025-05-09",
+    "scotus_denial_as_of": "March 2026 (Wikipedia)",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a court: its registration and Review Board decisions are administrative, and the courts' decisions in Thaler v. Perlmutter are linked as litigation documents",
+    "NOT a statute: the guidance is a policy statement and the Report a policy study",
+    "NOT a statement on pseudonyms or heteronyms: the saved page has none",
+    "NOT finished: Part 3 is a pre-publication version"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Since launching an initiative in early 2023, the Copyright Office has been examining the copyright law and policy issues raised by artificial intelligence (AI), including the scope of copyright in AI-generated works and the use of copyrighted materials in AI training."
+    },
+    "noi_count": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "the Office published a notice of inquiry in the Federal Register in August 2023, which received over 10,000 comments by December 2023."
+    },
+    "report_parts": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "The Office is issuing a Report in several Parts analyzing the issues, which will be published as they are completed and linked below."
+    },
+    "part_1_2": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Part 1 was published on July 31, 2024, and addresses the topic of digital replicas. Part 2 was published on January 29, 2025, and addresses the copyrightability of outputs created using generative AI."
+    },
+    "part_3": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "On May 9, 2025, the Office released a pre-publication version of Part 3 in response to congressional inquiries and expressions of interest from stakeholders. A final version of Part 3 will be published in the future, without any substantive changes expected in the analysis or conclusions."
+    },
+    "launch": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "March 16, 2023 - Copyright Office Launches New Artificial Intelligence Initiative"
+    },
+    "guidance": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Copyright Registration Guidance for Works Containing AI-Generated Materials"
+    },
+    "guidance_fr": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Federal Register Version, 88 Fed. Reg. 16,190 (Mar. 16, 2023)"
+    },
+    "noi_fr": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "NOI Federal Register Version, 88 Fed. Reg. 59,942 (Aug. 30, 2023)"
+    },
+    "decisions": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Review Board decision on SURYAST (December 11, 2023) Review Board Decision on Théâtre D'opéra Spatial (Sept. 5, 2023) Registration Decision on Zarya of the Dawn (Feb. 21, 2023) Review Board Decision on A Recent Entrance to Paradise (Feb. 14, 2022)"
+    },
+    "thaler": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Court of Appeals Decision Affirming Refusal of Registration"
+    },
+    "thaler_cert": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "U.S. Brief in Opposition to the Petition for a Writ of Certiorari"
+    },
+    "allen": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Allen v. Perlmutter U.S. Reply Brief and Response in Support of Cross-Motion for Summary Judgment"
+    },
+    "listening_literary": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "April 19, 2023 – Literary Works, Including Software Listening Session (recording available)"
+    },
+    "early_event": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Winter 2020 – Copyright in the Age of Artificial Intelligence"
+    },
+    "congress": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "USCO Letter to Congress Providing Updates on its Artificial Intelligence Initiative (December 16, 2024)"
+    },
+    "wipo_link": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "WIPO on Artificial Intelligence"
+    },
+    "operator": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "U.S. Copyright Office 101 Independence Ave. S.E. Washington, D.C."
+    },
+    "loc": {
+     "src": "copyright-office-ai--home",
+     "basis": "operator",
+     "quote": "Library of Congress"
+    },
+    "human_author_wp": {
+     "src": "copyright-office-ai--wikipedia",
+     "basis": "third_party",
+     "quote": "The United States Copyright Office has declared that works not created by a human author, like this \"selfie\" portrait taken by a monkey , are not eligible for copyright protection."
+    },
+    "de_minimis_wp": {
+     "src": "copyright-office-ai--wikipedia",
+     "basis": "third_party",
+     "quote": "For works using AI tools, the Copyright Office has made the test a different one i.e. whether there is no more than de minimis technological involvement."
+    },
+    "allen_disclaim_wp": {
+     "src": "copyright-office-ai--wikipedia",
+     "basis": "third_party",
+     "quote": "Allen is unwilling to disclaim the AI-generated material, the Work cannot be registered as submitted."
+    },
+    "ai_assisted_wp": {
+     "src": "copyright-office-ai--wikipedia",
+     "basis": "third_party",
+     "quote": "The Copyright Office further clarified in January 2025 that AI-assisted works where the creative expression of the human remains evident in the work can be copyrighted"
+    },
+    "courts_wp": {
+     "src": "copyright-office-ai--wikipedia",
+     "basis": "third_party",
+     "quote": "Both the federal and circuit courts in the District of Columbia have upheld the Copyright Office's refusal to register copyrights for works generated solely by machines"
+    },
+    "scotus_wp": {
+     "src": "copyright-office-ai--wikipedia",
+     "basis": "third_party",
+     "quote": "the Supreme Court of the United States has denied hearing challenges to the Copyright Office's decision."
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "wipo-frontier",
+     "note": "the Office's page lists 'WIPO on Artificial Intelligence' among its Related Resources"
+    },
+    {
+     "rel": "neighbour",
+     "target": "chatgpt-eating-the-world",
+     "note": "Chat GPT Is Eating the World's home page lists a story headed 'US Copyright Office registers copyright of AI-generated image'"
+    }
+   ],
+   "unchecked": [
+    "the Report's three Parts, the policy statement and the notice of inquiry themselves (linked; unsaved)",
+    "the four registration decisions and the Thaler and Allen briefs and decisions (linked; unsaved; the court outcomes beyond the link titles are known here from Wikipedia, a third party)",
+    "the Compendium of U.S. Copyright Office Practices (linked; unsaved)",
+    "the Wikipedia page's further account of other jurisdictions, outside this row"
+   ],
+   "sources": {
+    "copyright-office-ai--home": {
+     "url": "https://www.copyright.gov/ai/",
+     "read": "2026-11-01",
+     "sha256": "2b1e8b6c8e7f964e97adc035857c86f1e46b9ae94029573a5d99f0c24903bd8b",
+     "http": "200"
+    },
+    "copyright-office-ai--wikipedia": {
+     "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright",
+     "read": "2026-11-01",
+     "sha256": "7bd9785dfc31c6586850e387485fe75b4d4f7e8f3ea3f65d8799000581e2a2a9",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "gwu-dail",
+   "name": "DAIL – The Database of AI Litigation",
+   "aka": [
+    "DAIL",
+    "the Database of AI Litigation"
+   ],
+   "url": "https://blogs.gwu.edu/law-eti/ai-litigation-database/",
+   "operator": "the Ethical Tech Initiative, an interdisciplinary collaboration hosted on George Washington University's site (the page carries GW's footer: Contact GW, GW's Website Privacy Notice)",
+   "kind": "database of ongoing and completed litigation involving artificial intelligence, with a companion database of issued opinions",
+   "areas": [
+    "ai-authorship"
+   ],
+   "evidence_kind": [
+    "litigation record",
+    "catalogue"
+   ],
+   "unit": "a case, entered from complaint forward, whether or not it generates a published decision; the companion database holds issued opinions",
+   "record_object": "ongoing and completed litigation involving artificial intelligence and related topics, from algorithms used in hiring, credit and criminal sentencing decisions to generative AI training and AI companion liability",
+   "record": {
+    "keeps": "not recorded: the saved page describes the scope of cases; it names no parties, authors or works",
+    "name": "not recorded",
+    "holder": "the Ethical Tech Initiative on GW's site; access terms are not stated beyond GW's Terms of Use and Copyright links in the footer"
+   },
+   "method": "cases entered from complaint forward, as soon as the operator learns of them; the database accepts suggestions (a Suggestions tab on the page)",
+   "coverage": {
+    "geography": "not stated on the saved page",
+    "period": "ongoing and completed litigation; no start date stated"
+   },
+   "count": {
+    "value": "not stated in the saved source",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "a database of AI litigation with Scope, Guide, Credits and Suggestions tabs and search filters",
+    "a companion database of issued opinions"
+   ],
+   "stated_limits": [
+    "'While still under development, it will continue to expand over time.'"
+   ],
+   "answers": [
+    "whether a known lawsuit involving AI is entered, and its course from complaint forward, including cases without published decisions (subject to its search, unread here)"
+   ],
+   "does_not_answer": [
+    "how a court ruled on AI authorship in any named case (no case was read here)",
+    "the number of cases held or the jurisdictions covered (not on the saved page)",
+    "anything about pseudonymous or heteronymous authorship"
+   ],
+   "ls_reading": "The archive reads it as a docket-level record of litigation over AI, whose bearing on the census's question runs through whatever authorship cases it holds; the saved page shows none.",
+   "data_access": "a public web database with search filters (the database itself was not read)",
+   "license": "not stated (footer links GW's Terms of Use and Copyright pages)",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the page states the database is still under development and will continue to expand; no founding or update date on the saved page"
+   },
+   "version_and_time": {
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT limited to copyright or authorship: its scope runs from hiring, credit and sentencing algorithms to generative AI training and AI companion liability",
+    "NOT a database of published decisions only: it covers cases from complaint forward; opinions sit in a companion database",
+    "NOT complete by its own statement: it is still under development"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "The Database of AI Litigation presents information about ongoing and completed litigation involving artificial intelligence and related topics."
+    },
+    "method": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "It covers cases from complaint forward - as soon as we learn of them - whether or not they generate published decisions."
+    },
+    "scope": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "It is intended to be broad in scope, covering everything from algorithms used in hiring and credit and criminal sentencing decisions to generative AI training and AI companion liability."
+    },
+    "companion": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "A companion database of issued opinions is available here ."
+    },
+    "limit": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "While still under development, it will continue to expand over time."
+    },
+    "operator": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "We are an interdisciplinary collaboration: where law and ethics meet computer science and engineering, media and public affairs, and social entrepreneurship."
+    },
+    "operator_name": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "DAIL – The Database of AI Litigation – Ethical Tech Initiative"
+    },
+    "gw": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "Contact GW"
+    },
+    "tabs": {
+     "src": "gwu-dail--home",
+     "basis": "operator",
+     "quote": "Scope Guide Credits Suggestions"
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the database itself (its records, search filters, Scope, Guide and Credits tabs), which the saved page shows only as tab labels",
+    "the companion database of issued opinions",
+    "the Ethical Tech Initiative's About and Our Team pages (the saved text names no staff or school)"
+   ],
+   "sources": {
+    "gwu-dail--home": {
+     "url": "https://blogs.gwu.edu/law-eti/ai-litigation-database/",
+     "read": "2026-11-01",
+     "sha256": "0093afaa693252fb6b172df7246a9a286a89e91f65125e15c3e89a8730e387d4",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "chatgpt-eating-the-world",
+   "name": "Chat GPT Is Eating the World",
+   "aka": [
+    "ChatGPT is eating the world",
+    "chatgptiseatingtheworld.com"
+   ],
+   "url": "https://chatgptiseatingtheworld.com/",
+   "operator": "not named in the saved sources: the About page speaks as 'we'; a post on the home page speaks in the first person ('various individuals (myself included)'); it states it is not affiliated with OpenAI or other AI developers; a sister site, Claude Is Eating the World",
+   "kind": "news site and set of trackers on AI developments, chiefly AI copyright and tort litigation ('AI copyright & tort litigation, tracked in real time')",
+   "areas": [
+    "ai-authorship"
+   ],
+   "evidence_kind": [
+    "litigation record",
+    "critical commentary"
+   ],
+   "unit": "a news post on a case or filing, usually with the complaint or order to download; and tracker entries (a case, a suit on a map, a plaintiffs' firm)",
+   "record_object": "lawsuits against AI companies, chiefly copyright suits in the U.S. (with a world map), and tort, BIPA, data-center, web-scraping and AI-agent cases; an AI & Authorship Tracker is listed in its menus",
+   "record": {
+    "keeps": "not recorded as authorship: it keeps the record of suits against AI companies, with plaintiffs named in its posts (authors among them, as in a textbook authors' letter on the Bartz v. Anthropic settlement)",
+    "name": "not recorded: the AI & Authorship Tracker named in its menus was not read",
+    "holder": "the site's unnamed operator, on WordPress, with a Substack newsletter; no license stated"
+   },
+   "method": "news-derived tracking of court filings and dockets, posted as stories with downloadable complaints and orders, and compiled into trackers, maps, a master list, a timeline and a master chart of claims; the author also writes opinion pieces and filed an amicus brief in the OpenAI MDL",
+   "coverage": {
+    "geography": "U.S. chiefly; a world map counts suits in the rest of the world",
+    "period": "monthly archives from January 2023 to October 2026"
+   },
+   "count": {
+    "value": "157 copyright suits v. AI companies (the latest map story); the U.S. map block reads 148 suits in the U.S., last updated Oct. 8, 2026; the world map block reads 130 (100 U.S. + 30 rest of world), last updated April 5, 2026",
+    "as_of": "the home page as read 2026-11-01"
+   },
+   "holdings": [
+    "a map of copyright suits v. AI companies: total 157 in the latest story",
+    "trackers: AI Copyright Case, AI Authorship, AI Tort Lawsuit, AI Data Center Lawsuits, BIPA Litigation, Web Scraping & AI Agents, Plaintiffs' Firms (beta)",
+    "a Master List of Lawsuits v. AI (last updated Dec. 5, 2025) and a Master Chart of Claims (last updated Mar. 31, 2026)",
+    "an opinion piece 'How courts should analyze authorship with AI'"
+   ],
+   "stated_limits": [
+    "the infographic of AI companies sued is 'In need of updating TBA'",
+    "the Plaintiffs' Firms tracker 'is still in beta and we are fixing a few glitches'",
+    "the amicus count is 'By my unofficial count'",
+    "its trackers carry their own last-updated dates, which differ (the U.S. map at 148 and the latest map story at 157)"
+   ],
+   "answers": [
+    "which copyright and tort suits against AI companies the site has counted, and when it counted them",
+    "the course of a named case as its posts report it, with the filed documents to download"
+   ],
+   "does_not_answer": [
+    "how any authorship question was decided (the AI & Authorship Tracker was not read)",
+    "who runs the site (not named in the saved sources)",
+    "a stable single total: its counts differ by tracker and date"
+   ],
+   "ls_reading": "The archive reads it as a record of authors and rights holders as plaintiffs against AI companies, where the question is use of their works in training; the authorship question proper sits in its AI & Authorship Tracker and its opinion piece, both unread here.",
+   "data_access": "free public website; downloadable complaints, orders and maps; a free Substack newsletter",
+   "license": "not stated in the saved sources",
+   "lifecycle": {
+    "state": "active",
+    "detail": "posts through October 2026 (a hearing set for Oct. 30); the U.S. map updated Oct. 8, 2026; monthly archives from January 2023"
+   },
+   "founded": "not stated; the archives begin January 2023",
+   "version_and_time": {
+    "us_map_updated": "2026-10-08",
+    "world_map_updated": "2026-04-05",
+    "master_list_updated": "2025-12-05",
+    "master_chart_updated": "2026-03-31",
+    "archives_from": "2023-01",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT affiliated with OpenAI or the developers of the AI systems it discusses, by its own disclaimer",
+    "NOT a neutral docket service: its author files amicus briefs and writes opinion pieces",
+    "NOT an authorship registry: its record is of lawsuits"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "chatgpt-eating-the-world--about",
+     "basis": "operator",
+     "quote": "We track the latest developments in AI. We view the advances in these AI technologies as one of the most significant transformations of society in the 21st century."
+    },
+    "disclaimer": {
+     "src": "chatgpt-eating-the-world--about",
+     "basis": "operator",
+     "quote": "DISCLAIMER : We are not affiliated in any way with OpenAI, or the developers of other AI systems discussed."
+    },
+    "sister": {
+     "src": "chatgpt-eating-the-world--about",
+     "basis": "operator",
+     "quote": "Visit our sister site Claude Is Eating the World:"
+    },
+    "tagline": {
+     "src": "chatgpt-eating-the-world--about",
+     "basis": "operator",
+     "quote": "AI copyright & tort litigation, tracked in real time."
+    },
+    "authorship_tracker": {
+     "src": "chatgpt-eating-the-world--about",
+     "basis": "operator",
+     "quote": "AI & Authorship Tracker"
+    },
+    "count_157": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "We added 9 new lawsuits. The new total is 157 copyright suits v. AI companies."
+    },
+    "us_map": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "last updated Oct. 8, 2026. Current total = 148 suits in U.S."
+    },
+    "world_map": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "last updated April 5, 2026. Current total = 130 copyright suits = 100 in U.S. + 30 in rest of world."
+    },
+    "master_list": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "Master List of Lawsuits v. AI last updated Dec. 5, 2025."
+    },
+    "master_chart": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "Master Chart of Claims in Cases Last updated Mar. 31, 2026"
+    },
+    "infographic": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "In need of updating TBA"
+    },
+    "beta": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "This is still in beta and we are fixing a few glitches"
+    },
+    "amicus": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "This week, various individuals (myself included) and entities have asked Judge Stein for leave to file amicus briefs in the OpenAI MDL litigation. By my unofficial count, 52 proposed amicus briefs were filed"
+    },
+    "authors_plaintiffs": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "Academic textbook authors voice concerns about their publishers seeking 85% cut of Bartz settlement distribution"
+    },
+    "opinion": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "Opinion: How courts should analyze authorship with AI"
+    },
+    "usco": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "US Copyright Office registers copyright of AI-generated image"
+    },
+    "hearing": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "sets 2d hearing to continue Daubert hearing on Oct. 30, 1 PM"
+    },
+    "archives_start": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "February 2023 January 2023 Featured Articles"
+    },
+    "newsletter": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "Subscribe to our Free substack Newsletter"
+    },
+    "wordpress": {
+     "src": "chatgpt-eating-the-world--home",
+     "basis": "operator",
+     "quote": "Powered by WordPress"
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "copyright-office-ai",
+     "note": "the home page lists a story headed 'US Copyright Office registers copyright of AI-generated image'"
+    }
+   ],
+   "unchecked": [
+    "the AI & Authorship Tracker (named in the menus; unsaved)",
+    "the opinion piece 'How courts should analyze authorship with AI' and the story on the Copyright Office registration",
+    "the case trackers, maps and master list themselves",
+    "the operator's name (not in the saved sources)"
+   ],
+   "sources": {
+    "chatgpt-eating-the-world--about": {
+     "url": "https://chatgptiseatingtheworld.com/about/",
+     "read": "2026-11-01",
+     "sha256": "d1d519f5940d767af4571d408aed99955ba14127f3b6056d51b1f751c3eee327",
+     "http": "200"
+    },
+    "chatgpt-eating-the-world--home": {
+     "url": "https://chatgptiseatingtheworld.com/",
+     "read": "2026-11-01",
+     "sha256": "e2359288b14888f564bddacdacbcda8b5c4b1a5586ca7e8d633db62bb9764d39",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "authors-guild-human-authored",
+   "name": "Human Authored Certification",
+   "aka": [
+    "Human Authored",
+    "Human Authored Database",
+    "Human Author certification mark"
+   ],
+   "url": "https://authorsguild.org/human-authored/",
+   "operator": "the Authors Guild",
+   "kind": "certification: a project of the Authors Guild that lets an author certify that their book is created by a human, with a public database of certifications and a certification mark",
+   "areas": [
+    "ai-authorship"
+   ],
+   "evidence_kind": [
+    "certification",
+    "catalogue"
+   ],
+   "unit": "a certification of one book title, with a Human Authored registration number, listed in the public database",
+   "record_object": "books published in the United States whose authors certify that the text was written by a human and not generated by AI, minimal uses excepted",
+   "record": {
+    "keeps": "the author's own certification that a human wrote the text of a book, for any author with a book published in the United States who agrees to the licensing terms",
+    "name": "not recorded on the saved page: the database is searchable by title, authors or registration number; the page does not say whether a certification may carry a pen name; non-members must verify their identity through a third-party service, members are exempt from that requirement",
+    "holder": "the Authors Guild, under a licensing agreement each certifying author signs; free to Guild members (included in dues), $10 per title for non-members; certifications are listed in a public database"
+   },
+   "method": "author self-certification under a licensing agreement, through the Human Authored portal; identity verification through a third-party service for non-members",
+   "coverage": {
+    "geography": "books published in the United States",
+    "period": "not stated on the saved page"
+   },
+   "count": {
+    "value": "not stated in the saved source",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "a public database of Human Authored certifications, searchable by title, authors or registration number",
+    "a certification mark with usage guidelines",
+    "an announcement of the expanded program and FAQs (linked, unread)"
+   ],
+   "stated_limits": [
+    "'with the exception of minimal uses such as AI applications that check spelling and grammar or for research'",
+    "available only to 'authors with books published in the United States who agree to the licensing terms'",
+    "the certification covers 'the text of the book'"
+   ],
+   "answers": [
+    "whether a named book carries a Human Authored certification, and its registration number",
+    "on what terms an author may certify a book (fee, identity verification, licensing agreement)"
+   ],
+   "does_not_answer": [
+    "whether a certified text was in fact written without AI (the record is the author's certification; no verification of the text is stated)",
+    "whether an author may certify under a pen name or heteronym (not on the saved page)",
+    "anything about books published outside the United States"
+   ],
+   "ls_reading": "The certificate holds a book as real work by a human against the verdict of machine origin, and asks the non-member author for identity verification. The archive reads it as a counter to the existence tax of #1722 for the work, whose identity condition is where #940's civil-name reduction would meet it; the saved page does not say whether the certificate carries the name the author chose.",
+   "data_access": "a public database for lookups; certification through the Human Authored portal (Guild login, or an account for non-members)",
+   "license": "each certifying author agrees to the program's licensing terms (unread); the site is '© Authors Guild All Rights Reserved.'",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the page links an announcement of the expanded Human Authored program; no launch date on the saved page"
+   },
+   "version_and_time": {
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a test or detection of AI text: it records the author's own certification",
+    "NOT a copyright registration",
+    "NOT limited to Authors Guild members: non-members may certify for $10 per title with identity verification",
+    "NOT a certification of the whole book: it covers the text"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Human Authored is a project of the Authors Guild that allows an author to certify that their book is created by a human."
+    },
+    "definition": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "“Human Authored” means that the text of the book was written by a human and not generated by AI, with the exception of minimal uses such as AI applications that check spelling and grammar or for research."
+    },
+    "coverage": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Human Authored certification is available to all authors with books published in the United States who agree to the licensing terms."
+    },
+    "membership": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Membership is not required but the $10/title fee and identity verification requirement are waived for Authors Guild members."
+    },
+    "database": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Human Authored certifications are listed in a public database where anyone can verify a book’s human origins. You can search for a title, authors, or Human Authored registration number to see and confirm the certification details."
+    },
+    "requirements": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Identity Verification Not required Required Cost Free! (included in dues) $10/title"
+    },
+    "identity": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "You will have to verify your identity through a third-party service and pay a $10/title registration fee."
+    },
+    "tagline": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Distinguish human creativity in an increasingly AI world."
+    },
+    "expanded": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Announcement of the expanded Human Authored program"
+    },
+    "mark": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "Usage guidelines for the Human Author certification mark"
+    },
+    "license": {
+     "src": "authors-guild-human-authored--home",
+     "basis": "operator",
+     "quote": "© Authors Guild All Rights Reserved."
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the public Human Authored database (no lookup was run)",
+    "the licensing agreement, the FAQs, the usage guidelines and the announcement of the expanded program (linked; unsaved)",
+    "the program's launch date and the number of certifications (not on the saved page)",
+    "any rule on pen names or pseudonyms (not on the saved page)"
+   ],
+   "sources": {
+    "authors-guild-human-authored--home": {
+     "url": "https://authorsguild.org/human-authored/",
+     "read": "2026-11-01",
+     "sha256": "719fb6415db6ce4d55269cc4029350404beece9134ef06756231b6b92855e8fc",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "wipo-frontier",
+   "name": "IP and Frontier Technologies",
+   "aka": [
+    "WIPO Conversation on Intellectual Property and Frontier Technologies",
+    "WIPO Conversation",
+    "IP and Frontier Technologies Division"
+   ],
+   "url": "https://www.wipo.int/en/web/frontier-technologies",
+   "operator": "the World Intellectual Property Organization (WIPO): its IP and Frontier Technologies Division, with the IP Futures and Knowledge Management Section",
+   "kind": "WIPO's program page on IP and frontier technologies, and the WIPO Conversation, 'an open, inclusive, multi-stakeholder forum' on the impact of frontier technologies on IP rights, which ran 12 sessions from 2019",
+   "areas": [
+    "ai-authorship"
+   ],
+   "evidence_kind": [
+    "consultation record",
+    "policy statement"
+   ],
+   "unit": "a session of the WIPO Conversation on one theme (sessions on AI and IP policy, AI inventions, generative AI and the creation of music and images, generative AI inputs and outputs, copyright infrastructure); and topic pages on single frontier technologies",
+   "record_object": "the impact of frontier technologies (AI including GenAI, quantum computing, the metaverse, blockchain, data) on the IP system; on AI, questions from patent eligibility to ownership of AI-assisted creative output and copyright exceptions for training data",
+   "record": {
+    "keeps": "not recorded as authorship of any work: it records policy discussion among Member States and stakeholders; the page states that the IP system 'was developed with a focus on human creation and innovation' and sets the task of promoting 'human-centered innovation and creativity'",
+    "name": "not recorded",
+    "holder": "WIPO, an intergovernmental organization with Member States; sessions open to registration; the session records themselves are linked as past sessions"
+   },
+   "method": "multi-stakeholder forum sessions open to registration (Member States, academia, IP professionals, enterprises, civil society); an annual public event on one frontier technology; factsheets and newsletters",
+   "coverage": {
+    "geography": "global: participants from 172 countries",
+    "period": "the Conversation 2019 to 2025 (12 sessions); IP and AI discussion moves to the Global Forum on IP and AI from November 2026"
+   },
+   "count": {
+    "value": "12 sessions over 6 years, nearly 17,000 participants from 172 countries (program page); the Conversation page reads almost 12,000 participants from 172 countries over 5 years",
+    "as_of": "program page as read 2026-11-01; the Conversation page announces the eleventh session (April 2025)"
+   },
+   "holdings": [
+    "12 sessions of the WIPO Conversation (2019 to 2025), Conversation 12 on synthetic media (October 31, 2025)",
+    "the tenth session, 'Generative AI: IP and Output', on whether AI-generated content should be eligible for copyright protection",
+    "the eleventh session (April 23 and 24, 2025) on copyright infrastructure: rights management, attribution and compensation",
+    "factsheets on IP and frontier technologies and the metaverse"
+   ],
+   "stated_limits": [
+    "'there is no agreed definition' of frontier technologies",
+    "the Conversation has ended for AI: 'Going forward, IP and AI discussions will move to WIPO's Global Forum on IP and AI , launching in November 2026'",
+    "the two saved pages give different participant counts (nearly 17,000 over 6 years; almost 12,000 over 5 years)"
+   ],
+   "answers": [
+    "which AI and IP questions WIPO put to its multi-stakeholder forum, session by session, and when",
+    "WIPO's stated frame for the IP system and frontier technologies (human-centered innovation and creativity)"
+   ],
+   "does_not_answer": [
+    "what any Member State's law holds on AI authorship (the forum is discussion)",
+    "what was said in any session (session records linked, unread)",
+    "anything about pseudonymous or heteronymous authorship"
+   ],
+   "ls_reading": "The archive reads its eleventh session's terms, 'rights management, attribution, and compensation' under a 'copyright infrastructure', as the international policy layer where the attribution #940 describes is being designed; the saved pages state no rule on the name under which a creator is attributed.",
+   "data_access": "public web pages; session programs and recordings linked as past sessions; newsletters by subscription",
+   "license": "not stated on the saved pages (WIPO's disclaimer page is linked)",
+   "lifecycle": {
+    "state": "active",
+    "detail": "the Division is active (IP and Quantum Computing, October 15, 2026; the AI Infrastructure Interchange launched March 27, 2026); the WIPO Conversation ran 2019 to 2025 over 12 sessions and is ended as the AI forum, its IP and AI discussion moving to the Global Forum on IP and AI from November 2026; the saved Conversation page still announces the eleventh session"
+   },
+   "founded": "2019 (the WIPO Conversation)",
+   "version_and_time": {
+    "conversation_launch": "2019",
+    "session_11": "2025-04-23/24",
+    "conversation_12": "2025-10-31",
+    "ai_interchange": "2026-03-27",
+    "quantum_event": "2026-10-15",
+    "global_forum": "November 2026",
+    "read": "2026-11-01"
+   },
+   "negative_tags": [
+    "NOT a treaty or a norm-setting committee: the Conversation is a discussion forum",
+    "NOT limited to AI: its frontier technologies include quantum computing, the metaverse, blockchain and data",
+    "NOT continuing as the AI forum: IP and AI discussion moves to the Global Forum on IP and AI from November 2026",
+    "NOT a registry of works or authors"
+   ],
+   "evidence": {
+    "self_description": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "Exploring the opportunities and challenges of frontier technologies in an interconnected world"
+    },
+    "operator": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "At WIPO, the IP and Frontier Technologies Division, in close collaboration with the IP Futures and Knowledge Management Section, facilitates discussion and knowledge building among Member States and stakeholders on how frontier technologies interact with IP, supporting well‑informed policy choices."
+    },
+    "human_focus": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "The IP system that we have today was developed with a focus on human creation and innovation"
+    },
+    "human_centered": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "One of the important tasks that we face today is to ensure that the current IP system continues to promote human-centered innovation and creativity in the age of frontier technologies."
+    },
+    "ai_questions": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "These questions implicate issues ranging from patent eligibility, to ownership of AI-assisted creative output and innovations, to the scope of copyright exceptions and limitations in the context of AI training data."
+    },
+    "no_definition": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "although there is no agreed definition for this concept"
+    },
+    "conversation_count": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "Launched in 2019, the WIPO Conversation on Intellectual Property and Frontier Technologies served as the leading global forum for policymakers, industry, academia, and civil society to discuss the impact of emerging technologies on the IP system."
+    },
+    "conversation_reach": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "Across 6 years and 12 sessions, the WIPO Conversations have engaged nearly 17,000 participants from 172 countries."
+    },
+    "global_forum": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "Going forward, IP and AI discussions will move to WIPO’s Global Forum on IP and AI , launching in November 2026."
+    },
+    "annual_event": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "will organize an annual public event to examine their longer-term implications for the IP system."
+    },
+    "quantum": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "October 15, 2026 (virtual)"
+    },
+    "interchange": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "WIPO Launches Artificial Intelligence Infrastructure Interchange March 27, 2026"
+    },
+    "conversation_12": {
+     "src": "wipo-frontier--home",
+     "basis": "operator",
+     "quote": "WIPO Conversation 12: Synthetic Media Create New Avenues for Creativity, Challenges for Policymakers October 31, 2025"
+    },
+    "conversation_def": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "The WIPO Conversation is an open, inclusive, multi-stakeholder forum intended to provide stakeholders with a leading, global setting to discuss the impact of frontier technologies on all IP rights and to bridge the existing information gap in this fast moving and complex field."
+    },
+    "conversation_reach_2": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "Over the last 5 years, almost 12’000 people have participated in the WIPO Conversation, from 172 countries"
+    },
+    "session_11": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "It will address the challenges AI poses to traditional copyright infrastructure, including issues of rights management, attribution, and compensation"
+    },
+    "session_11_date": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "The Eleventh session of the WIPO conversation will take place on April 23 and 24, 2025."
+    },
+    "session_10": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "offered a platform for stakeholders to explore the questions whether AI-generated content should be eligible for copyright protection and existing and emerging regulatory frameworks."
+    },
+    "human_creativity": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "Copyright infrastructure will have a profound effect on whether the IP system can recognize and support human creativity while acknowledging the transformative potential of AI"
+    },
+    "sessions_ai": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "The eighth session covered impact of GenAI on creation of music, images, and other forms of content and a multitude of IP questions related to it."
+    },
+    "sessions_early": {
+     "src": "wipo-frontier--conversation",
+     "basis": "operator",
+     "quote": "The first three sessions of the WIPO Conversation looked at AI and IP policy and discussed general questions."
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "copyright-office-ai",
+     "note": "the U.S. Copyright Office's AI page lists 'WIPO on Artificial Intelligence' among its Related Resources"
+    }
+   ],
+   "unchecked": [
+    "the session records of the WIPO Conversation (programs, recordings, papers), linked as past sessions; unsaved",
+    "WIPO's IP and AI page and the Global Forum on IP and AI",
+    "the factsheets",
+    "the program page also carries a placeholder line ('Lorem ipsum dolor sit amet') in its on-page navigation, left as found"
+   ],
+   "sources": {
+    "wipo-frontier--home": {
+     "url": "https://www.wipo.int/about-ip/en/frontier_technologies/",
+     "read": "2026-11-01",
+     "sha256": "27f679bd7b81c38a514aae516c773f3d38d723b1b230f96e88474d86b328e8d1",
+     "http": "200"
+    },
+    "wipo-frontier--conversation": {
+     "url": "https://www.wipo.int/about-ip/en/frontier_technologies/frontier_conversation.html",
+     "read": "2026-11-01",
+     "sha256": "a44aed24538cda7a4c02dd5c0a1685bd55d696df620b55b1497bcf22e7e58d83",
+     "http": "200"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  },
+  {
+   "slug": "cope-ai",
+   "name": "Authorship and AI tools (COPE position; the name as the page's address gives it, the page itself unread)",
+   "aka": [
+    "COPE position on authorship and AI tools"
+   ],
+   "url": "https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools",
+   "operator": "not recorded from a readable source: the page sits on publicationethics.org, whose server refused the fetch",
+   "kind": "not recorded: the address files it under guidance, as a position ('guidance/cope-position'); its own self-description was not read",
+   "areas": [
+    "ai-authorship"
+   ],
+   "evidence_kind": [
+    "policy statement"
+   ],
+   "unit": "not recorded (the page was not read; the address suggests a single position statement)",
+   "record_object": "not recorded: the address names authorship and AI tools; what the position covers was not read",
+   "record": {
+    "keeps": "not recorded (source refused)",
+    "name": "not recorded (source refused)",
+    "holder": "not recorded (source refused)"
+   },
+   "method": "not recorded (source refused)",
+   "coverage": {
+    "geography": "not recorded",
+    "period": "not recorded"
+   },
+   "count": {
+    "value": "not recorded",
+    "as_of": "2026-11-01"
+   },
+   "holdings": [
+    "not recorded: the only saved source is a refusal page (HTTP 403), carrying no text of the position"
+   ],
+   "stated_limits": [
+    "not recorded (source refused)"
+   ],
+   "answers": [
+    "only that a page titled by its address as a COPE position on authorship and AI tools exists at this URL, and that the census's fetch of it on 2026-11-01 was refused with HTTP 403"
+   ],
+   "does_not_answer": [
+    "what the position says on whether AI tools can be authors",
+    "what it requires of human authors (disclosure, responsibility)",
+    "anything about pseudonymous, heteronymous or collective authorship",
+    "its date, version or operator, from its own words"
+   ],
+   "ls_reading": "The source was not read, so the census records no reading of where the position meets #940 or #1722.",
+   "data_access": "a public web page by its address; the fetch for this census was blocked by the site's security service (HTTP 403)",
+   "license": "not recorded",
+   "lifecycle": {
+    "state": "active",
+    "detail": "not recorded from the source: the census assumes nothing beyond the page's address answering with a refusal on 2026-11-01; the state field holds the schema's default and is unverified"
+   },
+   "version_and_time": {
+    "fetch_refused": "2026-11-01",
+    "read": "not read"
+   },
+   "negative_tags": [
+    "NOT read: the only saved source is a refusal page (HTTP 403), and nothing in this row comes from the position itself",
+    "NOT quoted: no text of the position is held"
+   ],
+   "evidence": {
+    "source_refused": {
+     "src": "cope-ai--home",
+     "basis": "operator",
+     "quote": ""
+    }
+   },
+   "relations": [],
+   "unchecked": [
+    "the position page itself: the fetch of 2026-11-01 returned HTTP 403 (a security-service refusal page, 794 characters), so it is unread and unquoted; every substantive field above is 'not recorded' for that reason",
+    "the operator's own name and description (not taken from the address or from outside knowledge)"
+   ],
+   "sources": {
+    "cope-ai--home": {
+     "url": "https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools",
+     "read": "2026-11-01",
+     "sha256": "4ef7e09c420a3eea7c88cea3bc98bbde01be06b674b23c3f7a59ceda4d5acab4",
+     "http": "403"
+    }
+   },
+   "observed": {
+    "on": "2026-11-01",
+    "fetch": "read"
+   }
+  }
+ ]
+}
