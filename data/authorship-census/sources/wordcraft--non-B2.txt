@@ -1,0 +1,59 @@
+The Wordcraft Writers Workshop: Creative Co-Writing with AI
+
+Plugins
+Demos
+Blog
+Research
+
+Plugins
+Demos
+Blog
+Research
+
+The Wordcraft Writers Workshop: Creative Co-Writing with AI
+
+ Dec 1, 2022
+
+ Daphne Ippolito
+
+ Andy Coenen
+
+cannoneyed
+
+_coenen
+
+ Ann Yuan
+
+greenbeandou
+
+ Sehmon Burnam
+
+sehmon
+
+sehmonb
+
+A core piece of Magenta’s mission is to empower creativity using AI and machine learning. In order to evaluate how well this goal is being achieved, it is important to put tools in the hands of creators, encouraging them to share honest and critical feedback. This feedback can help researchers to thoughtfully develop the next generations of ML-powered creative tools. Most of our prior efforts to engage with creators have been in the domain of music (for example, Magenta Studio and NSynth).
+
+However, human creativity encompasses far more than just music: visual artists paint, draw, and sculpt, and writers craft stories and poetry. In recent years, we’ve seen huge advancements in machine learning techniques that can facilitate creativity in these other modalities. Creative writing is an especially interesting domain because it is so challenging for AI to get right. Even short stories commonly have narrative arcs that span paragraphs or longer, multiple characters with diverging points of view, and a careful balance of familiar archetypes and novel storytelling–all difficult traits for state-of-the-art AI to replicate. At the same time, the omnipresent writer’s block is not a problem at all for neural language models like LaMDA, which can effortlessly generate as many words as you ask them for.
+
+Earlier this year, we invited a cohort of 13 professional creative writers to try their hands at writing stories using Wordcraft, an AI-augmented text editor with a wide range of generative capabilities targeted at creative writing assistance. Wordcraft can suggest story ideas, rewrite text according to user-provided instructions, and elaborate on what has already been written. It also has a chatbot interface where users can engage with LaMDA, Google’s dialog-based language model, about their stories.
+
+ A demo of the Wordcraft web application
+
+As in generative music, AI-assisted story writing can be a mixed bag. At its best, Wordcraft made suggestions that were inspiring and surrealistic, and writers applauded its usefulness for ideation and overcoming writer’s block. However, it also had a tendency to rehash tired tropes, and it could take wading through many dull suggestions before finding an interesting one.
+
+All of the writers’ stories are available in the Wordcraft Writer’s Workshop’s digital literary magazine, and a detailed writeup of what we learned about the role machine learning can play in creative writing can be found here.
+
+We hope you enjoy perusing through the stories, and we are excited to hear your ideas about how AI can create valuable creative writing tools.
+
+ Discord
+
+ Twitter
+
+ Blog
+
+ GitHub
+
+ Privacy
+
+ Terms

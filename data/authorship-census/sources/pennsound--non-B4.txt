@@ -1,0 +1,30 @@
+[<meta> fields, from the page head]
+description: PennSound is a Web-based archive for noncommercial distribution of the largest collection of poetry sound files on the Internet.  It is an ongoing project, c...
+og:title: PennSound
+og:description: PennSound is a Web-based archive for noncommercial distribution of the largest collection of poetry sound files on the Internet.  It is an ongoing project, committed to producing new audio recordings and preserving existing audio archives.
+
+All PennSound recordings are made available for noncommercial and educational use only; the featured writers and artists retain all copyrights to their work.
+
+PennSound is a project of the Center for Programs in Contemporary Writing at the University of Pennsylvania.
+
+Contact us at pennsound@writing.upenn.edu.
+
+Charles Bernstein and Al Filreis, Directors
+Michael S. Hennessey, Managing Editor
+Mark P. Lindsay, Managing Director
+twitter:description: PennSound is a Web-based archive for noncommercial distribution of the largest collection of poetry sound files on the Internet.  It is an ongoing project, committed to producing new audio recordings and preserving existing audio archives.
+
+All PennSound recordings are made available for noncommercial and educational use only; the featured writers and artists retain all copyrights to their work.
+
+PennSound is a project of the Center for Programs in Contemporary Writing at the University of Pennsylvania.
+
+Contact us at pennsound@writing.upenn.edu.
+
+Charles Bernstein and Al Filreis, Directors
+Michael S. Hennessey, Managing Editor
+Mark P. Lindsay, Managing Director
+
+[page text, scripts and styles stripped]
+About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC
+
+ PennSound - YouTube

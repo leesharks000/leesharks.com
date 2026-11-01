@@ -1,0 +1,99 @@
+Creative AI Lab
+Creative AI Lab
+Database
+Tools
+Resources
+About
+Research
+Since 2019 the Creative AI Lab has been a space for long-term research by Serpentine Arts Technologies and the King’s College London Department of Digital Humanities into artistic practices (and their attendant collaborators) working with AI/ML.
+By focusing on the ‘back-end’ environment of artistic production, the Lab uses artistic practice and prototyping to speculate about systemic impacts of emerging tools, systems and infrastructures both within the arts & humanities but also, importantly, in terms of wider public interest. Tool entries after 2023 are evaluated in their description, based on the core criteria of transparency, creative malleability, technical interoperability, calibre of research, and propensity to redistribute [ read more about these here]. Taken together, these criteria assess how a tool might fit into an ever-evolving ecosystem of critically-engaged technologies. This evaluation aims to keep users informed about the range of possibility each tool offers, alongside the externalities it brings to their working practice, the wider creative community and the public. It will inform future research from the Lab in 23-24 into the public value of artistic practice that engages with AI.
+Members
+Affiliation
+Professor Mercedes Bunz
+Department of Digital Humanities, KCL
+Dr Daniel Chávez Heras
+Department of Digital Humanities, KCL
+Eva Jäger
+Arts Technologies, Serpentine, London
+Dr Serena Lervolino
+Culture, Media & Creative Industries, KCL
+Alasdair Milne
+LAHP PhD Researcher, Department of Digital Humanities, KCL
+Professor Joanna Zylinska
+Department of Digital Humanities, KCL
+Partners
+Serpentine Arts Technologies, London
+Department of Digital Humanities, King's College London
+NYU Digital Theory Lab, New York University
+Rhizome, New Museum, New York
+Gray Area, San Francisco
+Timeline
+Activity
+March 2024
+Future Art Ecosystems 4 launch at Reference Point streamed on Twitch
+March 2024
+Serpentine Arts Technologies launch Future Art Ecosystems 4: Art x Public AI
+February 2024
+Dmstfctn ft. Evita Manji: Waluigi’s Purgatory performance at HQI, London
+June 2023
+Lab attends LLM Conference at NYU Prague with research presentations by Mercedes Bunz and Alasdair Milne
+June 2023
+Art x Public AI presented by Eva Jäger and Alana Kushnir (Serpentine Legal Lab PI) at Alan Turing Institute AI Art Network at City College
+June 2023
+Art x Public AI Roundtable No. 2 at Somerset House
+May 2023
+Lab awarded British Council CTC grant for Temporal Stack: Infrastructural Engagement Through AI & Art across China and UK; Eva Jäger and Iris Long undertake 7-days of field research at data centers and data analysis facilities in GuiZhou, China (publication forthcoming)
+April 2023
+Art x Public AI Roundtable No. 1 at KCL
+March 2023
+‘Large Lore Models’ in Autonomous Worlds reader (Eva Jäger, Alasdair Milne, Dmstfcn)
+Jan 2023
+Alasdair Milne and Daniel Chávez Heras presents at Transmediale with LSBU and Aarhus University
+Jan 2023
+Mercedes Bunz presents work from the Lab during Goethe Annual Lecture 2022 with lecture Q&A hosted by Eva Jäger
+Nov 2022
+Creative AI Position Paper is published via Lab Database
+Oct 2022
+Lab hosts Creative AI Theory & Practice symposium at King’s College London
+Aug 2022
+Eva Jäger presents on the Lab at Electric Dreams organised by the Computational Media and Arts Thrust (CMA) at The Hong Kong University of Science and Technology (Guangzhou)
+June 2022
+Lab present ‘ Creative AI Futures: Theory and Practice’ at EVA 2022 Conference London
+April 2021
+Lab awarded Artist Machine Intelligence human research funding
+Jan 2021
+Monthly reading group begins with Digital Theory Lab NYU [ongoing]
+Feb 2021
+Lab is part of Liverpool Biennial‘s Journal Stages #9, The Next Biennial Should be Curated by a Machine
+June 2021
+Mercedes Bunz and Eva Jäger present their academic research at Art Machines II conference in Hong Kong
+May 2021
+R&D Labyrinths series debuts, a prototype of the Creative AI Lab which becomes part of Serpentine‘s Digital Commission programme in 2022 (created in collaboration with Trust)
+Dec 2020
+Curatorial Capabilities for ML roundtable at KCL hosted by Eva Jäger, Alasdair Milne and Serena Iervolino
+Oct 2020
+Maggie Roberts/0rphan Drift and Etic Lab enter into long-term collaboration around the ISCRI Project
+Jul 2020
+Official launch of Creative AI Lab and database with Luba Elliot as part of Serpentine’s Future Art Ecosystems + R&D Plat- form kick-off
+April 2020
+Research Creative AI as a Medium in Artistic and Curatorial Practice funded by LAHP, Alasdair Milne appointed
+Jan 2020
+Lab awarded UK Research and Innovation funding
+Dec 2019
+Roundtable at KCL—Neural Networks in the Gallery
+Nov 2019
+Experimental ‘HUO9000’ project linked to language processing, data cleaning and interface design with Dr Andrew Starkey (University of Aberdeen), Allison Parrish and DVTK is assembled as part of AHRC grant bid
+Nov 2019
+Roundtable at Trust in Berlin—Working & Creating with Machine Learning Acknowledgments
+Acknowledgments
+We owe many people thanks for their contributions to the making of the Creative AI Lab starting with Sumitra Upham for initially putting Eva Jäger and Mercedes Bunz in contact. We are indebted to the Design Museum London for initially supporting our interest in AI by hosting two workshops on ‘The (Missing) Interface of New AI’; the insights gained during those seminars are still key to our research. For their fantastic support positioning the lab, many thanks to Serpentine‘s team: Ben Vickers, Kay Watson, Sophie Netchaef and Victoria Ivanova. We are grateful also to the Department of Digital Humanities, King’s College London, especially Delphine van der Pauw who spotted every mistake we overlooked in our AHRC grant application and Jack Gordon who carefully manages our budget. For his natural skepticism and warm support, thanks to Tobias Blanke (University of Amsterdam). Our work is also informed by conver- sations with Suzanne Livingston, Murad Khan, Daniel Chávez Heras, Allison Parish, Luba Elliott, Julia Kaganskiy, James Wreford, Jules LaPlace, Ricardo Savedro, Natalie Kane, Leonardo Impett among others. Most of all, this project would not exist without the work of the artists, programmers and theorists who contribute to this project and to the field at large. Thank you!
+200 characters left.
+200 characters left.
+200 characters left.
+200 characters left.
+Please add me to the Serpentine Arts Technologies newsletter
+I'd like to receive email updates from Serpentine
+Creative AI lab is a collaboration between
+Creative AI lab is supported by
+© Serpentine 2026
+Privacy Policy

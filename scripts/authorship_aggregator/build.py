@@ -52,6 +52,8 @@ CSS = """<style>
 .agg table{border-collapse:collapse;width:100%;font-size:.92em;margin:1em 0}.agg td,.agg th{border-top:1px solid rgba(90,63,14,.18);padding:.42em .5em;vertical-align:top;text-align:left}
 .agg th{width:30%;font-weight:normal;font-variant:small-caps;letter-spacing:.05em;color:#5a3f0e}
 .agg ul{line-height:1.6;margin-top:.4em;padding-left:1.2em}.agg li{margin:.25em 0}
+.agg .kernel{font-size:1.18em;line-height:1.55;margin:.6em 0 1em}
+.agg .art p{line-height:1.7;margin:.6em 0 .2em}.agg .art .d{font-size:.8em;opacity:.7;margin:0 0 .8em}
 .agg .ev{font-size:.88em}.agg .ev li{margin:.55em 0}.agg .ev q{font-style:italic}
 .agg .src{font-family:'PlexMono',Consolas,monospace;font-size:.62rem;color:#5a3f0e;word-break:break-all}
 .agg .neg li{color:#7a2a17}
@@ -161,6 +163,36 @@ def rel_li(x):
     return f'<li>{e(x["rel"])}: {tgt}' + (f' ({e(x["note"])})' if x.get("note") else "") + "</li>"
 
 
+import runpy as _rp
+NONROWS = ROOT.parent / "alexanarch/datasets/negative-of-the-negative/v2/rows"
+ARTICLES = _rp.run_path(str(pathlib.Path(__file__).parent / "articles.py"))["ARTICLES"] if (pathlib.Path(__file__).parent / "articles.py").exists() else {}   # entity articles derived from the /non articles (operator, 2026-11-01)
+
+
+def article_html(r):
+    a = ARTICLES.get(r["slug"])
+    if not a:
+        return ""
+    row = a.get("non_row") or r["slug"]; nb = f"https://www.alexanarch.org/non/{row}/"
+    src = lambda ko: ('<p class="d">From its /non article, sentence' + ("s " if len(ko) > 1 else " ")
+                      + ", ".join(f'<a href="{nb}#{row}-ks{n}">{n}</a>' for n in ko) + "</p>")
+    body = "".join(f"<h2>{e(h)}</h2>" + "".join(f"<p>{e(p)}</p>{src(k)}" for p, k in zip(ps, ks)) for (h, ps), ks in zip(a["sections"], a["ko"]))
+    return (f'<div class="art">{body}<p class="d">This article is derived from the entity\'s <a href="{nb}">/non article</a> (EA-NEGONT-02, the knowledge object '
+            f'composed under v0.10, #1726): every fact in it is stated there, and each paragraph names the sentences it rests on.</p></div>')
+
+
+def reception(r):
+    a = ARTICLES.get(r["slug"]); row = (a or {}).get("non_row") or r["slug"]; p = NONROWS / f"{row}.json"
+    if not p.exists():
+        return ""
+    nr = json.load(open(p, encoding="utf-8")); nb = f"https://www.alexanarch.org/non/{row}/"
+    caps = "".join(f'<li><a href="https://www.alexanarch.org/captures/{e(x["slug"])}/">«{e(x["address"])}» on {e(nr.get("surface") or "Google")}, 2026-11-01</a>'
+                   f'<div class="src">the composition layer\'s account of the entity at its name, seated in the Capture Registry ({e((x.get("axn") or "").split(".")[0])})</div></li>'
+                   for x in nr.get("addresses") or [])
+    case = ((nr.get("ontology") or {}).get("composition") or "")
+    return ((f'<h2>Captures: the composition layer\'s account</h2><ul>{caps}</ul>' if caps else "")
+            + f'<h2>The /non row</h2><ul><li><a href="{nb}">its /non article (EA-NEGONT-02 v0.10, {e(case)} case)</a></li></ul>')
+
+
 def rec_page(r):
     rec = r.get("record") or {}
     rows = [("Relation to this census", r.get("host_relation")), ("Record type", r.get("record_type")), ("The question it answers", r.get("question")), ("Kind", r["kind"]), ("Operator", r["operator"]), ("Evidence", lst(r.get("evidence_kind"))), ("Unit of record", r["unit"]), ("What it records", r["record_object"])]
@@ -184,7 +216,9 @@ def rec_page(r):
     unc = ("<h2>Unchecked</h2><p>" + e(lst(r.get("unchecked"))) + "</p>") if r.get("unchecked") else ""
     body = (f'<p class="fam"><a href="{PATH}">{e(TITLE)}</a> / {e(r["name"])}</p><h1>{e(r["name"])}</h1>'
             f'<p><a href="{e(r["url"])}">{e(r["url"])}</a></p><div>{chips(r)}</div>'
-            f'<div class="q"><strong>The archive\'s reading.</strong> {e(r[READING])}</div>' + tbl + ans + neg + rel + ev + unc
+            + (f'<div class="kernel">{e(ARTICLES[r["slug"]]["kernel"])}</div>' if r["slug"] in ARTICLES else "") + article_html(r)
+            + f'<h2>The census record</h2>'
+            f'<div class="q"><strong>The archive\'s reading.</strong> {e(r[READING])}</div>' + tbl + ans + neg + rel + reception(r) + ev + unc
             + f'<p class="src">Cite: Lee Sharks, ed. "{e(r["name"])}." {e(TITLE)}, leesharks.com, compiled {e(D["compiled"])}. {BASE}{e(r["slug"])}</p>')
     ent = {"@id": BASE + r["slug"] + "#entity", "@type": "CreativeWork", "name": r["name"], "alternateName": r.get("aka", []), "url": r["url"],
            "creator": {"@type": "Organization", "name": r["operator"]}}
@@ -193,7 +227,7 @@ def rec_page(r):
             "editor": {"@type": "Person", "name": "Lee Sharks", "identifier": "https://orcid.org/0009-0000-1599-0703"},
             "citation": [s["url"] for s in r["sources"].values()], "license": "https://creativecommons.org/licenses/by/4.0/"}
     ld = json.dumps({"@context": "https://schema.org", "@graph": [recd, ent]}, ensure_ascii=False).replace("</", "<\\/")
-    return page(f"{PATH}{r['slug']}", r["name"], r[READING][:200], body, ld)
+    return page(f"{PATH}{r['slug']}", r["name"], (ARTICLES[r["slug"]]["kernel"] if r["slug"] in ARTICLES else r[READING])[:200], body, ld)
 
 
 OUT.mkdir(exist_ok=True)

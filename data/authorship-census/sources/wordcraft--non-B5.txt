@@ -1,0 +1,262 @@
+Authors Face Backlash For Participation In 2022 Google AI Study
+
+Latest
+
+News
+AI
+
+Apps
+
+Computing
+
+Mobile
+
+Social Media
+
+EVs & Transportation
+
+Reviews
+Smartphones
+
+Laptops & PCs
+
+Gaming
+
+Headphones
+
+Wearables
+
+Photography
+
+Tablets
+
+Home
+
+Buying Guides
+Laptops
+
+Headphones
+
+Smart Home
+
+Gaming
+
+Best Gaming Handhelds
+
+Best E-Ink Tablets
+
+Best Power Banks
+
+Best Fast Chargers
+
+Best Live TV Streaming
+
+Best Wireless Earbuds
+
+Gaming
+Nintendo
+
+PC
+
+PlayStation
+
+Xbox
+
+Big Tech
+Amazon
+
+Apple
+
+Google
+
+Meta
+
+Microsoft
+
+Samsung
+
+Entertainment
+TV & Movies
+
+Streaming
+
+Cybersecurity
+VPN
+
+Wearables
+
+Tomorrow
+Science
+
+Space
+
+Robotics
+
+Newsletter
+
+About
+
+Editorial Policies
+
+No-AI Writing Policy
+
+Reviews Policy
+
+Podcast
+
+Archive
+
+Privacy Policy
+
+Terms of Use
+
+ © 2026 Static Media. All Rights Reserved
+
+Authors face backlash for participation in 2022 Google AI study 
+
+Latest
+
+News
+AI
+
+Apps
+
+Computing
+
+Mobile
+
+Social Media
+
+EVs & Transportation
+
+Reviews
+Smartphones
+
+Laptops & PCs
+
+Gaming
+
+Headphones
+
+Wearables
+
+Photography
+
+Tablets
+
+Home
+
+Buying Guides
+Laptops
+
+Headphones
+
+Smart Home
+
+Gaming
+
+Best Gaming Handhelds
+
+Best E-Ink Tablets
+
+Best Power Banks
+
+Best Fast Chargers
+
+Best Live TV Streaming
+
+Best Wireless Earbuds
+
+Gaming
+Nintendo
+
+PC
+
+PlayStation
+
+Xbox
+
+Big Tech
+Amazon
+
+Apple
+
+Google
+
+Meta
+
+Microsoft
+
+Samsung
+
+Entertainment
+TV & Movies
+
+Streaming
+
+Cybersecurity
+VPN
+
+Wearables
+
+Tomorrow
+Science
+
+Space
+
+Robotics
+
+Newsletter
+
+News 
+
+AI 
+
+Authors face backlash for participation in 2022 Google AI study 
+
+The 'Shameful 13' include speculative fiction luminaries Ken Liu and Robin Sloan.
+
+ By Max Miller
+
+ Aug. 11, 2026 2:24 pm EST
+
+ josefkubes/Shutterstock
+
+Add Engadget on Google:
+
+ Preferred Source
+ Google Discover
+
+In the spring of 2022, Google began reaching out to a series of writers, including award-winning science-fiction authors and New York Times bestsellers, for feedback on an experimental writing tool. Four years later, their participation has corners of the literary world up in arms.
+
+Google researchers knew at the time that they were approaching a breakthrough point with large language models (LLMs). DeepMind, the company's AI division, was internally testing a natural language generation model called LaMDA which had demonstrated emergent writing capabilities. That model would eventually form the basis for Google Gemini. An internal study was launched to determine whether AI could serve as a brainstorming assistant, researcher or writing collaborator for professional writers.
+
+DeepMind was among other things the incubation site for Magenta, an arts-focused research project for open-source machine learning tools, mostly known for building digital music plugins for Ableton Live. Its focus on the humanities made Magenta a natural home for the study, which was dubbed the Wordcraft Writers Workshop.
+
+Thirteen writers were recruited to the so-called workshop, put under strict nondisclosure agreements and told they'd be given access to a "magic text editor" called Wordcraft, which was actually a writing-centric interface for LaMDA. One of the participating authors Engadget spoke with described the program as resembling Microsoft Word with a chatbot on the side. Each participant was given eight weeks to write a short story, using the LLM for any purpose and leveraging its outputs as much or as little as they pleased. At least one author ended up using no AI-generated text whatsoever. The resulting stories were published on Magenta's website alongside a white paper from the researchers.
+
+In the time between the white paper's publication and now, public sentiment on AI — especially within creative professions — has shifted dramatically. Which is why, when Lily Lachance came across the Wordcraft website earlier this month, allegedly while browsing Codex, an exclusive online forum for professional speculative fiction authors, she was shocked.
+
+Lachance is an author and self-described "anti-gen-AI absolutist," and on August 6, she posted a link to the Wordcraft study on her Bluesky profile. "This just in," the since-deleted post about a four-year-old study began, "13 professional writers teamed up with Google's AI slop engine (WordCraft) to write a story each, helping legitimize the plagiarism machine. Never going to read anything by them again. I hope the money was worth it, you bunch of clowns." (Participants in the Wordcraft Writers Workshop declined to tell Engadget how much they were compensated for the study; Google has not responded to a request for comment.)
+
+The reactions were immediate, and Lachance's post quickly made the rounds among Bluesky's bookish users. Many bemoaned the participation of beloved authors in the Wordcraft study, while others threatened to boycott the works of all 13. "I'll even name and shame," one user whose account is followed by a number of prominent genre writers posted, alongside a list of participants whom they had labeled "The 'authors' who have betrayed all Creatives." The list format proved popular, and a number of other users also shared the names along with their own various decrials and epithets.
+
+Much of the ire directed toward participants in the Wordcraft study stems from the practice of tech companies training LLMs, often without authors' permission, on vast reams of copyrighted texts. The particular perversion of this arrangement  — the hoovering up of humanity's rich, artistic legacy in order to create a product which threatens to impoverish and replace working artists  — has led many to publicly denounce the technology, or at least its worst likely outcomes.
+
+Several hours after the initial post by Lachance, authors who had participated in the Wordcraft Writers Workshop began to issue statements addressing the controversy. Eugenia Triantafyllou, a Shirley Jackson Award-winning speculative fiction author from Greece, posted, "In 2022, before Chatgpt and everything that came next, I participated in this study. It was framed as a [sic] research on a new tool that I could try and offer my opinion on. I didn't know that it was trained on copyrighted material."
+
+Some of those now being labeled "The Shameful 13" may not even be aware their reputations are under fire, while others may not care. Several of the authors, most notably science-fiction darling Ken Liu and bestseller Robin Sloan, appear to be infrequent users of social media. The former does not manage his own accounts; the latter publishes updates about his experiences with AI technology on his personal blog, though it's unclear how much of a role it may or may not play in his published work.
+
+Not all of the reactions came with pitchforks and torches. Vajra Chandrasekera, a prolific science-fiction author and former fiction editor at Strange Horizons, wrote a lengthy Bluesky thread regarding the controversy. "While it was obviously a mistake to participate in 2022, I don't fault those writers today as long as they're not still pro-AI," he wrote. But he also pointed out that, although fewer people had raised concerns about AI in mid-2022, the fault lines were already visible.
+
+According to Lincoln Michel, a science-fiction author and creative writing instructor at Columbia University and Sarah Lawrence College, LLMs in 2022 were only just beginning to enter the public consciousness and had not yet galvanized artists against them. "My memory is that most people weren't paying attention to LLMs," he told Engadget, "but there were some serious authors who were interested in it and open about it."
+
+One of the first lawsuits against an AI company alleging copyright infringement was filed in January 2023 by illustrator Sarah Anderson; horror author Paul Tremblay and novelist Mona Awad filed a suit against OpenAI in June of that year as well for allegedly ingesting their published work. But the tide of public perception had not yet turned. Michel referenced the short story, "According to Alice" by experimental fiction writer Sheila Heti, which was written in collaboration with an LLM during the summer of 2022 and published by The New Yorker in November, 2023 to curious if essentially neutral reactions.
+
+Critics have pointed to sections of Google's white paper as proof that Wordcraft participants understood the unethical implications of the technology they were testing. A section of the paper with the title, "Concerns About the Origin of Wordcraft's Suggestions" seems at first blush to corroborate that claim. "Several participants expressed serious concerns over not knowing the source of Wordcraft's suggestions," the paper asserts. One participant, Allison Parrish, even told researchers she began running web searches on the LLM's outputs in an attempt to ensure they were not plagiarized.
+
+One award-winning science-fiction writer, who asked to remain unnamed, told Engadget that Google did not explain to him how the technology worked or who else was involved in the the study. Triantafyllou also said she had no understanding at the time of how the technology worked, and that Wordcraft was pitched to her as a "story editor." She was familiar with older, non-AI tools, like fantasy name generators, which would randomly stick syllables together, Mad Libs-style, to create otherworldly character names. "In my mind, it was more like one of those generators we used before LLMs came to be," she said. "Very naive of me tbh." In a public statement responding to the controversy around her Wordcraft participation, she wrote, "I haven't used AI to write my stories. I've come to hate LLMs and I would never participate in a similar study today."
+
+Flashpoints like this one are indicative of AI's impact on the arts, and while it may seem unfair to retroactively hold these 13 authors to rapidly-evolving moral standards, some of the chastised participants in the Wordcraft study have arrived at the same conclusion as Lachance regardless. "The lasting thing I gained following this project was a deep hatred for AI slop and LLMs as anyone who has heard me speak on [this] subject since knows it," Talabi wrote on Bluesky, "I saw how the sausage was made and rejected it."
+
+Recommended

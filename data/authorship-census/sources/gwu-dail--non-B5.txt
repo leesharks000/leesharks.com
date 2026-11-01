@@ -1,0 +1,611 @@
+AI Litigation Case Law Tracker | Explore global AI-related cases | Hogan Lovells Cadwalader
+
+Home
+
+Our people
+
+What we do
+
+SectorsPracticesLegal Tech
+
+Our sector offeringEnergyPrivate CapitalAerospace and DefenseFinancial InstitutionsReal EstateAutomotive and MobilityInsuranceSports, Media and EntertainmentConsumerLife Sciences and Health CareTechnologyEducationManufacturing and IndustrialsTransportation and Logistics
+
+Corporate & FinanceGlobal RegulatoryIntellectual PropertyDisputes
+
+Case studies
+
+Our thinking
+
+All our thinkingComparative guidesDigital client solutionsEvents and webinarsPodcasts
+
+Careers
+
+ Register
+ Log in
+
+Home
+Our people
+What we do
+Case studies
+Our thinking
+Careers
+
+What we do
+
+Sectors
+
+Our sector offering
+
+Aerospace and Defense
+
+Automotive and Mobility
+
+Consumer
+
+Education
+
+Energy
+
+Financial Institutions
+
+Insurance
+
+Life Sciences and Health Care
+
+Manufacturing and Industrials
+
+Private Capital
+
+Real Estate
+
+Sports, Media and Entertainment
+
+Technology
+
+Transportation and Logistics
+
+Practices
+
+Corporate & Finance
+
+Disputes
+
+Global Regulatory
+
+Intellectual Property
+
+Legal Tech
+
+Our thinking
+
+All our thinkingComparative guidesDigital client solutionsEvents and webinarsPodcasts
+
+About us
+
+Our difference
+
+Global management team
+
+Where we are
+
+Media center
+
+Media contacts
+
+Press releases
+
+Awards & rankings
+
+Responsible Business
+
+HLC Inclusion
+
+Alumni
+
+AI Litigation Case Law Tracker
+
+Explore our global digital solution for monitoring AI-related cases across key jurisdictions.
+
+ Visit the AI Hub
+
+ Generate report
+
+ My alerts
+
+Share this content:
+
+ Share this link:
+
+ Copy URL
+
+ Generate report
+
+ My alerts
+
+Our AI Litigation Case Law Tracker monitors key AI-related cases involving IP, copyright, media, commercial, consumer, data protection, and other laws across global jurisdictions. Explore the tracker to find case descriptions, claims raised, summary judgments, key takeaways, and other resources. Subscribe to alerts to stay informed on our analyses and updates.
+
+AI cases
+
+ Jurisdiction:
+
+ All
+ Australia
+ China
+ Denmark
+ EU
+ EU (CJEU)
+ France
+ Germany
+ India
+ Italy
+ Japan
+ Netherlands
+ South Korea
+ United Kingdom
+ United States of America
+
+ Date:
+
+ All
+ 2026
+ 2025
+ 2024
+ 2023
+ 2022
+ 2020
+
+ Topic:
+
+ All
+ Copyright contract law
+ Copyright infringement
+ Copyright of AI prompts
+ Data privacy
+ Database infringement
+ Database right infringement
+ Digital Markts Act infringement
+ Free-riding
+ GDPR infringement
+ Internet service contract dispute
+ Liability
+ Neighboring rights infringement
+ Patent
+ Patents
+ Personality rights infringement
+ Publishing of false information
+ Trademark infringement
+ Unfair competition
+ Unfair competition law violation
+
+ Key issues:
+
+ All
+ AI input
+ AI Model Training
+ AI output
+ AI overview
+ AI training
+ AI-generated article originality
+ AI-generated content (art, music, voice)
+ AI-generated music
+ AI-generated voice
+ Algorithmic review
+ Combination of data
+ Communication to the public
+ Competitive AI product development
+ Contractual terms
+ Data labeling for AI training
+ Deepfakes
+ Fair use
+ False information
+ Foundation Models
+ General‑Purpose AI Models
+ Generative AI (output)
+ Human‑annotated training data
+ Inventorship
+ IP protection for AI models
+ IP protection for the wake-up word for AI
+ IP protection of AIGC
+ Large Language Models (LLMs)
+ Legal research AI
+ Machine readability
+ Memorization of training data
+ Model Pretraining
+ Natural language processing (NLP)
+ Non‑generative AI
+ Opt‑out
+ Ownership of inventions
+ Patent application
+ Patentability of AI
+ Personality rights
+ Prompt‑Based Generation
+ Question‑answering system
+ Reproduction
+ Scientific purposes
+ Search / retrieval AI
+ Supervised machine learning
+ Text and data mining
+ Text‑Generation Systems
+ Training data
+ User data
+ Using Proprietary Databases
+ Wrong information
+
+ Status:
+
+ All
+ Active
+ Appeal ongoing
+ Appeal pending
+ Closed
+ Interim order
+ Judgement effective
+ Judgement upheld on appeal
+ Ongoing
+ Ongoing settlement
+ Pending
+ Settled by parties
+ Unknown
+
+ Court:
+
+ All
+ Beijing Chaoyang District People’s Court
+ Beijing Fourth Intermediate People’s Court
+ Beijing Intellectual Property Court
+ Beijing Internet Court
+ Changsha Kaifu Primary People's Court
+ Chengdu No. 1 Railway Transportation Court
+ Copenhagen City Court
+ Court of Rome
+ Danish Eastern High Court
+ Danish Maritime and Commercial High Court
+ Delhi High Court
+ District Court Budapest
+ District Court Munich
+ European Court of Justice
+ Federal Court of Australia
+ German Federal Court of Justice
+ Guangdong Shenzhen Nanshan District People’s Court
+ Guangzhou Internet Court
+ Hangzhou Intermediate People's Court
+ Hangzhou Internet Court
+ High Court
+ High People's Court of Hunan Province
+ Higher Regional Court Cologne
+ Higher Regional Court Hamburg
+ Higher Regional Court Munich
+ Jiangsu Changshu People’s Court
+ Jiangsu Yangzhou Intermediate People’s Court
+ Jiangsu Yizheng People’s Court
+ Paris Judicial Court
+ Rechtbank Amsterdam
+ Regional Court Berlin
+ Regional Court Berlin II
+ Regional Court Frankfurt
+ Regional Court Hamburg
+ Regional Court Kiel
+ Regional Court Munich I
+ Seoul Eastern District Court’s Civil Division
+ Shanghai Huangpu District People's Court
+ Shanghai Jiading District People's Court
+ Shanghai Jinshan District People's Court
+ Tokyo District Court
+ UK Supreme Court
+ United States Courts of Appeal - Third Circuit
+ United States District Court District of Delaware
+ United States District Court N. D. California
+ Zhejiang Hangzhou Intermediate People’s Court
+ Zhejiang Wenzhou Intermediate People’s Court
+
+Manchester United Fanatics Klub Magyarország v. Google Ireland Ltd
+
+Status: Pending at the European Court of Justice
+
+Latest decision: Pécs General Court
+
+Date of latest decision: 9 July 2026
+
+Topic: Copyright infringement
+
+Key issues: AI output; Communication to the public; Reproduction; Text and data mining
+
+Alliance de la Presse d’Information Générale (APIG) v. Brave
+
+Status: Pending at the Paris Judicial Court
+
+Latest decision: N/A (filing date 1 June 2026)
+
+Date of latest decision: 1 June 2026
+
+Topic: Trademark infringement; Neighboring rights infringement
+
+Key issues: AI training; Text and data mining
+
+Coty Beauty Germany GmbH v. Google Ireland Ltd
+
+Status: Pending at Higher Regional Court Berlin
+
+Latest decision: Regional Court Berlin
+
+Date of latest decision: 1 June 2026
+
+Topic: Trademark infringement
+
+Key issues: AI output; AI training
+
+Verlagshaus24 GmbH et al. v. Google Ireland Ltd
+
+Status: Unknown
+
+Latest decision: Regional Court Munich I
+
+Date of latest decision: 28 May 2026
+
+Topic: Personality rights infringement
+
+Key issues: AI output; AI overview; False information; Wrong information
+
+BoligPortal A/S v. ReData A/S
+
+Status: Appeal pending
+
+Latest decision: Danish Eastern High Court
+
+Date of latest decision: 12 May 2026
+
+Topic: Copyright infringement; Database infringement
+
+Key issues: AI input; AI training; Training data; Text and data mining; Opt‑out; Machine readability
+
+Copyrightability of AI-generated logos
+
+Status: Unknown
+
+Latest decision: District Court Munich
+
+Date of latest decision: 13 February 2026
+
+Topic: Copyright infringement
+
+Key issues: AI output
+
+Emotional Perception v Comptroller of Patents
+
+Status: Judgment effective
+
+Latest decision: Supreme Court
+
+Date of latest decision: 11 February 2026
+
+Topic: Patents
+
+Key issues: Patentability of AI
+
+Akira Nandan v. Sambhawaami Studios LLP & Ors
+
+Status: Interim order
+
+Latest decision: Delhi High Court
+
+Date of latest decision: 23 January 2026
+
+Topic: Personality rights infringement
+
+Key issues: Reproduction; Deepfakes
+
+Ranganathan Madhavan v. G Filmz Studioz
+
+Status: Interim order
+
+Latest decision: Delhi High Court
+
+Date of latest decision: 22 December 2025
+
+Topic: Personality rights infringement
+
+Key issues: Reproduction; Deepfakes
+
+Copyrightability of AI-Generated song lyrics
+
+Status: Unknown
+
+Latest decision: Regional Court Frankfurt
+
+Date of latest decision: 17 December 2025
+
+Topic: Copyright infringement
+
+Key issues: AI output
+
+Robert Kneschke v. LAION e.V.
+
+Status: Pending at German Federal Court of Justice
+
+Latest decision: Higher Regional Court Hamburg
+
+Date of latest decision: 10 December 2025
+
+Topic: Copyright infringement
+
+Key issues: AI training; Text and data mining; Scientific purposes; Opt‑out; Machine readability
+
+GEMA v. OpenAI
+
+Status: Pending at Higher Regional Court Munich
+
+Latest decision: Regional Court Munich I
+
+Date of latest decision: 11 November 2025
+
+Topic: Copyright infringement
+
+Key issues: AI output; AI training; Text and data mining; Memorization of training data
+
+Getty Images (US) Inc v. Stability AI Ltd
+
+Status: Appeal pending
+
+Latest decision: High Court
+
+Date of latest decision: 4 November 2025
+
+Topic: Copyright infringement; Trademark infringement; Database right infringement
+
+Key issues: AI training
+
+A Cultural Co., Ltd. v. A AI Company
+
+Status: Judgement effective
+
+Latest decision: Shanghai Jinshan District People's Court
+
+Date of latest decision: 3 November 2025
+
+Topic: Copyright infringement
+
+Key issues: AI training; Text and data mining; Scientific purposes; Opt‑out
+
+Campact v. XAI
+
+Status: Unknown
+
+Latest decision: Regional Court Hamburg
+
+Date of latest decision: 23 September 2025
+
+Topic: Publishing of false information; Personality rights infringement
+
+Key issues: AI output; False information
+
+ of 4
+
+Key contacts
+
+Dr. Morten Petersenn
+
+Partner
+
+ Hamburg
+
+ +49 40 419 93 166
+
+ Email me
+
+Dr. Morten Petersenn
+
+Partner
+
+ Previous
+
+ Next
+
+What's new ?
+
+ Podcast
+
+17 June 2026
+
+AI disputes are here. Are you ready?
+
+ Insight
+
+11 February 2026
+
+AI and patents: UK Supreme Court adopts EPO approach to patentability for computer-related inventions
+
+ Insight
+
+20 October 2025
+
+UK Copyright deep-dive launched in partnership with Lexology Panoramic
+
+ Insight
+
+15 October 2025
+
+Initial reflections on Law 132/25: Italy's approach to AI
+
+ Insight
+
+8 October 2025
+
+Copyright provisions in the new Italian AI-law: reinforcing human authorship and text and data mining (TDM) exceptions
+
+ Insight
+
+27 July 2025
+
+Rapid fire fair use decisions suggest AI training is permissible -- sometimes
+
+ Insight
+
+25 April 2025
+
+Practice Note: Copyright (China): Overview
+
+ Insight
+
+11 April 2025
+
+When AI and Copyright clash: Chinese courts find AI platform liable for contributory copyright infringement based on AI generated images
+
+ Insight
+
+19 November 2024
+
+The use of generative AI in advertising: Legal pitfalls to look out for in the UK
+
+ Insight
+
+7 October 2024
+
+AI & Copyright: First decision, and missed opportunity, in Germany
+
+ Insight
+
+26 July 2024
+
+UK Court of Appeal decides artificial neural networks fall within an exclusion for patentable inventions
+
+ Insight
+
+27 December 2023
+
+UK Supreme Court rejects Thaler’s appeal and finds AI not an inventor
+
+ Insight
+
+21 September 2021
+
+UK Court of Appeal says AI is not an Inventor and is split on allowing applications for AI inventions
+
+ Browse all content
+
+Browse all content
+
+Additional resources
+
+ IP Litigation
+
+ Copyrights
+
+ AI Hub
+
+ Digital Transformation Academy
+
+Contact us
+
+Disclaimer
+
+Privacy
+
+Cookies
+
+Legal Notices
+
+Terms of Use
+
+This website is operated by Hogan Lovells Cadwalader International LLP, whose registered office is at Atlantic House, Holborn Viaduct, London, EC1A 2FG.  For further details of Hogan Lovells Cadwalader International LLP and the international legal practice that comprises Hogan Lovells Cadwalader International LLP, Hogan Lovells Cadwalader US LLP and their affiliated businesses ("Hogan Lovells Cadwalader"), please see our Legal Notices page. © 2026 Hogan Lovells Cadwalader.
+
+Attorney advertising. Prior results do not guarantee a similar outcome.

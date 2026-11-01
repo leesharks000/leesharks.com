@@ -1,0 +1,293 @@
+US Copyright Office on AI: Human creativity still matters, legally 
+
+ -->
+
+ Skip to Main Content
+
+ About Intellectual Property 
+ IP Training 
+ Respect for IP 
+ IP Outreach 
+ IP for… 
+ IP and... 
+ IP in... 
+ Patent & Technology Information 
+ Trademark Information 
+ Design Information 
+ Geographical Indication Information 
+ Plant Variety Information (UPOV) 
+ IP Laws, Treaties & Judgments 
+ IP Resources 
+ IP Reports 
+ Patent Protection 
+ Trademark Protection 
+ Design Protection 
+ Geographical Indication Protection 
+ Plant Variety Protection (UPOV) 
+ IP Dispute Resolution 
+ IP Office Business Solutions 
+ Paying for IP Services 
+ Negotiation & Decision-Making 
+ IP Cooperation 
+ Innovation Support 
+ Public-Private Partnerships 
+ The Organization 
+ WIPO and Artificial Intelligence 
+ Working at WIPO 
+ Accountability 
+ Patents 
+ Trademarks 
+ Designs 
+ Geographical Indications 
+ Copyright 
+ Trade Secrets 
+ Future of IP 
+ WIPO Academy 
+ Workshops & Seminars 
+ IP Enforcement 
+ WIPO ALERT 
+ Raising Awareness 
+ World IP Day 
+ WIPO Magazine 
+ Case Studies & Success Stories 
+ IP News 
+ WIPO Awards 
+ Business 
+ Women 
+ Universities 
+ Indigenous Peoples 
+ Judiciaries 
+ Youth 
+ Examiners 
+ Innovation Ecosystems 
+ Economics 
+ Finance 
+ Intangible Assets 
+ Global Health 
+ Climate Change 
+ Competition Policy 
+ Sustainable Development Goals 
+ Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions 
+ Frontier Technologies 
+ Mobile Applications 
+ Sports 
+ Tourism 
+ Music 
+ Fashion 
+ PATENTSCOPE 
+ Patent Analytics 
+ International Patent Classification 
+ ARDI – Research for Innovation 
+ ASPI – Specialized Patent Information 
+ Global Brand Database 
+ Madrid Monitor 
+ Article 6ter Express Database 
+ Nice Classification 
+ Vienna Classification 
+ Global Design Database 
+ International Designs Bulletin 
+ Hague Express Database 
+ Locarno Classification 
+ Lisbon Express Database 
+ Global Brand Database for GIs 
+ PLUTO Plant Variety Database 
+ GENIE Database 
+ WIPO-Administered Treaties 
+ WIPO Lex - IP Laws, Treaties & Judgments 
+ WIPO Standards 
+ IP Statistics 
+ WIPO Pearl (Terminology) 
+ WIPO Publications 
+ Country IP Profiles 
+ WIPO Knowledge Center 
+ World Intangible Investment Highlights 
+ WIPO Technology Trends 
+ Global Innovation Index 
+ World Intellectual Property Report 
+ PCT – The International Patent System 
+ ePCT 
+ Budapest – The International Microorganism Deposit System 
+ Madrid – The International Trademark System 
+ eMadrid 
+ Article 6ter (armorial bearings, flags, state emblems) 
+ Hague – The International Design System 
+ eHague 
+ Lisbon – The International System of Appellations of Origin and Geographical Indications 
+ eLisbon 
+ UPOV PRISMA 
+ Mediation 
+ Arbitration 
+ Expert Determination 
+ Domain Name Disputes 
+ Centralized Access to Search and Examination (CASE) 
+ Digital Access Service (DAS) 
+ WIPO Pay 
+ WIPO Wallet 
+ WIPO Assemblies 
+ Standing Committees 
+ Calendar of Meetings 
+ WIPO Webcast 
+ WIPO Official Documents 
+ Development Agenda 
+ Tailored Initiatives & Projects 
+ Collaborative Forums & Dialogues 
+ Innovation, Creativity and Development Acceleration Program 
+ IP for Impact 
+ National IP & Innovation Strategies 
+ Cooperation Hub 
+ Technology and Innovation Support Centers (TISC) 
+ Technology Transfer 
+ Inventor Assistance Program 
+ IP Commercialization 
+ WIPO GREEN 
+ WIPO's Pat-INFORMED 
+ Accessible Books Consortium 
+ WIPO for Creators 
+ Member States 
+ Observers 
+ Director General 
+ Activities by Unit 
+ External Offices 
+ Global Forum on IP and AI 
+ AI Infrastructure Interchange 
+ AI Tools & Services 
+ Staff Positions 
+ Affiliated Personnel Positions 
+ Procurement 
+ Results & Budget 
+ Financial Reporting 
+ Oversight 
+
+ Latest
+
+ Focus | Sports
+
+ Focus | Sports 
+ Focus | Music 
+ Archive 
+
+ Technology & Innovation
+
+ Culture & Creativity
+
+ IP Law & Policy
+
+ Business & Economics
+
+ IP around the World
+
+ Getty Images/CoffeeAndMilk, NicoElNino; Unsplash/Woliul Hasan 
+
+ US Copyright Office on AI: Human creativity still matters, legally 
+
+ Copyright 
+
+ Music work 
+
+ Artificial intelligence 
+
+ Laws 
+
+ Frontier technologies 
+
+ By Miriam Lord , Associate Register of Copyrights and Director of Public Information and Education, US Copyright Office
+
+ April 24, 2025
+
+ Share 
+
+ The US Copyright Office in 2023 launched its initiative to examine the copyright law and policy issues raised by AI. Two of the Office’s copyright law experts are sharing the key takeaways (so far) for the music industry and the global IP community in this interview.
+
+ The US Copyright Office discusses the unauthorized 'Fake Drake' incident and Randy Travis's legitimate AI-assisted recording.
+
+ You can’t copyright fully AI-generated work but you may be able to protect your sufficiently original selection and arrangement or modification of AI-output.
+
+ International approaches to AI copyright issues.
+
+ The capabilities of today’s generative AI (genAI) technologies raise significant questions about the nature and scope of human authorship. How much human input must an artwork, such as a piece of music, have in order for it to receive copyright protection?
+
+ In early 2023, the US Copyright Office (the Office) launched an initiative exploring these questions at the intersection of copyright and artificial intelligence (AI). To discuss their findings and latest decisions, Miriam Lord, Associate Register of Copyrights and Director of Public Information and Education, sat down with two colleagues Senior Counsel Chris Weston and Assistant General Counsel Jalyce Mangum.
+
+ US Copyright Office
+
+ From left to right: Miriam Lord, Chris Weston and Jalyce Mangum.
+
+ Chris, what makes the US copyright system unique when it comes to AI?
+
+ Chris Weston (CW): Original works of expression are protected under national laws, with protection in a particular country dependent on that country’s laws. International copyright conventions and treaties, like those through WIPO, establish obligations that provide more certainty about protection levels across countries.
+
+ When we talk about music, it’s important to understand that even in a single song, with rights in both the musical composition and sound recording, these rights are often divided among multiple rightsholders.
+
+ US copyright law differs from copyright laws of other countries in several ways, including that it creates a system where applications to register copyrights are examined at the Office. Registration is not mandatory but it does provide significant benefits. When it comes to copyrightability issues, including works containing AI-generated material, the Office is a kind of “natural laboratory” because our examiners deal with these issues daily.
+
+ Jalyce, tell us about the Office’s study on AI and copyright law.
+
+ Jalyce Mangum (JM): The Office launched a broad AI initiative to address these emerging questions and issued guidance to help authors understand how to apply for copyright registration when their works included AI-generated material. We hosted public listening sessions and webinars, met with experts and stakeholders, and published a notice of inquiry seeking input from the public.
+
+ After reviewing more than 10,000 comments – an astounding response that helped inform our conclusions – we began working on a report for Congress and the public. We published “ Copyright and Artificial Intelligence – Part 1: Digital Replicas ,” on July 31, 2024. “ Part 2: Copyrightability ,” published January 29, 2025, focuses on the copyrightability of outputs created using genAI. In the coming months, we’ll issue our policy report on the legal implications of training AI models on copyrighted works, including licensing considerations and the allocation of potential liability.
+
+ “We concluded there was an urgent need for a new federal right protecting all people – not just celebrities.” 
+
+ What were some of the common concerns the music community raised during the Office’s consultations?
+
+ JM:  The feedback from performers, songwriters, composers, publishers, record labels, trade organizations and advocacy groups was crucial in designing a comprehensive approach for our recommendations. Their concerns focused on five themes but also concurred with the broad consensus about safeguarding creatives and their works.
+
+ Specifically, their comments centered first on human authorship and AI’s impact on human creativity. Second, labor effects – they fear that rapidly generated AI content could overwhelm human-authored works in the marketplace. Third, they want control and compensation for the use of both their personas and copyrighted works. Fourth, they recognize innovation aspects – that AI can assist the creative process and even enable performances by deceased artists. Finally, regarding licensing, they consider what type should be preferred: voluntary, collective or compulsory. In short, should they have to opt in or opt out.
+
+ What are unauthorized digital replicas and what approach does the Office recommend?
+
+ JM: In 2023, a song dropped that appeared to feature the voices of Drake and The Weeknd, drawing more than 15 million social media views and 600,000 listens on Spotify. This “Fake Drake” incident, as some called it, showed how rapidly generative AI technology has become sophisticated and accessible enough that minimal expertise is required to produce convincing digital replicas.
+
+ Throughout our study, we heard from members of the music industry that they worried they would lose income due to the surge of voice clones or that the use of AI in sound recordings could displace human labor.
+
+ In the US, a patchwork of laws governs individuals’ likeness and voice rights but there are gaps and inconsistencies in who is protected and against what types of conduct. We concluded there was an urgent need for a new federal right protecting all people – not just celebrities – from the unauthorized use of their likeness and voice.
+
+ “We can’t confine our attention to within US borders since AI systems are trained, developed and deployed around the world.” 
+
+ The Office recently registered a sound recording by Grammy-winning artist Randy Travis. Using his AI-assisted recording as an example, how do you distinguish between AI as a creative tool versus a substitute for human creativity?
+
+ JM: Artists have used technology for decades to enhance, modify and add to their creations – that isn’t new, nor is the requirement for human authorship to secure copyright protection. The Office has registered more than a thousand works where applicants have followed our guidance to disclose and disclaim AI-generated material. In the copyrightability analysis, distinguishing between using AI as a tool to assist in the creation of works and using AI to stand in for human creativity is important. The difference is whether AI is enhancing human expression or is the source of the expressive choices.
+
+ In Part 2 of our report, the Office affirmed that copyright does not extend to purely AI-generated material or material where there is insufficient human control over the expressive elements. Randy Travis’s recent sound recording, “Where That Came From,” featuring an AI clone of his voice, is a good example of AI assistive use. Due to health challenges, Travis has limited speech function, but to realize the dream of a new record, a production team took the vocal track of a human singer and used AI as a tool to modify the sounds to match Travis’s iconic voice.
+
+ “The difference is whether AI is enhancing human expression or is the source of the expressive choices." 
+
+ Let’s zoom back out to the international context. Chris, how are other countries approaching these copyright issues with AI?
+
+ CW: We’re aware we can’t confine our attention to within US borders since AI systems are trained, developed and deployed around the world. Other countries are also considering these issues, and while identical approaches are unlikely, some level of consistency will contribute to smooth global commerce.
+
+ We are seeing similarities and differences in how countries are approaching these issues. In the US, copyright protection requires human authorship, and some other countries follow that model as well.
+
+ In China, a court recently recognized copyright in a picture created using AI, finding a human author exercised sufficient creativity in prompting the AI tool and then revising the output. And South Korea has registered an AI-created film as a compilation, based on the human creativity that went into the selection, coordination and arrangement of its AI-generated components.
+
+ We continue to discuss ideas and experiences with our global counterparts. Areas of consensus are emerging and so are potential differences.
+
+ About 
+
+ Associate Register of Copyrights and Director of Public Information and Education Miriam Lord conducted the interview, with responses by Senior Counsel Chris Weston from the Office of Policy and International Affairs, and Attorney-Advisor Jalyce Mangum from the Office of the General Counsel, and support from Public Affairs Specialists Ann Tetreault and Nora Scheland from the Office of Public Information and Education.
+
+ Learn more 
+
+ The US Copyright Office is charged by statute with the administration of US Copyright law. The Office’s mission is to promote “creativity and free expression by administering the nation’s copyright laws and by providing impartial, expert advice on copyright law and policy for the benefit of all.” Like WIPO and IP offices around the world, the Office has made it a priority to inform and educate creators and users fueling the creative economy. Visit the Office at copyright.gov .
+
+ Related articles 
+
+ Music Special: Views on AI, creators' rights and IP developments 
+
+ The 18th-century legal case that changed the face of music copyright law 
+
+ Royalties in the age of AI: paying artists for AI-generated songs 
+
+ Regulating machine data: less is more for global growth 
+
+ Hidden 
+
+ https://www.wipo.int/contact/en/area.jsp?area=magazine 
+ https://www.wipo.int/pressroom/en/ 
+ https://www.wipo.int/en/web/terms-of-use 
+ https://www.wipo.int/en/web/privacy-policy 
+ https://www.wipo.int/en/web/accessibility 
+ https://www.wipo.int/en/web/sitemap 
+ https://www.wipo.int/en/web/newsletters 
+ https://www.wipo.int/en/web/podcasts 
+ https://www.wipo.int/en/web/news/rss

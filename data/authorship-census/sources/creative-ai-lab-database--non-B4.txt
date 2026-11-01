@@ -1,0 +1,41 @@
+Creative AI Lab
+Creative AI Lab
+Database
+Tools
+Resources
+About
+Research
+This database* is an ongoing project to aggregate tools and resources for artists, designers, engineers, curators & researchers interested in incorporating machine learning (ML) and other forms of artificial intelligence (AI) into their practice.
+*The collection of materials presented aren’t comprehensive—it is a growing collection of research collected & commissioned by the Creative AI Lab.
+Tools are compiled by the Lab according to their potential to bring new capabilities to artistic workflow. They can be generative (producing images or text from data) or assist along the way in the creative process, including in R&D or simulation building. Tools might be core to the production of the work itself, or play a smaller assistive role. Resources help to imagine and critically conceptualise future AI systems, ways of working and deployment contexts.
+Interview
+Essay
+Talk
+Course
+Podcast
+Diagram
+Paper
+Publication
+Audio
+Static Image
+Moving Image
+Dance and Movement
+Gesture Recognition
+Title
+Developed by
+Tool
+Date
+Title
+Author(s)
+Type
+Date
+200 characters left.
+200 characters left.
+200 characters left.
+200 characters left.
+Please add me to the Serpentine Arts Technologies newsletter
+I'd like to receive email updates from Serpentine
+Creative AI lab is a collaboration between
+Creative AI lab is supported by
+© Serpentine 2026
+Privacy Policy

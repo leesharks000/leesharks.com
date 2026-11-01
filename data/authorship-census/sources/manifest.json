@@ -1181,5 +1181,1623 @@
   "bytes": 89991,
   "text_chars": 3915,
   "error": ""
+ },
+ "the-next--non-B1": {
+  "entity": "the-next",
+  "id": "non-B1",
+  "url": "https://eliterature.org/",
+  "final_url": "https://eliterature.org/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:23Z",
+  "sha256": "6da0863fb3108e968281b63da1bcbe17637bfd3f5e700e0540add886e1aeeaaf",
+  "bytes": 3244,
+  "text_chars": 3216,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row the-next (AXN:0BA5.NON.🧪🔍⏰🔝❄️🤝), its field source B1",
+   "path": "datasets/negative-of-the-negative/v2/intake/the-next-20261101/B1.txt",
+   "card": "Electronic Literature Organization — Electronic Literature Organization – To facilitate and promote the writing ...",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "the-next--non-B3": {
+  "entity": "the-next",
+  "id": "non-B3",
+  "url": "https://katyafarinsky.com/portfolio/electronic-literature-organizations-the-next.html",
+  "final_url": "https://katyafarinsky.com/portfolio/electronic-literature-organizations-the-next.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:24Z",
+  "sha256": "c9fe281d022cd66637b6c5ab4404bc53ef3f65cbddc2f0a4d068d74736c09fd5",
+  "bytes": 3209,
+  "text_chars": 3196,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row the-next (AXN:0BA5.NON.🧪🔍⏰🔝❄️🤝), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/the-next-20261101/B3.txt",
+   "card": "katyafarinsky.com — Electronic Literature Organization's The NEXT - Katya Farinsky",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "the-next--non-B4": {
+  "entity": "the-next",
+  "id": "non-B4",
+  "url": "https://the-next.org/about",
+  "final_url": "https://the-next.org/about",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:24Z",
+  "sha256": "34f92c918dcbeed8c46893560baf768dff3bf2a078bd662e59c1d82920d579f9",
+  "bytes": 2391,
+  "text_chars": 2383,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row the-next (AXN:0BA5.NON.🧪🔍⏰🔝❄️🤝), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/the-next-20261101/B4.txt",
+   "card": "the-next.org — The NEXT About Space",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "the-next--non-B5": {
+  "entity": "the-next",
+  "id": "non-B5",
+  "url": "https://www.youtube.com/watch?v=J7dn34jLMkw",
+  "final_url": "https://www.youtube.com/watch?v=J7dn34jLMkw",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:49Z",
+  "sha256": "35016406323dc65dfcc8ae44e9c4975cdf9b7ae738f747b596856884dee59d64",
+  "bytes": 981,
+  "text_chars": 979,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row the-next (AXN:0BA5.NON.🧪🔍⏰🔝❄️🤝), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/the-next-20261101/B5.txt",
+   "card": "YouTube·University of Kansas IDRH — From the Net to the Web: Genres of Born-Digital Fiction - Dene Grigar",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "the-next--non-B6": {
+  "entity": "the-next",
+  "id": "non-B6",
+  "url": "https://the-next.org/collections/25",
+  "final_url": "https://the-next.org/collections/25",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:17:10Z",
+  "sha256": "41762f15a5d7e1aea3bd55045215f1e7094b498eba29f1586067c7056bb77816",
+  "bytes": 2748,
+  "text_chars": 2742,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row the-next (AXN:0BA5.NON.🧪🔍⏰🔝❄️🤝), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/the-next-20261101/B6.txt",
+   "card": "the-next.org — The Electronic Literature Organization Archives - The NEXT",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "the-next--non-B10": {
+  "entity": "the-next",
+  "id": "non-B10",
+  "url": "https://elmcip.net/",
+  "final_url": "https://elmcip.net/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T04:08:20Z",
+  "sha256": "30f5721c919909835ad257e50f5610c097c9f705a81b12e5ca56710d2677957a",
+  "bytes": 16861,
+  "text_chars": 16833,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row the-next (AXN:0BA5.NON.🧪🔍⏰🔝❄️🤝), its field source B10",
+   "path": "datasets/negative-of-the-negative/v2/intake/the-next-20261101/B10.txt",
+   "card": "ELMCIP Electronic Literature Knowledge Base — home page",
+   "origin": "census_third_party",
+   "pool": "B_R"
+  }
+ },
+ "electronic-literature-lab--non-B1": {
+  "entity": "electronic-literature-lab",
+  "id": "non-B1",
+  "url": "https://electronicliteraturelab.org/",
+  "final_url": "https://electronicliteraturelab.org/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:38Z",
+  "sha256": "76068704519e858a56c4a727bd746a4a2add55349ede09b2a62b387bc3c434b4",
+  "bytes": 11989,
+  "text_chars": 11950,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-literature-lab (AXN:0B9B.NON.🕑🔓🤙🌅♾️🔴), its field source B1",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-literature-lab-20261101/B1.txt",
+   "card": "electronicliteraturelab.org — The Electronic Literature Lab",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "electronic-literature-lab--non-B3": {
+  "entity": "electronic-literature-lab",
+  "id": "non-B3",
+  "url": "https://en.wikipedia.org/wiki/Electronic_Literature_Lab",
+  "final_url": "https://en.wikipedia.org/wiki/Electronic_Literature_Lab",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:38Z–06:14:40Z (one run: rendered page, then raw wikitext)",
+  "sha256": "65df97c3b4b96df03201ed92c6ff0f71340430de1cb5ee446484cb5aa0b2a193",
+  "bytes": 10617,
+  "text_chars": 10538,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-literature-lab (AXN:0B9B.NON.🕑🔓🤙🌅♾️🔴), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-literature-lab-20261101/B3.txt",
+   "card": "Wikipedia — Electronic Literature Lab - Wikipedia",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "output-anthology--non-B3": {
+  "entity": "output-anthology",
+  "id": "non-B3",
+  "url": "https://nickm.com/post/index.html%3Fp=5217.html",
+  "final_url": "https://nickm.com/post/index.html%3Fp=5217.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:20Z",
+  "sha256": "39c92939ba25adb9b907e127329c03f7caadb0cd3295ae20abfc73a62c7b93c4",
+  "bytes": 7235,
+  "text_chars": 7150,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row output-anthology (AXN:0BA2.NON.🎻🟡🔥⏪🧫🪧), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/output-anthology-20261101/B3.txt",
+   "card": "Nick Montfort — The OUTPUT Anthology is Out! – Post Position - Nick Montfort",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "output-anthology--non-B4": {
+  "entity": "output-anthology",
+  "id": "non-B4",
+  "url": "https://support.google.com/knowledgepanel/answer/9787176",
+  "final_url": "https://support.google.com/knowledgepanel/answer/9787176",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:49Z",
+  "sha256": "241f01bebf38f43e8b367339e0f502940ec9f36bae65343e8269de47aaa95886",
+  "bytes": 7781,
+  "text_chars": 7586,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row output-anthology (AXN:0BA2.NON.🎻🟡🔥⏪🧫🪧), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/output-anthology-20261101/B4.txt",
+   "card": "Google — Google Watch Action Data",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "wordcraft--non-B2": {
+  "entity": "wordcraft",
+  "id": "non-B2",
+  "url": "https://magenta.withgoogle.com/wordcraft-writers-workshop",
+  "final_url": "https://magenta.withgoogle.com/wordcraft-writers-workshop",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:11Z",
+  "sha256": "75df6c3cb1d985384f56006b74e9faa878483a01036ecd316be5ea5734f7d384",
+  "bytes": 2989,
+  "text_chars": 2971,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wordcraft (AXN:0BA9.NON.🔛△👈🪸🔙🎪), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/wordcraft-20261101/B2.txt",
+   "card": "magenta.withgoogle.com — The Wordcraft Writers Workshop: Creative Co-Writing with AI",
+   "origin": "card",
+   "pool": null
+  }
+ },
+ "wordcraft--non-B3": {
+  "entity": "wordcraft",
+  "id": "non-B3",
+  "url": "https://www.actuia.com/en/news/the-wordcraft-writers-workshop-evaluates-wordcraft-googles-creative-writing-tool/",
+  "final_url": "https://www.actuia.com/en/news/the-wordcraft-writers-workshop-evaluates-wordcraft-googles-creative-writing-tool/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:13Z",
+  "sha256": "ed18948cfc68e756201228a5456998e330466736745f96919121e6edeab1a260",
+  "bytes": 7830,
+  "text_chars": 7739,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wordcraft (AXN:0BA9.NON.🔛△👈🪸🔙🎪), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/wordcraft-20261101/B3.txt",
+   "card": "ActuIA — The Wordcraft Writers Workshop evaluates Wordcraft, Google's creative writing tool",
+   "origin": "card",
+   "pool": null
+  }
+ },
+ "wordcraft--non-B4": {
+  "entity": "wordcraft",
+  "id": "non-B4",
+  "url": "https://www.thealgorithmicbridge.com/p/googles-wordcraft-an-ai-writing-tool",
+  "final_url": "https://www.thealgorithmicbridge.com/p/googles-wordcraft-an-ai-writing-tool",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:13Z",
+  "sha256": "d950bfcb14bbb4eeb5cb2b3b6aa8ed1e7e000c13064b5c787da8f691acac9d67",
+  "bytes": 16082,
+  "text_chars": 15800,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wordcraft (AXN:0BA9.NON.🔛△👈🪸🔙🎪), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/wordcraft-20261101/B4.txt",
+   "card": "The Algorithmic Bridge — Google's Wordcraft: An AI Writing Tool Powered by LaMDA",
+   "origin": "card",
+   "pool": null
+  }
+ },
+ "wordcraft--non-B5": {
+  "entity": "wordcraft",
+  "id": "non-B5",
+  "url": "https://www.engadget.com/2234838/authors-face-backlash-for-participation-in-2022-google-ai-study/",
+  "final_url": "https://www.engadget.com/2234838/authors-face-backlash-for-participation-in-2022-google-ai-study/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:14Z",
+  "sha256": "2e7505b20df1855e96a231038ef94137ce3abddadb1f5a8c74353c45fedc38ad",
+  "bytes": 10134,
+  "text_chars": 10113,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wordcraft (AXN:0BA9.NON.🔛△👈🪸🔙🎪), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/wordcraft-20261101/B5.txt",
+   "card": "Engadget — Authors Face Backlash For Participation In 2022 Google AI Study - Engadget",
+   "origin": "card",
+   "pool": null
+  }
+ },
+ "coauthor--non-B1": {
+  "entity": "coauthor",
+  "id": "non-B1",
+  "url": "https://coauthor.stanford.edu/",
+  "final_url": "https://coauthor.stanford.edu/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:10Z",
+  "sha256": "0d08637b373ed3e9145fb3017d5d8683aa520360b71fa0ce627d24075266ed59",
+  "bytes": 2237,
+  "text_chars": 2235,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row coauthor (AXN:0B96.NON.🎺📏🔬👋🧫🪨), its field source B1",
+   "path": "datasets/negative-of-the-negative/v2/intake/coauthor-20261101/B1.txt",
+   "card": "Stanford University — CoAuthor – Human-AI Collaborative Writing Dataset",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "coauthor--non-B5": {
+  "entity": "coauthor",
+  "id": "non-B5",
+  "url": "https://www.alphaxiv.org/abs/2201.06796",
+  "final_url": "https://www.alphaxiv.org/abs/2201.06796",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:20Z",
+  "sha256": "3a528bbab0face5aa2a3bdea8d34f4605022b99427721cebbea1feecfb698b6a",
+  "bytes": 14951,
+  "text_chars": 14944,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row coauthor (AXN:0B96.NON.🎺📏🔬👋🧫🪨), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/coauthor-20261101/B5.txt",
+   "card": "alphaXiv — CoAuthor: Designing a Human-AI Collaborative Writing Dataset ... - alphaXiv",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "coauthor--non-B6": {
+  "entity": "coauthor",
+  "id": "non-B6",
+  "url": "https://coauthor.stanford.edu/browse/",
+  "final_url": "https://coauthor.stanford.edu/browse/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:40Z",
+  "sha256": "4bd0ea289e1eea7f5b4862315a997b8ed60cdbcaec69e7e9e06af7396a6a817b",
+  "bytes": 53300,
+  "text_chars": 53296,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row coauthor (AXN:0B96.NON.🎺📏🔬👋🧫🪨), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/coauthor-20261101/B6.txt",
+   "card": "CoAuthor — Browse CoAuthor (coauthor.stanford.edu/browse/)",
+   "origin": "own_page",
+   "pool": "B_R"
+  }
+ },
+ "in2writing--non-B1": {
+  "entity": "in2writing",
+  "id": "non-B1",
+  "url": "https://in2writing.github.io/",
+  "final_url": "https://in2writing.github.io/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:41Z",
+  "sha256": "a3057546adb774b36d4efd1e634f9a3cd1e22900a874b735ec2d81771176dae1",
+  "bytes": 7285,
+  "text_chars": 7262,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row in2writing (AXN:0B9D.NON.➕⛵🏷️🔻↘️🕘), its field source B1",
+   "path": "datasets/negative-of-the-negative/v2/intake/in2writing-20261101/B1.txt",
+   "card": "GitHub — In2Writing",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "in2writing--non-B3": {
+  "entity": "in2writing",
+  "id": "non-B3",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/in2writing-20261101/B3.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:02Z",
+  "sha256": "b1ae109610c82a34096810d472a5ba2f3a87785df866a588d7ee3a130d9f4293",
+  "bytes": 13386,
+  "text_chars": 13351,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row in2writing (AXN:0B9D.NON.➕⛵🏷️🔻↘️🕘), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/in2writing-20261101/B3.txt",
+   "card": "ACL Anthology — Workshop on Intelligent and Interactive Writing Assistants (2025) - ACL Anthology",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "in2writing--non-B4": {
+  "entity": "in2writing",
+  "id": "non-B4",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/in2writing-20261101/B4.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:03Z",
+  "sha256": "dd481308afe34b8599b21b34e332ad7d300b6b4e8d59bee5f12b83b9e460b947",
+  "bytes": 420,
+  "text_chars": 419,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row in2writing (AXN:0B9D.NON.➕⛵🏷️🔻↘️🕘), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/in2writing-20261101/B4.txt",
+   "card": "OpenReview — NAACL 2025 Workshop In2Writing - OpenReview",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "creative-ai-lab-database--non-B2": {
+  "entity": "creative-ai-lab-database",
+  "id": "non-B2",
+  "url": "https://creative-ai.org/about",
+  "final_url": "https://creative-ai.org/about",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:41Z",
+  "sha256": "f5e1d700c56e6c2b8459701954d40f06fb6aec8aea0ff1c4277fcac038fa7ed9",
+  "bytes": 6711,
+  "text_chars": 6658,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row creative-ai-lab-database (AXN:0B98.NON.♉🟡➗🚪♦️🏁), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/creative-ai-lab-database-20261101/B2.txt",
+   "card": "Creative AI Lab — Creative AI Lab (creative-ai.org/about)",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "creative-ai-lab-database--non-B3": {
+  "entity": "creative-ai-lab-database",
+  "id": "non-B3",
+  "url": "https://www.kcl.ac.uk/research/creative-ai-lab",
+  "final_url": "https://www.kcl.ac.uk/research/creative-ai-lab",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:19Z",
+  "sha256": "55f5e4b153fcdb7c69ab38c9a98a2cf0b33b58afdd0a63c91553c374db275c27",
+  "bytes": 10001,
+  "text_chars": 9973,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row creative-ai-lab-database (AXN:0B98.NON.♉🟡➗🚪♦️🏁), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/creative-ai-lab-database-20261101/B3.txt",
+   "card": "King's College London — Creative AI Lab | King's College London",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "creative-ai-lab-database--non-B4": {
+  "entity": "creative-ai-lab-database",
+  "id": "non-B4",
+  "url": "https://creative-ai.org/",
+  "final_url": "https://creative-ai.org/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:15Z",
+  "sha256": "b72f889cc478fa292e480cf3b48637e7b2e700250c8fb699801dd493771186f7",
+  "bytes": 1427,
+  "text_chars": 1422,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row creative-ai-lab-database (AXN:0B98.NON.♉🟡➗🚪♦️🏁), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/creative-ai-lab-database-20261101/B4.txt",
+   "card": "Creative AI Lab — Creative AI Lab (creative-ai.org, the database)",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "orcid-names--non-B3": {
+  "entity": "orcid-names",
+  "id": "non-B3",
+  "url": "https://www.springernature.com/gp/researchers/orcid",
+  "final_url": "https://www.springernature.com/gp/researchers/orcid",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:21Z",
+  "sha256": "976b70ee0c5237e6755a131fae998df9b69fa8e3f3f7d6210bff4d46fe66cb32",
+  "bytes": 5328,
+  "text_chars": 5312,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row orcid (AXN:0BA1.NON.♋🌃⛵🟣🔓⭕), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/orcid-20261101/B3.txt",
+   "card": "www.springernature.com — ORCID | For Researchers - Springer Nature",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "orcid-names--non-B4": {
+  "entity": "orcid-names",
+  "id": "non-B4",
+  "url": "https://www.era.nih.gov/erahelp/commons/PPF_Help/8_2_orcid.htm",
+  "final_url": "https://www.era.nih.gov/erahelp/commons/PPF_Help/8_2_orcid.htm",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:21Z",
+  "sha256": "3879740ccf322d8a8b008b32729e10db9f2254ac6d32b9014a4ca09b8f876498",
+  "bytes": 3827,
+  "text_chars": 3827,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row orcid (AXN:0BA1.NON.♋🌃⛵🟣🔓⭕), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/orcid-20261101/B4.txt",
+   "card": "National Institutes of Health (NIH) | (.gov) — The ORCID iD",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "orcid-names--non-B5": {
+  "entity": "orcid-names",
+  "id": "non-B5",
+  "url": "https://guides.library.stanford.edu/orcid",
+  "final_url": "https://guides.library.stanford.edu/orcid",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:22Z",
+  "sha256": "11d02773b48e17c327ecd920a1f258c0f18fde1138dd9e1adf1c994ed778b5c0",
+  "bytes": 5179,
+  "text_chars": 5178,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row orcid (AXN:0BA1.NON.♋🌃⛵🟣🔓⭕), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/orcid-20261101/B5.txt",
+   "card": "Stanford University — Benefits of using ORCID - ORCID - Guides at Stanford University",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "orcid-names--non-B7": {
+  "entity": "orcid-names",
+  "id": "non-B7",
+  "url": "https://directivepublications.org/blog/what-is-orcid-and-how-to-register",
+  "final_url": "https://directivepublications.org/blog/what-is-orcid-and-how-to-register",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:17:30Z",
+  "sha256": "ce00a2f999440e0ac3d5ddbd76b0ed8e2c50dc8fa43871e5e6f567fd3e54a972",
+  "bytes": 5372,
+  "text_chars": 5329,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row orcid (AXN:0BA1.NON.♋🌃⛵🟣🔓⭕), its field source B7",
+   "path": "datasets/negative-of-the-negative/v2/intake/orcid-20261101/B7.txt",
+   "card": "Directive Publications — What Is ORCID and How to Register - Directive Publications",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "orcid-names--non-B10": {
+  "entity": "orcid-names",
+  "id": "non-B10",
+  "url": "https://info.orcid.org/what-is-orcid/",
+  "final_url": "https://info.orcid.org/what-is-orcid/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:20Z",
+  "sha256": "f9af82596674cbf4ab6a8207028b1bd9b765ec145292fde0fedac30a73b7491d",
+  "bytes": 8841,
+  "text_chars": 8827,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row orcid (AXN:0BA1.NON.♋🌃⛵🟣🔓⭕), its field source B10",
+   "path": "datasets/negative-of-the-negative/v2/intake/orcid-20261101/B10.txt",
+   "card": "ORCID — About ORCID (own page)",
+   "origin": "own_page",
+   "pool": "B_R"
+  }
+ },
+ "isni--non-B4": {
+  "entity": "isni",
+  "id": "non-B4",
+  "url": "https://www.bisg.org/isni",
+  "final_url": "https://www.bisg.org/isni",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:10Z",
+  "sha256": "c155917c8a8c84164f2bf96c1e123e13a9fd3796cc4959159f35d79909ffb88a",
+  "bytes": 6540,
+  "text_chars": 6524,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row isni (AXN:0B9F.NON.□📝🪦🔥🛤️🎇), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/isni-20261101/B4.txt",
+   "card": "Book Industry Study Group | BISG — ISNI - Book Industry Study Group",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "isni--non-B6": {
+  "entity": "isni",
+  "id": "non-B6",
+  "url": "https://en.wikipedia.org/wiki/ORCID",
+  "final_url": "https://en.wikipedia.org/wiki/ORCID",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T05:06:34Z",
+  "sha256": "de2ca33190c2dd4af5121d4b1431ae5111cf61f30f087e600a282c73ebcbdddb",
+  "bytes": 23222,
+  "text_chars": 22867,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row isni (AXN:0B9F.NON.□📝🪦🔥🛤️🎇), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/isni-20261101/B6.txt",
+   "card": "Wikipedia — ORCID (census third party)",
+   "origin": "census_third_party",
+   "pool": "B_R"
+  }
+ },
+ "viaf--non-B2": {
+  "entity": "viaf",
+  "id": "non-B2",
+  "url": "https://www.oclc.org/en/viaf.html",
+  "final_url": "https://www.oclc.org/en/viaf.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:47Z",
+  "sha256": "c82ab27c76c5f161c7833a31859a3b29996a017c064201178b8c3af3a137bfa0",
+  "bytes": 3650,
+  "text_chars": 3627,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row viaf (AXN:0BA7.NON.💜🏗️🟣↙️🟤🚪), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/viaf-20261101/B2.txt",
+   "card": "OCLC — VIAF: Convenient access to name authority files | OCLC",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "viaf--non-B4": {
+  "entity": "viaf",
+  "id": "non-B4",
+  "url": "https://www.oclc.org/research/activities/viaf.html",
+  "final_url": "https://www.oclc.org/research/activities/viaf.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:48Z",
+  "sha256": "620890178288de6fd4da4a264fe40ebb544a58c850fabdf9ebe9a50b277dfe71",
+  "bytes": 8414,
+  "text_chars": 8397,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row viaf (AXN:0BA7.NON.💜🏗️🟣↙️🟤🚪), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/viaf-20261101/B4.txt",
+   "card": "OCLC — VIAF (The Virtual International Authority File)",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "viaf--non-B5": {
+  "entity": "viaf",
+  "id": "non-B5",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/viaf-20261101/B5.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:48Z",
+  "sha256": "39c0c54cbe7d6f698d522de6fdd79b3139450a005702aad52e53093dcb233a04",
+  "bytes": 944,
+  "text_chars": 944,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row viaf (AXN:0BA7.NON.💜🏗️🟣↙️🟤🚪), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/viaf-20261101/B5.txt",
+   "card": "The Linked Open Data Cloud — LOD Cloud",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "viaf--non-B6": {
+  "entity": "viaf",
+  "id": "non-B6",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/viaf-20261101/B6.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:39Z",
+  "sha256": "7c31fe4ce989a750c279e3394e5ee185e2a2133ad138f939a78f6d540c45faf7",
+  "bytes": 12111,
+  "text_chars": 12086,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row viaf (AXN:0BA7.NON.💜🏗️🟣↙️🟤🚪), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/viaf-20261101/B6.txt",
+   "card": "Semantic Web Journal — Description of the VIAF (Virtual International Authority File) Dataset",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "viaf--non-B7": {
+  "entity": "viaf",
+  "id": "non-B7",
+  "url": "https://en.wikipedia.org/wiki/International_Standard_Name_Identifier",
+  "final_url": "https://en.wikipedia.org/wiki/International_Standard_Name_Identifier",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T05:32:47Z",
+  "sha256": "6e896cd4a929806c3409257cf7c17c34c76dcbf6074061b07bdb3854d9b185e5",
+  "bytes": 24393,
+  "text_chars": 24072,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row viaf (AXN:0BA7.NON.💜🏗️🟣↙️🟤🚪), its field source B7",
+   "path": "datasets/negative-of-the-negative/v2/intake/viaf-20261101/B7.txt",
+   "card": "Wikipedia — International Standard Name Identifier (census source)",
+   "origin": "census_third_party",
+   "pool": "B_R",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "wikidata--non-B1": {
+  "entity": "wikidata",
+  "id": "non-B1",
+  "url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+  "final_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:16Z",
+  "sha256": "5f49cb698b168181c329ee729d0715c1ca13c30d3f0b585da330ea9b1376aa2f",
+  "bytes": 11157,
+  "text_chars": 9709,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wikidata (AXN:0BA8.NON.🪧❤️⊗🌲🕊️🪞), its field source B1",
+   "path": "datasets/negative-of-the-negative/v2/intake/wikidata-20261101/B1.txt",
+   "card": "Wikidata — Wikidata",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "wikidata--non-B3": {
+  "entity": "wikidata",
+  "id": "non-B3",
+  "url": "https://query.wikidata.org/",
+  "final_url": "https://query.wikidata.org/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:17Z",
+  "sha256": "2063697e0ed0a3d6d376f18c08904588b3a622812094fe5b162b143314e96f01",
+  "bytes": 129,
+  "text_chars": 127,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wikidata (AXN:0BA8.NON.🪧❤️⊗🌲🕊️🪞), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/wikidata-20261101/B3.txt",
+   "card": "Wikidata Query Service — Wikidata Query Service",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "wikidata--non-B6": {
+  "entity": "wikidata",
+  "id": "non-B6",
+  "url": "https://librarycarpentry.github.io/lc-wikidata/01-introduction.html",
+  "final_url": "https://librarycarpentry.github.io/lc-wikidata/01-introduction.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:47Z",
+  "sha256": "f280b8abd797f0e37ee64feb5f46ecefa7912714216b04177f17888798895ba6",
+  "bytes": 13259,
+  "text_chars": 13137,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row wikidata (AXN:0BA8.NON.🪧❤️⊗🌲🕊️🪞), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/wikidata-20261101/B6.txt",
+   "card": "GitHub — What is Wikidata?",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "arquivo-pessoa--non-B2": {
+  "entity": "arquivo-pessoa",
+  "id": "non-B2",
+  "url": "http://arquivopessoa.net/info",
+  "final_url": "http://arquivopessoa.net/info",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:14:36Z",
+  "sha256": "7c1193e75f0ed2e822e7c4f41eed43633e43c3486678bb9627431e16e8af3f13",
+  "bytes": 5306,
+  "text_chars": 5152,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row arquivo-pessoa (AXN:0B93.NON.♄🟢👉🌌⏪♄), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/arquivo-pessoa-20261101/B2.txt",
+   "card": "Arquivo Pessoa: Obra Édita — Info - Arquivo Pessoa",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "arquivo-pessoa--non-B3": {
+  "entity": "arquivo-pessoa",
+  "id": "non-B3",
+  "url": "https://www.artsoulgroup.com/en/blog/5-1-websites-to-read-and-admire-the-work-of-fernando-pessoa/",
+  "final_url": "https://www.artsoulgroup.com/en/blog/5-1-websites-to-read-and-admire-the-work-of-fernando-pessoa/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:18Z",
+  "sha256": "b0430da95d5d371f4bf631620d05f2135fa88e7f8b88a0e2c920f86bc9afbf21",
+  "bytes": 10140,
+  "text_chars": 10079,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row arquivo-pessoa (AXN:0B93.NON.♄🟢👉🌌⏪♄), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/arquivo-pessoa-20261101/B3.txt",
+   "card": "Art and Soul Group — 5 (+1) websites to read and admire the work of Fernando Pessoa - Art and Soul",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "pessoa-digital--non-B2": {
+  "entity": "pessoa-digital",
+  "id": "non-B2",
+  "url": "https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/presse-und-kommunikationsstelle/veranstaltungskalender/detailansicht/n/pessoa-digital-development-and-sustainability-measures-for-the-digital-edition-of-fernando-pessoa-new649d3b747e612310594446/",
+  "final_url": "https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/presse-und-kommunikationsstelle/veranstaltungskalender/detailansicht/n/pessoa-digital-development-and-sustainability-measures-for-the-digital-edition-of-fernando-pessoa-new649d3b747e612310594446/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:52:07Z",
+  "sha256": "f9d923ba528e9798d9216e3aeaf136b432ca9d4f3bf2a660c45eb4e45e1076be",
+  "bytes": 10611,
+  "text_chars": 10519,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pessoa-digital (AXN:0BA4.NON.⏬⭕🎆🌗🕒👈), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/pessoa-digital-20261101/B2.txt",
+   "card": "Universität Rostock — development and sustainability measures for the Digital Edition of Fernando Pessoa",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "pennsound--non-B2": {
+  "entity": "pennsound",
+  "id": "non-B2",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B2.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:57Z",
+  "sha256": "f278cbfae5ce6ee3959effc8a4aaad77c65f18122ee9948af963c88d0591b5d3",
+  "bytes": 6707,
+  "text_chars": 6643,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pennsound (AXN:0BA3.NON.⛩️💡◇🎯🏁🍁), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B2.txt",
+   "card": "Jacket2 — PennSound podcasts - Jacket2",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "pennsound--non-B4": {
+  "entity": "pennsound",
+  "id": "non-B4",
+  "url": "https://www.youtube.com/channel/UC9X4-r-pmBlh5JmCCCNpjEw",
+  "final_url": "https://www.youtube.com/channel/UC9X4-r-pmBlh5JmCCCNpjEw",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:00Z",
+  "sha256": "d8995f795924ae7f2a5cb2d43d56489b60e9de6964e54f7d0de5883143ae3e87",
+  "bytes": 1820,
+  "text_chars": 1819,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pennsound (AXN:0BA3.NON.⛩️💡◇🎯🏁🍁), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B4.txt",
+   "card": "YouTube — PennSound - YouTube",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "pennsound--non-B5": {
+  "entity": "pennsound",
+  "id": "non-B5",
+  "url": "https://poets.org/text/pennsound",
+  "final_url": "https://poets.org/text/pennsound",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:59Z",
+  "sha256": "62419a88473f30731fe8cb45e0ab9ab4024b5ceec46082f4a4e684786ee4dedd",
+  "bytes": 3091,
+  "text_chars": 3088,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pennsound (AXN:0BA3.NON.⛩️💡◇🎯🏁🍁), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B5.txt",
+   "card": "poets.org | Academy of American Poets — PennSound | Academy of American Poets",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "pennsound--non-B7": {
+  "entity": "pennsound",
+  "id": "non-B7",
+  "url": "https://x.com/PennSound",
+  "final_url": "https://x.com/PennSound",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:01Z",
+  "sha256": "0143e15b84c365ed23bc351dd047ea38117f6fc8d9ce1081069cbaef40d24fa4",
+  "bytes": 2609,
+  "text_chars": 2588,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pennsound (AXN:0BA3.NON.⛩️💡◇🎯🏁🍁), its field source B7",
+   "path": "datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B7.txt",
+   "card": "X — PennSound - X",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "pennsound--non-B9": {
+  "entity": "pennsound",
+  "id": "non-B9",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B9.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:16:00Z",
+  "sha256": "1cb686d1ff4f1d02751122d4dd4df799359ab44a01abe23c1a5e369e31bc92be",
+  "bytes": 3888,
+  "text_chars": 3832,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pennsound (AXN:0BA3.NON.⛩️💡◇🎯🏁🍁), its field source B9",
+   "path": "datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B9.txt",
+   "card": "ModPo — Category: PennSound - ModPo",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "pennsound--non-B14": {
+  "entity": "pennsound",
+  "id": "non-B14",
+  "url": "https://github.com/leesharks000/alexanarch/blob/main/datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B14.txt",
+  "final_url": "",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:31:13Z",
+  "sha256": "f320a9bb929602ff7b35b1aded8af3e5801662ad1d9f9deb32301e6da05df113",
+  "bytes": 8273,
+  "text_chars": 8174,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row pennsound (AXN:0BA3.NON.⛩️💡◇🎯🏁🍁), its field source B14",
+   "path": "datasets/negative-of-the-negative/v2/intake/pennsound-20261101/B14.txt",
+   "card": "Center for Programs in Contemporary Writing — CPCW home page (named in T's body by the link 'Kelly Writers House')",
+   "origin": "body_named",
+   "pool": "B_D",
+   "url_basis": "the /non composer recorded no address; the link is the saved copy in alexanarch"
+  }
+ },
+ "epc--non-B2": {
+  "entity": "epc",
+  "id": "non-B2",
+  "url": "https://en.wikipedia.org/wiki/Electronic_Poetry_Center",
+  "final_url": "https://en.wikipedia.org/wiki/Electronic_Poetry_Center",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:26Z",
+  "sha256": "c13e2a749e608a7c4c166d2e5f91fb7f02a5161e9c76354137cec465fbab910b",
+  "bytes": 3903,
+  "text_chars": 3890,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-poetry-center (AXN:0B9C.NON.❤️☀️🔬🌲🎲🕒), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-poetry-center-20261101/B2.txt",
+   "card": "Wikipedia — Electronic Poetry Center - Wikipedia",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "epc--non-B3": {
+  "entity": "epc",
+  "id": "non-B3",
+  "url": "https://elmcip.net/organization/electronic-poetry-center-epc",
+  "final_url": "https://elmcip.net/organization/electronic-poetry-center-epc",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:46Z",
+  "sha256": "d93765e341aba4879463efccf967667570eef328b9c9c6962ae2500b7ee57330",
+  "bytes": 2064,
+  "text_chars": 2049,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-poetry-center (AXN:0B9C.NON.❤️☀️🔬🌲🎲🕒), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-poetry-center-20261101/B3.txt",
+   "card": "ELMCIP Knowledge Base — Electronic Poetry Center (EPC)",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "epc--non-B4": {
+  "entity": "epc",
+  "id": "non-B4",
+  "url": "https://poets.org/text/electronic-poetry-center",
+  "final_url": "https://poets.org/text/electronic-poetry-center",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:27Z",
+  "sha256": "432eab756435166d7b9c79d5850de996ada46e833dd6b8a2179d183b1e2577f1",
+  "bytes": 3394,
+  "text_chars": 3391,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-poetry-center (AXN:0B9C.NON.❤️☀️🔬🌲🎲🕒), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-poetry-center-20261101/B4.txt",
+   "card": "poets.org | Academy of American Poets — Electronic Poetry Center | Academy of American Poets",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "epc--non-B6": {
+  "entity": "epc",
+  "id": "non-B6",
+  "url": "https://writing.upenn.edu/pennsound/",
+  "final_url": "https://writing.upenn.edu/pennsound/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:28Z",
+  "sha256": "9501ca77e246dd08d879e8b99dcf5e35e79241dc783697ce1566aa03b22c697a",
+  "bytes": 15181,
+  "text_chars": 15112,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-poetry-center (AXN:0B9C.NON.❤️☀️🔬🌲🎲🕒), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-poetry-center-20261101/B6.txt",
+   "card": "PennSound — home page",
+   "origin": "body_named",
+   "pool": "B_D"
+  }
+ },
+ "epc--non-B7": {
+  "entity": "epc",
+  "id": "non-B7",
+  "url": "https://ubu.com/",
+  "final_url": "https://ubu.com/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:15:29Z",
+  "sha256": "a965e98115ea169d0f3c363509bcbafe34838bb47360fbd7bdbd4a7e35e1e9f6",
+  "bytes": 456,
+  "text_chars": 456,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row electronic-poetry-center (AXN:0B9C.NON.❤️☀️🔬🌲🎲🕒), its field source B7",
+   "path": "datasets/negative-of-the-negative/v2/intake/electronic-poetry-center-20261101/B7.txt",
+   "card": "UbuWeb — home page",
+   "origin": "body_named",
+   "pool": "B_D"
+  }
+ },
+ "jacket2--non-B2": {
+  "entity": "jacket2",
+  "id": "non-B2",
+  "url": "https://en.wikipedia.org/wiki/John_Tranter",
+  "final_url": "https://en.wikipedia.org/wiki/John_Tranter",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:34Z",
+  "sha256": "f2aabbb2fc39a669829b36a244c550f06aa9fbe95fc57523d07138f99553120f",
+  "bytes": 13814,
+  "text_chars": 13766,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row jacket2 (AXN:0BA0.NON.▶️🌘🗺️🫶🔐🪧), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/jacket2-20261101/B2.txt",
+   "card": "Wikipedia — John Tranter",
+   "origin": "body_named",
+   "pool": "B_D"
+  }
+ },
+ "jacket2--non-B3": {
+  "entity": "jacket2",
+  "id": "non-B3",
+  "url": "https://www.english.upenn.edu/people/al-filreis",
+  "final_url": "https://www.english.upenn.edu/people/al-filreis",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:35Z",
+  "sha256": "da3756aaac5dcba5d6ee8b110ec59f4216d74235af9da25b8f91bc4aeaef1102",
+  "bytes": 15974,
+  "text_chars": 15954,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row jacket2 (AXN:0BA0.NON.▶️🌘🗺️🫶🔐🪧), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/jacket2-20261101/B3.txt",
+   "card": "Penn English — Al Filreis",
+   "origin": "body_named",
+   "pool": "B_D"
+  }
+ },
+ "jacket2--non-B4": {
+  "entity": "jacket2",
+  "id": "non-B4",
+  "url": "https://jacket2.org/content/poem-talk",
+  "final_url": "https://jacket2.org/content/poem-talk",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:35Z",
+  "sha256": "99221f100752d59a836e8c461fa22a7cc69100bc55bb9e9ae511d2334d25e34f",
+  "bytes": 15210,
+  "text_chars": 14506,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row jacket2 (AXN:0BA0.NON.▶️🌘🗺️🫶🔐🪧), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/jacket2-20261101/B4.txt",
+   "card": "jacket2.org — PoemTalk",
+   "origin": "body_named",
+   "pool": "B_D"
+  }
+ },
+ "jacket2--non-B6": {
+  "entity": "jacket2",
+  "id": "non-B6",
+  "url": "https://en.wikipedia.org/wiki/Jacket2",
+  "final_url": "https://en.wikipedia.org/wiki/Jacket2",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:36Z",
+  "sha256": "91670a47db527e9551a08515ceeafaaba16f3dbab8ab5a8d561c26a8d25ab92f",
+  "bytes": 38475,
+  "text_chars": 38210,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row jacket2 (AXN:0BA0.NON.▶️🌘🗺️🫶🔐🪧), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/jacket2-20261101/B6.txt",
+   "card": "Wikipedia — Jacket2 (redirect to Kelly Writers House § Jacket2 Magazine)",
+   "origin": "wikipedia",
+   "pool": "B_R"
+  }
+ },
+ "eclipse--non-B2": {
+  "entity": "eclipse",
+  "id": "non-B2",
+  "url": "https://eclipsearchives.com/",
+  "final_url": "https://eclipsearchives.com/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:59Z",
+  "sha256": "18f643574f770e258079d6040503f0b21b46a09ed5f025eab56ca70bf5c1ca5a",
+  "bytes": 1440,
+  "text_chars": 1435,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row eclipse (AXN:0B9A.NON.👁️📏🕒🌖🔛📏), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/eclipse-20261101/B2.txt",
+   "card": "Eclipse Archives — Eclipse Archives",
+   "origin": "card (homonym)",
+   "pool": "B_D"
+  }
+ },
+ "eclipse--non-B3": {
+  "entity": "eclipse",
+  "id": "non-B3",
+  "url": "https://science.gsfc.nasa.gov/attic/eclipse2017.gsfc.nasa.gov/historical-eclipse-image-archive.html",
+  "final_url": "https://science.gsfc.nasa.gov/attic/eclipse2017.gsfc.nasa.gov/historical-eclipse-image-archive.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:28Z",
+  "sha256": "fd019ae2a09b7f70afb1e8e50145dbaad7b8f6da84bf182d140c7c02552bd5b3",
+  "bytes": 3019,
+  "text_chars": 3016,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row eclipse (AXN:0B9A.NON.👁️📏🕒🌖🔛📏), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/eclipse-20261101/B3.txt",
+   "card": "NASA (.gov) — Historical Eclipse Image Archive",
+   "origin": "card (homonym)",
+   "pool": "B_D"
+  }
+ },
+ "eclipse--non-B4": {
+  "entity": "eclipse",
+  "id": "non-B4",
+  "url": "https://archive.eclipse.org/eclipse/downloads/",
+  "final_url": "https://archive.eclipse.org/eclipse/downloads/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:00Z",
+  "sha256": "95d2ee0e9d34ac1e906c3fc3e39c7b35590bc5ddc976d3cd51ff407e335546cd",
+  "bytes": 913,
+  "text_chars": 913,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row eclipse (AXN:0B9A.NON.👁️📏🕒🌖🔛📏), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/eclipse-20261101/B4.txt",
+   "card": "Eclipse Foundation — Eclipse Project Archives",
+   "origin": "card (homonym)",
+   "pool": "B_D"
+  }
+ },
+ "eclipse--non-B5": {
+  "entity": "eclipse",
+  "id": "non-B5",
+  "url": "https://marketplace.eclipse.org/category/free-tagging/archive",
+  "final_url": "https://marketplace.eclipse.org/category/free-tagging/archive",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:00Z",
+  "sha256": "37a42e5d6bf9dd3e8edae7888217987e63ab5ee5b043e1417baab5fe10773eff",
+  "bytes": 6129,
+  "text_chars": 6126,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row eclipse (AXN:0B9A.NON.👁️📏🕒🌖🔛📏), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/eclipse-20261101/B5.txt",
+   "card": "Eclipse Marketplace — archive | Eclipse Plugins, Bundles and Products",
+   "origin": "card (homonym)",
+   "pool": "B_D"
+  }
+ },
+ "eclipse--non-B7": {
+  "entity": "eclipse",
+  "id": "non-B7",
+  "url": "https://www.tiktok.com/@eclipse_archives",
+  "final_url": "https://www.tiktok.com/@eclipse_archives",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:01Z",
+  "sha256": "0f9690448d3dc5919070328fbd6f42e6c9b0f7672a7c004214b9079fce3a0a8f",
+  "bytes": 1537,
+  "text_chars": 1530,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row eclipse (AXN:0B9A.NON.👁️📏🕒🌖🔛📏), its field source B7",
+   "path": "datasets/negative-of-the-negative/v2/intake/eclipse-20261101/B7.txt",
+   "card": "TikTok — eclipse archives (@eclipse_archives) - TikTok",
+   "origin": "card (homonym)",
+   "pool": "B_D"
+  }
+ },
+ "eclipse--non-B8": {
+  "entity": "eclipse",
+  "id": "non-B8",
+  "url": "https://www.eclipse.org/projects/archives.php",
+  "final_url": "https://www.eclipse.org/projects/archives.php",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:01Z",
+  "sha256": "12caf0abca6a0c5d051f3d23d74e4644850312aa7bc8314a1338e6d7f530f7f4",
+  "bytes": 22169,
+  "text_chars": 22168,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row eclipse (AXN:0B9A.NON.👁️📏🕒🌖🔛📏), its field source B8",
+   "path": "datasets/negative-of-the-negative/v2/intake/eclipse-20261101/B8.txt",
+   "card": "Eclipse Foundation — Archived Projects | The Eclipse Foundation",
+   "origin": "card (homonym)",
+   "pool": "B_D"
+  }
+ },
+ "dada-iowa--non-B1": {
+  "entity": "dada-iowa",
+  "id": "non-B1",
+  "url": "https://www.lib.uiowa.edu/dada/",
+  "final_url": "https://www.lib.uiowa.edu/dada/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:32Z",
+  "sha256": "fd10cfe6e66bb373c55a25a8004dd3c9051f710ceacd26f462d339ea222b128e",
+  "bytes": 4755,
+  "text_chars": 4745,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row international-dada-archive (AXN:0B9E.NON.🪜🧲🔎🔀📝⏩), its field source B1",
+   "path": "datasets/negative-of-the-negative/v2/intake/international-dada-archive-20261101/B1.txt",
+   "card": "University of Iowa Libraries — International Dada Archive - University of Iowa Libraries",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "dada-iowa--non-B2": {
+  "entity": "dada-iowa",
+  "id": "non-B2",
+  "url": "https://peoplesgdarchive.org/item/11210/international-dada-archive",
+  "final_url": "https://peoplesgdarchive.org/item/11210/international-dada-archive",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:06Z",
+  "sha256": "21da299b06dfbea4bff686a9100297f25071b93e910d2a87f228f4c3faf2a35e",
+  "bytes": 2206,
+  "text_chars": 2204,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row international-dada-archive (AXN:0B9E.NON.🪜🧲🔎🔀📝⏩), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/international-dada-archive-20261101/B2.txt",
+   "card": "People’s Graphic Design Archive — International DaDa Archive",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "dada-iowa--non-B3": {
+  "entity": "dada-iowa",
+  "id": "non-B3",
+  "url": "https://www.thegazette.com/news/exploring-dada-anti-war-art-movement-on-display-at-ui-main-library/article_56535019-6475-5442-99a5-b4f17f7ed3a2.html",
+  "final_url": "https://www.thegazette.com/news/exploring-dada-anti-war-art-movement-on-display-at-ui-main-library/article_56535019-6475-5442-99a5-b4f17f7ed3a2.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:07Z",
+  "sha256": "887c546b6db88848f2df36a7110278d8e44d2dd72ae8db50ca2c0b02f80968c2",
+  "bytes": 15319,
+  "text_chars": 15284,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row international-dada-archive (AXN:0B9E.NON.🪜🧲🔎🔀📝⏩), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/international-dada-archive-20261101/B3.txt",
+   "card": "www.thegazette.com — Exploring Dada: Anti-war art movement on display at UI Main Library - The Gazette",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "dada-iowa--non-B4": {
+  "entity": "dada-iowa",
+  "id": "non-B4",
+  "url": "https://internationaltimes.it/the-digital-dada-archive/",
+  "final_url": "https://internationaltimes.it/the-digital-dada-archive/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:27:09Z",
+  "sha256": "cba87b3820ba0022645003b2f4c44db7eabdacd84443d1db3028aefd46f2c19a",
+  "bytes": 10986,
+  "text_chars": 10720,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row international-dada-archive (AXN:0B9E.NON.🪜🧲🔎🔀📝⏩), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/international-dada-archive-20261101/B4.txt",
+   "card": "IT | International Times — The Digital Dada Archive | IT - IT | International Times",
+   "origin": "card",
+   "pool": "B_D",
+   "url_basis": "the saved page's own canonical address"
+  }
+ },
+ "copyright-office-ai--non-B2": {
+  "entity": "copyright-office-ai",
+  "id": "non-B2",
+  "url": "https://www.copyright.gov/newsnet/2025/1060.html",
+  "final_url": "https://www.copyright.gov/newsnet/2025/1060.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:28Z",
+  "sha256": "3dd16e8a45a9e70994bd80bff725181a058a5d919e55da28c606023065ed2f1e",
+  "bytes": 5661,
+  "text_chars": 5651,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row copyright-office-ai (AXN:0B97.NON.🌋♋🪐▽🕗📏), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/copyright-office-ai-20261101/B2.txt",
+   "card": "Copyright Office (.gov) — NewsNet Issue 1060 | U.S. Copyright Office",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "copyright-office-ai--non-B3": {
+  "entity": "copyright-office-ai",
+  "id": "non-B3",
+  "url": "https://www.copyright.gov/policy/artificial-intelligence/",
+  "final_url": "https://www.copyright.gov/policy/artificial-intelligence/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:28Z",
+  "sha256": "a290fa0cdf149fd5898710bdfe86ea2c9facea66fc3e8b6a33db332759cb6d7b",
+  "bytes": 4739,
+  "text_chars": 4727,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row copyright-office-ai (AXN:0B97.NON.🌋♋🪐▽🕗📏), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/copyright-office-ai-20261101/B3.txt",
+   "card": "Copyright Office (.gov) — Artificial Intelligence Study | U.S. Copyright Office",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "copyright-office-ai--non-B4": {
+  "entity": "copyright-office-ai",
+  "id": "non-B4",
+  "url": "https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report",
+  "final_url": "https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:43Z",
+  "sha256": "bd27ac4183422a922b9defc7ff5c65c024759117e61a8ad6fad1ce1c9342f685",
+  "bytes": 11491,
+  "text_chars": 11411,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row copyright-office-ai (AXN:0B97.NON.🌋♋🪐▽🕗📏), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/copyright-office-ai-20261101/B4.txt",
+   "card": "Skadden, Arps, Slate, Meagher & Flom — Copyright Office Publishes Report on Copyrightability of AI-Generated Materials | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "copyright-office-ai--non-B6": {
+  "entity": "copyright-office-ai",
+  "id": "non-B6",
+  "url": "https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696",
+  "final_url": "https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:44Z",
+  "sha256": "12fb58d41dfcf0f9809e7ad8e6ac9d1ecee072507c95db39f7d8da1d9b63860b",
+  "bytes": 14441,
+  "text_chars": 14332,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row copyright-office-ai (AXN:0B97.NON.🌋♋🪐▽🕗📏), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/copyright-office-ai-20261101/B6.txt",
+   "card": "WIPO — US Copyright Office on AI: Human creativity still matters, legally",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "gwu-dail--non-B2": {
+  "entity": "gwu-dail",
+  "id": "non-B2",
+  "url": "https://www.fisherphillips.com/en/resources-and-innovation/trackers-and-maps/ai-litigation-tracker",
+  "final_url": "https://www.fisherphillips.com/en/resources-and-innovation/trackers-and-maps/ai-litigation-tracker",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:34Z",
+  "sha256": "573a26f666501035af88e917907f3a2f384dc3653ac437bd32877af6c342a7bc",
+  "bytes": 1584,
+  "text_chars": 1582,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row dail (AXN:0B99.NON.⏹️🌋🚨❤️📋🌔), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/dail-20261101/B2.txt",
+   "card": "Fisher Phillips LLP — AI Litigation Tracker | Fisher Phillips LLP",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "gwu-dail--non-B3": {
+  "entity": "gwu-dail",
+  "id": "non-B3",
+  "url": "https://www.damiencharlotin.com/hallucinations/",
+  "final_url": "https://www.damiencharlotin.com/hallucinations/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:34Z",
+  "sha256": "0205843985fe316f80fa8d076a92fb1699cb4d9d1901bddf036ff903b0330108",
+  "bytes": 22183,
+  "text_chars": 21889,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row dail (AXN:0B99.NON.⏹️🌋🚨❤️📋🌔), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/dail-20261101/B3.txt",
+   "card": "Damien Charlotin — AI Hallucination Cases Database - Damien Charlotin",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "gwu-dail--non-B5": {
+  "entity": "gwu-dail",
+  "id": "non-B5",
+  "url": "https://digital-client-solutions.hlc.com/resources/ai-litigation-case-law-tracker",
+  "final_url": "https://digital-client-solutions.hlc.com/resources/ai-litigation-case-law-tracker",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:26:56Z",
+  "sha256": "30e88c58619ce4ee490e77a89dda947fcee24da0ed6c66d7b5b75853d797b03f",
+  "bytes": 11735,
+  "text_chars": 11687,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row dail (AXN:0B99.NON.⏹️🌋🚨❤️📋🌔), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/dail-20261101/B5.txt",
+   "card": "Hogan Lovells Cadwalader — AI Litigation Case Law Tracker | Explore global AI-related cases | Hogan Lovells Cadwalader",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "chatgpt-eating-the-world--non-B2": {
+  "entity": "chatgpt-eating-the-world",
+  "id": "non-B2",
+  "url": "https://chatgptiseatingtheworld.substack.com/",
+  "final_url": "https://chatgptiseatingtheworld.substack.com/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:49:50Z (front page); 2026-11-01T06:49:51Z (About)",
+  "sha256": "1f7b8a2cfc8a6ee28a42c0ac2afd822140d4c2f32a2cddad3c7a57501f8fc8e2",
+  "bytes": 279,
+  "text_chars": 275,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row chatgpt-eating-the-world (AXN:0B95.NON.♉⏬☿🟣🌟🌇), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/chatgpt-eating-the-world-20261101/B2.txt",
+   "card": "Substack·ChatGPTIsEatingtheWorld’s Substack — ChatGPTIsEatingtheWorld's Substack",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "authors-guild-human-authored--non-B2": {
+  "entity": "authors-guild-human-authored",
+  "id": "non-B2",
+  "url": "https://authorsguild.org/human-authored/faq/",
+  "final_url": "https://authorsguild.org/human-authored/faq/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:49:38Z",
+  "sha256": "5b14beaf2171276d539fa0e4cacc86beac9084d64b715e42500c3d6ebbfdd612",
+  "bytes": 24068,
+  "text_chars": 24013,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row authors-guild-human-authored (AXN:0B94.NON.🌆🛸🥁💜🝊🌀), its field source B2",
+   "path": "datasets/negative-of-the-negative/v2/intake/authors-guild-human-authored-20261101/B2.txt",
+   "card": "The Authors Guild — Human Authored FAQ",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "authors-guild-human-authored--non-B3": {
+  "entity": "authors-guild-human-authored",
+  "id": "non-B3",
+  "url": "https://janefriedman.com/my-concerns-about-the-authors-guild-human-authored-certification-and-their-comprehensive-response/",
+  "final_url": "https://janefriedman.com/my-concerns-about-the-authors-guild-human-authored-certification-and-their-comprehensive-response/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:49:40Z",
+  "sha256": "2327381d71a4045b56408613d766f2b48118817b8b3d5410e5b6ad5a18bfe375",
+  "bytes": 38923,
+  "text_chars": 38361,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row authors-guild-human-authored (AXN:0B94.NON.🌆🛸🥁💜🝊🌀), its field source B3",
+   "path": "datasets/negative-of-the-negative/v2/intake/authors-guild-human-authored-20261101/B3.txt",
+   "card": "Jane Friedman — My Concerns About the Authors Guild Human Authored Certification—and Their Comprehensive Response",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "authors-guild-human-authored--non-B4": {
+  "entity": "authors-guild-human-authored",
+  "id": "non-B4",
+  "url": "https://authorsguild.org/human-authored/usage-guidelines/",
+  "final_url": "https://authorsguild.org/human-authored/usage-guidelines/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:49:42Z",
+  "sha256": "d1449d6bd237a8a2adec0cb656b5b26dcc27a33afeaf357fa423a5171f6a7879",
+  "bytes": 10907,
+  "text_chars": 10897,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row authors-guild-human-authored (AXN:0B94.NON.🌆🛸🥁💜🝊🌀), its field source B4",
+   "path": "datasets/negative-of-the-negative/v2/intake/authors-guild-human-authored-20261101/B4.txt",
+   "card": "The Authors Guild — Human Authored Usage Guidelines",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "authors-guild-human-authored--non-B5": {
+  "entity": "authors-guild-human-authored",
+  "id": "non-B5",
+  "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/99836-authors-guild-opens-human-authored-certification-to-all-u-s-authors-and-publishers.html",
+  "final_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/99836-authors-guild-opens-human-authored-certification-to-all-u-s-authors-and-publishers.html",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:49:43Z",
+  "sha256": "eb32dc5b52c899d87b9116a19bdf918fadb4d25d50125d4ac39c38569f47679c",
+  "bytes": 7361,
+  "text_chars": 7342,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row authors-guild-human-authored (AXN:0B94.NON.🌆🛸🥁💜🝊🌀), its field source B5",
+   "path": "datasets/negative-of-the-negative/v2/intake/authors-guild-human-authored-20261101/B5.txt",
+   "card": "Publishers Weekly — Authors Guild Expands 'Human Authored' Certification Program",
+   "origin": "card",
+   "pool": "B_D"
+  }
+ },
+ "authors-guild-human-authored--non-B6": {
+  "entity": "authors-guild-human-authored",
+  "id": "non-B6",
+  "url": "https://authorsguild.org/news/human-authored-certification-expands-to-all-authors/",
+  "final_url": "https://authorsguild.org/news/human-authored-certification-expands-to-all-authors/",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:49:43Z",
+  "sha256": "c165ea4550c81ab0db9d62298932e9fae0e5b7f0ed00b7a41d501125ba6efbbd",
+  "bytes": 13349,
+  "text_chars": 13267,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row authors-guild-human-authored (AXN:0B94.NON.🌆🛸🥁💜🝊🌀), its field source B6",
+   "path": "datasets/negative-of-the-negative/v2/intake/authors-guild-human-authored-20261101/B6.txt",
+   "card": "The Authors Guild — Authors Guild Launches Expanded “Human Authored” Certification Program (press release)",
+   "origin": "own_page",
+   "pool": "B_R"
+  }
+ },
+ "authors-guild-human-authored--non-B8": {
+  "entity": "authors-guild-human-authored",
+  "id": "non-B8",
+  "url": "https://go.authorsguild.org/human-authored-search",
+  "final_url": "https://go.authorsguild.org/human-authored-search",
+  "http": "200",
+  "content_type": "text/plain",
+  "fetched": "2026-11-01T06:58:13Z",
+  "sha256": "be27ea018cd24ad874b489674745f777268d57fa230541dac005076357096aa1",
+  "bytes": 5585,
+  "text_chars": 5578,
+  "error": "",
+  "adopted": {
+   "from": "alexanarch.org /non row authors-guild-human-authored (AXN:0B94.NON.🌆🛸🥁💜🝊🌀), its field source B8",
+   "path": "datasets/negative-of-the-negative/v2/intake/authors-guild-human-authored-20261101/B8.txt",
+   "card": "The Authors Guild — Search for a Human Authored Certification (the public database's search page)",
+   "origin": "own_page",
+   "pool": "B_R"
+  }
  }
 }

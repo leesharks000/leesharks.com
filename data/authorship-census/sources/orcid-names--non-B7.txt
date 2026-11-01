@@ -1,0 +1,152 @@
+What Is ORCID and How to Register — Directive Publications
+
+ISSN-registered · Peer-reviewed · Open Access
+
+JournalsAboutContact
+
+Directive PublicationsMedical & Scientific Journals
+
+JournalsArticlesFor AuthorsAcademy
+AboutNewsContact
+
+Submit Manuscript
+☰
+
+Journals
+Articles
+For Authors
+Academy
+About
+News Contact
+Submit Manuscript
+
+Home
+›
+Academy
+›
+What Is ORCID and How to Register
+
+Open Science
+
+What Is ORCID and How to Register
+
+DE
+By Directive Editorial Team, Directive Publications
+·17 Jul 2026
+·2 min read
+
+In this guide
+
+In short: An ORCID iD is a free, permanent 16-character identifier that reliably connects you to your research — no matter how common your name is or how it is spelled. Registering takes a few minutes, and many journals and funders now expect one.
+
+What is ORCID?
+
+ORCID (Open Researcher and Contributor ID) provides a persistent digital identifier that distinguishes you from every other researcher. Just as a DOI permanently identifies an article, an ORCID iD permanently identifies you and links to a record of your works, affiliations and funding.
+
+Why it matters
+
+Disambiguation — it separates you from other researchers with the same name, and from variations of your own name (initials, maiden names, transliterations).
+
+Correct attribution — your publications are reliably connected to you across journals and databases.
+
+It follows you — through job changes, name changes and career moves.
+
+It saves time — many submission and grant systems auto-fill your details from your ORCID record.
+
+It is increasingly required — by journals (including ours, which encourages every author to use one) and funders.
+
+How to register
+
+Go to orcid.org/register.
+
+Enter your name and email and create a password.
+
+Set your visibility preferences — you control what is public, trusted or private.
+
+Confirm your email. You now have your unique ORCID iD.
+
+It is free and takes only a few minutes.
+
+How to use it
+
+Add your works, affiliations and funding to your record (many publishers can add publications automatically, with your permission).
+
+Include your ORCID iD when you submit a manuscript and on your grant applications.
+
+Add it to your email signature, CV and profile pages.
+
+Key takeaways
+
+An ORCID iD is a free, permanent identifier that connects you to your work.
+
+It prevents name confusion and ensures correct attribution.
+
+Register in minutes at orcid.org and use it on every submission.
+
+You control your privacy settings.
+
+If you also keep a Google Scholar profile, our guide to setting up a Google Scholar profile explains how to keep its publication list in step with your ORCID record by hand.
+
+Frequently Asked Questions
+
+Is ORCID free?
+Yes. Registering for an ORCID iD is completely free for researchers, and it takes only a few minutes at orcid.org.
+Why do I need an ORCID iD if I have a common name?
+That is exactly when it helps most. An ORCID iD distinguishes you from other researchers with the same or similar name, and from your own name variations, so your work is correctly attributed to you.
+Do journals require ORCID?
+Many journals and funders now require or strongly encourage an ORCID iD for corresponding authors, and increasingly for co-authors. Directive Publications encourages all authors and reviewers to use one.
+Does ORCID make my personal information public?
+You control your privacy settings. You choose what is visible to everyone, to trusted parties, or kept private. Your 16-character iD is public, but you decide what information is attached to it.
+What does an ORCID iD look like?
+It is a 16-character iD, written as four groups of four — for example, https://orcid.org/0000-0002-1825-0097. The final character is a check digit that may be a number or the letter X. It links to your ORCID record.
+
+DE
+
+Directive Editorial Team
+Directive Publications
+
+The editorial team at Directive Publications — an international open-access publisher of peer-reviewed medical and scientific journals.
+
+Publishing your research?
+
+Directive Publications is an open-access publisher — every article peer-reviewed, Crossref-registered, and free to read under CC BY 4.0.
+
+Submit a manuscript →Read our Open Science policy →
+
+Related guides
+
+Open Science
+
+PROSPERO Registration: How to Register Your Systematic Review
+
+Open Science
+
+How to Set Up and Maintain a Google Scholar Profile
+
+Open Science
+
+What Is an ISSN, and How Do You Check a Journal's ISSN?
+
+Directive PublicationsMedical & Scientific Journals
+
+An international open-access publisher of peer-reviewed medical and scientific research — advancing knowledge through rigorous editorial standards, transparent ethics, permanent DOIs, and barrier-free access under CC-BY.
+
+Crossref MemberOpenAlexCOPE PrinciplesORCIDCC-BY
+
+[email protected]
+
+Explore
+All JournalsLatest ArticlesAcademy (Blog)Open AccessRSS Feed
+
+For Authors
+For Authors & StandardsAuthor GuidelinesArticle TypesSubmit ManuscriptPublication ChargesFee WaiversBecome a Reviewer
+
+Policies & Ethics
+Peer ReviewReviewer GuidelinesPublication EthicsResearch IntegrityEditorial PoliciesCorrections & RetractionsPlagiarism Policy
+
+Access & Company
+Copyright & RightsData AvailabilityDigital PreservationAbout UsContactFAQPrivacyTermsRefund Policy
+
+© 2026 Directive Publications. All rights reserved. · Crossref Member · COPE Principles
+
+Privacy · Terms · Sitemap

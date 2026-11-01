@@ -1,0 +1,59 @@
+LOD Cloud
+Toggle navigation
+The Linked Open Data Cloud
+Browse
+Submit a dataset
+Diagram
+Subclouds
+About
++ Datasets from file
+-->
+Google
+-->
+{{dataset.title}} (Edit)
+About this dataset
+{{dataset.description.en}}
+License: {{dataset.license}}
+{{dataset.domain}}
+{{keyword}}
+Contact Details
+Contact Point: {{dataset.contact_point.name}}
+Website: {{dataset.website}}
+Download Links
+0">
+Full Downloads
+{{fd.title}}
+Download
+{{mirror.substring(5)}}
+({{fd.description}})
+0">
+SPARQL Endpoints
+{{fd.title}}
+Access SPARQL endpoint
+({{fd.description}})
+0">
+Examples
+{{fd.title}}
+Download
+({{fd.description}})
+0">
+Other downloads
+{{fd.title}}
+Download
+{{mirror.substring(5)}}
+({{fd.description}})
+Data Facts
+Total size
+{{commaFormatted(dataset.triples)}} triples
+Namespace
+{{dataset.namespace}}
+DoI
+{{dataset.doi}}
+Links to {{l.target}}
+{{commaFormatted(l.value)}} triples
+Data Quality Estimation by Luzzu
+Download metadata as:
+JSON
+RDF/XML
+Turtle
+N-Triples

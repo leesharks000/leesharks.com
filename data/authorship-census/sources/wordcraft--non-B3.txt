@@ -1,0 +1,389 @@
+The Wordcraft Writers Workshop evaluates Wordcraft, Google's creative writing tool — ActuIA
+
+AI news & analysis from Europe
+
+Search…
+
+No results
+
+Articles
+
+Players
+
+ See all results ›
+
+ Publish
+
+ EN
+
+ Français
+ English
+ Español
+ Italiano
+ Deutsch
+ Português
+ Nederlands
+ Polski
+ Română
+ Українська
+ Türkçe
+ العربية
+ 中文
+ 日本語
+ 한국어
+
+ Search content
+
+ News
+
+ Topics
+
+Technologies & capabilities
+
+Analytical & Predictive AI
+
+Generative AI
+
+AI Agents
+
+Robotics
+
+Infrastructure & footprint
+
+Chips & Infrastructure
+
+AI & Environment
+
+Society & challenges
+
+Ethics, Trust & Regulation
+
+Sovereignty & European AI
+
+AI, Work & Society
+
+Uses & market
+
+AI in Business
+
+AI Economy & Market
+
+ Sectors
+
+Health & life sciences
+
+Health - medicine
+
+Agri-food
+
+Finance & insurance
+
+Finance
+
+Insurance
+
+Industry & energy
+
+Industry
+
+Energy
+
+Environment
+
+Mobility
+
+Transport
+
+Tourism
+
+Public sector & defense
+
+Public Sector
+
+Defense
+
+Justice
+
+Media & culture
+
+Media
+
+Culture
+
+Social networks
+
+Commerce & marketing
+
+Marketing
+
+Customer relationship
+
+Retail
+
+Education & employment
+
+Education
+
+Employment
+
+Telecoms
+
+Telecommunications
+
+ Players
+
+Must-know
+
+Companies
+
+Specialists
+
+Universities
+
+Funds
+
+ Analysis & formats
+
+Op-ed / opinion
+
+Dossier / in-depth analysis
+
+ActuIA announcement
+
+Explainer / educational
+
+Monthly briefing
+
+ Create my personalized watch
+
+ Create my account
+ Log in
+
+ Log in
+ Create my account
+
+ Home
+ ›
+ Analysis
+ ›
+ The Wordcraft Writers Workshop evaluates Wordcraft...
+
+ Analysis
+
+The Wordcraft Writers Workshop evaluates Wordcraft, Google's creative writing tool
+
+ MAMarie-Claude Benoit
+ ·Nov 21, 2022 ·Updated on Feb 14, 2025 ·4 min
+
+Contents
+
+ SaveSaved
+
+File in…
+
+Saved. Add a note?
+
+ Dismiss
+ Save note
+
+ Créer une veille sur ce sujet
+ Recevez les prochains développements s’il y en a, avec une veille IA configurée depuis cet article.
+
+ Create my free monitoring
+
+ On July 15, 2021, PAIR, a multidisciplinary team at Google, introduced Wordcraft, a creative writing tool based on the LaMDA language model, built on Transformer, a neural network architecture that Google Research invented in 2017. To gain insight into the potential role of AI in creative writing, PAIR and Magenta, another Google team, asked 13 professional English-language writers to use Wordcraft to write stories and what this AI tool brought to that writing.
+
+Wordcraft isn't the first AI to invite itself into literature, in fact we dedicated a feature to this topic in issue #8 of our magazine . In 2015, Tencent developed Dreamwriter, an AI capable of automatically writing articles, as well as the GPT-3 model from Open AI.
+
+Wordcraft, a magical text editor?
+
+For the PAIR team (People + AI Research), Wordcraft can be seen as a "magic text editor" but it is above all a tool to help the user create and not to create.
+The user will be able to ask it to rewrite a sentence, to make it funnier or more melancholic, to describe objects and even to generate prompts himself to use them to generate text. The team integrated a chatbot feature into the app to allow a conversation about the story being written.
+
+The Wordcraft Writers Workshop
+
+The Wordcraft Writers Workshop was launched by PAIR and Magenta, two Google teams; it was led by Andy Coenen and Ann Yuan, Research Engineers on the PAIR team, Daphne Ippolito, a Research Scientist working with Magenta, and Sehmon Burnam, Product Manager, Magenta.
+
+They asked 13 professional writers from different worlds to use the tool for 8 weeks to write a short story and to comment on the contribution of AI in their creative process. You can find 9 of these stories here.
+
+Some participants expected Wordcraft to produce high-level narrative and plot ideas, while others only hoped for sentences or passages good enough to be inserted directly into a story.
+
+Participants emphasized that the user interface of the tool is as important as the underlying language model that supports it. For all of them, it is clear that Wordcraft is very useful as a source of inspiration, it gave them new ideas and then helped them to develop them. However, it is not very consistent, has difficulty adhering to a specific narrative style, provides sometimes uninteresting suggestions, and, moreover, is difficult to control for specific writing tasks.
+
+The tool's bland suggestions were particularly problematic, because in trying to avoid transgression, it inhibited creativity, which is often based on a rejection of tropes and norms.
+
+Robin Sloan, one of the participants, stated:
+
+"Here's the problem: Wordcraft is too SENSITIVE. Which, of course, is a great Success for the language model: it knows what makes sense! Crying! But "sensible" is another word for predictable; Cliché; boring. My intention here is to produce something unexpected."
+
+Participants unanimously concluded that AI-powered writing won't replace writers anytime soon. However, they do think the technology could improve the creative writing process, making it easier, faster and more fun for both skilled and amateur writers.
+
+Douglas Eck, senior research director at Google Research, said at the Wordcraft presentation:
+
+"One clear conclusion was that using LaMDA to write complete stories is a dead end. It is a much more effective tool when used to add spice."
+
+The team is working to improve this prototype, which is still in an experimental stage.
+
+Sources: "Wordcraft: a Human-AI Collaborative Editor for Story Writing" arXiv:2107.07430, 15 Jul 2021;
+
+Andy Coenen, Luke Davis, Daphne Ippolito, Emily Reif, Ann Yuan.
+
+"Creative Writing with an AI-Powered Writing Assistant: Perspectives from Professional Writers," arXiv:2211.05030, 9 Nov 2022;
+Daphne Ippolito, Ann Yuan, Andy Coenen, Sehmon Burnam.
+
+Translated from Le Wordcraft Writers Workshop évalue Wordcraft, l'outil d'aide à la création littéraire de Google
+
+ Add ActuIA to my preferred sources on Google
+
+Our articles will then appear first in Google Top Stories.
+
+Also read
+
+ Vulnerability / flaw Why Google is suspending part of its open source bug bounty
+ Oct 6, 2026 
+
+ Explainer / educational AI-written requests: balance of power starts to shift towards users in France
+ Oct 23, 2026 
+
+ Law / text adopted US GSA LLM clause: what it means for European AI vendors
+ Oct 22, 2026 
+
+ Malicious use (deepfake, fraud) OpenAI code agents weakened monitoring of model misalignment
+ Oct 22, 2026 
+
+ GPT-3 
+
+ MA
+
+Marie-Claude Benoit
+
+ActuIA editorial team — news, data and analysis on artificial intelligence for decision-makers.
+
+Actors mentioned
+
+ GOGoogle Research
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ DADaphne Ippolito
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ ANAndy Coenen
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ RORobin Sloan
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ DODouglas Eck
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ LULuke Davis
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ EMEmily Reif
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+ MAMagenta
+
+ Follow
+ Followed
+ Unfollow
+
+File in…
+
+On the same topic
+
+ Mistral Large 4 drops from 38 to 25 on new Artificial Analysis index
+
+28/10/2026
+
+ China outlines tiered rules for AI shopping agents in commerce
+
+22/10/2026
+
+ EU AI Act: first harmonised standard covers only quality system
+
+22/10/2026
+
+The ActuIA Weekly
+
+ Subscribe
+ …
+
+Subscription confirmed, see you soon!
+
+ ×
+
+ActuIA Watch
+
+The essentials of AI, every week
+
+ Subscribe
+ …
+
+Free. Unsubscribe in one click.
+
+Subscription confirmed, see you soon!
+
+The reference media on artificial intelligence: news, data and analysis for decision-makers.
+
+ Sections
+ News
+ Topics
+ Sectors
+ Players
+
+ Monitoring
+ Search
+
+ ActuIA Pro
+ Publish 
+
+ About
+ The editorial team
+ Contact
+ Legal notice
+
+ X (Twitter)
+ LinkedIn
+ Facebook
+
+ © 2026 ActuIA — All rights reserved.
+
+ Privacy
+ Terms
+ RSS

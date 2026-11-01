@@ -1,0 +1,71 @@
+CoAuthor – Human-AI Collaborative Writing Dataset
+
+CoAuthor
+
+Human-AI Collaborative Writing Dataset
+
+Home
+Browse
+
+What is CoAuthor?
+
+CoAuthor is a human-AI collaborative writing dataset that captures rich interaction between 63 writers and four instances of GPT-3 across 1445 writing sessions in English.
+
+At each session, we provided writers with a prompt (black text) and an instance of GPT-3.
+They then wrote freely (brown), asked GPT-3 for suggestions (blue), accepted the suggestions or dismissed them, and edited the accepted suggestions or previous texts in any order they chose.
+All interactions between the writers and the system were recorded at the keystroke level (e.g. inserting text, moving the cursor, and receiving suggestions) with timestamps, so that we could replay them precisely.
+Using this rich, nuanced, and fine-grained interaction dataset, designers can examine the same sessions from multiple analytical perspectives to better understand the generative capabilities of large language models.
+
+CoAuthor paper (Lee et al., 2022)
+
+[New] Code for interface
+
+Overview
+
+Types of writing - Creative & Argumentative
+
+Creative writing: 830 stories written by 58 writers
+
+Argumentative writing: 615 essays written by 49 writers
+
+Writing prompts - WritingPrompts subreddit & The New York Times
+
+Writers - Qualified crowd workers from Amazon Mechanical Turk
+
+Interface - Text editor where writers can press the tab key to get five suggestions
+
+Basic statistics
+
+Stories and essays: 418 words long
+
+Number of queries: 11.8 queries per writing session
+
+Acceptance rate of suggestions: 72.3%
+
+Percentage of text written by humans: 72.6%
+
+Getting Started
+
+An example replay of a writing session in CoAuthor:
+
+Take a look at more writing sessions (best viewed on desktop):
+
+Browse writing sessions in CoAuthor
+
+Download the dataset, metadata, and survey responses:
+
+Download writing sessions
+
+View metadata and survey responses (Google Sheets)
+
+Tutorial
+
+If you are familiar with Python, get started by downloading the dataset, reading writing sessions from files, and examining events:
+
+Getting started with CoAuthor (Google Colab)
+
+Identifying authors of sentences (Google Colab)
+
+Have Questions?
+
+Ask us questions to Mina!

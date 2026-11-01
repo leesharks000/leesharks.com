@@ -1,0 +1,168 @@
+In2Writing
+
+ Enriching Writing Ecosystems at
+
+ The Fifth Workshop on Intelligent and Interactive
+ Writing Assistants
+
+ co-located with
+
+ The 39th Annual ACM Symposium on User Interface Software and
+ Technology (UIST 2026)
+
+Detroit, MI
+
+ Monday, November 2, 2026 · 9:00 AM – 5:00 PM
+
+ Detroit Marriott at the Renaissance Center, 400 Renaissance
+ Center, Detroit, MI 48243
+ 📍
+
+ Room: Cadillac B
+
+ The purpose of this interdisciplinary workshop is to facilitate
+ discussion around writing assistants, thereby enhancing our
+ understanding of their usage in writing process and predicting the
+ consequences. To this end, we strive to bring together researchers
+ from the human-computer interaction (HCI) and natural language
+ processing (NLP) communities by alternating our workshop venue
+ between HCI and NLP every year.
+
+ ⬇️ Examples of new forms of human-machine collaborative writing. ⬇️
+
+ Integrative Leaps
+
+(Singh et al., ToCHI 2022)
+
+ Wordcraft
+(Yuan et al., IUI 2022)
+
+ Beyond Text Generation
+
+(Dang et al., UIST 2022)
+
+ From Crafting Text to Crafting Thought
+
+(Liu & August, In2Writing 2025)
+
+About the Workshop
+
+ Writing assistants have become increasingly multidimensional and
+ sophisticated, fueled by advances in AI and interaction design. As
+ this landscape expands, it is timely to consider how different
+ underlying technologies (e.g., text analytics, LLMs), interaction
+ designs (e.g., next-word prediction, chatbots, material
+ interaction), and design goals (e.g., productivity, friction) fit
+ together into broader ecosystems of tools and workflows. Future
+ writing tools should support writers' idiosyncratic, multi-tool, and
+ social writing processes.
+
+ In this hands-on, systems-centric workshop, we challenge the UIST
+ community to explore and develop ecosystems of writing assistants
+ through the lens of interoperability. Participants will
+ engage in a highly interactive tool-swapping collaborative writing
+ exercise where research and commercial systems are used
+ side-by-side. Through playful provocation and intentional
+ defamiliarization, participants will identify system interplay
+ friction and collaboratively outline design guidelines for building
+ adaptable writing assistants that enrich diverse workflows and
+ integrate into lasting technological ecosystems.
+
+ Now in its fifth iteration, our workshop seeks to facilitate
+ discussions on designing and building cohesive writing
+ ecosystems — bridging technical systems, design values,
+ and community paradigms. Our objectives are to bridge
+ interdisciplinary communities; to critique the flexibility,
+ interoperability, and normative ground of current tools; and to
+ envision the future design and study of writing assistants amongst a
+ flourishing landscape. In addition to HCI and NLP research, we
+ welcome participants from fields such as the Education Sciences,
+ English and Rhetoric, and Linguistics.
+
+Participate
+
+ Joining the workshop does not require a paper submission. To
+ take part, sign up for the workshop when you register for
+ UIST 2026. You can also
+ register for the workshop on its own, without registering for the
+ full conference.
+
+ Questions? Email us at
+ in2writing.workshop@gmail.com.
+
+Schedule
+
+ Location: Detroit Marriott at the Renaissance Center, 400
+ Renaissance Center, Detroit, MI 48243
+ 📍
+
+* The schedule below is tentative and subject to change.
+
+ 09:00 - 9:05am
+ Welcome
+
+ 09:05 - 9:20am
+ Workshop Intro and Participant Intros
+
+ 09:20 - 10:30am
+ Keynote Panel featuring Tom McGee, Max Kreminski, and Ken Arnold  
+
+ 10:30 - 11:00am
+ UIST Workshops Morning Coffee Break
+
+ 11:00 - 12:15pm
+ Tool-swapping Writing Activity 1
+
+ 12:15 - 1:45pm
+ Lunch Break
+
+ 01:45 - 2:45pm
+ Tool-swapping Writing Activity 2
+
+ 02:45 - 3:00pm
+ Follow-up discussions from the group activity
+
+ 03:00 - 3:30pm
+ UIST Workshops Afternoon Coffee Break
+
+ 03:30 - 4:30pm
+ Tool-Swap Activity Reflection & Future of Writing Tools
+
+ 04:30 - 4:50pm
+ Community Paper Proposal
+
+ 04:50 - 5:00pm
+ Closing
+
+Speakers
+
+Keynote Panelist: Tom McGee
+
+Fears, Frills, and Foundations
+
+Tom is the Product Director of User Generated Content (UGC) at Wattpad. In his eight years at the company, he has overseen content development, creator development + retention, and consulted on product features, interactive fiction, social features, LLMs, and developed and ran a multi-million dollar Creator Program. He is currently overseeing the UGC Catalogue and working various teams to improve algorithmic suggestion, identify content at scale, hone and deploy LLM tooling to address risk and content quality, and help to grow smaller genre spaces. A lifelong storyteller, Tom has spent his career helping writers tell the best versions of their story possible. A published writer and award-winning playwright himself, Tom also works as a dramaturge/script consultant to acclaimed writer/director Kat Sandler, most recently working in her writer's room on her #1 hit TV YAGA (Crave, AMC+) starring Carrie-Anne Moss, Noah Reid, Clark Backo, and Hudson Williams. With Kat, Tom founded and ran Theatre Brouhaha in Toronto, as well as Shakey-Shake and Friends Puppet Shakespeare, where he produced, wrote, performed, and occasionally puppeteered for over 30 productions. He has toured Canada and has had his puppets featured on TSN's coverage of Wimbledon. Tom also co-runs Canada's largest tabletop roleplaying game liveplay podcast network, Dumb-Dumbs & Dice, where his long-running comedy D&D show Dumb-Dumbs & Dragons among other shows he's show run, game mastered for, or performed on have been downloaded over 27 million times. Tom is a graduate of Queen's University (BaH Theatre + Classics) and the University of Toronto's Centre for Drama, Theatre, & Performance Studies (MA). He lives in Mississauga, Ontario with his wife, son and entirely too much Lego.
+
+Keynote Panelist: Max Kreminski
+
+Six Fingers on the Author's Hand
+
+Max Kreminski is an assistant professor of Design Tech at Cornell Tech. As a human-computer interaction and AI researcher with a particular focus on creativity support tools, Max has worked to create new interfaces, interaction techniques, and models that can scaffold creative processes in a wide variety of domains, as well as to introduce new, domain-general methods for evaluating CSTs. Max's research has been featured in outlets such as The New Yorker, New Scientist, and The Verge; published and exhibited at top HCI and AI conferences, including CHI, UIST, NeurIPS, and EMNLP; and honored with a variety of awards, including the Best Paper award at the ACM Conference on Creativity & Cognition.
+
+Keynote Panelist: Ken Arnold
+
+Thoughtful
+
+Ken Arnold is an associate professor of computer science and data science at Calvin University. His Thoughtful AI Tools Lab builds and studies AI tools for writers that guard human thinking. He has mentored undergraduate student researchers and developers to build Thoughtful, an extensible writing toolkit integrated into Word and Google Docs. He holds graduate degrees from Harvard and MIT.
+
+Organizers
+
+ You can contact the organizers by emailing
+ in2writing.workshop@gmail.com.
+
+Advisors
+
+Sponsors
+
+ Interested in supporting the workshop? We would love to hear from
+ you — please reach out to
+ in2writing.workshop@gmail.com.

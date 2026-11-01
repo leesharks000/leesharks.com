@@ -1,0 +1,870 @@
+Electronic Literature Knowledge Base | ELMCIP Jump to main content Search 
+
+ Electronic Literature Knowledge Base
+ June 2010 – October 2026
+ The ELMCIP Knowledge Base is a research resource for electronic literature, now preserved as a frozen archive. It provides cross-referenced, contextualized information about authors, creative works, critical writing, platforms, and practices. The archive remains available for browsing and searching, but is no longer open for new contributions or submissions.
+ The ELMCIP Knowledge Base was built through the active participation of a community of international researchers and writers working on electronic literature. It was developed in Drupal 7 by the University of Bergen Electronic Literature Research Group as an outcome of the ELMCIP project.
+ The mission lives on through the Digital Narrative Knowledge Base .
+ Browse
+
+ 17,073 published records preserved.
+ See all tags used in the Knowledge Base by frequency or alphabetically .
+ Search the archive or browse the sections below.
+
+ Creative Works
+ 4,011 records
+
+ Title
+ Author
+ Year
+ Tags
+
+ Taroko Gorge 
+ Nick Montfort 
+ 2009
+ text generator , poetry generator , HTML , javascript 
+
+ Sea and Spar Between 
+ Nick Montfort , Stephanie Strickland 
+ 2011
+ poetry , combinatory , Herman Melville , Emily Dickinson 
+
+ The Unknown 
+ William Gillespie , Scott Rettberg , Dirk Stratton , Frank Marquardt 
+ 1999
+ authorship , narrative , collaboration , hypertext 
+
+ Tokyo Garage 
+ Scott Rettberg 
+ 2009
+ generative , narrative , poetry , city 
+
+ Dakota 
+ Young-Hae Chang Heavy Industries , Young-Hae Chang , Marc Voge 
+ 2001
+ narrative , Flash , digital modernism , digital fiction 
+
+ Nippon 
+ Young-Hae Chang , Marc Voge , Young-Hae Chang Heavy Industries 
+ 2003
+ experimental cinema , Flash , translation , sex 
+
+ Entre Ville 
+ J. R. Carpenter 
+ 2006
+ poetry , video , audio , locative 
+
+ in absentia 
+ J. R. Carpenter 
+ 2008
+ narrative , collaboration , French , fiction 
+
+ Amor de Clarice 
+ Rui Torres 
+ 2005
+ Flash , textual instrument , appropriated texts , visual poetry 
+
+ Poemas no meio do caminho 
+ Rui Torres 
+ 2008
+ poetry , aleatory , animated text , code 
+
+ Translation 
+ John Cayley 
+ 2004
+ constraint , ambient , collaboration , generative 
+
+ windsound 
+ John Cayley 
+ 1999
+ ambient , poetry , generative , algorithmic text generation 
+
+ The Set of U / La Série des U 
+ Philippe Bootz , Marcel Frémiot 
+ 2004
+ animation , collaboration , generative , audio 
+
+ Amour 
+ Philippe Bootz 
+ 1989
+ animated poetry , kinetic digital poetry 
+
+ The LA Flood Project 
+ LAinundacion , Mark C. Marino , Jeremy Hight , Jeremy Douglass , Juan B. Gutiérrez 
+ 2011
+ collaboration , locative narrative , mobile phone , disaster 
+
+ Occupy MLA 
+ Mark C. Marino , Rob Wittig 
+ 2011
+ twitter , performance , social , netprov 
+
+ Fallow Field 
+ Dene Grigar 
+ 2004
+ Flash , HTML , hypertext , audio 
+
+ The 24-Hr. Micro-Elit Project 
+ Dene Grigar 
+ 2009
+ twitter , microfiction , collaboration , narrative 
+
+ afternoon, a story 
+ Michael Joyce 
+ 1990
+ hypertext , fiction , tragedy , associative indexing 
+
+ Patchwork Girl 
+ Shelley Jackson 
+ 1995
+ hypertext , adaptation , postmodern fiction , gender 
+
+ Victory Garden 
+ Stuart Moulthrop 
+ 1991
+ hypertext , fiction , war , politics 
+
+ Cent mille milliards de poèmes 
+ Raymond Queneau 
+ 1961
+ combinatory poetics , writing under constraint , Oulipo , antecedents 
+
+ Lexia to Perplexia 
+ Talan Memmott 
+ 2000
+ theory , fiction , animation , interface 
+
+ Façade 
+ Michael Mateas , Andrew Stern 
+ 2005
+ 3D , collaboration , generative , database 
+
+ The Dreamlife of Letters 
+ Brian Kim Stefans 
+ 2000
+ animation , concrete poetry , ambient , Flash 
+
+ Screen 
+ Noah Wardrip-Fruin , Josh Carroll , Robert Coover , Shawn Greenlee , Andrew McClain , Benjamin Shine 
+ 2003
+ CAVE , 3D , collaboration , textual instrument 
+
+ Text Rain 
+ Romy Achituv , Camille Utterback 
+ 1999
+ installation , text instrument , interactive , movement 
+
+ The Jew's Daughter 
+ Judd Morrissey 
+ 2000
+ narrative , collaboration , generative text , HTML/DHTML 
+
+ Loss of Grasp 
+ Serge Bouchardon , Vincent Volckaert 
+ 2010
+ interactivity , webcam , interface , control 
+
+ Colossal Cave Adventure 
+ Will Crowther , Don Woods 
+ 1976
+ interactive fiction , text adventure , 1970s , game 
+
+ Game, game, game, and again game 
+ Jason Nelson 
+ 2007
+ animation , Flash , audio , retro 
+
+ ELIZA 
+ Joseph Weizenbaum 
+ 1966
+ chatterbot , pyschotherapy , natural language processing 
+
+ Califia 
+ M. D. Coverley 
+ 2000
+ fiction , novel , multimedia , California 
+
+ Hegirascope 
+ Stuart Moulthrop 
+ 1995
+ hypertext , push , refresh , parody 
+
+ Sintext 
+ Pedro Barbosa , Abílio Cavalheiro 
+ 1993
+ text generator , automatic text generation , computer-generated literature , generative literature 
+
+ Arteroids 
+ Jim Andrews 
+ 2003
+ literature , game , programming , kinetic 
+
+ First Screening: Computer Poems 
+ Barrie Phillip Nichol 
+ 1984
+ visual poetry , digital poetry , archive , BASIC 
+
+ The Impermanence Agent 
+ Noah Wardrip-Fruin , Adam Chapman , Brion Moss 
+ 1999
+ recombinant , push , web , server-based 
+
+ Stochastische Texte 
+ Theo Lutz 
+ 1959
+ prehistoric digital poetry , algorithmic text generation , generative 
+
+ Twelve Blue 
+ Michael Joyce 
+ 1996
+ narrative , HTML/DHTML , hypertext , fiction 
+
+ Uncle Buddy's Phantom Funhouse 
+ John McDaid 
+ 1992
+ hyperfiction , hypertext fiction , fiction , estate 
+
+ Composition No. 1 
+ Marc Saporta 
+ 1961
+ nonlinear fiction , cybertext , artist book 
+
+ Zork 1: The Great Underground Empire 
+ Marc Blank , David Lebling 
+ 1981
+ interactive fiction , creative language , game , maze 
+
+ Birds Singing Other Birds' Songs 
+ María Mencía 
+ 2001
+ noise , sound poetry , music , sound 
+
+ slippingglimpse 
+ Stephanie Strickland , Cynthia Lawson Jaramillo , Paul Ryan 
+ 2007
+ visual poetry , collaboration , materiality , video 
+
+ M.U.C. Love Letter Generator 
+ Christopher Strachey 
+ 1952
+ generative , epistolary , combinatory , pioneering 
+
+ These Waves of Girls: A Hypermedia Novella 
+ Caitlin Fisher 
+ 2001
+ narrative , hypertext , fiction , hypertext fiction 
+
+ V: Vniverse 
+ Stephanie Strickland , Cynthia Lawson Jaramillo 
+ 2002
+ visual poetry , poetry , collaboration , embodiment 
+
+ Computer Poetry 
+ Silvestre Pestana 
+ 1981
+ computer poetry , visual poetry , spectrum , ZX81 
+
+ Galatea 
+ Emily Short 
+ 2000
+ narrative game , interactive fiction , fiction , chatterbot 
+
+ See all creative works 
+
+ Critical Writing
+ 5,060 records
+
+ Title
+ Author
+ Year
+
+ Twisty Little Passages: An Approach to Interactive Fiction 
+ Nick Montfort 
+ 2005
+
+ Acid-Free Bits: Recommendations for Long-Lasting Electronic Literature 
+ Nick Montfort , Noah Wardrip-Fruin 
+ 2004
+
+ ELO 2015 Conference Program and Festival Catalog 
+ Scott Rettberg , Anne Sofia Karhio , Lucas Ramada Prieto 
+ 2015
+
+ Electronic Literature 
+ Scott Rettberg 
+ 2018
+
+ "Distance, Homelessness, Anonymity, and Insignificance": An Interview with Young-Hae Chang Heavy Industries 
+ Thomas Swiss , Young-Hae Chang Heavy Industries 
+ 2002
+
+ Writing Coastlines: Locating Narrative Resonance in Transatlantic Communications Networks 
+ J. R. Carpenter 
+ 2015
+
+ Voice of the poet programmer Jörg Piringer 
+ J. R. Carpenter 
+ 2011
+
+ Triálogo: Prelúdio dialogante a AlletSator 
+ Pedro Barbosa , Rui Torres , Pedro Reis 
+ 2008
+
+ Poesia Experimental e Ciberliteratura: por uma literatura marginal izada? 
+ Rui Torres 
+ 2013
+
+ The Code is not the Text (unless it is the Text) 
+ John Cayley 
+ 2002
+
+ Writing on Complex Surfaces 
+ John Cayley 
+ 2005
+
+ New Media Poetry: Poetic Innovation and New Technologies 
+ Philippe Bootz , Jim Rosenberg , E. M. de Melo e Castro , John Cayley , Eduardo Kac , Eric Vos 
+ 1996
+
+ Entity/Identity: A Tool Designed to Index Documents about Digital Poetry 
+ Philippe Bootz , Samuel Szoniecky , Abderrahim Bargaoui 
+ 2009
+
+ Critical Code Studies 
+ Mark C. Marino 
+ 2020
+
+ 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 
+ Nick Montfort , Ian Bogost , Jeremy Douglass , Mark C. Marino , Michael Mateas , Mark Sample , Noah Vawter , Casey Reas , Patsy Baudoin , John Bell 
+ 2012
+
+ Pathfinders: Documenting the Experience of Early Digital Literature 
+ Dene Grigar , Stuart Moulthrop 
+ 2015
+
+ Traversals: The Use of Preservation for Early Electronic Writing 
+ Stuart Moulthrop , Dene Grigar 
+ 2017
+
+ Cybertext: Perspectives on Ergodic Literature 
+ Espen Aarseth 
+ 1997
+
+ Electronic Literature Collection, Volume One 
+
+ 2006
+
+ Electronic Literature: New Horizons for the Literary 
+ N. Katherine Hayles 
+ 2010
+
+ Electronic Literature Collection, Volume Two 
+
+ 2011
+
+ The Language of New Media 
+ Lev Manovich 
+ 2000
+
+ Electronic Literature Collection, Volume Three 
+
+ 2016
+
+ Prehistoric Digital Poetry: An Archaeology of Forms, 1959-1995 
+ Chris Funkhouser 
+ 2007
+
+ Hamlet on the Holodeck: The Future of Narrative in Cyberspace 
+ Janet H. Murray 
+ 1998
+
+ Writing Space: The Computer, Hypertext, and the History of Writing 
+ Jay David Bolter 
+ 1991
+
+ Writing Machines 
+ N. Katherine Hayles 
+ 2002
+
+ Hypertext: The Convergence of Contemporary Critical Theory and Technology 
+ George P. Landow 
+ 1992
+
+ As We May Think 
+ Vannevar Bush 
+ 1945
+
+ Remediation: Understanding New Media 
+ Jay David Bolter , Richard Grusin 
+ 2001
+
+ How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics 
+ N. Katherine Hayles 
+ 1999
+
+ Hypertext 2.0: The Convergence of Contemporary Critical Theory and Technology 
+ George P. Landow 
+ 1997
+
+ Of Two Minds: Hypertext Pedagogy and Poetics 
+ Michael Joyce 
+ 2002
+
+ Digital Poetics: The Making of E-Poetries 
+ Loss Pequeño Glazier 
+ 2001
+
+ The End of Books 
+ Robert Coover 
+ 1992
+
+ Digital Art and Meaning: Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations 
+ Roberto Simanowski 
+ 2011
+
+ Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic Media 
+ Marie-Laure Ryan 
+ 2015
+
+ Literary Machines: The report on, and of, Project Xanadu concerning word processing, electronic publishing, hypertext, thinkertoys, tomorrow's intellectual revolution, and certain other topics including knowledge, education and freedom 
+ Theodor Holm Nelson 
+ 1993
+
+ The New Media Reader 
+
+ 2003
+
+ The End of Books--Or Books Without End: Reading Interactive Narratives 
+ J. Yellowlees Douglas 
+ 2003
+
+ A Ciberliteratura: Criação Literária e Computador 
+ Pedro Barbosa 
+ 1996
+
+ Computer Lib: You can and must understand computers now / Dream Machines: New freedoms through computer screens—a minority report 
+ Theodor Holm Nelson 
+ 1974
+
+ Paratexts: Thresholds of Interpretation 
+ Gérard Genette 
+ 2001
+
+ Orality and Literacy: The Technologizing of the Word 
+ Walter Jackson Ong 
+ 1982
+
+ Piecing Together and Tearing Apart: Finding the Story in afternoon 
+ Jill Walker Rettberg 
+ 1999
+
+ Virtual Muse: Experiments in Computer Poetry 
+ Charles O. Hartman 
+ 2019
+
+ A Cyborg Manifesto 
+ Donna Haraway 
+ 1985
+
+ The Gutenberg Elegies: The Fate of Reading in an Electronic Age 
+ Sven Birkerts 
+ 2006
+
+ Patterns of Hypertext 
+ Mark Bernstein 
+ 1998
+
+ “How Do I Stop This Thing?” Closure And Indeterminacy In Interactive Narratives 
+ J. Yellowlees Douglas 
+ 1994
+
+ See all critical writing 
+
+ Authors
+ 4,826 records
+
+ Name
+ Type
+ Updated
+
+ Nick Montfort 
+ Person
+ 16/10/2020
+
+ Scott Rettberg 
+ Person
+ 13/10/2016
+
+ Young-Hae Chang 
+ Person
+ 13/10/2016
+
+ Young-Hae Chang Heavy Industries 
+ Person
+ 13/10/2016
+
+ Marc Voge 
+ Person
+ 13/10/2016
+
+ J. R. Carpenter 
+ Person
+ 29/11/2024
+
+ Rui Torres 
+ Person
+ 21/03/2025
+
+ John Cayley 
+ Person
+ 13/10/2016
+
+ Philippe Bootz 
+ Person
+ 13/10/2016
+
+ Mark C. Marino 
+ Person
+ 07/04/2018
+
+ Dene Grigar 
+ Person
+ 10/12/2019
+
+ Michael Joyce 
+ Person
+ 13/10/2016
+
+ Stuart Moulthrop 
+ Person
+ 12/11/2016
+
+ N. Katherine Hayles 
+ Person
+ 05/03/2022
+
+ Pedro Barbosa 
+ Person
+ 13/10/2016
+
+ Jason Nelson 
+ Person
+ 27/04/2018
+
+ Stephanie Strickland 
+ Person
+ 25/07/2021
+
+ Noah Wardrip-Fruin 
+ Person
+ 13/10/2016
+
+ Talan Memmott 
+ Person
+ 13/10/2016
+
+ Serge Bouchardon 
+ Person
+ 27/05/2021
+
+ See all authors 
+
+ Platform/Software
+ 325 records
+
+ Title
+ Year
+
+ HTML 
+ 1991
+
+ Flash 
+ 1996
+
+ JavaScript 
+ 1995
+
+ Cascading Style Sheets (CSS) 
+ 1996
+
+ iOS 
+ 2007
+
+ HTML5 
+
+ SCALAR 
+ 2013
+
+ Twitter 
+ 2006
+
+ Hypertext 
+ 1962
+
+ iPad 
+ 2010
+
+ MS Windows 
+ 1985
+
+ Shockwave 
+ 1995
+
+ Zoom 
+
+ Android 
+ 2008
+
+ Vimeo 
+ 2004
+
+ PHP 
+ 1995
+
+ Python 
+ 1991
+
+ Mac OS 
+ 1984
+
+ PC 
+
+ Extensible Markup Language (XML) 
+ 1996
+
+ Java 
+ 1995
+
+ PlayStation 
+ 1994
+
+ BASIC 
+ 1964
+
+ Storyspace 
+ 1987
+
+ iPhone 
+ 2007
+
+ YouTube 
+ 2005
+
+ Quicktime 
+ 1991
+
+ Processing 
+ 2001
+
+ Twine 
+ 2009
+
+ Xbox 
+ 2001
+
+ See all platform/software 
+
+ Teaching Resources
+ 99 records
+
+ Title
+ Author
+
+ 51 Responses: What inspired you to get involved with Digital Literature 
+
+ Amado Nervo: lecturas de una obra en el tiempo 
+
+ An Annotated Bibliography Of Interactive Fiction Scholarship 
+
+ Archive, Database, Interface (English 5380, History 5348, Spring 2009) 
+
+ Artist-Screencast with Stephanie Strickland on "Errand Upon Which We Came" 
+
+ See all teaching resources 
+
+ Publishers and Journals
+ 975 records
+
+ Name
+ Updated
+
+ 3:AM Magazine 
+ 26/09/2019
+
+ 2010 International Digital Media and Arts Association Conference Proceedings 
+ 26/09/2019
+
+ Aarhus University Press 
+ 17/06/2012
+
+ Ablex Press 
+ 01/07/2013
+
+ Above/Ground Press 
+ 16/06/2017
+
+ See all publishers and journals 
+ Organizations
+ 722 records
+
+ Name
+ Updated
+
+ Aarhus Public Libraries 
+ 31/08/2015
+
+ Aarhus University Digital Aesthetics Research Center 
+ 26/05/2021
+
+ Aarhus University, Digital Aesthetics Research Center 
+ 20/05/2021
+
+ ABCiber - Associação Brasileira de Pesquisadores em Cibercultura 
+ 25/11/2012
+
+ Acadia University 
+ 12/09/2018
+
+ See all organizations 
+
+ Events
+ 674 records
+
+ Name
+ Event Date
+
+ Electronic Literature Organization 2015: The End(s) of Electronic Literature 
+ 04/08/2015
+
+ Electronic Literature Organization 2018: Mind the Gap! 
+ 13/08/2018
+
+ Electronic Literature Organization 2021: Platform (Post?) Pandemic 
+ 24/05/2021
+
+ Electronic Literature Organization 2013: Chercher le texte 
+ 23/09/2013
+
+ Electronic Literature Organization 2014: Hold the Light 
+ 18/06/2014
+
+ Electronic Literature Organization 2010: Archive & Innovate 
+ 03/06/2010
+
+ Electronic Literature Organization 2012: Electrifying Literature: Affordances and Constraints 
+ 20/06/2012
+
+ ELMCIP Conference on Remediating the Social 
+ 01/11/2012
+
+ Electronic Literature Organization 2016: Next Horizons 
+ 10/06/2016
+
+ Electronic Literature Organization 2019: Peripheries (ELO 2019) 
+ 15/07/2019
+
+ Electronic Literature Organization 2002: State of the Arts Symposium 
+ 04/04/2002
+
+ Electronic Literature Organization 2008: Visionary Landscapes 
+ 29/05/2008
+
+ New Media Writing Prize 
+
+ Electronic Literature Exhibit at the 2012 MLA Convention 
+ 05/01/2012
+
+ Launching the Electronic Literature Collection Vol. 3 
+ 18/02/2016
+
+ Electronic Literature Organization 2017: Affiliations, Translations, Communities (ELO 2017) 
+ 19/07/2017
+
+ Electronic Literature Organization 2012 Media Art Show: Electrifying Literature: Affordances and Constraints 
+ 20/06/2012
+
+ Officina di Letteratura Elettronica/Workshop of Electronic Literature 
+ 20/01/2011
+
+ E-Poetry 2007 
+ 20/05/2007
+
+ Electronic Literature Organization 2008 Media Arts Show: Visionary Landscapes 
+ 29/05/2008
+
+ E-Poetry 2011 
+ 17/05/2011
+
+ afterflash: Showcasing Flash Fiction, Poetry, and Essays from The NEXT 
+ 24/05/2021
+
+ ELMCIP Seminar on Electronic Literature Communities 
+ 20/09/2010
+
+ Electronic Literature in Europe 2008 
+ 11/09/2008
+
+ Electronic Literature & Its Emerging Forms 
+ 03/04/2013
+
+ SLSAeu Conference 2021: Literary and Aesthetic Posthumanism 
+ 04/03/2021
+
+ Attention à la marche! Mind the Gap! 
+ 13/08/2018
+
+ POIESIS <POEMA>ENTRE PIXEL E PROGRAMA</> 
+ 23/10/2007
+
+ Avenues of Access: An Exhibit & Online Archive of New 'Born Digital' Literature at the MLA 2013 Convention 
+ 03/01/2013
+
+ Decentering: Global Electronic Literature 
+ 06/08/2015
+
+ See all events 
+
+ Databases and Archives
+ 78 records
+
+ Name
+ Updated
+
+ ADA - Archive of Digital Art (former Database of Virtual Art) 
+ 29/09/2014
+
+ ADEL (Archive of German Electronic Literature) 
+ 23/11/2018
+
+ Alfred Gillett Trust 
+ 15/07/2023
+
+ Antología Lit(e)Lat Volumen 1 
+ 30/11/2021
+
+ Arabic Electronic Literature, arabicelit (AEL) 
+ 23/03/2024
+
+ See all databases and archives 
+
+ Research Collections
+ 69 records
+
+ Title
+ Curator
+
+ Advanced Graphic Technologies in performed e-lit creative works 
+
+ Affirmative post-cinema 
+
+ Bot-mimicry 
+
+ Bots! 
+
+ Brazilian Electronic Literature Collection 
+
+ See all research collections 
+
+ Researchers Partners Anthology News/blog ELMCIP publications Accessibility report (Norwegian) v t f 
+
+ This Work, ELMCIP, is licensed under a Attribution-ShareAlike 4.0 International license , although certain works referenced herein may be separately licensed.

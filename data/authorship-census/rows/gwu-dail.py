@@ -38,4 +38,4 @@ row(slug="gwu-dail", name="DAIL – The Database of AI Litigation", aka=["DAIL",
       "tabs": Q("gwu-dail--home", "Scope Guide Credits Suggestions"),
     },
     relations=[],
-    unchecked=["the database itself (its records, search filters, Scope, Guide and Credits tabs), which the saved page shows only as tab labels", "the companion database of issued opinions", "the Ethical Tech Initiative's About and Our Team pages (the saved text names no staff or school)"])
+    unchecked=["the database itself (its records, search filters, Scope, Guide and Credits tabs), which the saved page shows only as tab labels", "the companion database of issued opinions", "the Ethical Tech Initiative's About and Our Team pages (the saved text names no staff or school)", "a second address, etidail.com, reported by the /non composer (its field source B4) to serve a page titled 'DAIL – the Database of AI Litigation – Ethical Tech Initiative' whose text is built by a script, and whose search card reads 'This database presents information about ongoing and completed litigation involving artificial intelligence, including mach...'; the page is not among this census's saved sources"])
