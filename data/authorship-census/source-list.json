@@ -73,5 +73,67 @@
  },
  "cope-ai": {
   "home": "https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools"
+ },
+ "technelegy": {
+  "info": "https://www.sashastiles.com/info",
+  "fourcoretexts": "https://www.sashastiles.com/projects/fourcoretexts-thereadersguide",
+  "paperback": "https://www.sashastiles.com/technelegypaperback"
+ },
+ "rerites": {
+  "books": "https://www.anteism.com/shop/rerites-david-jhave-johnston",
+  "responses": "https://www.anteism.com/shop/rerites-raw-output-responses-david-jhave-johnston"
+ },
+ "pharmako-ai": {
+  "home": "https://www.kalladomcdowell.com/pharmakoai"
+ },
+ "output-anthology": {
+  "mit": "https://cmsw.mit.edu/output-an-anthology-of-computer-generated-text-1953-2023/",
+  "counterpath": "https://counterpathpress.org/output-an-anthology-of-computer-generated-text-1953-2023-edited-by-lillian-yvonne-bertram-and-nick-montfort"
+ },
+ "bajohr-writing-at-a-distance": {
+  "pdf": "https://hannesbajohr.de/en/wp-content/uploads/sites/2/2023/06/Bajohr-Writing-at-a-Distance.pdf"
+ },
+ "bajohr-post-artificial": {
+  "escholarship": "https://escholarship.org/uc/item/1bm087nv"
+ },
+ "wordcraft": {
+  "home": "https://wordcraft-writers-workshop.appspot.com/",
+  "learn": "https://wordcraft-writers-workshop.appspot.com/learn",
+  "paper": "https://wordcraft-writers-workshop.appspot.com/paper/wordcraft_writers_workshop_paper.pdf"
+ },
+ "coauthor": {
+  "home": "https://coauthor.stanford.edu/",
+  "arxiv": "https://arxiv.org/abs/2201.06796"
+ },
+ "ai-attribution-toolkit": {
+  "site": "https://aiattribution.github.io/",
+  "readme": "https://raw.githubusercontent.com/aiattribution/aiattribution.github.io/main/README.md"
+ },
+ "ibm-credit-study": {
+  "ibm": "https://research.ibm.com/publications/which-contributions-deserve-credit-perceptions-of-attribution-in-human-ai-co-creation",
+  "arxiv": "https://arxiv.org/abs/2502.18357"
+ },
+ "authorship-halo": {
+  "arxiv": "https://arxiv.org/abs/2510.08831"
+ },
+ "vara-ghosts": {
+  "believer": "https://www.thebeliever.net/ghosts/"
+ },
+ "eighty-percent-me": {
+  "arxiv": "https://arxiv.org/abs/2411.13032"
+ },
+ "porter-machery": {
+  "nature": "https://www.nature.com/articles/s41598-024-76900-1"
+ },
+ "orcid-names": {
+  "support": "https://support.orcid.org/hc/articles/360006973853",
+  "wikipedia": "https://en.wikipedia.org/wiki/ORCID"
+ },
+ "wikidata-pseudonym": {
+  "property": "https://www.wikidata.org/wiki/Property:P742"
+ },
+ "c2pa": {
+  "home": "https://c2pa.org/",
+  "spec": "https://spec.c2pa.org/specifications/specifications/2.2/specs/C2PA_Specification.html"
  }
 }

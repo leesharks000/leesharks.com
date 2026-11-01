@@ -1,0 +1,394 @@
+Wordcraft Writers Workshop 
+
+ ✨✍️ 
+ home 
+· learn more 
+· stories 
+· 
+ Wordcraft
+Writers
+Workshop
+ Andy Coenen  - 
+ PAIR 
+
+ Daphne Ippolito  - 
+ Brain Research 
+
+ Ann Yuan  - 
+ PAIR 
+
+ Sehmon Burnam  - 
+ Magenta 
+
+ Read the whitepaper 
+
+ Over the last few years, AI researchers have made extraordinary progress
+building larger and more capable language models. Models such as Google's
+ LaMDA have demonstrated an uncanny
+ability to generate incredibly coherent text. From having open-ended
+conversations to solving math problems, developers have harnessed this ability
+to tackle a wide range of problems that seemed impossible only a few years ago.
+
+ As long as researchers have worked on AI systems, they have also dreamed of how
+to use these systems to help us
+ write .Today’s language models
+offer the possibility of making that dream a reality and enabling new workflows
+with AI-assisted writing. Our team at Google Research built Wordcraft , an
+AI-powered text editor centered on story writing, to see how far we could push
+the limits of this technology. We aimed to learn where these models can provide
+value and where they break down, and explore the future of writing. However, as
+a team of researchers and technologists, we knew we needed additional
+perspectives to tell the story of these new tools.
+
+ To help us understand the potential role of AI in creative writing, we brought
+together 13 professional English-language writers from around the world to use
+Wordcraft to write stories, which we're publishing as a collection
+ here . Our goal was to have an honest conversation about the rapidly
+evolving relationship between creativity and technology. The accelerating pace
+of AI innovation and its broadening scope over our lives makes this type of
+dialog more important than ever.
+
+ What is Wordcraft? 
+ The Wordcraft Writers Workshop 
+ AI as Inspiration 
+ Powerful, Not Perfect 
+ AI as a Co-Writer 
+ What's Next 
+
+ What is Wordcraft?
+
+ Wordcraft is a tool built by researchers at Google
+ PAIR for writing stories with AI. The
+application is powered by LaMDA , one
+of the latest generation of large language models. At its core, LaMDA is a
+simple machine — it's trained to predict the most likely next word given a
+textual prompt. But because the model is so large and has been trained on a
+massive amount of text, it's able to learn higher-level concepts. It also
+demonstrates a fascinating emergent capability often referred to as
+ in-context learning .
+By carefully designing input prompts, the model can be instructed to perform an
+incredibly wide range of tasks.
+
+ However this process (often referred to as prompt engineering ) is finicky and
+difficult even for experienced practitioners. We built Wordcraft with the
+goal of exploring how far we could push this technique through a carefully
+crafted user interface, and to empower writers by giving them access to these
+state-of-the-art tools.
+
+ A demo of the Wordcraft web application 
+
+ We like to describe Wordcraft as a "magic text editor". It's a familiar
+web-based word processor, but under the hood it has a number of LaMDA-powered
+writing features that reveal themselves depending on the user's activity. For
+instance, if the user selects a phrase, a button to "Rewrite this phrase" is
+revealed along with a text input in which the user can describe how they would
+like the phrase to be rewritten. The user might type "to be funnier" or "to be
+more melancholy", and the Wordcraft application uses LaMDA and in-context
+learning to perform the task.
+
+ In addition to specific operations such as rewriting , there are also controls
+for elaboration and continutation . The user can even ask Wordcraft to
+perform arbitrary tasks, such as "describe the gold earring" or "tell me why the
+dog was trying to climb the tree", a control we call freeform prompting . And,
+because sometimes knowing what to ask is the hardest part, the user can ask
+Wordcraft to generate these freeform prompts and then use them to generate text.
+We've also integrated a chatbot feature into the app to enable unstructured
+conversation about the story being written. This way, Wordcraft becomes both an
+editor and creative partner for the writer, opening up new and exciting creative
+workflows.
+
+ The Wordcraft Writers Workshop
+
+ The Wordcraft Writers Workshop is a collaboration between
+ PAIR and
+ Magenta , two research teams with a long track
+record of developing forward-looking AI-powered creative tooling. The goal of
+the workshop was to solicit feedback from a cohort of professional writers with
+a wide range of backgrounds, styles, and levels of familiarity with AI, in order
+to better understand the present state and future uses of AI-powered writing
+tools.
+
+ The workshop cohort consisted of 13 professional writers, who were given 8 weeks
+to use Wordcraft. Unlike more constrained
+ user studies run in the
+past, we gave writers freedom to write anything they wanted using any workflow
+they could devise. We share below some of the insights we learned through this
+process.
+
+ AI as Inspiration
+
+ Wordcraft shined the most as a brainstorming partner and source of inspiration.
+Writers found it particularly useful for coming up with novel ideas and
+elaborating on them. AI-powered creative tools seem particularly well suited to
+sparking creativity and addressing the dreaded writer's block .
+
+ “ The tool had the value … of giving me a place on my computer to go that looked
+like a blank page but did not behave as such. ” 
+ - Michelle Taransky
+
+ Large language models are fantastic at making things up — they'll happily
+blather on about anything and everything, and they are particularly good at
+generating variations on a theme.
+
+ In a darkly comedic example, author Robin Sloan used the
+chatbot feature of the application to construct reveal spoiler... 
+
+ Ken Liu asked for lists of items for sale at a store, and
+ Nelly Geraldine García-Rosas attempted to
+generate a list of “rabbit breeds and their magical qualities”. In this sense,
+language models are incredible
+ "yes, and" machines, allowing writers
+to quickly explore seemingly unlimited variations on their ideas.
+
+ “ By taking the seed from LaMDA and saying, "Yes, and..." I can force myself to
+go down routes I wasn't thinking of exploring and make new discoveries. ” 
+ - Ken Liu
+
+ The authors agreed that the ability to conjure ideas "out of thin air" was one
+of the most compelling parts of co-writing with an AI model. While these models
+may struggle with consistency and coherence, they excel at inventing details and
+elaboration.
+
+ “ ...it can be very useful for coming up with ideas out of thin air,
+essentially. All you need is a little bit of seed text, maybe some notes on a
+story you've been thinking about or random bits of inspiration and you can hit
+a button that gives you nearly infinite story ideas. ” 
+ - Eugenia Triantafyllou
+
+ The open-ended nature of the chatbot interface was especially helpful with
+ideation and exploration.
+
+ “ [It's] an amazing tool for brainstorming or rubber-ducking. Its conversational
+quality is perfect to talk about plot, characters and worldbuilding. ” 
+ - Nelly Garcia
+
+ Finally, some of the writers used Wordcraft as a "search engine" or “research
+assistant”, and discussed the possibility of using AI-powered tools to directly
+interact with and explore the vast amount of text on the internet. Large
+language models like LaMDA can be thought of as an intelligent search index,
+giving people an extremely intuitive way (using plain language) to query a vast
+database of information.
+
+ “ A combination of a many-many sided dice rolling next to many intricately
+linked simultaneous google searches of the entire internet as it existed when
+wordcraft was made. ” 
+ - Michelle Taransky
+
+ Powerful, Not Perfect
+
+ The power of AI tools can often make their failures more frustrating — an
+occasional glimpse of the model's uncanny performance can set unreasonable
+expectations, while the model's inconsistencies are often maddeningly
+inscrutable.
+
+ Struggles in maintaining style and voice
+
+ A challenge faced by nearly all our writers was getting Wordcraft to maintain a
+specific writing style or narrative voice. This problem was especially salient
+when authors attempted stories with multiple points of view. Wordcraft often
+mixed up details or conflated character's perspectives.
+
+ Many of the writers noted how Wordcraft tended to produce only average 
+writing. Its suggestions often resembled "fan-fiction". Perhaps this is no
+surprise considering the volume of fan fiction on the internet! Language models
+are capable of generating entirely novel sentences, but novel is not the same as
+interesting.
+
+ “ Here is the problem: Wordcraft is too SENSIBLE. Which of course is a great
+success for the language model: it knows what's sensible! Wow! But “sensible”
+is another word for predictable; cliched; boring. My intention here is to
+produce something unexpected. ” 
+ - Robin Sloan
+
+ Many authors noted that generations tended to fall into clichés, especially when
+the system was confronted with scenarios less likely to be found in the model's
+training data. For example, Nelly Garcia noted the
+difficulty in writing about a lesbian romance — the model kept suggesting that
+she insert a male character or that she have the female protagonists talk about
+friendship. Yudhanjaya Wijeratne attempted to
+deviate from standard fantasy tropes (e.g. heroes as cartographers and builders,
+not warriors), but Wordcraft insisted on pushing the story toward the well-worn
+trope of a warrior hero fighting back enemy invaders.
+
+ “ Many of the prompts follow a limited idea of speculative fiction and genre.
+Fantasy is high fantasy, science fiction is robots and spaceships. ” 
+ - Nelly Garcia
+
+ Because the language model underpinning Wordcraft is trained on a large amount
+of internet data, standard archetypes and tropes are likely more heavily
+represented and therefore much more likely to be generated.
+ Allison Parrish described this as AI being
+inherently conservative . Because the training data is captured at a particular
+moment in time, and trained on language scraped from the internet, these models
+have a static representation of the world and no innate capacity to progress
+past the data’s biases, blind spots, and shortcomings.
+
+ A Steep Learning Curve
+
+ Writers struggled with the fickle nature of the system. They often spent a great
+deal of time wading through Wordcraft's suggestions before finding anything
+interesting enough to be useful. Even when writers struck gold, it proved
+challenging to consistently reproduce the behavior. Not surprisingly, writers
+who had spent time studying the technical underpinnings of large language models
+or who had worked with them before were better able to get the tool to do what
+they wanted.
+
+ “ When I tailored a story around the affordances and abilities of Wordcraft, I
+had more fun and came up with more interesting, original, and unexpected
+stories than when I tried to use Wordcraft to help with stories about which I
+had previous ideas. ” 
+ - Aaron Winslow
+
+ Because of these challenges and their exacting standards, our writers rarely
+used Wordcraft's output directly. However each writer developed their own
+workflow to best utilize the application in their writing process.
+
+ Hallucination is a Feature
+
+ One of the most well-documented shortcomings of large language models is that
+they can hallucinate . Because these models have no direct knowledge of the
+physical world, they're prone to conjuring up facts out of thin air. They often
+completely invent details about a subject, even when provided a great deal of
+context.
+
+ In certain settings, this behavior is very problematic — a chatbot supporting a
+bank or pharmacy that makes up details would be disastrous, and there’s a great
+deal of
+ work 
+being done to address this. However, in the field of creative applications, this
+behavior can be desirable. For instance, Ken Liu asked the
+model to "give a name to the syndrome where you falsely think there’s a child
+trapped inside an ATM." (the model’s answer: “Phantom Rescue Syndrome”).
+
+ Several participants noted the occasionally surreal quality of Wordcraft's
+suggestions. For example, Wordcraft suggested a wolf plucking petals with human
+hands, or man's best friend being an inanimate rod
+( Diana Hamilton ).
+ Ernest Herbert described the tone of these suggestions
+as "absurdist spooky action at a distance", which rhymes with the observation
+that many authors found Wordcraft well-suited for writing poetry.
+
+ AI as a Co-Writer
+
+ One of the major insights of the workshop was in revealing the diverse set of
+needs and wants writers have for an AI co-writer. Some writers were excited by
+the idea of AI that could replicate the roles of editors and writing partners
+they already work with. Others took a more utilitarian view, framing Wordcraft
+as the next evolution of the word processor.
+
+ Some writers discussed the value of having an AI that could replicate a writer's
+style as closely as possible. Ernest Hebert wished for
+a bot that remembered everything he had written and “could become an extension
+of me and replicate my style”. On the other hand,
+ Robin Sloan felt that a system that learned to perfectly
+replicate a writer's existing style would not be terribly useful since every
+good story is unique.
+
+ Model Limitations
+
+ Good writers are skilled not only in producing but also discerning good
+language. In other words, they have taste . In contrast, language models like
+LaMDA are designed to accept any input and run with it. The flip-side of their
+“yes, and…” tendency is that these models lack distinctive and consistent
+opinions and style.
+
+ A recurring theme in the authors’ feedback was that Wordcraft could not stick to
+a single narrative arc or writing direction. These problems are at least partly
+because of the system’s technical limitations (e.g. the model can only "read"
+part of the story), but a more fundamental issue is that LaMDA was not designed
+as a writing tool.
+
+ LaMDA was explicitly trained to respond
+ safely and sensibly 
+to whomever it’s engaging with. But in the context of co-writing, this eagerness
+to please can be pathological. Wordcraft promised our writers to email them with
+story drafts or to get back to them “in a few days'” with more ideas (which, of
+course, it can't). LaMDA's safety features could also be limiting:
+ Michelle Taransky found that "the software seemed
+very reluctant to generate people doing mean things". Models that generate toxic
+content are highly undesirable, but a literary world where no character is ever
+mean is unlikely to be interesting.
+
+ What Writers Need
+
+ In order to better aid writers in their craft, what kind of characteristics
+should future AI writing tools have? Making great art is about walking the
+tightrope between familiarity and novelty. More provocatively, great writing is
+ transgressive — it subverts expectations and challenges the reader. Can a
+language model be transgressive without intentionality? Perhaps they can in a
+very local context, as demonstrated by large language models' ability to make
+surrealistic suggestions. But especially on larger scales, writers must be able
+to use these systems more intentionally. This needs to be approached from two
+directions: both by training underlying models that are more controllable and
+building interfaces to control them more effectively.
+
+ Participants emphasized again and again that the user interface matters as much
+as the underlying language generation model. We explicitly didn't give writers
+any instructions regarding how they should use the tool or how much of their
+final story text should be directly generated by Wordcraft. This freedom allowed
+writers to discover workflows through exploration, and writers developed
+techniques and workflows that went well beyond what we had explicitly designed
+Wordcraft for. The novel workflows that a technology enables are fundamental to
+how the technology is used, but these workflows need to be discovered and
+refined before the underlying technology can be truly useful.
+
+ What's next
+
+ The writers in the workshop unanimously agreed that AI-powered writing won’t
+replace writers anytime soon. However the authors also agreed that the
+technology is close enough that they could see themselves adopting some form of
+AI-assisted writing right now . Most agreed that widespread adoption will
+likely have complicated effects on the craft of writing, especially for
+beginners. Novice writers, students, and foreign language learners will soon
+find themselves in a world where AI-powered writing tools are ubiquitous -
+ranging from suggestions in Google Docs to bespoke creative tools like
+Wordcraft.
+
+ In recent years, the paradigm has been to train a single large language model
+then apply it to as many tasks as possible. However, we should acknowledge that
+one language model cannot be good at all tasks because to be good at one means
+to be worse at others with conflicting goals. In the short-term, AI-assisted
+writing will most likely be successful in smaller and more focused domains.
+Technologists ought to focus on tools that assist the parts of writing that are
+most time-consuming and least enjoyable if they want them adopted widely. It's
+also clear from our work that user interfaces are just as important as the
+underlying models, and writers need to be involved in the conversation of how
+these tools are developed.
+
+ We believe that technologists need to work in partnership with the communities
+their inventions will impact. But technological progress is unpredictable and
+difficult to contain. For example, the last few months have seen the rapid
+development of generative image models (Google's
+ Imagen and OpenAI's
+ Dall-E ) leading to open source versions that can
+be run almost anywhere (StabilityAI's
+ Stable Diffusion ).
+The accelerating pace of innovation, the combination of hype and inscrutability
+surrounding AI, and an increasingly competitive economic landscape have made
+things feel more high-stakes than ever. Only through open and ongoing dialog
+between technologists and artists can we build tools that have a positive impact
+on the world.
+
+ Who We Are
+ The Wordcraft Writers Workshop was conducted by Andy Coenen and Ann Yuan,
+research engineers on the PAIR team, Daphne
+Ippolito, a research scientist working with
+ Magenta , and Sehmon Burnam, a product
+manager at Magenta .
+
+ Acknowledgements
+ We thank our fantastic cohort of writers:
+Aaron Winslow, Allison Parrish, Diana Hamilton, Ernest Hebert, Eugenia
+Triantafyllou, Jamie Brew, Joseph Mosconi, Ken Liu, Michelle Taransky, Wole
+Talabi, Nelly Geraldine Garcia-Rosas, Robin Sloan, and Yudhanjaya
+Wijeratne — without whom this project would not have been possible.
+ This website was designed and built by Mahima Pushkarna and Jeff Gray, and it
+was illustrated by Emily Reif using Imagen .
+ We would like to thank all the people who have supported this project coming
+together: Chris Callison-Burch, Chris Donahue, Donald Gonzalez, Douglas Eck,
+Elizabeth Clark, Jesse Engel, Michael Terry, Noah Constant, and many others.
+
+ ✨✍️ home 
+ · learn more 
+ · stories 
+ · privacy & terms

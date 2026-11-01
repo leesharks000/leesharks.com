@@ -1,0 +1,509 @@
+pseudonym - Wikidata 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Community portal 
+ Project chat 
+ Create a new Item 
+ Recent changes 
+ Random Item 
+ Query Service 
+ Nearby 
+ Help 
+ Special pages 
+
+ Lexicographical data
+
+ Create a new Lexeme 
+ Recent changes 
+ Random Lexeme 
+
+ Search 
+
+ Search 
+
+ English 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ pseudonym 
+ (P742) 
+
+ Property 
+
+ Discussion 
+
+ English 
+
+ Read 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Concept URI 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikidata
+
+ alias used by someone (for nickname use P1449)
+ pen name
+ stage name
+ code name
+ user name
+ known professionally as
+ heteronym
+ nom de plume
+ nom-de-plume
+ ring name
+ alias
+ nom de guerre
+ nom-de-guerre
+ nom-de-amore
+ nome de guerre
+ artistic name
+ sobriquet
+ artist name
+ penname
+
+ Language
+
+ Label
+
+ Description
+
+ Also known as
+
+ default for all languages
+
+ No label defined 
+
+ – 
+
+ English
+
+ pseudonym 
+
+ alias used by someone (for nickname use P1449) 
+
+ pen name
+ stage name
+ code name
+ user name
+ known professionally as
+ heteronym
+ nom de plume
+ nom-de-plume
+ ring name
+ alias
+ nom de guerre
+ nom-de-guerre
+ nom-de-amore
+ nome de guerre
+ artistic name
+ sobriquet
+ artist name
+ penname
+
+ Data type
+
+ String
+
+ Statements
+
+ instance of 
+
+ Wikidata property with datatype string that is not an external identifier 
+
+ 0 references
+
+ Wikidata property to indicate a name 
+
+ 0 references
+
+ Wikidata property for items about people 
+
+ 0 references
+
+ subproperty of 
+
+ name 
+
+ 0 references
+
+ Wikidata item of this property 
+
+ pseudonym 
+
+ 0 references
+
+ pen name 
+
+ 0 references
+
+ stage name 
+
+ 0 references
+
+ porn name 
+
+ 0 references
+
+ Wikidata property example 
+
+ Bud Spencer 
+
+ pseudonym 
+
+ Bud Spencer
+
+ 0 references
+
+ Elsa Bernstein 
+
+ pseudonym 
+
+ Ernst Rosmer
+
+ 0 references
+
+ Basshunter 
+
+ pseudonym 
+
+ Basshunter
+
+ 0 references
+
+ Madonna 
+
+ pseudonym 
+
+ Louise Ciccone
+
+ 0 references
+
+ Beyoncé 
+
+ pseudonym 
+
+ Sasha Fierce
+
+ 0 references
+
+ equivalent property 
+
+ http://d-nb.info/standards/elementset/gnd#pseudonym 
+
+ 0 references
+
+ property usage tracking category 
+
+ Category:Pages using Wikidata property P742 
+
+ 0 references
+
+ stability of property value 
+
+ sometimes changes 
+
+ 0 references
+
+ values can be added 
+
+ 0 references
+
+ related Wikidata property 
+
+ nickname 
+
+ 0 references
+
+ subject named as 
+
+ 0 references
+
+ art name 
+
+ 0 references
+
+ name in kana 
+
+ 0 references
+
+ name in hiero markup 
+
+ 0 references
+
+ property proposal discussion 
+
+ https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/11#P742 
+
+ 0 references
+
+ FactGrid property ID 
+
+ P1230 
+
+ 0 references
+
+ Constraints
+
+ property constraint 
+
+ subject type constraint 
+
+ class 
+
+ human 
+
+ character 
+
+ group of humans 
+
+ individual animal 
+
+ award 
+
+ group 
+
+ broadcasting program 
+
+ person 
+
+ relation 
+
+ instance of 
+
+ constraint status 
+
+ mandatory constraint 
+
+ 0 references
+
+ format constraint 
+
+ format as a regular expression 
+
+ [^;]{1,100}|
+
+ constraint status 
+
+ mandatory constraint 
+
+ 0 references
+
+ allowed qualifiers constraint 
+
+ property 
+
+ object of statement has role 
+
+ language of work or name 
+
+ IPA transcription 
+
+ start time 
+
+ end time 
+
+ writing system 
+
+ statement is subject of 
+
+ reason for deprecated rank 
+
+ reason for preferred rank 
+
+ transliteration or transcription 
+
+ together with 
+
+ name in kana 
+
+ revised Hepburn romanization 
+
+ latest start date 
+
+ earliest date 
+
+ earliest end date 
+
+ latest date 
+
+ valid in place 
+
+ named after 
+
+ applies to work 
+
+ statement or content of identifier is regarded as spoiler for 
+
+ ISO 9:1995 
+
+ mode of derivation 
+
+ alternative name 
+
+ Hanyu Pinyin transliteration 
+
+ has part(s) 
+
+ McCune–Reischauer romanization 
+
+ Revised Romanization 
+
+ named by 
+
+ ALA-LC romanization 
+
+ ALA-LC romanization for Ukrainian 
+
+ Ukrainian national romanization 
+
+ point in time 
+
+ has cause 
+
+ end cause 
+
+ Vietnamese reading 
+
+ publisher 
+
+ has characteristic 
+
+ Jyutping transliteration 
+
+ literal translation 
+
+ has use 
+
+ statement supported by 
+
+ subject has role 
+
+ used by 
+
+ sourcing circumstances 
+
+ 0 references
+
+ citation-needed constraint 
+
+ constraint status 
+
+ suggestion constraint 
+
+ 0 references
+
+ allowed-entity-types constraint 
+
+ item of property constraint 
+
+ Wikibase item 
+
+ 0 references
+
+ property scope constraint 
+
+ property scope 
+
+ as main value 
+
+ as qualifier 
+
+ constraint status 
+
+ suggestion constraint 
+
+ 0 references
+
+ Retrieved from " https://www.wikidata.org/w/index.php?title=Property:P742&oldid=2535939140 "
+
+ This page was last edited on 24 August 2026, at 21:04.
+
+ All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License ; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy .
+
+ Privacy policy 
+
+ About Wikidata 
+
+ Disclaimers 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Data access 
+
+ Search 
+
+ Search 
+
+ pseudonym 
+ (P742) 
+
+ Add topic

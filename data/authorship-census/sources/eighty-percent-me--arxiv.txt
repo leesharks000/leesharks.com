@@ -1,0 +1,218 @@
+[2411.13032] "It was 80% me, 20% AI": Seeking Authenticity in Co-Writing with Large Language Models 
+
+ Skip to main content 
+
+ Search 
+
+ Submit 
+ Donate 
+
+ Log in 
+
+ Search arXiv 
+
+ Press Enter to search · Advanced search 
+
+--> 
+
+ Computer Science > Human-Computer Interaction
+
+ arXiv:2411.13032 (cs)
+
+ [Submitted on 20 Nov 2024]
+
+ Title: "It was 80% me, 20% AI": Seeking Authenticity in Co-Writing with Large Language Models
+
+ Authors: Angel Hsing-Chi Hwang , Q. Vera Liao , Su Lin Blodgett , Alexandra Olteanu , Adam Trischler 
+ View a PDF of the paper titled "It was 80% me, 20% AI": Seeking Authenticity in Co-Writing with Large Language Models, by Angel Hsing-Chi Hwang and 4 other authors
+
+ View PDF 
+ HTML (experimental) 
+
+ Abstract: Given the rising proliferation and diversity of AI writing assistance tools, especially those powered by large language models (LLMs), both writers and readers may have concerns about the impact of these tools on the authenticity of writing work. We examine whether and how writers want to preserve their authentic voice when co-writing with AI tools and whether personalization of AI writing support could help achieve this goal. We conducted semi-structured interviews with 19 professional writers, during which they co-wrote with both personalized and non-personalized AI writing-support tools. We supplemented writers' perspectives with opinions from 30 avid readers about the written work co-produced with AI collected through an online survey. Our findings illuminate conceptions of authenticity in human-AI co-creation, which focus more on the process and experience of constructing creators' authentic selves. While writers reacted positively to personalized AI writing tools, they believed the form of personalization needs to target writers' growth and go beyond the phase of text production. Overall, readers' responses showed less concern about human-AI co-writing. Readers could not distinguish AI-assisted work, personalized or not, from writers' solo-written work and showed positive attitudes toward writers experimenting with new technology for creative writing.
+
+ Subjects:
+
+ Human-Computer Interaction (cs.HC) ; Artificial Intelligence (cs.AI); Computers and Society (cs.CY)
+
+ Cite as:
+
+ arXiv:2411.13032 [cs.HC] 
+
+ (or 
+ arXiv:2411.13032v1 [cs.HC] for this version)
+
+ https://doi.org/10.48550/arXiv.2411.13032 
+
+ Focus to learn more 
+
+ arXiv-issued DOI via DataCite
+
+ Submission history
+ From: Angel Hsing-Chi Hwang [ view email ] 
+ [v1] 
+ Wed, 20 Nov 2024 04:42:32 UTC (4,695 KB)
+
+ Full-text links: 
+ Access Paper:
+
+View a PDF of the paper titled "It was 80% me, 20% AI": Seeking Authenticity in Co-Writing with Large Language Models, by Angel Hsing-Chi Hwang and 4 other authors
+ View PDF 
+ HTML (experimental) 
+ TeX Source
+
+ view license 
+
+ Additional Features
+
+ Audio Summary 
+
+ Current browse context:
+
+ cs.HC
+
+ < prev 
+
+   |   
+ next > 
+
+ new 
+ | 
+ recent 
+ | 2024-11 
+
+ Change to browse by:
+
+ cs 
+ cs.AI 
+ cs.CY 
+
+ References & Citations
+
+ SciX 
+ Google Scholar 
+
+ Semantic Scholar 
+
+ export BibTeX citation 
+ Loading... 
+
+ BibTeX formatted citation
+
+ × 
+
+ loading... 
+
+ Data provided by: 
+
+ Bookmark
+
+ Bibliographic Tools 
+
+ Bibliographic and Citation Tools
+
+ Bibliographic Explorer Toggle 
+
+ Bibliographic Explorer ( What is the Explorer? ) 
+
+ Connected Papers Toggle 
+
+ Connected Papers ( What is Connected Papers? ) 
+
+ Litmaps Toggle 
+
+ Litmaps ( What is Litmaps? ) 
+
+ scite.ai Toggle 
+
+ scite Smart Citations ( What are Smart Citations? ) 
+
+ Code, Data, Media 
+
+ Code, Data and Media Associated with this Article
+
+ alphaXiv Toggle 
+
+ alphaXiv ( What is alphaXiv? ) 
+
+ Links to Code Toggle 
+
+ CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) 
+
+ DagsHub Toggle 
+
+ DagsHub ( What is DagsHub? ) 
+
+ GotitPub Toggle 
+
+ Gotit.pub ( What is GotitPub? ) 
+
+ Huggingface Toggle 
+
+ Hugging Face ( What is Huggingface? ) 
+
+ ScienceCast Toggle 
+
+ ScienceCast ( What is ScienceCast? ) 
+
+ Demos 
+
+ Demos
+
+ Replicate Toggle 
+
+ Replicate ( What is Replicate? ) 
+
+ Spaces Toggle 
+
+ Hugging Face Spaces ( What is Spaces? ) 
+
+ Spaces Toggle 
+
+ TXYZ.AI ( What is TXYZ.AI? ) 
+
+ Related Papers 
+
+ Recommenders and Search Tools
+
+ Link to Influence Flower 
+
+ Influence Flower ( What are Influence Flowers? ) 
+
+ Core recommender toggle 
+
+ CORE Recommender ( What is CORE? ) 
+
+ Author 
+
+ Venue 
+
+ Institution 
+
+ Topic 
+
+ About arXivLabs
+
+ arXivLabs: experimental projects with community collaborators
+
+ arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+
+ Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+
+ Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .
+
+ Which authors of this paper are endorsers? |
+ Disable MathJax ( What is MathJax? )
+
+ We gratefully acknowledge support from our major funders ,
+ member institutions , ,
+ and all contributors.
+
+ About · 
+ Help · 
+ Contact · 
+ Subscribe · 
+ Copyright · 
+ Privacy · 
+ Accessibility · 
+ Operational Status (opens in new tab)

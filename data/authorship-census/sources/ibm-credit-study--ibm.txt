@@ -1,0 +1,63 @@
+Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation for CHI 2025 - IBM Research CHI 2025 
+ Conference paper
+ 26 Apr 2025 
+ Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation
+ View publication 
+
+ Abstract
+ AI systems powered by large language models can act as capable assistants for writing and editing. In these tasks, the AI system acts as a co-creative partner, making novel contributions to an artifact-under-creation alongside its human partner(s). One question that arises in these scenarios is the extent to which AI should be credited for its contributions. We examined knowledge workers' views of attribution through a survey study (N=155) and found that they assigned different levels of credit across different contribution types, amounts, and initiative. Compared to a human partner, we observed a consistent pattern in which AI was assigned less credit for equivalent contributions. Participants felt that disclosing AI involvement was important and used a variety of criteria to make attribution judgments, including the quality of contributions, personal values, and technology considerations. Our results motivate and inform new approaches for crediting AI contributions to co-created work.
+
+ Related
+
+ Workshop paper
+ WARDEN: Warranting Robustness Against Deception in Next-Generation Systems 
+
+ Hazar Yueksel, Ramon Bertran, et al.
+ MLSys 2020
+
+ Conference paper
+ Identifying Homogeneous and Interpretable Groups for Conformal Prediction 
+
+ Natalia Martinez Gil, Dhaval Patel, et al.
+ UAI 2024
+
+ Workshop paper
+ MEAL: A Multi-dimensional Evaluation of Alignment Techniques for LLMs 
+
+ Muneeza Azmat, Momin Abbas, et al.
+ NeurIPS 2025
+
+ Short paper
+ Exploring Trust and Transparency in Retrieval-Augmented Generation for Domain Experts 
+
+ Divya Ravi, Renuka Sindhgatta
+ CHI 2025
+
+ View all publications 
+
+ Home 
+ ↳ Publications 
+
+ Date
+ 26 Apr 2025 
+
+ Publication
+ CHI 2025 
+
+ Authors
+ Jessica He 
+ Stephanie Houde 
+ Justin D. Weisz 
+ IBM-affiliated at time of publication 
+
+ Topics
+ Trustworthy AI 
+ Fairness, Accountability, Transparency 
+ AI Transparency 
+ Human-Centered AI 
+ Generative AI 
+
+ Resources
+ Publication 
+
+ Share
