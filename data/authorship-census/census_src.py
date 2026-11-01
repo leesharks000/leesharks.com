@@ -39,12 +39,14 @@ def row(**r): ROWS.append(r)
 
 ORDER = ['the-next', 'electronic-literature-lab', 'output-anthology', 'wordcraft', 'coauthor', 'in2writing', 'creative-ai-lab-database',
          'orcid-names', 'isni', 'viaf', 'wikidata',
-         'arquivo-pessoa', 'pessoa-digital', 'ubuweb', 'pennsound', 'epc', 'jacket2', 'eclipse', 'dada-iowa', 'fanlore', 'otw-ao3',
+         'arquivo-pessoa', 'pessoa-digital', 'ubuweb', 'pennsound', 'epc', 'jacket2', 'eclipse', 'dada-iowa',
          'copyright-office-ai', 'gwu-dail', 'chatgpt-eating-the-world', 'authors-guild-human-authored']
 # Admission rule (operator, 2026-11-01 01:27-01:32 EDT: "im very confused. we have articles, movements, and concepts as aggregators in meta
 # aggregators"; then "so lets get the lists"): a row is an aggregator, a resource that gathers and holds many other works or records and says
 # what it holds. The works, papers, persons, groups, standards, policies and tools first admitted on the selection review stay as the field
 # the aggregators hold or miss: their rows are kept in rows/ with their sources, outside ORDER, and listed in FIELD.
+EXCLUDED = [{'slug': 'fanlore', 'why': "outside this census, on the operator's ruling of 2026-11-01: fan fiction challenged at 00:52 ('what relationship has an archive of our own, collecting fan fiction, to leesharks.com?') and left out at 01:49"},
+            {'slug': 'otw-ao3', 'why': "outside this census, on the same ruling"}]
 FIELD = [{'slug': s, 'why': w} for s, w in [
   ('technelegy', 'a persona and practice (a work), not an aggregator'), ('rerites', 'a project of twelve books (a work), not an aggregator'),
   ('pharmako-ai', 'a book (a work)'), ('oulipo', 'a group and its practice'), ('bajohr-writing-at-a-distance', 'a paper'),
@@ -88,13 +90,13 @@ for r in ROWS:
                 problems.append((r["slug"], f, sid, ev["quote"][:80]))
     r["sources"] = srcs
     r.setdefault("observed", {"on": "2026-11-01", "fetch": "read"})
-unread = {k: {"url": v["url"], "http": v["http"], "fetched": v["fetched"]} for k, v in MAN.items() if v["http"] != "200" or v["text_chars"] < 100}
+unread = {k: {"url": v["url"], "http": v["http"], "fetched": v["fetched"]} for k, v in MAN.items() if v.get("entity") in ORDER and (v["http"] != "200" or v["text_chars"] < 100)}
 out = {"name": 'Lee Sharks apparatus meta-aggregator census: authorship', "compiled": "2026-11-01", "schema_version": "1.1", "editor": "Lee Sharks",
        "family": "Meta-Aggregators of the Crimson Hexagon",
        "schema_note": "The MMRS, provenance, Labor Vector and left-census core (slug, name, aka, url, operator, kind, unit, count, lifecycle, version_and_time, negative_tags, evidence, relations, unchecked, sources) extended for authorship (1.1, revised 2026-11-01): host_relation (what the resource is to this census: direct case, theoretical interlocutor, empirical comparator, historical lineage, infrastructure, counterposition, peripheral comparator, meta-aggregation), record_type, question (the specific question it answers); areas (one or more of nine), evidence_kind, record_object (what it records), record (keeps: whose authorship it keeps; name: under what name it holds a work, and whether it keeps a pseudonym, heteronym, collective or absent name as the author gave it, as the resource itself shows, or 'not recorded'; holder: who holds it and on what terms; function: how the authorial function, contribution and responsibility are constituted and attributed, as the resource shows), method, coverage, holdings, stated_limits, answers and does_not_answer, and ls_reading (where it meets the question of #940 and #1722: the archive's reading, kept apart from the resource's own terms). Every quote is verbatim from a saved source.",
        "organizing_question": 'How is authorship made, named, distributed, attributed and sustained across persons, personas, collectives and machine participation, and what is lost when those relations are collapsed?',
        "anchor": {'deposits': [{'deposit': 940, 'axn': 'AXN:03B8', 'title': 'EA-HETERONYMY-01 v0.2: Heteronymy as Ethical Operation Against Civil-Name Reduction', 'url': 'https://www.alexanarch.org/s/records/940/'}, {'deposit': 1722, 'axn': 'AXN:0B2A', 'title': 'AI Calls You Fake: The Existence Tax on Real People and Real Work', 'url': 'https://www.alexanarch.org/s/records/1722/'}]},
-       "areas": AREAS, "evidence_kinds": EVIDENCE_KINDS, "unread_sources": unread, "pending": PENDING, "field": FIELD, "admission_rule": "A row is an aggregator: a resource that gathers and holds many other works or records and says what it holds (operator, 2026-11-01).", "host_relations": HOST_RELATIONS, "rows": ROWS}
+       "areas": AREAS, "evidence_kinds": EVIDENCE_KINDS, "unread_sources": unread, "pending": PENDING, "field": FIELD, "excluded": EXCLUDED, "admission_rule": "A row is an aggregator: a resource that gathers and holds many other works or records and says what it holds (operator, 2026-11-01).", "host_relations": HOST_RELATIONS, "rows": ROWS}
 json.dump(out, open(HERE / "census.json", "w"), ensure_ascii=False, indent=1)
 print(len(ROWS), "rows;", sum(len(r.get("evidence") or {}) for r in ROWS), "evidence items;", len(problems), "problems")
 for p in problems: print("  ", p)
