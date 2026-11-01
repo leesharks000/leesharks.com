@@ -2969,70 +2969,155 @@
   },
   {
    "slug": "pessoa-digital",
-   "name": "pessoadigital.pt (the saved sources show no title of its own)",
+   "name": "Pessoa Digital",
    "aka": [
-    "Pessoa Digital (the census's name for it, from the domain)"
+    "pessoadigital.pt",
+    "the digital edition of Fernando Pessoa's editorial projects and publications"
    ],
-   "url": "https://pessoadigital.pt/",
-   "operator": "not recorded in the saved sources: both pages were refused (http 418, a bot-detection challenge)",
-   "kind": "not recorded in the saved sources",
+   "url": "http://www.pessoadigital.pt/",
+   "operator": "its editors, Ulrike Henny-Krahmer (University of Rostock), Pedro Sepúlveda (Lisbon) and Jorge Uribe (Medellín); begun with the Laboratório de Estudos Literários Avançados (ELAB) of the Universidade Nova de Lisboa and the Cologne Center for eHumanities (CCeH); hosted by the DCH; funded by the Fundação para a Ciência e a Tecnologia (FCT), as the CCeH's project page gives them",
+   "kind": "a digital edition of the editorial projects and publications of Fernando Pessoa (the CCeH's account)",
    "areas": [
     "heteronymy"
    ],
    "host_relation": "direct case",
-   "record_type": "project",
-   "question": "not established: the resource's pages could not be read; the census holds it for authorial function across Pessoa's names, pending a read",
-   "evidence_kind": [],
-   "unit": "not recorded in the saved sources",
-   "record_object": "not recorded in the saved sources",
+   "record_type": "collection",
+   "question": "How does an edition hold Pessoa's own plans for his work, the lists and notes in which the names were assigned their works, beside what he published?",
+   "evidence_kind": [
+    "scholarly edition",
+    "facsimile",
+    "primary text"
+   ],
+   "unit": "a document of Pessoa's planning (a handwritten note, list or plan), edited, and his works published during his lifetime",
+   "record_object": "Pessoa's handwritten notes, lists and plans for his work, juxtaposed with the works he published during his lifetime",
    "record": {
-    "keeps": "not recorded",
-    "name": "not recorded",
-    "holder": "not recorded",
-    "function": "not recorded"
+    "keeps": "Pessoa's authorship as he planned it: his own notes, lists and plans, edited beside his published works",
+    "name": "not recorded at the level of a work: the saved account names indexes of persons, journals and titles and a network of persons, without stating how the edition marks the names under which Pessoa wrote",
+    "holder": "a digital edition hosted by the DCH, edited by three named scholars, funded by the FCT; licence not stated in the saved source",
+    "function": "not recorded as a rule; the edition's object is the planning in which Pessoa conceived his work, and its index of persons and network of persons are where the saved account places the figures"
    },
-   "method": "not recorded in the saved sources",
+   "method": "scholarly digital edition: text transcriptions in TEI, facsimiles, indexes and visualizations, built on an eXist database with XQuery and XSLT",
    "coverage": {
-    "geography": "not recorded",
-    "period": "not recorded"
+    "geography": "Portugal (Pessoa's papers)",
+    "period": "Pessoa's lifetime (1888–1935)"
    },
    "count": {
-    "value": "not stated in the saved sources",
+    "value": "not stated in the saved source",
     "as_of": "2026-11-01"
    },
-   "holdings": [],
+   "holdings": [
+    "text transcriptions in TEI",
+    "facsimiles",
+    "indexes of persons, journals and titles",
+    "timelines and a network of persons"
+   ],
    "stated_limits": [
-    "none read: the home page and the English about page both returned a bot-detection challenge in place of the site's text"
+    "not stated in the saved source"
    ],
-   "answers": [],
+   "answers": [
+    "which plans, lists and notes of Pessoa's are edited and how they relate to the works he published",
+    "who the edition's editors and partners are"
+   ],
    "does_not_answer": [
-    "every question of this census, until the site's own pages are read"
+    "how the edition marks the names under which Pessoa wrote (its own pages unread)",
+    "its current scope and size",
+    "its licence"
    ],
-   "ls_reading": "No reading: the resource's pages could not be read on fetch. The refusal limits this record and is no judgment on the resource's relevance.",
-   "data_access": "not recorded: the server answered automated requests with a challenge page on 2026-11-01",
-   "license": "not stated in the saved sources",
+   "ls_reading": "The edition keeps the place where Pessoa's authorship was planned: the lists and plans in which he conceived his work, set beside what he published. That is a record of the names' works as Pessoa assigned them before publication fixed them, which the census reads beside #940's account of distinct named authorial functions. How it marks the names themselves stays unread until its own pages can be fetched.",
+   "data_access": "online edition at pessoadigital.pt (its own pages refused automated requests on 2026-11-01)",
+   "license": "not stated in the saved source",
    "lifecycle": {
     "state": "active",
-    "detail": "the host answered on 2026-11-01 with a bot-detection challenge (http 418) at both saved URLs; the resource's own state is not recorded"
+    "detail": "the CCeH gives its runtime as 2014–2016 at the CCeH and 'ongoing since then', and the cooperation extended to EAFIT University, Medellín"
    },
+   "founded": "2014 (the CCeH's runtime)",
    "version_and_time": {
-    "fetch_refused": "2026-11-01",
+    "fetch_refused": "2026-11-01 (its own pages)",
     "read": "2026-11-01"
    },
    "negative_tags": [
     "NOT the Arquivo Pessoa (arquivopessoa.net), a separate resource in this census",
-    "NOT read: nothing in this row comes from the resource's own text"
+    "NOT read on its own pages: this row rests on the CCeH's project page, a participant's account"
    ],
-   "evidence": {},
-   "relations": [],
+   "evidence": {
+    "self_description": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "the foundation was laid for a digital edition of the editorial projects and publications of the Portuguese author Fernando Pessoa (1888–1935)"
+    },
+    "link": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "http://www.pessoadigital.pt/"
+    },
+    "runtime": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "2014–2016 (at the CCeH; ongoing since then)"
+    },
+    "editors": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "Editors of the edition: Ulrike Henny-Krahmer (University of Rostock), Pedro Sepúlveda (Lisbon) and Jorge Uribe (Medellín)."
+    },
+    "participants": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "Universidade Nova de Lisboa, Laboratório de Estudos Literários Avançados (ELAB), CCeH."
+    },
+    "funding": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "Supported by the Fundação para a Ciência e a Tecnologia (FCT), Portugal."
+    },
+    "record_object": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "Above all, handwritten notes, lists and plans with which Pessoa conceived his work are edited. These will be juxtaposed with his works published during his lifetime in order to trace the development of Pessoa’s oeuvre between planning and publication."
+    },
+    "holdings": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "The edition contains text transcriptions in TEI, facsimiles, indexes of persons, journals and titles, as well as various visualizations of the data (timelines and a network of persons)."
+    },
+    "method": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "Technically, the edition is based on an eXist database and uses XQuery and XSLT scripts as well as JavaSript to create the publication."
+    },
+    "host": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "The digital edition is hosted by the DCH."
+    },
+    "extended": {
+     "src": "pessoa-digital--cceh",
+     "basis": "third_party",
+     "quote": "the cooperation has also been extended to the EAFIT University in Medellín (Colombia)"
+    }
+   },
+   "relations": [
+    {
+     "rel": "neighbour",
+     "target": "arquivo-pessoa",
+     "note": "both editions of Pessoa's work; the Arquivo holds the published work under its names, Pessoa Digital the plans and lists"
+    }
+   ],
    "unchecked": [
     "pessoa-digital--home (https://pessoadigital.pt/): http 418, a bot-detection challenge page; unread and unquoted",
     "pessoa-digital--about (https://pessoadigital.pt/en/about): http 418, the same challenge page; unread and unquoted",
-    "the challenge page's footer names digital humanities units of the University of Cologne; this is the host's challenge page and is not taken as a statement of who runs the resource",
-    "the area heteronymy is the census's placement by the resource's name; no saved source confirms it",
-    "host_relation 'direct case' and record_type 'project' are the census's provisional placements by the resource's name, pending a read (the selection review's candidate/read-needed status); no saved source confirms either"
+    "the edition's own team, dissemination and project pages, which the CCeH page links (pessoadigital.pt/en/project/team, /en/project/dissemination)",
+    "the Estranhar Pessoa framework project, 'running since mid-2013' (estranharpessoa.com), named by the CCeH page and not read",
+    "the source was supplied by the operator (2026-11-01 02:14 EDT, the CCeH's project page) and fetched by the census the same night"
    ],
-   "sources": {},
+   "sources": {
+    "pessoa-digital--cceh": {
+     "url": "https://cceh.uni-koeln.de/en/portfolio/pessoa-digital/",
+     "read": "2026-11-01",
+     "sha256": "47399f43e9931a4f8b919b02893dbd6b0d11e349313a0603e0192b55f26414e6",
+     "http": "200"
+    }
+   },
    "observed": {
     "on": "2026-11-01",
     "fetch": "read"
