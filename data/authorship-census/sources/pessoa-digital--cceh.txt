@@ -1,0 +1,161 @@
+Pessoa Digital - CCeH 
+
+ Skip to the content 
+
+ CCeH 
+
+ Cologne Center for eHumanities
+
+ About the CCeH 
+
+ Digital Humanities at the University of Cologne 
+
+ Board and Members 
+
+ Bylaws (in German) 
+
+ DH Coordination Office of the Academy NRW 
+
+ Projects 
+
+ People 
+
+ Employees and Associates 
+
+ Alumni/ae 
+
+ Guests 
+
+ Activities 
+
+ 2025 
+
+ 2024 
+
+ 2023 
+
+ 2022 
+
+ 2021 
+
+ 2020 
+
+ 2019 
+
+ 2018 
+
+ 2017 
+
+ Blog archive (2010–2021) 
+
+ Contact 
+
+ EN 
+
+ DE 
+
+ Mastodon 
+
+ Search 
+
+ Menu 
+
+ Search for: 
+
+ Search 
+
+ Close search 
+
+ Close 
+
+ About the CCeH Show sub menu 
+
+ Digital Humanities at the University of Cologne Show sub menu 
+
+ Board and Members 
+
+ Bylaws (in German) 
+
+ DH Coordination Office of the Academy NRW 
+
+ Projects 
+
+ People Show sub menu 
+
+ Employees and Associates 
+
+ Alumni/ae 
+
+ Guests 
+
+ Activities Show sub menu 
+
+ 2025 
+
+ 2024 
+
+ 2023 
+
+ 2022 
+
+ 2021 
+
+ 2020 
+
+ 2019 
+
+ 2018 
+
+ 2017 
+
+ Blog archive (2010–2021) 
+
+ Contact 
+
+ EN Show sub menu 
+
+ DE 
+
+ © 2026 CCeH 
+
+ Mastodon 
+
+ Pessoa Digital
+
+ As part of the collaboration with the Laboratório de Estudos Literários Avançados (ELAB), the foundation stone was laid for a digital edition of the editorial projects and publications of the Portuguese author Fernando Pessoa (1888-1935); Ulrike Henny was responsible for this at the CCeH. 
+
+ Link
+
+ http://www.pessoadigital.pt/ 
+
+ Runtime
+
+ 2014–2016 (at the CCeH; ongoing since then)
+
+ project participants
+
+ Universidade Nova de Lisboa, Laboratório de Estudos Literários Avançados (ELAB), CCeH. Editors of the edition: Ulrike Henny-Krahmer (University of Rostock), Pedro Sepúlveda (Lisbon) and Jorge Uribe (Medellín). For other participants, see http://www.pessoadigital.pt/en/project/team. 
+
+ Funding
+
+ Supported by the Fundação para a Ciência e a Tecnologia (FCT), Portugal.
+
+ Description
+
+ As part of the collaboration with the Laboratório de Estudos Literários Avançados (ELAB), the foundation was laid for a digital edition of the editorial projects and publications of the Portuguese author Fernando Pessoa (1888–1935); Ulrike Henny was responsible for this at the CCeH. She continues to edit the edition, together with Pedro Sepúlveda (Lisbon) and Jorge Uribe (Medellín). Since the end of the project phase, in which the CCeH was directly involved, the cooperation has also been extended to the EAFIT University in Medellín (Colombia). Above all, handwritten notes, lists and plans with which Pessoa conceived his work are edited. These will be juxtaposed with his works published during his lifetime in order to trace the development of Pessoa’s oeuvre between planning and publication. The edition contains text transcriptions in TEI, facsimiles, indexes of persons, journals and titles, as well as various visualizations of the data (timelines and a network of persons). Technically, the edition is based on an eXist database and uses XQuery and XSLT scripts as well as JavaSript to create the publication. The digital edition is hosted by the DCH. Further information on the Estranhar Pessoa framework project, which has been running since mid-2013, can be found at http://estranharpessoa.com/ .
+
+ Publications
+
+ For a list of publications, see http://www.pessoadigital.pt/en/project/dissemination. One representative publication:
+
+ Bigalke , Ben / Drach , Sviatoslav / Henny-Krahmer , Ulrike / Sepúlvedo , Pedro / Theisen , Christian (2018). “Networks of persons and figures in Fernando Pessoa’s publication plans.” In: DHd 2018. Critique of digital reason. Conference Abstracts. University of Cologne, February 26 – March 2, 2018. Cologne: University of Cologne, pp. 448–453. DOI: 10.5281/zenodo.3684897 .
+
+ Picture credits
+
+ Fernando Pessoa in Lisbon, photographer unknown, ca. 1920–1935, from: Círculo de Leitores, Fernando Pessoa – Obra Poética, Vol. I, https://commons.wikimedia.org/wiki/File:Pessoabaixa.jpg. 
+
+ 2026 CCeH 
+
+ Legal Notice & Data Privacy 
+
+ Theme by Anders Norén
