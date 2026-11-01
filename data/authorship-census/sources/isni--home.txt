@@ -1,0 +1,169 @@
+Home Page 
+
+ styles.min.css ========== --> 
+
+--> 
+
+ Toggle navigation 
+
+ ABOUT 
+
+ What is ISNI? 
+
+ Governance 
+
+ Our History 
+
+ Objectives & Policies 
+
+ ISNI Community 
+--> 
+
+ ISNI COMMUNITY 
+
+ The ISNI Community 
+
+ ISNI Registration Agencies 
+
+ ISNI Members 
+
+ Direct Data Contributors 
+
+ ISNI Consultation Groups 
+
+ ISNI Technical Advisory Committee 
+
+ Joining ISNI 
+
+ RESOURCES 
+
+ How ISNI Works 
+
+ Data Quality Procedures 
+
+ Data Inputs & Outputs 
+
+ Guidance for ISNI practitioners 
+
+ Technical Documentation 
+
+ Training 
+ --> 
+ Linked Data 
+
+ NEWS 
+
+ News & Archive 
+
+ ISNI Newsletter 
+
+ Events 
+
+ HELP 
+
+ FAQs 
+
+ Get an ISNI 
+
+ Contact ISNI 
+
+ SEARCH SITE 
+
+ MAILING LIST 
+
+ GET AN ISNI 
+
+ SEARCH DATABASE 
+
+ SEARCH WEBSITE: 
+
+ --> 
+
+ Test Ttitle
+
+ text
+
+ --> 
+
+ --> 
+
+ --> 
+
+ --> 
+
+ --> 
+
+ --> 
+
+ --> 
+
+ ABOUT ISNI
+
+ ISNI is the ISO certified global standard number for identifying the millions of contributors to creative works and those active in their distribution, including researchers, inventors, writers, artists, visual creators, performers, producers, publishers, aggregators, and more. As ISO 27729, it is part of a family of international standard identifiers that includes identifiers of works, recordings, products and right holders in all repertoires, e.g. DOI , ISAN , ISBN , ISRC , ISSN , and ISWC .
+
+ The mission of the ISNI International Agency (ISNI-IA) is to assign to the public name(s) of a researcher, inventor, writer, artist, performer, publisher, etc. a persistent unique identifying number in order to resolve the problem of name ambiguity in search and discovery; and diffuse each assigned ISNI across all repertoires in the global supply chain so that every published work can be unambiguously attributed to its creator wherever that work is described.
+
+ By achieving these goals, the ISNI will act as a bridge identifier across multiple domains and become a critical component in Linked Data and Semantic Web applications.
+
+ KEY STATISTICS
+
+ 16.69 million 
+
+ ISNI holds public records of more than 16.6 million identities
+
+ 14.6 million  
+
+ ISNI holds public records of over 14.6 million individuals (of which over 2.9 million are researchers) 
+
+ 2 million 
+
+ ISNI holds public records of 2,076,462 organizations or groups
+
+ 100 sources
+
+ The ISNI database is a cross-domain resource with direct contributions from 100 sources
+
+ NEWS
+
+ CBL Brings ISNI Assignment to Latin America with New Service Launch 
+
+ The global reach of the International Standard Name Identifier (ISNI) continues to expand with the launch of a new ISNI registration service from Câmara
+
+ READ MORE 
+
+ Bowker Launches New International ISNI Assignment Service for the Book Industry 
+
+ Bowker has today announced the launch of a new ISNI assignment service via its online portal, enabling individuals and organisations across the book industry and
+
+ READ MORE 
+
+ ISNI Press Release, February 2026: The ISNI International Agency Launches Guidance to Help Authors and Creators Protect Their Digital Identity 
+
+ New resource explains how ISNI helps authors and contributors strengthen attribution, improve discoverability and ensure their work is correctly identified across 
+
+ READ MORE 
+
+ MAILING LIST 
+ GET AN ISNI 
+ SEARCH DATABASE 
+
+ Interested in ISNI implementation? Join our public group email list by sending a blank email to [email protected] 
+
+ ISNI International Agency (ISNI-IA) LIMITED 
+
+ Registered address: c/o EDItEUR, United House, North Road, London, N7 9DP, UK 
+ Company registration number: 07476425 
+
+ Follow us 
+
+ Privacy 
+
+ Gender Identities Policy 
+
+ Terms of Use 
+
+ Site Map 
+ --> 
+ FAQs 
+
+ scripts.min.js ========== -->

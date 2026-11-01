@@ -1,0 +1,409 @@
+The NEXT Museum - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ History 
+
+ 2 
+ Reviving works 
+
+ Toggle Reviving works subsection 
+
+ 2.1 
+ Noting metadata 
+
+ 3 
+ Individual author collections 
+
+ 4 
+ Online journal and publication collections 
+
+ 5 
+ Academic publications 
+
+ 6 
+ Exhibitions 
+
+ 7 
+ See also 
+
+ 8 
+ References 
+
+ 9 
+ External links 
+
+ Toggle the table of contents 
+
+ The NEXT Museum 
+
+ Add languages 
+
+ Add links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ Online museum for net art and literature
+
+ "The NEXT"
+
+ Location
+ Washington State University Vancouver 
+
+ Established
+ 2011   ( 2011 ) 
+
+ Website
+ Official website 
+
+ The NEXT: Museum, Library, and Preservation Space is a repository of electronic literature . It is supported by Washington State University at Vancouver and the Electronic Literature Organization . [ 1 ] [ 2 ] This is a digital museum dedicated to reviving and maintaining these works to make them accessible to all. Physical artifacts are held at the Electronic Literature Lab in Vancouver, Washington , US. [ 3 ] [ 4 ] 
+
+ History
+ [ edit ] 
+
+ This digital museum originally housed 30 separate collections of 2,500 electronic literature works [ 1 ] [ 5 ] which had increased to over 3,000 works by 2022. [ 6 ] The NEXT uses an Extended Electronic Metadata Schema (ELMS) to describe the complex and interactive digital works it holds. This metadata describes the work and alerts readers to potential reading issues such as fleeting text, color use, or requirements for moving a mouse or moving with a virtual reality environment. [ 6 ] The lab opened officially in 2011. [ 7 ] 
+
+ Reviving works
+ [ edit ] 
+
+ Electronic literature pieces have used software available at the time that are since obsolete, such as HyperCard , Eastgate Systems ' StorySpace, Director, ToolBox, and Flash. Recreating works
+
+ The NEXT has re-created these works by migrating them to newer systems. The NEXT Museum has re-imagined many individual works, including:
+
+ Charles Bernstein , An Mosaic for Convergence (1997 original publication, 2019 re-imagined) [ 8 ] 
+
+ Richard Holeton , Figurski at Findhorn on Acid [ 9 ] 
+
+ Caitlin Fisher , These Waves of Girls [ 9 ] 
+
+ John McDaid, Uncle Buddy's Phantom Funhouse [ 10 ] in 2021
+
+ Stuart Moulthrop , Victory Garden [ 11 ] in 2022
+
+ David Kolb , Socrates in the Labyrinth and Caged Texts [ 12 ] in 2022
+
+ Bill Bly, We Descend in 2023 [ 13 ] 
+
+ Noting metadata
+ [ edit ] 
+
+ Where recreating the work is not yet possible, such as Shockwave works like Jim Andrew's Nio , and Noah Wardrip Fruin et al.'s The Impermanence Agent , the NEXT has provided as much metadata as possible.
+
+ Individual author collections
+ [ edit ] 
+
+ The NEXT Museum also focuses on collections for notable authors in the electronic literature field, which include their own digital works and other donated physical or digital materials. For example, the Marjorie C. Luesebrink Collection holds 66 works. Luesebrink created and published 27 of these works under the pen name M.D. Coverley—and the NEXT Museum re-imagined, migrated, and developed video playthroughs of these works as they were written on now-obsolete software. The other works in this collection were donated by Luesebrink and include her personal copies of other author's works. [ 14 ] 
+
+ Author collections include: [ 15 ] 
+
+ José Aburto 
+
+ Jo-Anne Green 
+
+ N. Katherine Hayles 
+
+ Richard Holeton 
+
+ Michael Joyce 
+
+ Robert Kendall 
+
+ David Kolb 
+
+ Deena Larsen 
+
+ Marjorie Luesebrink . The Marjorie C. Luesebrink Collection at ELO’s The NEXT features 66 works created and collected by this pioneering digital literary artist who publishes under the name M. D. Coverley. [ 14 ] 
+
+ Cathy Marshall 
+
+ Talan Memmott [ 16 ] 
+
+ Stuart Moulthrop 
+
+ Jason Nelson 
+
+ Alan Sondheim 
+
+ Hazel Smith 
+
+ Sarah Smith 
+
+ Stephanie Strickland 
+
+ Rob Swigart 
+
+ Helen Thorington 
+
+ Rob Wittig ( NetProv )
+
+ Jody Zellen 
+
+ Online journal and publication collections
+ [ edit ] 
+
+ Online journals were founded by communities and individuals. The NEXT Museum has curated and collected works from these journals, including the Iowa Review Web (1999-2008) BeeHive (1998 -2004), Cauldron and Net (1997-2002 founded by Claire Dinsmore ), Poems That Go (2000-2004), Turbulence.org (1996-2016 co-founded by Jo-Anne Green ), and The New River (1996–present). [ 17 ] These collections have a wider range than electronic literature, as the Turbulence collected online Portugeuese Netart from 1997-2004. [ 18 ] 
+
+ Academic publications
+ [ edit ] 
+
+ Stuart Moulthrop and Dene Grigar co-authored two works to document The NEXT's Pathfinder project, which provided video and audio recordings of currently inaccessible works using historically appropriate platforms, termed "traversals": [ 19 ] [ 20 ] [ 21 ] Pathfinders: Documenting the Experience of Early Digital Literature (June 2015) [ 22 ] [ 23 ] [ 24 ] and Traversals: The Use of Preservation for Early Electronic Writing [ 25 ] [ 26 ] (April 2017).
+
+ Cambridge University Press, Digital Literary Studies, has released Dene Grigar and Mariusz Pisarski's work: The Challenges of Born-Digital Fiction (March 2024), as a print work [ 27 ] and as a multi-media online work. [ 28 ] [ 29 ] [ 30 ] 
+
+ Exhibitions
+ [ edit ] 
+
+ The NEXT Museum curates exhibitions, such as Vision Unbound for Women's History month (2024), [ 31 ] Hypertext an art in Italy September 5–8, 2023 in conjunction with the ACM Hypertext Conference, [ 32 ] [ 33 ] [ 34 ] and AfterFlash. [ 35 ] [ 36 ] [ 37 ] 
+
+ See also
+ [ edit ] 
+
+ Electronic literature 
+
+ Lists of archives 
+
+ References
+ [ edit ] 
+
+ 1 2 "Students create virtual museum of digital literature" . WSU. 2021-09-02 . Retrieved 2024-02-26 . 
+
+ ↑ "WSU Vancouver students create virtual museum of digital literature" . Washington State University Vancouver. 2021-06-09 . Retrieved 2024-02-26 . 
+
+ ↑ "The Electronic Literature Lab" . dtc-wsuv.org . Retrieved 2024-05-06 . 
+
+ ↑ "Still booting after all these years: The people stuck using ancient Windows computers" . www.bbc.com . 2025-05-18 . Retrieved 2025-05-26 . 
+
+ ↑ "A Tour of ELO's The NEXT | ELMCIP" . elmcip.net . Retrieved 2024-02-24 . 
+
+ 1 2 Grigar, Dene; Snyder, Richard (2022). "Metadata for Access: VR and Beyond". In Frode, Alexander (ed.). The Future of Text . Vol.   III. doi : 10.48197/fot2022 . ISBN   979-8367580655 . 
+
+ ↑ "The Electronic Literature Lab" . dtc-wsuv.org . Retrieved 2024-05-06 . 
+
+ ↑ Grigar, Dene (June 2020). "Maintaining Accessibility to Born-Digital Literary Art" . The Digital Review (1). 
+
+ 1 2 Grigar, Dene (September 2021). "The Ethics of Digital Preservation: Obligation to Future Generations" . The Digital Review . 1 . 
+
+ ↑ Grigar, Dene (October 2023). "Reimagining Hypertexts" . The Digital Review (3). 
+
+ ↑ Grigar, Dene. "Reconstructing Stuart Moulthrop's Victory Garden" . The Digital Review . 2 . 
+
+ ↑ "Caged Texts" . archive.the-next.eliterature.org . Retrieved 2024-02-25 . 
+
+ ↑ "We Descend, The Complete Edition" . The NEXT . Retrieved 2024-02-26 . 
+
+ 1 2 Lillvis, Kristen; White, Melinda (2023-08-28). "Review: Marjorie C. Luesebrink Collection at ELO's The NEXT" . Reviews in Digital Humanities . IV (8). doi : 10.21428/3e88f64f.fb0bd342 . ISSN   2766-9297 . 
+
+ ↑ "The NEXT Individual Artists and Scholars" . The NEXT . Retrieved 2024-02-26 . 
+
+ ↑ "Talan Memmott: Works on Screen, 1998-2016 | The NEXT" . the-next.org . Retrieved 2026-07-16 . 
+
+ ↑ "The NEXT Online Journals" . The NEXT . Retrieved 2024-02-26 . 
+
+ ↑ "Online Portuguese Netart 1997 | 2004" . The NEXT . Retrieved 2025-07-05 . 
+
+ ↑ culturalstudiesleuven (2018-07-02). "Traversals: The Use of Preservation for Early Electronic Writing" . Cultural Studies Leuven . Retrieved 2024-03-24 . 
+
+ ↑ "Review of Traversals: The Use of Preservation for Early Electronic Writing" . Leonardo/ISASTwith Arizona State University . 2018-07-01 . Retrieved 2024-03-24 . 
+
+ ↑ "The Challenges of Born-Digital Fiction: Editions, Translations, and Emulations: Cover of Dene Grigar & Stuart Moulthrop's Pathfinders" . The Challenges of Born-Digital Fiction: Editions, Translations, and Emulations: The Multimedia Accompaniment to the Print Edition . Retrieved 2024-03-24 . 
+
+ ↑ "Project Description" . Pathfinders . Retrieved 2024-03-24 . 
+
+ ↑ Ortega, Élika (2016-02-23). "Preservation Paths. A Review of Pathfinders: Documenting the Experience of Early Digital Literature by Dene Grigar and Stuart Moulthrop" . Digital Literary Studies . 1 (1). doi : 10.18113/P8dls1159747 (inactive 12 July 2025). ISSN   2376-4228 . {{ cite journal }} : CS1 maint: DOI inactive as of July 2025 ( link ) 
+
+ ↑ "Pathfinders: Introduction to Pathfinders" . Pathfinders . Retrieved 2024-03-24 . 
+
+ ↑ "Traversals" . MIT Press . Retrieved 2024-03-24 . 
+
+ ↑ "Foreword". Traversals: The Use of Preservation for Early Electronic Writing . The MIT Press. 7 April 2017. ISBN   978-0-262-03597-2 . Retrieved 2024-03-24 . {{ cite book }} : | website= ignored ( help ) 
+
+ ↑ Grigar, Dene; Pisarski, Mariusz (2024). THE CHALLENGES OF BORN-DIGITAL FICTION: Editions, Translations, and Emulations . Cambridge University Press. doi : 10.1017/9781009181488 . ISBN   978-1-009-18147-1 . ISSN   2633-4380 . 
+
+ ↑ "The Challenges of Born-Digital Fiction: Editions, Translations, and Emulations" . Electronic Literature Lab . Retrieved 2024-03-24 . 
+
+ ↑ Grigar, Dene; Pisarski, Mariusz (February 21, 2024). The Challenges of Born-Digital Fiction: Editions, Translations, and Emulations (PDF) . doi : 10.1017/9781009181488 . ISBN   9781009181488 . ISSN   2633-4399 . 
+
+ ↑ Flor, Micz. "Hypertext & Art, A Retrospective of Forms - Musei Capitolini, Rome, 2023" . Home of Micz Flor (in German) . Retrieved 2024-03-25 . 
+
+ ↑ "Vision Unbound" . the-next.eliterature.org . Retrieved 2024-03-25 . 
+
+ ↑ "Hypertext and Art" . the-next.eliterature.org . Retrieved 2024-03-25 . 
+
+ ↑ "Hypertext and Art" . the-next.eliterature.org . Retrieved 2024-03-25 . 
+
+ ↑ "Christian Wachter (@ChristianWachter@fedihum.org)" . FeDiHum . 2023-09-06 . Retrieved 2024-03-25 . 
+
+ ↑ "afterflash | Exhibit" . the-next.eliterature.org . Retrieved 2024-03-25 . 
+
+ ↑ "Afterflash" . dtc-wsuv.org . Retrieved 2024-03-25 . 
+
+ ↑ "These Waves of Girls - Caitlin Fisher" . www.yorku.ca . Retrieved 2024-03-25 . 
+
+ External links
+ [ edit ] 
+
+ Official website 
+
+ Authority control databases 
+ ELMCIP 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=The_NEXT_Museum&oldid=1373585382 "
+
+ Categories : Hypertext 
+ Virtual museums 
+ Hypertext fiction 
+ Electronic literature organizations 
+ Literary archives in the United States 
+ Online archives of the United States 
+ Video games archiving 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Pages using infobox mapframe with missing coordinates 
+ CS1 maint: DOI inactive as of July 2025 
+ CS1 errors: periodical ignored 
+ CS1 German-language sources (de) 
+
+ This page was last edited on 6 September 2026, at 19:41  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ The NEXT Museum 
+
+ Add languages 
+
+ Add topic

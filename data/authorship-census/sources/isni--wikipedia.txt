@@ -1,0 +1,1887 @@
+International Standard Name Identifier - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ ISNI format 
+
+ Toggle ISNI format subsection 
+
+ 1.1 
+ Format without space 
+
+ 1.2 
+ Format with space 
+
+ 2 
+ Uses of an ISNI 
+
+ 3 
+ Organisations involved in the management 
+
+ Toggle Organisations involved in the management subsection 
+
+ 3.1 
+ ISNI Registration Authority 
+
+ 3.2 
+ ISNI Registration Agencies 
+
+ 3.3 
+ ISNI members 
+
+ 4 
+ Copyright 
+
+ 5 
+ ISNI assignment 
+
+ 6 
+ ISNI coverage 
+
+ 7 
+ See also 
+
+ 8 
+ References 
+
+ 9 
+ Further reading 
+
+ 10 
+ External links 
+
+ Toggle the table of contents 
+
+ International Standard Name Identifier 
+
+ 64 languages 
+
+ العربية 
+ مصرى 
+ Asturianu 
+ Български 
+ भोजपुरी 
+ বাংলা 
+ Bosanski 
+ Català 
+ Čeština 
+ Kaszëbsczi 
+ Cymraeg 
+ Dansk 
+ Deutsch 
+ Ελληνικά 
+ Esperanto 
+ Español 
+ Euskara 
+ فارسی 
+ Suomi 
+ Français 
+ Nordfriisk 
+ Gàidhlig 
+ Galego 
+ עברית 
+ हिन्दी 
+ Hrvatski 
+ Hornjoserbsce 
+ Magyar 
+ Bahasa Indonesia 
+ Ilokano 
+ Italiano 
+ 日本語 
+ ქართული 
+ 한국어 
+ Lëtzebuergesch 
+ Ligure 
+ Македонски 
+ മലയാളം 
+ मराठी 
+ Bahasa Melayu 
+ Malti 
+ नेपाली 
+ Nederlands 
+ Occitan 
+ Polski 
+ Português 
+ Română 
+ Русский 
+ Scots 
+ Srpskohrvatski / српскохрватски 
+ Simple English 
+ Slovenčina 
+ Slovenščina 
+ Shqip 
+ Српски / srpski 
+ Svenska 
+ தமிழ் 
+ తెలుగు 
+ Türkçe 
+ Українська 
+ Vèneto 
+ Tiếng Việt 
+ 閩南語 / Bân-lâm-gí 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikimedia Commons 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ Identifier for people and organizations
+
+ International Standard Name Identifier 
+
+ Acronym
+ ISNI
+
+ Organisation
+ ISNI-IA
+
+ Introduced
+ March   15,   2012   ( 2012-03-15 ) 
+
+ Number</span>"}]]}'>No.   of   digits
+ 16
+
+ Check digit 
+ MOD 11-2
+
+ Example
+ 000000012146438X 
+
+ Website
+ isni .org 
+
+ The International Standard Name Identifier ( ISNI ) is an identifier system for uniquely identifying the public identities of contributors to media content such as books , television programmes , and newspaper articles. Such an identifier consists of 16 digits. It can optionally be displayed as divided into four blocks.
+
+ ISNI can be used to disambiguate named entities that might otherwise be confused, and links the data about names that are collected and used in all sectors of the media industries.
+
+ It was developed under the auspices of the International Organization for Standardization (ISO) as Draft International Standard 27729 ; the valid standard was published on 15 March 2012. The ISO technical committee 46, subcommittee 9 ( TC 46/SC 9 ) is responsible for the development of the standard.
+
+ ISNI format
+ [ edit ] 
+
+ ISNI consists of 15 digits followed by a check character. [ 1 ] The check character may be either a decimal digit or the character "X". The check character is calculated using the preceding 15 decimal digits using the ISO/IEC 7064 , MOD11-2 algorithm. [ 2 ] 
+
+ Format without space
+ [ edit ] 
+
+ MARC: it was proposed to store the ISNI without spaces, e.g.(isni)1234567899999799 [ 3 ] 
+
+ isni.org URL: no spaces, e.g. 
+ http://www.isni.org/isni/000000012146438X (old)
+
+ https://isni.org/isni/000000012146438X (current)
+
+ https://isni.org/000000012146438X (alternative)
+
+ viaf.org:
+ URL <link rel=\"mw:PageProp/Category\" href=\"./Category:Articles_with_dead_external_links_from_October_2025\" about=\"#mwt16\"/><sup class=\"noprint Inline-Template\" about=\"#mwt16\" id=\"mwMw\"><span style=\"white-space: nowrap;\"><span typeof=\"mw:Entity\">[</span><i><a rel=\"mw:WikiLink\" href=\"./Wikipedia:Link_rot\" title=\"Wikipedia:Link rot\"><span title=\" Dead link tagged October 2025\">dead link</span></a></i><span typeof=\"mw:Entity\">]</span></span></sup>"}]],"parts":["https://viaf.org/viaf/sourceID/ISNI%7C000000012146438X",{"template":{"target":{"wt":"Dead link","href":"./Template:Dead_link"},"params":{"date":{"wt":"October 2025"},"bot":{"wt":"InternetArchiveBot"}},"i":0}}]}'>https://viaf.org/viaf/sourceID/ISNI%7C000000012146438X [ dead link ] 
+
+ URL https://viaf.org/processed/ISNI%7C000000012146438X Archived 12 April 2023 at the Wayback Machine 
+
+ the data dumps contain it in form ISNI|000000012146438X
+
+ Format with space
+ [ edit ] 
+
+ In display it is frequently shown with spaces.
+
+ isni.org [ 4 ] 
+
+ viaf.org [ 5 ] 
+
+ Uses of an ISNI
+ [ edit ] 
+
+ The ISNI allows a single identity (such as an author's pseudonym or the imprint used by a publisher ) to be identified using a unique number. [ 6 ] This unique number can then be linked to any of the numerous other identifiers that are used across the media industries to identify names and other forms of identity.
+
+ An example of the use of such a number is the identification of a musical performer who is also a writer both of music and of poems. While they might be identified in various databases using numerous private and public identification systems, under the ISNI system, they would have a single linking ISNI record. The many different databases could then exchange data about that particular identity without resorting to messy methods such as comparing text strings. An often quoted example in the English language world is the difficulty faced when identifying 'John Smith' in a database. While there may be many records for 'John Smith', it is not always clear which record refers to the specific 'John Smith' that is required.
+
+ If an author has published under several different names or pseudonyms, each such name will receive its own ISNI.
+
+ ISNI can be used by libraries and archives when sharing catalogue information; for more precise searching for information online and in databases, and it can aid the management of rights across national borders and in the digital environment.
+
+ Organisations involved in the management
+ [ edit ] 
+
+ ISNI Registration Authority
+ [ edit ] 
+
+ According to ISO the Registration Authority for ISO 27729:2012 is the "ISNI International Agency". [ 7 ] It is located in London (c/o EDItEUR) [ 8 ] 
+
+ It is incorporated under the Companies Act 2006 as a private company limited by guarantee . [ 9 ] 
+
+ The 'International Agency' is commonly known as the ISNI-IA. [ 10 ] 
+
+ This UK registered, not-for-profit company has been founded by a consortium of organisations consisting of the Confédération Internationale des Sociétés d'Auteurs et Compositeurs (CISAC), the Conference of European National Librarians (CENL), the International Federation of Reproduction Rights Organisations (IFRRO), the International Performers Database Association (IPDA), the Online Computer Library Center (OCLC) and ProQuest . It is managed by directors nominated from these organisations and, in the case of CENL, by representatives of the Bibliothèque nationale de France and the British Library .
+
+ ISNI Registration Agencies
+ [ edit ] 
+
+ A registration agency provides the interface between ISNI applicants and the ISNI Assignment Agency. [ 11 ] 
+
+ List of Registration Agencies in order as on ISNI-IA website 
+ Name (as on ISNI-IA website)
+ Since
+ Relation
+
+ AETIS (Online Platform for Intellectual Property protection)
+
+ AIIMCC (Asociación Intercontinental Independiente Multidisciplinaria de Creadores y Creativos, A.C.)
+
+ Bibliographic Data Services
+
+ Bibliothèque et Archives Nationales du Québec (BAnQ)
+
+ Canada
+
+ BnF ( Bibliothèque nationale de France )
+ 2014 [ 12 ] 
+ France
+
+ Bibliothèque nationale de Luxembourg 
+
+ Luxembourg
+
+ Bodleian Library , University of Oxford
+
+ British Library 
+
+ United Kingdom
+
+ Câmara Brasileira do Livro (CBL)
+
+ Brazil
+
+ Cambridge University Library 
+
+ Casalini Libri
+
+ Italy
+
+ China Knowledge Centre for Engineering Sciences and Technology (CKCEST)
+
+ China
+
+ Consolidated Independent (CI)
+
+ United Kingdom
+
+ Dilicom
+
+ FGEE (Federación de Gremios de Editores de España)
+
+ Spain
+
+ ICCU (Istituto Centrale per il Catalogo Unico della Biblioteche Italiane per le informazioni bibliografiche)
+
+ Italy
+
+ Intellectual Property Office of the Philippines (IPOPHL)
+
+ Philippines
+
+ Koninklijke Bibliotheek 
+
+ Netherlands
+
+ KBR ( Royal Library of Belgium )
+
+ Belgium
+
+ Library of Trinity College Dublin , University of Dublin
+
+ MétaMusique
+
+ Muso.AI
+
+ MVB 
+
+ Germany
+
+ National Assembly Library of Korea 
+
+ South Korea
+
+ National Library of Finland 
+
+ Finland
+
+ National Library of Korea 
+
+ South Korea
+
+ National Library of Norway 
+
+ National Library of Poland 
+
+ Poland
+
+ National Library of Scotland 
+
+ National Library of Wales 
+
+ Orfium 
+
+ Program for Cooperative Cataloging (PCC)
+
+ Quansic 
+
+ Switzerland
+
+ Republic of Türkiye Ministry of Culture and Tourism
+
+ Ringgold 
+
+ organisations, international
+
+ Rovix Inc.
+
+ Sound Credit / Soundways
+
+ United States
+
+ SPARWK 
+
+ Switchchord
+
+ Takwene [ 11 ] 
+
+ 2021
+
+ MENA 
+
+ Warner Music Group (WMG)
+
+ World Intellectual Property Organization 
+ 2024
+ International
+
+ YouTube 
+ 2018 [ 13 ] [ 14 ] 
+ international
+
+ In 2018, YouTube became an ISNI registry, and announced its intention to begin creating ISNI IDs for the musicians whose videos it features. [ 13 ] ISNI anticipates the number of ISNI IDs "going up by perhaps 3-5 million over the next couple of years" as a result. [ 15 ] 
+
+ In 2020, Sound Credit , together with ISNI, announced that music industry ISNI registrations were free and automated. The free registration system is part of Sound Credit user profile creation, used by its larger system for music crediting. It includes an automated search to avoid duplicate ISNIs and a certificate generated by the Sound Credit registration system to officiate newly registered ISNIs. [ 16 ] 
+
+ In 2024, WIPO became an ISNI Registration Agency, enabling its network of Collective Management Organizations around the world to assign ISNI IDs to creators. Through this integration, WIPO aims to facilitate the assignment of unique identifiers to a broad range of creators, including musicians, writers, and other artistic professionals. This move was set to enhance the discoverability and attribution of creative works on a global scale. [ 17 ] [ 18 ] [ 19 ] 
+
+ ISNI members
+ [ edit ] 
+
+ ISNI members (ISNI-IA Members [ 20 ] ) as of 2025 [ update ] -01-18:
+
+ ABES (French Bibliographic Agency for Higher Education)
+
+ Apple 
+
+ BookNet Canada 
+
+ Brill Publishers 
+
+ CEDRO (Centro Español de Derechos Reprográficos)
+
+ FCCN
+
+ French National Archives (Archives nationales de France)
+
+ Harvard University 
+
+ Hogeschool van Amsterdam 
+
+ Hogeschool van Arnhem en Nijmegen 
+
+ Irish Copyright Licensing Agency (ICLA)
+
+ ISSN International Centre
+
+ Library of Congress 
+
+ Maastricht University 
+
+ Meta4Books
+
+ National Library of New Zealand 
+
+ National Library of Sweden (Kungliga Biblioteket)
+
+ Netherlands Institute for Sound & Vision
+
+ Publisher's Licensing Services 
+
+ Radboud Universiteit 
+
+ Rijksuniversiteit Groningen 
+
+ Scribd 
+
+ Spotify 
+
+ Technische Universiteit Eindhoven 
+
+ Universiteit Leiden 
+
+ Universiteit van Amsterdam 
+
+ University of Twente 
+
+ University of Utrecht 
+
+ Vrije Universiteit Amsterdam 
+
+ Wageningen University & Research 
+
+ Copyright
+ [ edit ] 
+
+ A subset of the data is available under CC0 . [ 21 ] 
+
+ ISNI assignment
+ [ edit ] 
+
+ ISNI-IA uses an assignment system comprising a user interface, data-schema , disambiguation algorithms , and database that meets the requirements of the ISO standard, while also using existing technology where possible. The system is based primarily on the Virtual International Authority File (VIAF) service, which has been developed by OCLC for use in the aggregation of library catalogues.
+
+ Access to the assignment system and database, and to the numbers that are generated as the output of the process, are controlled by independent bodies known as registration agencies. These registration agencies deal directly with customers, ensuring that data is provided in appropriate formats and recompensing the ISNI-IA for the cost of maintaining the assignment system. Registration agencies are appointed by ISNI-IA but will be managed and funded independently.
+
+ ISNI coverage
+ [ edit ] 
+
+ The following table lists ISNI coverage counts, for millions of identities of all types, millions of people, millions of researchers (also included in people), and organisations. [ 22 ] 
+
+ As of
+
+ Identities (M)
+
+ Individuals (M)
+
+ Researchers (M)
+
+ Organisations
+
+ 2017-08-05
+
+ 9.41
+
+ 8.757
+
+ 2.606
+
+ 654,074
+
+ 2018-04-19
+
+ 9.86
+
+ 9.15
+
+ 2.86
+
+ 714,401
+
+ 2018-07-11
+
+ 10
+
+ 9.28
+
+ 2.87
+
+ 717,204
+
+ 2018-08-13
+
+ 10
+
+ 9.32
+
+ 2.87
+
+ 717,795
+
+ 2018-10-17
+
+ 10
+
+ 9.39
+
+ 2.87
+
+ 719,010
+
+ 2018-12-05
+
+ 10
+
+ 9.4
+
+ 2.88
+
+ 826,810
+
+ 2019-03-11
+
+ 10
+
+ 9.59
+
+ 2.88
+
+ 864,999
+
+ 2019-06-21
+
+ 10.5
+
+ 9.6
+
+ 2.88
+
+ 876,017
+
+ 2019-11-27
+
+ 10.92
+
+ 10.01
+
+ 2.89
+
+ 908,299
+
+ 2020-02-13
+
+ 11.02
+
+ 10.11
+
+ 2.91
+
+ 912,991
+
+ 2020-10-20
+
+ 11.51
+
+ 10.45
+
+ 2.91
+
+ 1,062,333
+
+ 2021-05-30
+
+ 12.22
+
+ 11.10
+
+ 2.93
+
+ 1,119,480
+
+ 2021-11-17
+
+ 14.38
+
+ 12.79
+
+ 2.94
+
+ 1,591,038
+
+ 2022-09-01 [ 23 ] 
+
+ 14.7
+
+ 13.11
+
+ 2.97
+
+ 1,645,434
+
+ 2022-12-25 [ 24 ] 
+
+ 14.8
+
+ 13.21
+
+ 2.97
+
+ 1,680,892
+
+ 2023-05-10 [ 25 ] 
+
+ 15
+
+ 13.3
+
+ 2.98
+
+ 1,705,025
+
+ 2025-10-13 [ 26 ] 
+
+ 16.4
+
+ 14.3
+
+ 2,017,936
+
+ See also
+ [ edit ] 
+
+ Authority control 
+
+ Digital Author Identification (DAI)
+
+ Digital object identifier (DOI)
+
+ GRID 
+
+ International Standard Text Code (ISTC)
+
+ ORCID (Open Researcher and Contributor ID) 
+
+ ResearcherID 
+
+ Ringgold identifier 
+
+ References
+ [ edit ] 
+
+ ↑ "ISNI - FAQ" . www.isni.org . Archived from the original on 18 April 2018 . Retrieved 19 April 2018 . 
+
+ ↑ "Structure of the ORCID Identifier" . 
+
+ ↑ Office, Library of Congress Network Development and MARC Standards. "Encoding the International Standard Name Identifier (ISNI) in the MARC 21 Bibliographic and Authority Formats" . www.loc.gov . Archived from the original on 24 June 2018 . Retrieved 19 April 2018 . 
+
+ ↑ "ISNI 000000012281955X Ai-en-ssu-tan (1879-1955)" . www.isni.org . Archived from the original on 24 June 2018 . Retrieved 19 April 2018 . 
+
+ ↑ "viaf/751215307" . Archived from the original on 4 October 2017 . Retrieved 7 October 2017 . 
+
+ ↑ Rosenblatt, Bill (15 October 2021). "What's in a Name? ISNI Can Tell You That" . PublishersWeekly.com . Retrieved 14 June 2024 . 
+
+ ↑ "Maintenance agencies and registration authorities" . Iso.org. Archived from the original on 24 June 2018 . Retrieved 16 July 2018 . 
+
+ ↑ "ISNI International Agency - ISNI International Agency" . Iso.org. Archived from the original on 11 July 2018 . Retrieved 16 July 2018 . 
+
+ ↑ "Memorandum And Articles Of Associaiton [ sic ] Of The ISNI International Agency (ISNI-IA)" (PDF) . 
+
+ ↑ "What is ISNI" . Archived from the original on 19 June 2015 . Retrieved 19 December 2014 . 
+
+ 1 2 "ISNI Registration Agencies" . ISNI | . Retrieved 23 January 2025 . 
+
+ ↑ "The National library of France becomes ISNI Registration agency   : for a persistent identification of persons and organizations | ISSN" . www.issn.org . Retrieved 13 October 2025 . 
+
+ 1 2 "YouTube Adopts ISNI ID for Artists & Songwriters" . Isni.org . Retrieved 13 October 2025 . 
+
+ ↑ "What's new in Studio Content Manager - YouTube Help" . support.google.com . Retrieved 14 June 2024 . 
+
+ ↑ "Transcript: YouTube Knows Who You Are" . Beyond the Book. 18 March 2018. Archived from the original on 24 February 2021 . Retrieved 1 June 2018 . 
+
+ ↑ "Music Industry ISNI Registrations Now Free and Automated" . ISNI. 23 October 2020. Archived from the original on 29 November 2020 . Retrieved 27 November 2020 . 
+
+ ↑ "WIPO Partners with ISNI to Assign Standards Identifying Creators" . copyright . Retrieved 18 January 2025 . 
+
+ ↑ "ISNI Press Release, November 2024: WIPO Joins ISNI as a New Registration Agency, Expanding the Reach of Global Identification Standards" . ISNI | (Press release). 18 November 2024 . Retrieved 18 January 2025 . 
+
+ ↑ "WIPO joins forces with ISNI as a new registration agency" . ifrro . Retrieved 18 January 2025 . 
+
+ ↑ "ISNI Members" . ISNI | . Retrieved 18 January 2025 . 
+
+ ↑ "Linked Data" . 
+
+ ↑ "ISNI HomePage" . www.isni.org . Archived from the original on 17 December 2014 . Retrieved 19 April 2018 . 
+
+ ↑ "ISNI | Home Page" . Archived from the original on 1 September 2022. 
+
+ ↑ "ISNI | Home Page" . Archived from the original on 25 December 2022. 
+
+ ↑ "ISNI | Home Page" . Archived from the original on 10 May 2023. 
+
+ ↑ "Home Page" . isni.org . Retrieved 13 October 2025 . 
+
+ Further reading
+ [ edit ] 
+
+ Karen Smith-Yoshimura, Janifer Gatenby, Grace Agnew, Christopher Brown, Kate Byrne, Matt Carruthers, Peter Fletcher, Stephen Hearn, Xiaoli Li, Marina Muilwijk, Chew Chiat Naun, John Riemer, Roderick Sadler, Jing Wang, Glen Wiley, and Kayla Willey. 2016. "Addressing the Challenges with Organizational Identifiers and ISNI." Dublin, Ohio: OCLC Research.
+
+ External links
+ [ edit ] 
+
+ Wikidata has the property: 
+ ISNI (P213) (see uses )
+
+ v 
+ t 
+ e 
+
+ International numbering standards
+
+ Standards
+
+ ISO 2108: International Standard Book Number (ISBN)
+
+ ISO 3297: International Standard Serial Number (ISSN)
+
+ ISO 3901: International Standard Recording Code (ISRC)
+
+ ISO 6166: International Securities Identification Number (ISIN)
+
+ ISO/IEC 7812 : Issuer Identification Number (IIN)
+
+ ISO 9362 : Business Entity Identifier (BIC)
+
+ ISO 10957: International Standard Music Number (ISMN)
+
+ ISO 13616: International Bank Account Number (IBAN)
+
+ ISO 15511: International Standard Identifier for Libraries... (ISIL)
+
+ ISO 15706: International Standard Audiovisual Number (ISAN)
+
+ ISO 15707: International Standard Musical Work Code (ISWC)
+
+ ISO 17316: International Standard Link Identifier (ISLI)
+
+ ISO 17442: Legal Entity Identifier (LEI)
+
+ ISO 21047: International Standard Text Code (ISTC)
+
+ ISO 26324: Digital Object Identifier System (DOI)
+
+ ISO 27729: International Standard Name Identifier (ISNI)
+
+ ISO 27730: International Standard Collection Identifier (ISCI)
+
+ CAE / IPI 
+
+ Virtual International Authority File (VIAF)
+
+ v 
+ t 
+ e 
+
+ International Organization for Standardization (ISO) standards
+
+ List of ISO standards – ISO romanizations – IEC standards 
+
+ 1–9999
+
+ 1 
+
+ 2 
+
+ 3 
+
+ 4 
+
+ 6 
+
+ 7 
+
+ 9 
+
+ 16 
+
+ 17 
+
+ 31 
+ -0 
+
+ -1 
+
+ -3 
+
+ -4 
+
+ -5 
+
+ -6 
+
+ -7 
+
+ -8 
+
+ -9 
+
+ -10 
+
+ -11 
+
+ -12 
+
+ -13 
+
+ 68-1 
+
+ 128 
+
+ 216 
+
+ 217 
+
+ 226 
+
+ 228 
+
+ 233 
+
+ 259 
+
+ 261 
+
+ 262 
+
+ 302 
+
+ 306 
+
+ 361 
+
+ 500 
+
+ 518 
+
+ 519 
+
+ 639 
+ -1 
+
+ -2 
+
+ -3 
+
+ -5 
+
+ -6 
+
+ 646 
+
+ 657 
+
+ 668 
+
+ 690 
+
+ 704 
+
+ 732 
+
+ 764 
+
+ 838 
+
+ 843 
+
+ 860 
+
+ 898 
+
+ 965 
+
+ 999 
+
+ 1000 
+
+ 1004 
+
+ 1007 
+
+ 1073-1 
+
+ 1073-2 
+
+ 1155 
+
+ 1413 
+
+ 1538 
+
+ 1629 
+
+ 1745 
+
+ 1989 
+
+ 2014 
+
+ 2015 
+
+ 2022 
+
+ 2033 
+
+ 2047 
+
+ 2108 
+
+ 2145 
+
+ 2146 
+
+ 2240 
+
+ 2281 
+
+ 2533 
+
+ 2709 
+
+ 2711 
+
+ 2720 
+
+ 2788 
+
+ 2848 
+
+ 2852 
+
+ 2921 
+
+ 3029 
+
+ 3103 
+
+ 3166 
+ -1 
+
+ -2 
+
+ -3 
+
+ 3297 
+
+ 3307 
+
+ 3601 
+
+ 3602 
+
+ 3864 
+
+ 3901 
+
+ 3950 
+
+ 3977 
+
+ 4031 
+
+ 4157 
+
+ 4165 
+
+ 4217 
+
+ 4909 
+
+ 5127 
+
+ 5218 
+
+ 5426 
+
+ 5427 
+
+ 5428 
+
+ 5725 
+
+ 5775 
+
+ 5776 
+
+ 5800 
+
+ 5807 
+
+ 5964 
+
+ 6166 
+
+ 6344 
+
+ 6346 
+
+ 6373 
+
+ 6385 
+
+ 6425 
+
+ 6429 
+
+ 6438 
+
+ 6523 
+
+ 6709 
+
+ 6862 
+
+ 6943 
+
+ 7001 
+
+ 7002 
+
+ 7010 
+
+ 7027 
+
+ 7064 
+
+ 7098 
+
+ 7185 
+
+ 7200 
+
+ 7498 
+ -1 
+
+ 7637 
+
+ 7736 
+
+ 7810 
+
+ 7811 
+
+ 7812 
+
+ 7813 
+
+ 7816 
+
+ 7942 
+
+ 8000 
+
+ 8093 
+
+ 8178 
+
+ 8217 
+
+ 8373 
+
+ 8501-1 
+
+ 8571 
+
+ 8583 
+
+ 8601 
+
+ 8613 
+
+ 8632 
+
+ 8651 
+
+ 8652 
+
+ 8691 
+
+ 8802-5 
+
+ 8805/8806 
+
+ 8807 
+
+ 8820-5 
+
+ 8859 
+ -1 
+
+ -2 
+
+ -3 
+
+ -4 
+
+ -5 
+
+ -6 
+
+ -7 
+
+ -8 
+
+ -8-I 
+
+ -9 
+
+ -10 
+
+ -11 
+
+ -12 
+
+ -13 
+
+ -14 
+
+ -15 
+
+ -16 
+
+ 8879 
+
+ 9000/9001 
+
+ 9036 
+
+ 9075 
+
+ 9126 
+
+ 9141 
+
+ 9227 
+
+ 9241 
+
+ 9293 
+
+ 9314 
+
+ 9362 
+
+ 9407 
+
+ 9496 
+
+ 9506 
+
+ 9529 
+
+ 9564 
+
+ 9592/9593 
+
+ 9594 
+
+ 9660 
+
+ 9797-1 
+
+ 9897 
+
+ 9899 
+
+ 9945 
+
+ 9984 
+
+ 9985 
+
+ 9995 
+
+ 10000–19999
+
+ 10006 
+
+ 10007 
+
+ 10116 
+
+ 10118-3 
+
+ 10160 
+
+ 10161 
+
+ 10165 
+
+ 10179 
+
+ 10206 
+
+ 10218 
+
+ 10279 
+
+ 10303 
+ -11 
+
+ -21 
+
+ -22 
+
+ -28 
+
+ -238 
+
+ 10367 
+
+ 10383 
+
+ 10585 
+
+ 10589 
+
+ 10628 
+
+ 10646 
+
+ 10664 
+
+ 10746 
+
+ 10861 
+
+ 10957 
+
+ 10962 
+
+ 10967 
+
+ 11073 
+
+ 11170 
+
+ 11172 
+
+ 11179 
+
+ 11404 
+
+ 11544 
+
+ 11783 
+
+ 11784 
+
+ 11785 
+
+ 11801 
+
+ 11889 
+
+ 11898 
+
+ 11940 ( -2 )
+
+ 11941 
+
+ 11941 (TR) 
+
+ 11992 
+
+ 12006 
+
+ 12052 
+
+ 12182 
+
+ 12207 
+
+ 12234-2 
+
+ 12620 
+
+ 12944 
+
+ 13211 
+ -1 
+
+ -2 
+
+ 13216 
+
+ 13250 
+
+ 13399 
+
+ 13406-2 
+
+ 13450 
+
+ 13485 
+
+ 13490 
+
+ 13567 
+
+ 13568 
+
+ 13584 
+
+ 13616 
+
+ 13816 
+
+ 13818 
+
+ 13849 
+
+ 14000 
+
+ 14006 
+
+ 14031 
+
+ 14051 
+
+ 14223 
+
+ 14224 
+
+ 14289 
+
+ 14396 
+
+ 14443 
+
+ 14496 
+ -2 
+
+ -3 
+
+ -6 
+
+ -10 
+
+ -11 
+
+ -12 
+
+ -14 
+
+ -17 
+
+ -20 
+
+ 14555 
+
+ 14617 
+
+ 14644 
+
+ 14649 
+
+ 14651 
+
+ 14698 
+
+ 14755 
+
+ 14764 
+
+ 14882 
+
+ 14971 
+
+ 15022 
+
+ 15118 
+
+ 15189 
+
+ 15288 
+
+ 15291 
+
+ 15398 
+
+ 15408 
+
+ 15444 
+ -3 
+
+ -9 
+
+ 15445 
+
+ 15438 
+
+ 15489 
+
+ 15504 
+
+ 15511 
+
+ 15686 
+
+ 15693 
+
+ 15706 
+ -2 
+
+ 15707 
+
+ 15897 
+
+ 15919 
+
+ 15924 
+
+ 15926 
+
+ 15926 WIP 
+
+ 15930 
+
+ 15938 
+
+ 16023 
+
+ 16262 
+
+ 16355-1 
+
+ 16485 
+
+ 16610 
+
+ 16612-2 
+
+ 16750 
+
+ 16949 (TS) 
+
+ 17024 
+
+ 17025 
+
+ 17100 
+
+ 17203 
+
+ 17369 
+
+ 17442 
+
+ 17506 
+
+ 17799 
+
+ 17800 
+
+ 18004 
+
+ 18014 
+
+ 18181 
+
+ 18245 
+
+ 18629 
+
+ 18760 
+
+ 18916 
+
+ 19005 
+
+ 19011 
+
+ 19092 
+ -1 
+
+ -2 
+
+ 19114 
+
+ 19115 
+
+ 19125 
+
+ 19136 
+
+ 19407 
+
+ 19439 
+
+ 19500 
+
+ 19501 
+
+ 19502 
+
+ 19503 
+
+ 19505 
+
+ 19506 
+
+ 19507 
+
+ 19508 
+
+ 19509 
+
+ 19510 
+
+ 19600 
+
+ 19650 
+
+ 19752 
+
+ 19757 
+
+ 19770 
+
+ 19775-1 
+
+ 19794-5 
+
+ 19831 
+
+ 20000–29999
+
+ 20000 
+
+ 20022 
+
+ 20121 
+
+ 20252 
+
+ 20400 
+
+ 20802 
+
+ 20830 
+
+ 21000 
+
+ 21001 
+
+ 21047 
+
+ 21122 
+
+ 21482 
+
+ 21500 
+
+ 21778 
+
+ 21827 
+
+ 22000 
+
+ 22275 
+
+ 22300 
+
+ 22301 
+
+ 22315 
+
+ 22319 
+
+ 22322 
+
+ 22380 
+
+ 22381 
+
+ 22382 
+
+ 22392 
+
+ 22395 
+
+ 22396 
+
+ 22537 
+
+ 23000 
+
+ 23003 
+
+ 23008 
+
+ 23009 
+
+ 23090-3 
+
+ 23092 
+
+ 23094-1 
+
+ 23094-2 
+
+ 23270 
+
+ 23271 
+
+ 23360 
+
+ 23941 
+
+ 24517 
+
+ 24613 
+
+ 24617 
+
+ 24707 
+
+ 24728 
+
+ 25178 
+
+ 25964 
+
+ 26000 
+
+ 26262 
+
+ 26300 
+
+ 26324 
+
+ 27000 series 
+
+ 27000 
+
+ 27001 
+
+ 27002 
+
+ 27003 
+
+ 27004 
+
+ 27005 
+
+ 27006 
+
+ 27007 
+
+ 27017 
+
+ 27018 
+
+ 27019 
+
+ 27040 
+
+ 27729 
+
+ 28000 
+
+ 29110
+
+ 29119 
+
+ 29148 
+
+ 29199-2 
+
+ 29500 
+
+ 30000+
+
+ 30170 
+
+ 31000 
+
+ 31010 
+
+ 32000 
+
+ 33001 
+
+ 37001 
+
+ 37120 
+
+ 38500 
+
+ 39001 
+
+ 39075 
+
+ 40230 
+
+ 40240 
+
+ 40250 
+
+ 40260 
+
+ 40314 
+
+ 40500 
+
+ 42010 
+
+ 45001 
+
+ 50001 
+
+ 55000 
+
+ 56000 
+
+ 80000 
+
+ Category 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=International_Standard_Name_Identifier&oldid=1380050022 "
+
+ Categories : ISO standards 
+ Unique identifiers 
+ Library cataloging and classification 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ All articles with dead external links 
+ Articles with dead external links from October 2025 
+ Webarchive template wayback links 
+ Articles containing potentially dated statements from 2025 
+ All articles containing potentially dated statements 
+ Use dmy dates from May 2020 
+
+ This page was last edited on 13 October 2026, at 13:38  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ International Standard Name Identifier 
+
+ 64 languages 
+
+ Add topic

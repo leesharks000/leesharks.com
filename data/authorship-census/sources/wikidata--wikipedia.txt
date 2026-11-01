@@ -1,0 +1,1558 @@
+Wikidata - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ Concept 
+
+ Toggle Concept subsection 
+
+ 1.1 
+ Main parts 
+
+ 1.2 
+ Statements 
+
+ 1.3 
+ Properties 
+
+ 1.4 
+ Lexemes 
+
+ 1.5 
+ Entity schemas 
+
+ 2 
+ Content 
+
+ 3 
+ Development 
+
+ Toggle Development subsection 
+
+ 3.1 
+ Initial rollout 
+
+ 3.2 
+ Statements and data access 
+
+ 3.3 
+ Query service and other improvements 
+
+ 3.4 
+ Logo 
+
+ 4 
+ Reception 
+
+ 5 
+ Applications 
+
+ 6 
+ See also 
+
+ 7 
+ Notes 
+
+ 8 
+ References 
+
+ 9 
+ Further reading 
+
+ 10 
+ External links 
+
+ Toggle the table of contents 
+
+ Wikidata 
+
+ 133 languages 
+
+ Аԥсшәа 
+ Afrikaans 
+ Alemannisch 
+ Aragonés 
+ العربية 
+ الدارجة 
+ مصرى 
+ অসমীয়া 
+ Asturianu 
+ Azərbaycanca 
+ تۆرکجه 
+ Башҡортса 
+ Basa Bali 
+ Boarisch 
+ Беларуская (тарашкевіца) 
+ Беларуская 
+ Български 
+ भोजपुरी 
+ ပအိုဝ်ႏဘာႏသာႏ 
+ বাংলা 
+ Bosanski 
+ Català 
+ 閩東語 / Mìng-dĕ̤ng-ngṳ̄ 
+ Нохчийн 
+ کوردی 
+ Čeština 
+ Cymraeg 
+ Dansk 
+ Dagbanli 
+ Deutsch 
+ Ελληνικά 
+ Esperanto 
+ Español 
+ Eesti 
+ Euskara 
+ فارسی 
+ Suomi 
+ Français 
+ Frysk 
+ Gaeilge 
+ Galego 
+ ગુજરાતી 
+ Hausa 
+ 客家語 / Hak-kâ-ngî 
+ עברית 
+ हिन्दी 
+ Hrvatski 
+ Kreyòl ayisyen 
+ Magyar 
+ Հայերեն 
+ Interlingua 
+ Bahasa Indonesia 
+ Ilokano 
+ Íslenska 
+ Italiano 
+ 日本語 
+ ქართული 
+ Qaraqalpaqsha 
+ ភាសាខ្មែរ 
+ ಕನ್ನಡ 
+ 한국어 
+ کٲشُر 
+ Кыргызча 
+ Latina 
+ Lingua Franca Nova 
+ Luganda 
+ Lietuvių 
+ Latviešu 
+ Madhurâ 
+ Malagasy 
+ Minangkabau 
+ Македонски 
+ മലയാളം 
+ ဘာသာမန် 
+ मराठी 
+ Bahasa Melayu 
+ Malti 
+ မြန်မာဘာသာ 
+ مازِرونی 
+ नेपाली 
+ Nederlands 
+ Norsk nynorsk 
+ Norsk bokmål 
+ ߒߞߏ 
+ Nupe 
+ Chi-Chewa 
+ Occitan 
+ ଓଡ଼ିଆ 
+ ਪੰਜਾਬੀ 
+ Kapampangan 
+ Papiamentu 
+ Polski 
+ پنجابی 
+ پښتو 
+ Português 
+ Română 
+ Русский 
+ ᱥᱟᱱᱛᱟᱲᱤ 
+ سنڌي 
+ Srpskohrvatski / српскохрватски 
+ සිංහල 
+ Simple English 
+ Slovenčina 
+ Slovenščina 
+ Shqip 
+ Српски / srpski 
+ Svenska 
+ Kiswahili 
+ தமிழ் 
+ ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ 
+ తెలుగు 
+ Тоҷикӣ 
+ ไทย 
+ Tagalog 
+ Toki pona 
+ Türkçe 
+ Татарча / tatarça 
+ ChiTumbuka 
+ Удмурт 
+ Українська 
+ اردو 
+ Oʻzbekcha / ўзбекча 
+ Vèneto 
+ Tiếng Việt 
+ Volapük 
+ Winaray 
+ 吴语 
+ Vahcuengh 
+ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ 
+ 文言 
+ 閩南語 / Bân-lâm-gí 
+ 粵語 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Abstract Wikipedia 
+ Wikimedia Commons 
+ MediaWiki 
+ Meta-Wiki 
+ Wikidata 
+ Wikiquote 
+ Wikiversity 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ Collaborative multilingual knowledge graph
+
+ {{Wikidata|references|linked|P407}}"},"commercial":{"wt":"No"},"website_type":{"wt":"{{hlist|class=nowrap |[[Knowledge base]] |[[Wiki]]}}"},"registration":{"wt":"Optional"},"language":{"wt":"Multiple languages"},"owner":{"wt":"[[Wikimedia Foundation]]"},"editor":{"wt":"{{Wikidata|properties|linked|references|linked|P50}}"},"creator":{"wt":""},"name":{"wt":"Wikidata"},"headquarters":{"wt":""},"launched":{"wt":"{{start date and age|2012|10|29}}<!-- {{Wd|properties|P571}} -->{{Wikidata|references|P571}}"},"content_licence":{"wt":"[[CC0]]{{efn|Structured data in the main (item), Property, Lexeme and EntitySchema namespaces is released under CC0; text in the other namespaces is available under the [[Creative Commons licenses|Creative Commons Attribution-ShareAlike]] License.<ref>{{cite web |title=Wikidata:Copyright |url=https://www.wikidata.org/w/index.php?title=Wikidata:Copyright&oldid=1523614187 |website=Wikidata |access-date=13 October 2026}}</ref>}}"}},"i":0}}]}'> Wikidata 
+
+ Screenshot
+
+ Main page of Wikidata in October 2026
+
+ Website   type
+
+ Knowledge base 
+ Wiki 
+
+ Available   in
+ Multiple languages
+
+ Owner
+ Wikimedia Foundation 
+
+ Editor
+ Wikimedia community 
+
+ Website
+ wikidata .org 
+
+ Commercial
+ No
+
+ Registration
+ Optional
+
+ Launched
+ October   29, 2012 ; 14 years ago   ( 2012-10-29 ) 
+
+ Content licence
+
+ CC0 [ a ] 
+
+ Wikidata is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation . [ 2 ] It is a source of open data released under the Creative Commons CC0 public domain dedication. It is for the use of both Wikimedia and external projects. [ 3 ] [ 4 ] Launched in October 2012, it is developed mainly by Wikimedia Deutschland and supplies the interlanguage links and some of the infobox data used by Wikipedia and other Wikimedia projects. Wikidata is a wiki powered by the software MediaWiki , including its extension for semi-structured data , the Wikibase . As of early 2025, Wikidata had 1.65   billion item statements. [ 5 ] [ verification needed ] As of October   2026 [ update ] , Wikidata held more than 123   million data entities, such as items, properties and lexemes. [ 6 ] 
+
+ Concept
+ [ edit ] 
+
+ This diagram shows the most important terms used in Wikidata.</div>"}'> This diagram shows the most important terms used in Wikidata.
+
+ Wikidata is a document-oriented database , focusing on items , which represent any kind of topic, concept, or object. Each item is allocated a unique persistent identifier called its QID , a positive integer prefixed with the upper-case letter "Q". {{cite book |last1=Vrandečić |first1=Denny |last2=Pintscher |first2=Lydia |last3=Krötzsch |first3=Markus |title=Companion Proceedings of the ACM Web Conference 2023 |chapter=Wikidata: The Making of |date=30 April 2023 |pages=615–624 |chapter-url=https://dl.acm.org/doi/10.1145/3543873.3585579 |doi=10.1145/3543873.3585579|isbn=9781450394192 |s2cid=258377705 }}</ref>"}},"i":0}}]}'> [ b ] This makes it possible to provide translations of the basic information describing the topic each item covers without favoring any particular language.
+
+ Some examples of items and their QIDs are 1988 Summer Olympics (Q8470) , love (Q316) , Johnny Cash (Q42775) , Elvis Presley (Q303) , and Gorilla (Q36611) .
+
+ Item labels do not need to be unique. For example, there are two items named "Elvis Presley": Elvis Presley (Q303) , which represents the American singer and actor , and Elvis Presley (Q610926) , which represents his self-titled album . However, the combination of a label and its description must be unique. [ 8 ] To avoid ambiguity, an item's QID is hence linked to this combination.
+
+ Main parts
+ [ edit ] 
+
+ The item for Earth (Q2) , annotated to show the main parts of an item page: the label, item identifier, description, aliases, statements and sitelinks 
+
+ Fundamentally, an item consists of:
+
+ An identifier (the QID), related to a label and a description.
+
+ Optionally, multiple aliases and some number of statements (and their properties and values).
+
+ Optionally, sitelinks to pages on the same topic in Wikipedia and other Wikimedia projects. [ 9 ] 
+
+ Statements
+ [ edit ] 
+
+ The "population" statements of Wikidata's item on Tokyo (Q1490) , annotated. The values carry qualifiers and references; ranks mark one value as preferred and one as deprecated, and constraint checks flag a missing qualifier. 
+
+ Statements are how any information known about an item is recorded in Wikidata. Formally, they consist of key–value pairs , which match a property (such as "author", or "publication date") with one or more entity values (such as " Sir Arthur Conan Doyle " or "1902"). For example, the informal English statement "milk is white" would be encoded by a statement pairing the property color (P462) with the value white (Q23444) under the item milk (Q8495) .
+
+ Statements may map a property to more than one value. For example, the "occupation" property for Marie Curie could be linked with the values "physicist" and "chemist", to reflect the fact that she engaged in both occupations. [ 10 ] 
+
+ Values may take on many types, including other Wikidata items, strings, numbers, or media files. Properties prescribe what types of values they may be paired with. For example, the property official website (P856) may only be paired with values of type "URL". [ 11 ] 
+
+ Optionally, qualifiers can be used to refine the meaning of a statement by providing additional information. For example, a "population" statement could be modified with a qualifier such as "point in time (P585): 2011" (as its own key-value pair). Values in the statements may also be annotated with references , pointing to a source backing up the statement's content. [ 12 ] As with statements, all qualifiers and references are property–value pairs. Each statement also has a rank : normal by default, preferred for the most current value or the one that best represents consensus, or deprecated for a value known to contain errors. [ 13 ] 
+
+ Properties
+ [ edit ] 
+
+ Example of a simple statement consisting of one property–value pair 
+
+ Each property has a numeric identifier prefixed with a capital P and a page on Wikidata with an optional label, description, aliases, and statements. As such, there are properties with the sole purpose of describing other properties, such as subproperty of (P1647) .
+
+ Properties may also define more complex rules about their intended usage, termed constraints . For example, the capital (P36) property includes a "single value constraint", reflecting the reality that (typically) territories have only one capital city. Constraints are treated as testing alerts and hints, rather than inviolable rules. [ 14 ] 
+
+ Before a new property is created, it needs to undergo a discussion process. [ 15 ] [ 16 ] 
+
+ The most used property is cites work (P2860) , which had been used more than 313,000,000 times as of October   2026 . [ update ] [ 17 ] 
+
+ Lexemes
+ [ edit ] 
+
+ The English lexeme sugarcane (L42759) , annotated: its lemma, language and lexical category, a sense linked to an item and to translations, and its singular and plural forms 
+ In linguistics , a lexeme is a unit of lexical meaning representing a group of words that share the same core meaning and grammatical characteristics. [ 18 ] [ 19 ] Similarly, Wikidata's lexemes are items with a structure that makes them more suitable for storing lexicographical data. Since 2018, Wikidata has supported lexicographical entries in the form of lexemes. [ 20 ] 
+
+ In Wikidata, lexicographical entries have a different identifier from regular item entries. These entries are prefixed with the letter L, such as in the example entries for book (L16168) and cow (L3726) . Lexicographical entries in Wikidata can contain statements, senses, and forms. [ 21 ] The use of lexicographical entries in Wikidata allows for the documentation of word usage, the connection between words and items on Wikidata, word translations, and enables machine-readable lexicographical data.
+
+ In 2020, lexicographical entries on Wikidata exceeded 250,000. The language with the most lexicographical entries was Russian , with a total of 101,137 lexemes, followed by English with 38,122 lexemes. Lexemes from 668 languages were recorded. [ 22 ] As of October   2026 [ update ] , Wikidata had more than 1.7   million lexemes in 1,568 languages, with about 18   million forms and 945,000 senses. [ 23 ] 
+
+ Entity schemas
+ [ edit ] 
+
+ Entity schema E270 , for buildings, annotated. Written in ShEx, it lists the properties an item about a building should have ("+", one or more values) or may have ("*", any number). 
+ In Wikidata, a schema is a data model that outlines the necessary attributes for a data item. [ 24 ] [ 25 ] For instance, a data item that uses the attribute " instance of " with the value " human " would typically include attributes such as " place of birth ," " date of birth ," " date of death ," and " place of death ." [ 26 ] The entity schema in Wikidata utilizes Shape Expression (ShEx) to describe the data in Wikidata items in the form of a Resource Description Framework (RDF). [ 27 ] The use of entity schemas in Wikidata helps address data inconsistencies and unchecked vandalism. [ 24 ] 
+
+ In January 2019, development started of a new extension for MediaWiki to enable storing ShEx in a separate namespace. [ 28 ] [ 29 ] Entity schemas are stored with different identifiers than those used for items, properties, and lexemes. Entity schemas are stored with an "E" identifier, such as E10 for the entity schema of human data instances and E270 for the entity schema of building data instances. The extension was deployed on Wikidata on May 28, 2019 [ 30 ] [ 31 ] and enables contributors to use ShEx for validating and describing Resource Description Framework data in items and lexemes. Any item or lexeme on Wikidata can be checked against an entity schema to test whether it conforms to the structure the schema describes, [ 32 ] and this makes it an important tool for quality assurance. Since July 2024, statements can also link to entity schemas, for example with the property EntitySchema for this class (P12861) . [ 33 ] 
+
+ Content
+ [ edit ] 
+
+ Items for scholarly articles are the biggest part of Wikidata, followed by the collection of biographies. 
+ Wikidata's content collections include data for biographies, [ 34 ] medicine, [ 35 ] digital humanities, [ 36 ] scholarly metadata through the WikiCite project. [ 37 ] 
+
+ It includes data collections from other open projects including Freebase . [ 38 ] 
+
+ In 2025, Wikidata held about 116   million items, corresponding to about 16   billion triples . [ 39 ] 
+
+ Development
+ [ edit ] 
+
+ The creation of the project was funded by donations from the Allen Institute for AI , the Gordon and Betty Moore Foundation , and Google, Inc. , totaling € 1.3   million. [ 40 ] [ 41 ] The development of the project is mainly driven by Wikimedia Deutschland under the management of Lydia Pintscher, [ 42 ] and was originally split into three phases: [ 43 ] 
+
+ Centralising interlanguage links   – links between Wikipedia articles about the same topic in different languages.
+
+ Providing a central place for infobox data for all Wikipedias.
+
+ Creating and updating list articles based on data in Wikidata and linking to other Wikimedia sister projects, including Meta-Wiki and the own Wikidata (interwikilinks).
+
+ Initial rollout
+ [ edit ] 
+
+ A Wikipedia article's list of interlanguage links as they appeared in an edit box (left) and on the article's page (right) prior to the release of Wikidata. Each link in these lists is to an article that requires its own list of interlanguage links to the other articles; this is the information centralized by Wikidata.
+
+ The language menu of a Wikipedia article (here Earth ). Its "Edit interlanguage links" action opens the article's item on Wikidata, where the links to the other language editions are kept.
+
+ Wikidata was launched on 29 October 2012 and was the first new project of the Wikimedia Foundation since 2006. [ 3 ] [ 44 ] [ 45 ] At release, only the centralization of language links was available. This enabled items to be created and filled with basic information: a label – a name or title, aliases – alternative terms for the label, a description, and links to articles about the topic in all the various language editions of Wikipedia (interwikipedia links).
+
+ Historically, a Wikipedia article would include a list of interlanguage links (links to articles on the same topic in other editions of Wikipedia, if they existed). Wikidata was originally a self-contained repository of interlanguage links. [ 46 ] Wikipedia language editions were still not able to access Wikidata, so they needed to continue to maintain their own lists of interlanguage links. [ 44 ] [ 47 ] 
+
+ On January 14, 2013, the Hungarian Wikipedia became the first to enable the provision of interlanguage links via Wikidata. [ 47 ] This functionality was extended to the Hebrew and Italian Wikipedias on January 30, to the English Wikipedia on February 13, and to all other Wikipedias on 6 March. [ 48 ] [ 49 ] [ 50 ] [ 51 ] After no consensus was reached over a proposal to restrict the removal of language links from the English Wikipedia, [ 52 ] they were automatically removed by bots . On September 23, 2013, interlanguage links went live on Wikimedia Commons. [ 53 ] 
+
+ Statements and data access
+ [ edit ] 
+
+ On February 4, 2013, statements were introduced to Wikidata entries. The possible values for properties were initially limited to two data types (items and images on Wikimedia Commons), with more data types (such as coordinates and dates) to follow later. The first new type, string, was deployed on 6 March. [ 54 ] 
+
+ The ability for the various language editions of Wikipedia to access data from Wikidata was rolled out progressively between 27 March and April 25, 2013. [ 55 ] [ 56 ] On September 16, 2015, Wikidata began allowing so-called arbitrary access , or access from a given article of a Wikipedia to the statements on Wikidata items not directly connected to it. For example, it became possible to read data about Germany from the Berlin article, which was not feasible before. [ 57 ] On April 27, 2016, arbitrary access was activated on Wikimedia Commons. [ 58 ] 
+
+ According to a 2020 study, a large proportion of the data on Wikidata consists of entries imported en masse from other databases by Internet bots , which helps to "break down the walls" of data silos . [ 59 ] 
+
+ Query service and other improvements
+ [ edit ] 
+
+ The Wikidata Query Service showing the results of an example SPARQL query for items that are instances of "cat" (Q146), annotated 
+
+ On September 7, 2015, the Wikimedia Foundation announced the release of the Wikidata Query Service , [ 60 ] which lets users run queries on the data contained in Wikidata. [ 61 ] The service uses SPARQL as the query language . As of September   2026 [ update ] , at least 41 tools allowed querying the data in different ways. [ 62 ] It uses Blazegraph as its triplestore and graph database . [ 63 ] [ 64 ] Blazegraph has not been maintained since 2018, [ 65 ] and the growth of Wikidata strained the service; in May 2025 the graph was split in two, with scholarly articles moved to a separate query service. [ 66 ] [ 39 ] In June 2026, the Wikimedia Foundation and Wikimedia Deutschland chose QLever to replace Blazegraph, with the aim of moving all query traffic to it by June 30, 2027. [ 67 ] [ 65 ] 
+
+ In August 2021, Wikimedia Deutschland released the Query Builder, [ 68 ] [ 69 ] "a form-based query builder to allow people who don't know how to use SPARQL" to write a query. [ 70 ] A REST API for Wikidata was released in January 2023, and its first stable version went live on November 11, 2024. [ 71 ] [ 72 ] 
+
+ The Wikidata Embedding Project was made available in October 2025. It provides a vector-based semantic search tool, allowing plain-language queries, and supports the Model Context Protocol standard that makes the data more readily available to AI systems. [ 73 ] The project is a partnership between Wikimedia Deutschland, Jina.AI and DataStax , an IBM subsidiary. [ 73 ] 
+
+ Logo
+ [ edit ] 
+
+ The bars on the logo contain the word "WIKI" encoded in Morse code . [ 74 ] It was created by Arun Ganesh and selected through community decision. [ 75 ] 
+
+ Reception
+ [ edit ] 
+
+ In November 2014, Wikidata received the Open Data Publisher Award from the Open Data Institute "for sheer scale, and built-in openness". [ 76 ] 
+
+ In December 2014, Google announced that it would shut down Freebase in favor of Wikidata. [ 77 ] [ 78 ] 
+
+ As of November   2018 [ update ] , Wikidata information was used in 58.4% of all English Wikipedia articles, primarily for external identifiers or coordinates. In aggregate, data from Wikidata is shown in 64% of all Wikipedias ' pages, 93% of all Wikivoyage articles, 34% of all Wikiquotes ', 32% of all Wikisources ', and 27% of Wikimedia Commons . [ 79 ] In a 2020 study, Wikimedia Foundation researcher Isaac Johnson cited estimates that 62% of articles across all language editions of Wikipedia transcluded Wikidata content as of August 2020, but found that on the English Wikipedia, transclusion that affected the content of an article occurred in about 5% of articles, rather than the 61% suggested by earlier statistics. [ 80 ] 
+
+ As of October   2026 [ update ] , Wikidata listed more than 60 external tools for visualizing its data, [ 81 ] and by August 2021 over 300 papers had been published about Wikidata. [ 82 ] 
+
+ In 2025, Wikidata was recognised as a " digital public good " by the Digital Public Goods Alliance. [ 83 ] In August 2025, Fast Company described Wikidata as "the world's largest free knowledge graph". [ 42 ] 
+
+ Applications
+ [ edit ] 
+
+ Wikidata's structured dataset has been used by virtual assistants such as Apple's Siri and Amazon Alexa . [ 84 ] [ 85 ] 
+
+ OpenRefine , a data-cleaning tool, can reconcile tabular data against Wikidata items through a reconciliation service. [ 86 ] 
+
+ Mwnci extension can import data from Wikidata to LibreOffice Calc spreadsheets [ 87 ] 
+
+ Scholia, a web service that builds profiles of researchers, organizations, journals and topics from the bibliographic data in Wikidata, which it queries through the Wikidata Query Service. [ 37 ] 
+
+ MathQA – a mathematical question answering system [ 88 ] 
+
+ KDE Itinerary – a privacy conscious open source travel assistant that uses data from Wikidata [ 89 ] 
+
+ Verified Handles, a directory of social media accounts, links most of its entries to Wikidata items and adds the accounts listed there. [ 90 ] 
+
+ Google originally started a frame semantic parser project that aimed to parse the information on Wikipedia and transfer it into Wikidata by coming up with relevant statements using artificial intelligence . [ 91 ] 
+
+ A systematic literature review of the uses of Wikidata in research was carried out in 2019. [ 92 ] 
+
+ See also
+ [ edit ] 
+
+ Internet portal 
+
+ Abstract Wikipedia 
+
+ BabelNet 
+
+ DBpedia 
+
+ Semantic MediaWiki 
+
+ Wikibase 
+
+ Wikimedia Enterprise 
+
+ Notes
+ [ edit ] 
+
+ ↑ Structured data in the main (item), Property, Lexeme and EntitySchema namespaces is released under CC0; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License. [ 1 ] 
+
+ ↑ Q is the first initial of Qamarniso Vrandečić   [ Wikidata ] (née Ismoilova), an Uzbek chemist and Wikimedian married to Wikidata co-developer Denny Vrandečić . [ 7 ] 
+
+ References
+ [ edit ] 
+
+ ↑ "Wikidata:Copyright" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ Chalabi, Mona (April 26, 2013). "Welcome to Wikidata! Now what?" . Archived from the original on October 2, 2021 . Retrieved October 2, 2021 . 
+
+ 1 2 Wikidata ( Archived 29 October 2012 at the Wayback Machine ) 
+
+ ↑ "Data Revolution for Wikipedia" . Wikimedia Deutschland. March 30, 2012. Archived from the original on October 23, 2012 . Retrieved September 11, 2012 . 
+
+ ↑ "Grafana" . grafana.wikimedia.org . Archived from the original on August 27, 2024 . Retrieved March 21, 2024 . 
+
+ ↑ "Wikidata:Main Page" . Wikidata . Retrieved October 13, 2026 . the free knowledge base with 123,616,435 data entities 
+
+ ↑ Vrandečić, Denny; Pintscher, Lydia; Krötzsch, Markus (April 30, 2023). "Wikidata: The Making of" . Companion Proceedings of the ACM Web Conference 2023 . pp.   615– 624. doi : 10.1145/3543873.3585579 . ISBN   9781450394192 . S2CID   258377705 . 
+
+ ↑ "Help:Label" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Help:Items" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Help:Statements – Wikidata" . www.wikidata.org . Archived from the original on March 25, 2019 . Retrieved February 20, 2019 . 
+
+ ↑ "Help:Data type – Wikidata" . www.wikidata.org . Archived from the original on March 23, 2019 . Retrieved February 20, 2019 . 
+
+ ↑ "Help:Sources – Wikidata" . www.wikidata.org . Archived from the original on April 17, 2019 . Retrieved February 20, 2019 . 
+
+ ↑ "Help:Ranking" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Help:Property constraints portal" . Wikidata . Archived from the original on June 1, 2019 . Retrieved February 20, 2019 . 
+
+ ↑ Cochrane, Euan (September 30, 2016). "Wikidata as a digital preservation knowledgebase" . openpreservation.org . Archived from the original on January 5, 2022 . Retrieved January 5, 2022 . 
+
+ ↑ Samuel, John (August 15, 2018). "Experimental IR Meets Multilinguality, Multimodality, and Interaction". Experimental IR Meets Multilinguality, Multimodality, and Interaction . CLEF 2018. Lecture Notes in Computer Science. Vol.   11018. p.   129. doi : 10.1007/978-3-319-98932-7_12 . ISBN   978-3-319-98931-0 . 
+
+ ↑ "Wikidata:Database reports/List of properties/Top100" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ Andreou, Marios (March 27, 2019), "Lexemes", Oxford Bibliographies , Oxford University Press, doi : 10.1093/obo/9780199772810-0232 , ISBN   978-0-19-977281-0 , retrieved August 17, 2024 
+
+ ↑ Bonami, Olivier; Boyé, Gilles; Dal, Georgette; Giraudo, Hélène; Namer, Fiammetta (August 23, 2018). The Lexeme In Descriptive And Theoretical Morphology . Language Science Press . doi : 10.5281/zenodo.1402520 . 
+
+ ↑ Nielsen, Finn Årup (2019), "Ordia: A Web Application for Wikidata Lexemes", in Hitzler, Pascal; Kirrane, Sabrina; Hartig, Olaf; de Boer, Victor (eds.), The Semantic Web: ESWC 2019 Satellite Events , Lecture Notes in Computer Science, vol.   11762, Cham: Springer International Publishing, pp.   141– 146, doi : 10.1007/978-3-030-32327-1_28 , ISBN   978-3-030-32326-4 , retrieved August 17, 2024 
+
+ ↑ "Wikidata:Lexicographical data/Documentation – Wikidata" . www.wikidata.org . Archived from the original on November 13, 2018 . Retrieved November 13, 2018 . 
+
+ ↑ Nielsen, Finn (May 2020). "Lexemes in Wikidata: 2020 status" . In Ionov, Maxim; McCrae, John P.; Chiarcos, Christian; Declerck, Thierry; Bosque-Gil, Julia; Gracia, Jorge (eds.). Proceedings of the 7th Workshop on Linked Data in Linguistics (LDL-2020) . Marseille, France: European Language Resources Association. pp.   82– 86. ISBN   979-10-95546-36-8 . 
+
+ ↑ "Statistics" . Ordia . Retrieved October 13, 2026 . 
+
+ 1 2 Werkmeister, Lucas (2018). Schema Inference of Wikidata (PDF) . Karlsruhe: Fakultät für Informatik, Karlsruhe Institute of Technology . 
+
+ ↑ Hernández, Daniel; Hogan, Aidan; Krötzsch, Markus (2015). Reifying RDF: What works well with wikidata? (PDF) . SSWS@ ISWC. Vol.   1457. pp.   32– 47. 
+
+ ↑ Erxleben, Fredo; Günther, Michael; Krötzsch, Markus; Mendez, Julian; Vrandečić, Denny (2014). "Introducing Wikidata to the Linked Data Web" . In Mika, Peter; Tudorache, Tania; Bernstein, Abraham; Welty, Chris; Knoblock, Craig; Vrandečić, Denny; Groth, Paul; Noy, Natasha; Janowicz, Krzysztof (eds.). The Semantic Web – ISWC 2014 . Lecture Notes in Computer Science. Vol.   8796. Cham: Springer International Publishing. pp.   50– 65. doi : 10.1007/978-3-319-11964-9_4 . ISBN   978-3-319-11964-9 . 
+
+ ↑ Thornton, Katherine; Solbrig, Harold; Stupp, Gregory S.; Labra Gayo, Jose Emilio; Mietchen, Daniel; Prud’hommeaux, Eric; Waagmeester, Andra (2019), "Using Shape Expressions (ShEx) to Share RDF Data Models and to Guide Curation with Rigorous Validation", in Hitzler, Pascal; Fernández, Miriam; Janowicz, Krzysztof; Zaveri, Amrapali (eds.), The Semantic Web , vol.   11503, Cham: Springer International Publishing, pp.   606– 620, doi : 10.1007/978-3-030-21348-0_39 , hdl : 10651/53418 , ISBN   978-3-030-21347-3 
+
+ ↑ "Extension:EntitySchema – MediaWiki" . mediawiki.org . Archived from the original on June 25, 2021 . Retrieved September 10, 2021 . 
+
+ ↑ "Initial empty repository" . Gerrit . January 15, 2019. Archived from the original on March 19, 2022 . Retrieved June 12, 2022 . 
+
+ ↑ Lacroix, Léa (May 19, 2019). "Shape Expressions arrive on Wikidata on May 28th" . wikidata (Mailing list) . Retrieved October 13, 2026 . 
+
+ ↑ "Version – Wikidata" . Wikidata.org . Archived from the original on October 19, 2021 . Retrieved September 10, 2021 . 
+
+ ↑ "Wikidata:WikiProject Schemas" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata:Status updates/2024 07 08" . Wikidata . July 8, 2024 . Retrieved October 13, 2026 . 
+
+ ↑ Chisholm, Andrew; Radford, Will; Hachey, Ben (April 2017). Lapata, Mirella; Blunsom, Phil; Koller, Alexander (eds.). "Learning to generate one-sentence biographies from Wikidata" . Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers . Valencia, Spain: Association for Computational Linguistics: 633– 642. arXiv : 1702.06235 . 
+
+ ↑ Turki, Houcemeddine; Shafee, Thomas; Hadj Taieb, Mohamed Ali; Ben Aouicha, Mohamed; Vrandečić, Denny; Das, Diptanshu; Hamdi, Helmi (November 2019). "Wikidata: A large-scale collaborative ontological medical database" . Journal of Biomedical Informatics . 99 103292. doi : 10.1016/j.jbi.2019.103292 . PMID   31557529 . 
+
+ ↑ Zhao, Fudie (May 31, 2023). "A systematic review of Wikidata in Digital Humanities projects" . Digital Scholarship in the Humanities . 38 (2): 852– 874. doi : 10.1093/llc/fqac083 . 
+
+ 1 2 Nielsen, Finn Årup; Mietchen, Daniel; Willighagen, Egon (2017). "Scholia, Scientometrics and Wikidata" (PDF) . The Semantic Web: ESWC 2017 Satellite Events . Lecture Notes in Computer Science. Vol.   10577. pp.   237– 259. doi : 10.1007/978-3-319-70407-4_36 . ISBN   978-3-319-70406-7 . 
+
+ ↑ Pellissier Tanon, Thomas; Vrandečić, Denny; Schaffert, Sebastian; Steiner, Thomas; Pintscher, Lydia (April 11, 2016). "From Freebase to Wikidata: The Great Migration" . Proceedings of the 25th International Conference on World Wide Web . WWW '16. Republic and Canton of Geneva, CHE: International World Wide Web Conferences Steering Committee. pp.   1419– 1428. doi : 10.1145/2872427.2874809 . ISBN   978-1-4503-4143-1 . 
+
+ 1 2 Woodie, Alex (July 10, 2025). "Scaling the Knowledge Graph Behind Wikipedia" . BigDATAwire . Retrieved October 13, 2026 . 
+
+ ↑ Dickinson, Boonsri (March 30, 2012). "Paul Allen Invests In A Massive Project To Make Wikipedia Better" . Business Insider . Archived from the original on December 23, 2017 . Retrieved September 11, 2012 . 
+
+ ↑ Perez, Sarah (March 30, 2012). "Wikipedia's Next Big Thing: Wikidata, A Machine-Readable, User-Editable Database Funded By Google, Paul Allen And Others" . TechCrunch . Archived from the original on October 5, 2012 . Retrieved September 11, 2012 . 
+
+ 1 2 Caplan, Jeremy (August 25, 2025). "Big Tech locks data away. Wikidata gives it back to the internet" . Fast Company . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata – Meta" . meta.wikimedia.org . Archived from the original on April 7, 2012 . Retrieved November 8, 2015 . 
+
+ 1 2 Pintscher, Lydia (October 30, 2012). "wikidata.org is live (with some caveats)" . wikidata-l (Mailing list) . Retrieved November 3, 2012 . 
+
+ ↑ Roth, Matthew (March 30, 2012). "The Wikipedia data revolution" . Wikimedia Foundation. Archived from the original on July 31, 2020 . Retrieved September 11, 2012 . 
+
+ ↑ Leitch, Thomas (November 1, 2014). Wikipedia U: Knowledge, Authority, and Liberal Education in the Digital Age . Johns Hopkins University Press . p.   120 . ISBN   978-1-4214-1550-5 . 
+
+ 1 2 Pintscher, Lydia (January 14, 2013). "First steps of Wikidata in the Hungarian Wikipedia" . Wikimedia Deutschland. Archived from the original on December 14, 2015 . Retrieved December 17, 2015 . 
+
+ ↑ Pintscher, Lydia (January 30, 2013). "Wikidata coming to the next two Wikipedias" . Wikimedia Deutschland. Archived from the original on October 4, 2018 . Retrieved January 31, 2013 . 
+
+ ↑ Pintscher, Lydia (February 13, 2013). "Wikidata live on the English Wikipedia" . Wikimedia Deutschland. Archived from the original on February 19, 2013 . Retrieved February 15, 2013 . 
+
+ ↑ Pintscher, Lydia (March 6, 2013). "Wikidata now live on all Wikipedias" . Wikimedia Deutschland. Archived from the original on April 14, 2013 . Retrieved March 8, 2013 . 
+
+ ↑ "Wikidata ist für alle Wikipedien da" (in German). Golem.de. Archived from the original on November 6, 2018 . Retrieved January 29, 2014 . 
+
+ ↑ "Wikipedia talk:Wikidata interwiki RFC" . March 29, 2013. Archived from the original on October 18, 2021 . Retrieved March 30, 2013 . 
+
+ ↑ Pintscher, Lydia (September 23, 2013). "Wikidata is Here!" . Commons:Village pump . Archived from the original on December 6, 2021 . Retrieved August 30, 2016 . 
+
+ ↑ Pintscher, Lydia. "Wikidata/Status updates/2013 03 01" . Wikimedia Meta-Wiki . Wikimedia Foundation. Archived from the original on April 12, 2013 . Retrieved March 3, 2013 . 
+
+ ↑ Pintscher, Lydia (March 27, 2013). "You can have all the data!" . Wikimedia Deutschland. Archived from the original on March 29, 2013 . Retrieved March 28, 2013 . 
+
+ ↑ "Wikidata goes live worldwide" . The H. April 25, 2013. Archived from the original on January 1, 2014. 
+
+ ↑ Pintscher, Lydia (September 16, 2015). "Wikidata: Access to data from arbitrary items is here" . Wikipedia:Village pump (technical) . Archived from the original on September 27, 2016 . Retrieved August 30, 2016 . 
+
+ ↑ Pintscher, Lydia (April 27, 2016). "Wikidata support: arbitrary access is here" . Commons:Village pump . Archived from the original on February 5, 2017 . Retrieved August 30, 2016 . 
+
+ ↑ Waagmeester, Andra; Stupp, Gregory; Burgstaller-Muehlbacher, Sebastian; et   al. (2020). "Wikidata as a knowledge graph for the life sciences" . eLife . 9 . doi : 10.7554/elife.52614 . PMC   7077981 . PMID   32180547 . Wikidata   Q87830400 . 
+
+ ↑ "Home" . query.wikidata.org . Archived from the original on November 7, 2016 . Retrieved January 30, 2019 . 
+
+ ↑ " [ Wikidata ] Announcing the release of the Wikidata Query Service - Wikidata - lists.wikimedia.org" . Archived from the original on November 10, 2015 . Retrieved November 13, 2018 . 
+
+ ↑ "Wikidata:Tools/Query data" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ " [ Wikidata-tech ] Wikidata Query Backend Update (take two!)" . lists.wikimedia.org . Archived from the original on January 6, 2021 . Retrieved August 29, 2018 . (The message also contains a link to the graph databases comparison performed by Wikimedia.) 
+
+ ↑ 86 on GitHub 
+
+ 1 2 "Wikidata:SPARQL query service/WDQS backend update/Learn" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata:SPARQL query service/WDQS graph split" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata:Wikidata Platform team/Newsletter June 2026" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata Query Builder" . query.wikidata.org . 
+
+ ↑ Abdulai, Mohammed Sadat (August 17, 2021). "Wikidata:Query_Builder has been deployed" . wikidata (Mailing list) . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata:Query Builder" . Wikidata . August 23, 2021 . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata:Status updates/2023 01 30" . Wikidata . January 30, 2023 . Retrieved October 13, 2026 . 
+
+ ↑ Abdulai, Mohammed Sadat (November 11, 2024). "Wikibase REST API is now on version 1!" . wikidata (Mailing list) . Retrieved October 13, 2026 . 
+
+ 1 2 Brandom, Russell (October 1, 2025). "New project makes Wikipedia data more accessible to AI" . TechCrunch . Retrieved October 1, 2025 . 
+
+ ↑ commons:File talk:Wikidata-logo-en.svg#Hybrid . Retrieved 2016-10-06. 
+
+ ↑ "Und der Gewinner ist..." July 13, 2012. Archived from the original on January 21, 2021 . Retrieved June 16, 2020 . 
+
+ ↑ "First ODI Open Data Awards presented by Sirs Tim Berners-Lee and Nigel Shadbolt" . Open Data Institute . Archived from the original on March 24, 2016. 
+
+ ↑ "Freebase" . Google Plus . December 16, 2014. Archived from the original on March 20, 2019. 
+
+ ↑ Schwartz, Barry (December 16, 2014). "Google To Close Freebase, Which Helped Feed Its Knowledge Graph" . Search Engine Land . Retrieved October 13, 2026 . 
+
+ ↑ "Percentage of articles making use of data from Wikidata" . Archived from the original on November 15, 2018 . Retrieved November 15, 2018 . 
+
+ ↑ Johnson, Isaac (2020). "Analyzing Wikidata Transclusion on English Wikipedia" (PDF) . Proceedings of the 1st Wikidata Workshop (Wikidata 2020) . Wikidata Workshop 2020. CEUR Workshop Proceedings. Vol.   2773 . Retrieved October 13, 2026 . 
+
+ ↑ "Wikidata:Tools/Visualize data" . Wikidata . Retrieved October 13, 2026 . 
+
+ ↑ "Scholia" . Scholia . Archived from the original on September 30, 2021 . Retrieved August 2, 2021 . 
+
+ ↑ "Wikidata" . Digital Public Goods . Retrieved October 29, 2025 . 
+
+ ↑ Simonite, Tom (February 18, 2019). "Inside the Alexa-Friendly World of Wikidata" . Wired . ISSN   1059-1028 . Retrieved December 25, 2020 . 
+
+ ↑ Merhav, Yuval; Ash, Steve (August 8, 2018). "Automatic transliteration can help Alexa find data across language barriers" . Amazon Science . Retrieved February 3, 2025 . 
+
+ ↑ "Reconciling with Wikibase" . OpenRefine . Retrieved October 13, 2026 . 
+
+ ↑ "Rob Barry / Mwnci – Deep Spreadsheets" . GitLab . Archived from the original on September 21, 2019 . Retrieved September 21, 2019 . 
+
+ ↑ Scharpf, P. Schubotz, M. Gipp, B. Mining Mathematical Documents for Question Answering via Unsupervised Formula Labeling Archived 10 February 2023 at the Wayback Machine ACM/IEEE Joint Conference on Digital Libraries, 2022. 
+
+ ↑ Krause, Volker (January 12, 2020), KDE Itinerary – A privacy by design travel assistant , archived from the original on June 26, 2020 , retrieved November 10, 2020 
+
+ ↑ "How Verified Handles works: sources and checks" . Verified Handles . Retrieved October 13, 2026 . 
+
+ ↑ sling on GitHub 
+
+ ↑ Mora-Cantallops, Marçal; Sánchez-Alonso, Salvador; García-Barriocanal, Elena (September 2, 2019). "A systematic literature review on Wikidata". Data Technologies and Applications . 53 (3): 250– 268. doi : 10.1108/DTA-12-2018-0110 . hdl : 10017/60642 . S2CID   202036639 . 
+
+ Further reading
+ [ edit ] 
+
+ Mark Graham (April 6, 2012), "The Problem With Wikidata" , The Atlantic , US 
+
+ Claudia Müller-Birn, Benjamin Karran, Janette Lehmann, Markus Luczak-Rösch: Peer-production system or collaborative ontology development effort: What is Wikidata? In, OpenSym 2015 – Conference on Open Collaboration, San Francisco, US, 19 – 21 Aug 2015 (preprint).
+
+ External links
+ [ edit ] 
+
+ Wikimedia Commons has media related to Wikidata .
+
+ Scholia has a topic profile for Wikidata .
+
+ Wikiquote has quotations related to Wikidata .
+
+ Official website 
+
+ Videos: WikidataCon on media.ccc.de 
+
+ Wikidata Query Builder 
+
+ v 
+ t 
+ e 
+
+ Open data 
+
+ Concepts
+
+ Linked data 
+
+ Open science data 
+
+ Open-notebook science 
+
+ By location
+
+ Americas
+ Canada 
+
+ US 
+
+ Asia
+ Iran 
+
+ Europe
+ France 
+
+ UK 
+
+ Open data projects
+
+ Open energy system databases 
+
+ Open access - Open content - Open education - Open government - Open hardware - Open knowledge - Open science - Open source 
+
+ v 
+ t 
+ e 
+
+ Artificial intelligence (AI)
+
+ History 
+ timeline 
+
+ Glossary 
+
+ Lists
+ Algorithms 
+
+ Companies 
+
+ Institutions 
+
+ Projects 
+
+ Software
+ Open-source 
+
+ Proprietary 
+
+ Concepts
+
+ Automated reasoning 
+
+ Automated planning 
+
+ Constraint satisfaction 
+
+ Knowledge representation 
+
+ Parameter 
+ Hyperparameter 
+
+ Loss functions 
+
+ Regression 
+ Bias–variance tradeoff 
+
+ Double descent 
+
+ Overfitting 
+
+ Clustering 
+
+ Gradient descent 
+ SGD 
+
+ Quasi-Newton method 
+
+ Conjugate gradient method 
+
+ Backpropagation 
+
+ Attention 
+
+ Convolution 
+
+ Normalization 
+ Batchnorm 
+
+ Activation 
+ Softmax 
+
+ Sigmoid 
+
+ Rectifier 
+
+ Gating 
+
+ Weight initialization 
+
+ Regularization 
+
+ Datasets 
+ Augmentation 
+
+ Prompt engineering 
+
+ Reinforcement learning 
+ Q-learning 
+
+ SARSA 
+
+ Imitation 
+
+ Policy gradient 
+
+ Diffusion 
+
+ Latent diffusion model 
+
+ Autoregression 
+
+ Adversary 
+
+ RAG 
+
+ Uncanny valley 
+
+ LLM post-training 
+
+ RLHF 
+
+ Self-supervised learning 
+
+ Reflection 
+
+ Recursive self-improvement 
+
+ Hallucination 
+
+ Word embedding 
+
+ Vibe coding 
+
+ Blended AI 
+
+ Open-source AI 
+
+ Sovereign AI 
+
+ Symbolic AI 
+
+ Neuro-symbolic AI 
+
+ Situated approach 
+
+ Actor-critic algorithm 
+
+ Applications 
+
+ Automated theorem proving 
+
+ General game playing 
+
+ Machine learning 
+ In-context learning 
+
+ Artificial neural network 
+ Deep learning 
+
+ Language model 
+ Large 
+
+ NMT 
+
+ Reasoning 
+
+ Model Context Protocol 
+
+ Intelligent agent 
+ AI agent 
+
+ Artificial human companion 
+
+ Humanity's Last Exam 
+
+ Lethal autonomous weapons (LAWs) 
+
+ Generative AI 
+
+ Weak AI 
+
+ Hypothetical
+ Artificial general intelligence (AGI) 
+
+ Artificial superintelligence (ASI) 
+
+ Agent2Agent protocol 
+
+ Physical AI 
+
+ Implementations
+
+ Audio–visual
+
+ AlexNet 
+
+ WaveNet 
+
+ Human image synthesis 
+
+ HWR 
+
+ OCR 
+
+ Computer vision 
+
+ Speech synthesis 
+ 15.ai 
+
+ ElevenLabs 
+
+ Speech recognition 
+ Whisper 
+
+ Facial recognition 
+
+ AlphaFold 
+
+ Text-to-image models 
+ Aurora 
+
+ DALL-E 
+
+ Firefly 
+
+ Flux 
+
+ GPT Image 
+
+ Ideogram 
+
+ Imagen 
+
+ Midjourney 
+
+ Recraft 
+
+ Stable Diffusion 
+
+ Text-to-video models 
+ Dream Machine 
+
+ Runway Gen 
+
+ Hailuo AI 
+
+ Kling 
+
+ Sora 
+
+ Seedance 
+
+ Veo 
+
+ Music generation 
+ Riffusion 
+
+ Suno 
+
+ Udio 
+
+ World models 
+ Genie 
+
+ Oasis 
+
+ Text
+
+ List of large language models 
+
+ Project Debater 
+
+ IBM Watson 
+ IBM Watsonx 
+
+ Decisional
+
+ AlphaGo 
+
+ AlphaZero 
+
+ OpenAI Five 
+
+ Self-driving car 
+
+ MuZero 
+
+ Action selection 
+ AutoGPT 
+
+ Robot control 
+
+ Reasoning systems 
+
+ Deductive classifiers 
+
+ Expert systems 
+
+ Inference engines 
+
+ Knowledge-based systems 
+
+ Logic programs 
+
+ Procedural reasoning systems 
+
+ Semantic reasoners 
+
+ Rule-based systems 
+
+ Cognitive architectures 
+
+ ACT-R 
+
+ Soar 
+
+ CLARION 
+
+ LIDA 
+
+ OpenCog 
+
+ Knowledge bases 
+
+ ConceptNet 
+
+ Wikidata 
+
+ DBpedia 
+
+ YAGO 
+
+ People
+
+ Alan Turing 
+
+ Warren Sturgis McCulloch 
+
+ Walter Pitts 
+
+ John von Neumann 
+
+ Christopher D. Manning 
+
+ Claude Shannon 
+
+ Shun'ichi Amari 
+
+ Kunihiko Fukushima 
+
+ Takeo Kanade 
+
+ Marvin Minsky 
+
+ John McCarthy 
+
+ Nathaniel Rochester 
+
+ Allen Newell 
+
+ Cliff Shaw 
+
+ Herbert A. Simon 
+
+ Oliver Selfridge 
+
+ Frank Rosenblatt 
+
+ Bernard Widrow 
+
+ Joseph Weizenbaum 
+
+ Seymour Papert 
+
+ Seppo Linnainmaa 
+
+ Paul Werbos 
+
+ Geoffrey Hinton 
+
+ John Hopfield 
+
+ Jürgen Schmidhuber 
+
+ Yann LeCun 
+
+ Yoshua Bengio 
+
+ Lotfi A. Zadeh 
+
+ Stephen Grossberg 
+
+ Alex Graves 
+
+ James Goodnight 
+
+ Andrew Ng 
+
+ Fei-Fei Li 
+
+ Alex Krizhevsky 
+
+ Ilya Sutskever 
+
+ Oriol Vinyals 
+
+ Quoc V. Le 
+
+ Ian Goodfellow 
+
+ Demis Hassabis 
+
+ David Silver 
+
+ Andrej Karpathy 
+
+ Ashish Vaswani 
+
+ Noam Shazeer 
+
+ Aidan Gomez 
+
+ John Schulman 
+
+ Mustafa Suleyman 
+
+ Jan Leike 
+
+ Daniel Kokotajlo 
+
+ François Chollet 
+
+ Neural network
+architectures
+
+ Neural Turing machine 
+
+ Differentiable neural computer 
+
+ Transformer 
+ Vision transformer (ViT) 
+
+ Recurrent neural network (RNN) 
+
+ Long short-term memory (LSTM) 
+
+ Gated recurrent unit (GRU) 
+
+ Echo state network 
+
+ Multilayer perceptron (MLP) 
+
+ Convolutional neural network (CNN) 
+
+ Residual neural network (RNN) 
+
+ Highway network 
+
+ Mamba 
+
+ Autoencoder 
+
+ Variational autoencoder (VAE) 
+
+ Generative adversarial network (GAN) 
+
+ Graph neural network (GNN) 
+
+ Political
+
+ AI Cold War 
+
+ AI in government 
+
+ AI safety ( Alignment )
+
+ AI takeover 
+
+ Elections 
+
+ Ethics of AI 
+
+ EU AI Act 
+
+ Nationalism 
+
+ Precautionary principle 
+
+ Regulation of AI 
+ US 
+
+ Virtual politician 
+
+ Propaganda 
+
+ Opposition to AI data centers 
+
+ Social
+and economic
+
+ AI boom 
+
+ AI bubble 
+
+ AI data center 
+
+ AI effect 
+
+ AI infrastructure 
+
+ AI literacy 
+
+ AI slop 
+
+ AI winter 
+
+ Anthropomorphism 
+
+ Arms race 
+
+ Competition 
+
+ Environmental impact 
+
+ Explainable AI 
+
+ Generative engine optimization 
+
+ In architecture 
+
+ In education 
+
+ In fiction 
+
+ In healthcare 
+ psychosis 
+
+ In marketing 
+
+ In video games 
+
+ In visual art 
+
+ Military applications 
+ AI warfare 
+
+ Workplace impact 
+
+ Category 
+
+ v 
+ t 
+ e 
+
+ Wikimedia Foundation 
+
+ People
+
+ Projects
+
+ Wikipedia community (Wikipedians) 
+
+ Current
+
+ Bernadette Meehan 
+
+ Mayree Carroll Clark 
+
+ Jimmy Wales 
+
+ Past
+
+ Hampton Lintorn-Catlin 
+
+ Danese Cooper 
+
+ Bishakha Datta 
+
+ Florence Devouard 
+
+ Oscar van Dillen 
+
+ Sue Gardner 
+
+ Arnnon Geshuri 
+
+ Mike Godwin 
+
+ Aaron Halfaker 
+
+ James Heilman 
+
+ Maryana Iskander 
+
+ Dariusz Jemielniak 
+
+ Guy Kawasaki 
+
+ Patricio Lorente 
+
+ Rebecca MacKinnon 
+
+ Katherine Maher 
+
+ Erik Möller 
+
+ Raju Narisetti 
+
+ Lisa Seitz-Gruwell 
+
+ María Sefidari 
+
+ Esra'a Al Shafei 
+
+ Rosie Stephenson-Goodknight 
+
+ Lila Tretikov 
+
+ Luis Villa 
+
+ Projects
+
+ Wikipedia 
+ history 
+
+ List of Wikipedias 
+
+ Censorship of Wikipedia 
+
+ Wiktionary 
+
+ Wikimedia Commons 
+
+ Wikidata 
+
+ Wikiquote 
+
+ Wikibooks 
+
+ Wikisource 
+
+ Wikispecies 
+
+ Wikinews (closed)
+
+ Wikiversity 
+
+ Wikivoyage 
+
+ Wikifunctions 
+ Abstract Wikipedia 
+
+ Other
+
+ Wikimedia movement 
+
+ List of Wikimedia chapters 
+ Bangladesh 
+
+ Deutschland 
+
+ Israel 
+
+ New York City 
+
+ Polska 
+
+ UK 
+
+ Ukraine 
+
+ Wikimania 
+
+ Wiki Indaba 
+
+ WikiConference India 
+
+ WikiConference North America 
+
+ MediaWiki 
+
+ Litigation 
+ Monkey selfie copyright dispute 
+
+ Wikimedia Foundation v. NSA 
+
+ Knowledge Engine 
+
+ Related
+
+ The Signpost 
+
+ Wikipedia Monument 
+
+ Wikimedian of the Year 
+
+ Tides Foundation 
+
+ Artificial intelligence in Wikimedia projects 
+
+ Google and Wikipedia 
+
+ Wiki Workers United 
+
+ Wikipedia for World Heritage 
+
+ Authority control databases 
+
+ International
+ VIAF 
+ GND 
+
+ National
+ Wikidata</span>"}]]}'> United States 
+ Israel 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=Wikidata&oldid=1381929732 "
+
+ Categories : Wikidata 
+ Knowledge graphs 
+ Wikimedia projects 
+ Lexical databases 
+ Online databases 
+ Community websites 
+ Creative Commons-licensed websites 
+ Open data 
+ Internet properties established in 2012 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Use mdy dates from October 2026 
+ Use American English from October 2026 
+ All Wikipedia articles written in American English 
+ All pages needing factual verification 
+ Wikipedia articles needing factual verification from October 2026 
+ Articles containing potentially dated statements from October 2026 
+ All articles containing potentially dated statements 
+ Pages using interlanguage link with the wikidata parameter 
+ Webarchive template wayback links 
+ CS1 German-language sources (de) 
+ Articles containing potentially dated statements from September 2026 
+ Articles containing potentially dated statements from November 2018 
+ Commons category link from Wikidata 
+
+ This page was last edited on 25 October 2026, at 17:50  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ Wikidata 
+
+ 133 languages 
+
+ Add topic

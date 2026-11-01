@@ -1,0 +1,688 @@
+Wikidata:Introduction - Wikidata 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Community portal 
+ Project chat 
+ Create a new Item 
+ Recent changes 
+ Random Item 
+ Query Service 
+ Nearby 
+ Help 
+ Special pages 
+
+ Lexicographical data
+
+ Create a new Lexeme 
+ Recent changes 
+ Random Lexeme 
+
+ In Wikipedia
+
+ Аԥсшәа 
+ Afrikaans 
+ Alemannisch 
+ Алтай тил 
+ Aragonés 
+ अंगिका 
+ العربية 
+ الدارجة 
+ مصرى 
+ অসমীয়া 
+ Asturianu 
+ Azərbaycanca 
+ تۆرکجه 
+ Башҡортса 
+ Boarisch 
+ Bikol Central 
+ Беларуская (тарашкевіца) 
+ Беларуская 
+ Български 
+ भोजपुरी 
+ Banjar 
+ ပအိုဝ်ႏဘာႏသာႏ 
+ বাংলা 
+ བོད་ཡིག 
+ Català 
+ Нохчийн 
+ Cebuano 
+ کوردی 
+ Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ 
+ Чӑвашла 
+ Cymraeg 
+ Dansk 
+ Deutsch 
+ Zazaki 
+ ދިވެހިބަސް 
+ Ελληνικά 
+ English 
+ Español 
+ Euskara 
+ فارسی 
+ Suomi 
+ Føroyskt 
+ Français 
+ Nordfriisk 
+ Frysk 
+ 贛語 
+ Galego 
+ Avañe'ẽ 
+ Bahasa Hulontalo 
+ 𐌲𐌿𐍄𐌹𐍃𐌺 
+ ગુજરાતી 
+ עברית 
+ हिन्दी 
+ Magyar 
+ Հայերեն 
+ Interlingua 
+ Bahasa Indonesia 
+ ꆇꉙ 
+ Ilokano 
+ ГӀалгӀай 
+ Íslenska 
+ Medžuslovjansky 
+ Italiano 
+ 日本語 
+ Jawa 
+ Qaraqalpaqsha 
+ Tyap 
+ Қазақша 
+ ភាសាខ្មែរ 
+ ಕನ್ನಡ 
+ 한국어 
+ کٲشُر 
+ Kurdî 
+ Кыргызча 
+ Lëtzebuergesch 
+ Lietuvių 
+ Latviešu 
+ मगही 
+ Māori 
+ Македонски 
+ Монгол 
+ Bahasa Melayu 
+ Malti 
+ မြန်မာဘာသာ 
+ مازِرونی 
+ नेपाली 
+ Nederlands 
+ Norsk nynorsk 
+ Norsk bokmål 
+ Diné bizaad 
+ Chi-Chewa 
+ ଓଡ଼ିଆ 
+ Ирон 
+ ਪੰਜਾਬੀ 
+ Kapampangan 
+ Polski 
+ Português 
+ Runa Simi 
+ Română 
+ Русский 
+ Саха тыла 
+ Scots 
+ سنڌي 
+ Davvisámegiella 
+ Sängö 
+ Srpskohrvatski / српскохрватски 
+ တႆး 
+ සිංහල 
+ Simple English 
+ Slovenčina 
+ Slovenščina 
+ Soomaaliga 
+ Shqip 
+ Српски / srpski 
+ Sunda 
+ Svenska 
+ Kiswahili 
+ ꠍꠤꠟꠐꠤ 
+ தமிழ் 
+ తెలుగు 
+ Тоҷикӣ 
+ ไทย 
+ Türkmençe 
+ Tagalog 
+ Türkçe 
+ Татарча / tatarça 
+ Удмурт 
+ ئۇيغۇرچە / Uyghurche 
+ Українська 
+ اردو 
+ Oʻzbekcha / ўзбекча 
+ Tiếng Việt 
+ Walon 
+ Winaray 
+ Wolof 
+ 吴语 
+ მარგალური 
+ ייִדיש 
+ Yorùbá 
+ 粵語 
+ 中文 
+ IsiZulu 
+
+ Edit links 
+
+ Search 
+
+ Search 
+
+ English 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ Beginning
+
+ 1 
+ What does this mean? 
+
+ 2 
+ How does Wikidata work? 
+
+ Toggle How does Wikidata work? subsection 
+
+ 2.1 
+ The Wikidata repository 
+
+ 2.2 
+ Working with Wikidata 
+
+ 3 
+ Where to get started 
+
+ 4 
+ How can I contribute? 
+
+ 5 
+ See also 
+
+ Toggle the table of contents 
+
+ Wikidata : Introduction 
+
+ Shortcuts : WD:INTRO, WD:I, WD:HERE 
+
+ Project page 
+
+ Discussion 
+
+ English 
+
+ Read 
+
+ View source 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ View source 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Permanent link 
+ Page information 
+ Get shortened URL 
+
+ Print/export
+
+ Create a book 
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Abstract Wikipedia 
+ Wikimedia Commons 
+ Wikimedia Foundation 
+ MediaWiki 
+ Meta-Wiki 
+ Wikimedia Outreach 
+ Multilingual Wikisource 
+ Wikispecies 
+ Wikifunctions 
+ Wikimania 
+ Wikipedia 
+ Wikiquote 
+ Wikisource 
+ Wikivoyage 
+ Wiktionary 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikidata
+
+ Translate this page ; This page contains changes . Please contact a translation admin to mark them for translation.
+ Other languages:
+ Afrikaans 
+
+ asturianu 
+
+ Bahasa Indonesia 
+
+ Bahasa Melayu 
+
+ bosanski 
+
+ British English 
+
+ català 
+
+ čeština 
+
+ Cymraeg 
+
+ dansk 
+
+ Deutsch 
+
+ dolnoserbski 
+
+ eesti 
+
+ English 
+
+ español 
+
+ Esperanto 
+
+ estremeñu 
+
+ euskara 
+
+ føroyskt 
+
+ français 
+
+ Frysk 
+
+ Gaeilge 
+
+ Gagauz 
+
+ galego 
+
+ Hausa 
+
+ hornjoserbsce 
+
+ hrvatski 
+
+ Igbo 
+
+ interlingua 
+
+ isiZulu 
+
+ íslenska 
+
+ italiano 
+
+ kabuverdianu 
+
+ Kadazandusun 
+
+ Kiswahili 
+
+ Latina 
+
+ latviešu 
+
+ Lëtzebuergesch 
+
+ lietuvių 
+
+ Luganda 
+
+ magyar 
+
+ Malagasy 
+
+ Minangkabau 
+
+ Nederlands 
+
+ norsk bokmål 
+
+ occitan 
+
+ oʻzbekcha / ўзбекча 
+
+ polski 
+
+ português 
+
+ português do Brasil 
+
+ Qaraqalpaqsha 
+
+ Ripoarisch 
+
+ română 
+
+ Sesotho sa Leboa 
+
+ Setswana 
+
+ shqip 
+
+ Simple English 
+
+ slovenčina 
+
+ slovenščina 
+
+ ślůnski 
+
+ srpskohrvatski / српскохрватски 
+
+ suomi 
+
+ svenska 
+
+ Tagalog 
+
+ Tiếng Việt 
+
+ toki pona 
+
+ Türkçe 
+
+ Tyap 
+
+ Ελληνικά 
+
+ башҡортса 
+
+ беларуская 
+
+ беларуская (тарашкевіца) 
+
+ български 
+
+ кыргызча 
+
+ қазақша 
+
+ македонски 
+
+ русский 
+
+ саха тыла 
+
+ српски (ћирилица) 
+
+ српски / srpski 
+
+ татарча / tatarça 
+
+ тоҷикӣ 
+
+ українська 
+
+ მარგალური 
+
+ ქართული 
+
+ հայերեն 
+
+ ייִדיש 
+
+ עברית 
+
+ اردو 
+
+ العربية 
+
+ بهاس ملايو 
+
+ پښتو 
+
+ پنجابی 
+
+ سنڌي 
+
+ فارسی 
+
+ کٲشُر 
+
+ کوردی 
+
+ مصرى 
+
+ ትግርኛ 
+
+ አማርኛ 
+
+ अंगिका 
+
+ नेपाली 
+
+ भोजपुरी 
+
+ मराठी 
+
+ हिन्दी 
+
+ বাংলা 
+
+ ਪੰਜਾਬੀ 
+
+ ગુજરાતી 
+
+ ଓଡ଼ିଆ 
+
+ தமிழ் 
+
+ తెలుగు 
+
+ ಕನ್ನಡ 
+
+ മലയാളം 
+
+ සිංහල 
+
+ ꯃꯤꯇꯩ ꯂꯣꯟ 
+
+ ꠍꠤꠟꠐꠤ 
+
+ ไทย 
+
+ ပအိုဝ်ႏဘာႏသာႏ 
+
+ ဘာသာမန် 
+
+ မြန်မာဘာသာ 
+
+ ᱥᱟᱱᱛᱟᱲᱤ 
+
+ ᐃᓄᒃᑎᑐᑦ / inuktitut 
+
+ 한국어 
+
+ 中文 
+
+ 文言 
+
+ 日本語 
+
+ 粵語 
+
+ Wikidata is a free , collaborative , multilingual , secondary knowledge base, collecting structured data to provide support for Wikipedia , Wikimedia Commons , the other wikis of the Wikimedia movement , and to anyone in the world.
+
+ What does this mean? 
+
+ Let's look at the opening statement in more detail:
+
+ Free. The data in Wikidata is published under the Creative Commons Public Domain Dedication 1.0 , allowing the reuse of the data in many different scenarios. You can copy, modify, distribute and perform the data, even for commercial purposes, without asking for permission.
+
+ Collaborative. Data is entered and maintained by Wikidata editors, who decide on the rules of content creation and management. Automated bots also enter data into Wikidata.
+
+ Multilingual. Editing, consuming, browsing, and reusing the data is fully multilingual. Data entered in any language is immediately available in all other languages. Editing in any language is possible and encouraged.
+
+ A secondary knowledge base. Wikidata records not just statements, but also their sources, and connections to other databases. This reflects the diversity of knowledge available and supports the notion of verifiability.
+
+ Collecting structured data. Imposing a high degree of structured organization allows for easy reuse of data by Wikimedia projects and third parties, and enables computers to process and “understand” it.
+
+ Support for Wikimedia wikis. Wikidata assists Wikipedia with more easily maintainable information boxes and links to other languages, thus reducing editing workload while improving quality. Updates in one language are made available to all other languages.
+
+ Anyone in the world. Anyone can use data from Wikidata to build their applications and services.
+
+ How does Wikidata work? 
+
+ This diagram of a Wikidata item shows you the most important terms in Wikidata. 
+ Wikidata is a central storage repository that can be accessed by others, such as the wikis maintained by the Wikimedia Foundation . Content loaded dynamically from Wikidata does not need to be maintained in each individual wiki project. For example, statistics, dates, locations, and other common data can be centralized in Wikidata.
+
+ The Wikidata repository 
+
+ Items and their data are interconnected. 
+ The Wikidata repository consists mainly of items , each one having a label , a description and any number of aliases . Items are uniquely identified by a Q followed by a number, such as Douglas Adams (Q42) .
+
+ Statements describe detailed characteristics of an Item and consist of a property and a value . Properties in Wikidata have a P followed by a number, such as with educated at (P69) .
+
+ For a person, you can add a property to specify where they were educated, by specifying a value for a school. For buildings, you can assign geographic coordinates properties by specifying longitude and latitude values. Properties can also link to external databases. A property that links an item to an external database, such as an authority control database used by libraries and archives, is called an identifier . Special Sitelinks connect an item to corresponding content on client wikis, such as Wikipedia, Wikibooks or Wikiquote.
+
+ All this information can be displayed in any language, even if the data originated in a different language. When accessing these values, client wikis will show the most up-to-date data.
+
+ Item 
+
+ Property 
+
+ Value 
+
+ Q42
+
+ P69
+
+ Q691283
+
+ Douglas Adams
+
+ educated at
+
+ St John's College
+
+ Working with Wikidata 
+
+ There are a number of ways to access Wikidata using built-in tools, external tools, or programming interfaces.
+
+ Wikidata Query Service and Reasonator are some of the popular tools to search for and examine Wikidata items. The tools page has an extensive list of interesting projects to explore.
+
+ You can retrieve all data programmatically using different APIs and services .
+
+ Client wikis can access data for their pages using a Lua Scribunto interface .
+
+ Where to get started 
+
+ The Wikidata tours , designed for new users, are the best place to learn more about Wikidata.
+
+ Some links to get started:
+
+ Set your user options , especially the 'Babel' extension, to choose your language preferences
+
+ Help with missing labels and descriptions 
+
+ Help with interwiki conflicts and constraint violations 
+
+ Improve a random item 
+
+ Help translating 
+
+ How can I contribute? 
+
+ Go ahead and start editing . Editing is the best way to learn about the structure and concepts of Wikidata. To learn what kind of data belongs on Wikidata please see the notability policy . If you would like to read about Wikidata's concepts, have a look at the help pages . If you have questions, please feel free to drop them in the project chat .
+
+ See also 
+
+ Help:Contents 
+
+ Wikidata:Glossary 
+
+ Wikidata:Notability 
+
+ Retrieved from " https://www.wikidata.org/w/index.php?title=Wikidata:Introduction&oldid=2559448045 "
+
+ Categories : Wikidata:Introduction 
+ Wikidata-en 
+
+ This page was last edited on 21 October 2026, at 08:00.
+
+ All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License ; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy .
+
+ Privacy policy 
+
+ About Wikidata 
+
+ Disclaimers 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Data access 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ Wikidata : Introduction 
+
+ Add topic

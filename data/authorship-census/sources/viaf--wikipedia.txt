@@ -1,0 +1,1039 @@
+Virtual International Authority File - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ History 
+
+ 2 
+ VIAF clusters 
+
+ 3 
+ Participating libraries and organizations 
+
+ Toggle Participating libraries and organizations subsection 
+
+ 3.1 
+ Libraries added for testing purposes 
+
+ 4 
+ See also 
+
+ 5 
+ References 
+
+ 6 
+ Sources 
+
+ 7 
+ External links 
+
+ Toggle the table of contents 
+
+ Virtual International Authority File 
+
+ 76 languages 
+
+ Afrikaans 
+ العربية 
+ مصرى 
+ Asturianu 
+ Azərbaycanca 
+ Bikol Central 
+ Беларуская (тарашкевіца) 
+ Беларуская 
+ Български 
+ भोजपुरी 
+ বাংলা 
+ Bosanski 
+ Català 
+ Čeština 
+ Cymraeg 
+ Dansk 
+ Deutsch 
+ Zazaki 
+ Ελληνικά 
+ Esperanto 
+ Español 
+ Euskara 
+ فارسی 
+ Suomi 
+ Français 
+ Nordfriisk 
+ Gàidhlig 
+ Galego 
+ עברית 
+ हिन्दी 
+ Hrvatski 
+ Magyar 
+ Հայերեն 
+ Bahasa Indonesia 
+ Igbo 
+ Ilokano 
+ Italiano 
+ 日本語 
+ ქართული 
+ 한국어 
+ Lëtzebuergesch 
+ Ligure 
+ Latviešu 
+ Македонски 
+ मराठी 
+ Bahasa Melayu 
+ Malti 
+ Plattdüütsch 
+ Nederlands 
+ Norsk nynorsk 
+ Norsk bokmål 
+ Occitan 
+ Polski 
+ Português 
+ Română 
+ Русский 
+ سنڌي 
+ Srpskohrvatski / српскохрватски 
+ සිංහල 
+ Simple English 
+ Slovenčina 
+ Slovenščina 
+ Shqip 
+ Српски / srpski 
+ Svenska 
+ తెలుగు 
+ Tagalog 
+ Türkçe 
+ Українська 
+ اردو 
+ Oʻzbekcha / ўзбекча 
+ Vèneto 
+ Tiếng Việt 
+ 吴语 
+ 閩南語 / Bân-lâm-gí 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikimedia Commons 
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ International authority file
+
+ Virtual International Authority File 
+
+ Acronym
+ VIAF
+
+ Organisation
+ OCLC 
+
+ Introduced
+ 6   August 2003 ; 23 years ago   ( 2003-08-06 ) 
+
+ Example
+ 106965171 
+
+ Website
+ viaf .org 
+
+ The Virtual International Authority File ( VIAF ) is an international authority file . It is a joint project of several national libraries, operated by the Online Computer Library Center (OCLC). [ 1 ] 
+
+ History
+ [ edit ] 
+
+ Homepage in 2012 
+ Discussions about having a joint international authority started in the late 1990s. After several failed attempts to develop a unique joint authority file, the new idea was to link existing national authorities. This would present all the benefits of a standard file without requiring a significant investment of time and expense in the process. [ 2 ] 
+
+ The project was initiated by the American Library of Congress (LC), the German National Library (DNB), and the OCLC in April 1998 as a proof-of-concept that authority records can be linked. [ 3 ] After extensive testing, the VIAF consortium was formed at the 2003 World Library and Information Congress, hosted by the International Federation of Library Associations . [ 4 ] on 6 August 2003, [ 5 ] [ 6 ] and by September it had its own page at the OCLC website. [ 7 ] The Bibliothèque nationale de France (BnF) joined the project on 5 October 2007.
+
+ The project transitioned to being a service of OCLC on 4 April 2012. [ 8 ] 
+
+ The aim is to link the national authority files (such as the German Integrated Authority File ) to a single virtual authority file. In this file, identical records from the different data sets are linked together. A VIAF record receives a standard data number, contains the primary "see" and "see also" records from the original documents, and refers to the original authority records. The data is made available online and is available for research and, data exchange and sharing. Reciprocal updating uses the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) protocol.
+
+ The file numbers are also being added to Wikipedia biographical articles and are incorporated into Wikidata . [ 9 ] [ 10 ] 
+
+ Christine L. Borgman groups VIAF with the International Standard Name Identifier and ORCID systems, describing all three as "loosely coordinated efforts to standardize name forms". [ 11 ] Borgman characterizes all three systems as attempts to solve the problem of author name disambiguation , which has grown in scale as the quantity of data multiplies. [ 11 ] She notes that VIAF, unlike the other two systems, is led by libraries, as opposed to individual authors or creators. [ 11 ] 
+
+ VIAF clusters
+ [ edit ] 
+
+ VIAF's clustering algorithm is run every month. As more data are added from participating libraries, clusters of authority records may coalesce or split, leading to some fluctuation in the VIAF identifier of certain authority records. [ 12 ] 
+
+ Participating libraries and organizations
+ [ edit ] 
+
+ English Wikipedia entry name
+
+ Identifier
+
+ Native-language name
+
+ Location
+
+ Country/Region
+
+ National Library of Argentina [ 13 ] 
+
+ ARBABN
+
+ Spanish : Biblioteca Nacional Mariano Moreno 
+
+ Buenos Aires 
+ Argentina 
+
+ Bibliotheca Alexandrina 
+
+ EGAXA
+
+ Arabic : مكتبة الإسكندرية 
+
+ Alexandria 
+ Egypt 
+
+ Biblioteca Nacional de Chile 
+
+ BNCHL
+
+ Spanish : Biblioteca Nacional de Chile 
+
+ Santiago 
+ Chile 
+
+ Biblioteca Nacional de España 
+
+ BNE
+
+ Spanish : Biblioteca Nacional de España 
+
+ Madrid 
+ Spain 
+
+ Biblioteca Nacional de Portugal 
+
+ PTBNP
+
+ Portuguese : Biblioteca Nacional de Portugal 
+
+ Lisbon 
+ Portugal 
+
+ Bibliothèque et Archives nationales du Québec 
+
+ B2Q
+
+ French : Bibliothèque et Archives nationales du Québec 
+
+ Quebec 
+ Canada 
+
+ Bibliothèque nationale de France 
+
+ BnF
+
+ French : Bibliothèque nationale de France 
+
+ Paris 
+ France 
+
+ National Library of Greece 
+
+ ΕΒΕ
+
+ Greek : Εθνική Βιβλιοθήκη της Ελλάδος 
+
+ Athens 
+ Greece 
+
+ Bibliothèque Nationale du Royaume du Maroc (BNRM)
+
+ MRBNR
+
+ Arabic : المكتبة الوطنية للمملكة المغربية French : Bibliothèque nationale du Royaume du Maroc 
+
+ Rabat 
+ Morocco 
+
+ Biografisch Portaal 
+
+ BPN
+
+ Dutch : Biografisch Portaal 
+
+ The Hague 
+ Netherlands 
+
+ British Library 
+
+ –
+
+ London 
+ England 
+
+ Danish Agency for Culture and Palaces 
+
+ Danish : Kulturstyrelsen 
+
+ Copenhagen 
+ Denmark 
+
+ Danish Bibliographic Centre 
+
+ DBC
+
+ Danish : Dansk BiblioteksCenter 
+
+ Ballerup 
+ Denmark 
+
+ German National Library (DNB)
+
+ GND
+
+ German : Deutsche Nationalbibliothek 
+
+ Frankfurt 
+ Germany 
+
+ International Standard Name Identifier 
+
+ ISNI
+
+ –
+
+ London 
+ United Kingdom 
+
+ Israel Museum 
+
+ Hebrew : מוזיאון ישראל 
+
+ Jerusalem 
+ Israel 
+
+ Istituto Centrale per il Catalogo Unico 
+
+ ICCU SBN
+
+ Italian : Istituto Centrale per il Catalogo Unico 
+
+ Rome 
+ Italy 
+
+ Lebanese National Library 
+
+ LNL
+
+ Arabic : المكتبة الوطنية 
+
+ Beirut 
+ Lebanon 
+
+ Library and Archives Canada 
+
+ LAC
+
+ French : Bibliothèque et Archives Canada 
+
+ Ottawa , Ontario 
+ Canada 
+
+ Library of Congress NACO consortium (Name Authority Cooperative Program)
+
+ LCCN
+
+ –
+
+ Washington, D.C. 
+ United States 
+
+ National and University Library in Zagreb 
+
+ NSK
+
+ Croatian : Nacionalna i sveučilišna knjižnica u Zagrebu 
+
+ Zagreb 
+ Croatia 
+
+ National and University Library of Slovenia 
+
+ Slovene : Narodna in univerzitetna knjižnica 
+
+ Ljubljana 
+ Slovenia 
+
+ National Central Library 
+
+ NCL CYT
+
+ Chinese : 國家圖書館 
+
+ Taipei 
+ Taiwan 
+
+ National Diet Library 
+
+ NDL
+
+ Japanese : 国立国会図書館 
+
+ Tokyo Kyoto 
+ Japan 
+
+ National Institute of Informatics 
+
+ NII CiNii
+
+ Japanese : 国立情報学研究所 
+
+ Tokyo 
+ Japan 
+
+ National Library Board 
+
+ NLB
+
+ –
+
+ –
+ Singapore 
+
+ National Library of Australia 
+
+ NLA
+
+ –
+
+ Canberra 
+ Australia 
+
+ National Library of Brazil 
+
+ BLBNB
+
+ Portuguese : Biblioteca Nacional do Brasil 
+
+ Rio de Janeiro 
+ Brazil 
+
+ National Library of Catalonia 
+
+ BNC
+
+ Catalan : Biblioteca de Catalunya 
+
+ Barcelona 
+ Spain 
+
+ National Library of Estonia 
+
+ ERRR
+
+ Estonian : Eesti Rahvusraamatukogu 
+
+ Tallinn 
+ Estonia 
+
+ National and University Library of Iceland (NULI)
+
+ UIY
+
+ Icelandic : Háskólabókasafn 
+
+ Reykjavík 
+ Iceland 
+
+ National Library of Ireland 
+
+ N6I
+
+ Irish : Leabharlann Náisiúnta na hÉireann 
+
+ Dublin 
+ Ireland 
+
+ National Library of Israel 
+
+ NLI (deprecated) J9U
+
+ Hebrew : הספרייה הלאומית 
+
+ Jerusalem 
+ Israel 
+
+ National Library of Korea 
+
+ KRNLK
+
+ Korean : 국립중앙도서관 
+
+ Seoul 
+ Korea 
+
+ National Library of Latvia 
+
+ LNB
+
+ Latvian : Latvijas Nacionālā bibliotēka 
+
+ Riga 
+ Latvia 
+
+ National Library of Luxembourg 
+
+ BNL
+
+ Luxembourgish : Nationalbibliothéik Lëtzebuerg French : Bibliothèque nationale de Luxembourg 
+
+ Luxembourg City 
+ Luxembourg 
+
+ National Library of Mexico 
+
+ BNM
+
+ Spanish : Biblioteca Nacional de México 
+
+ Mexico City 
+ Mexico 
+
+ National Library of the Netherlands 
+
+ NTA
+
+ Dutch : Koninklijke Bibliotheek 
+
+ The Hague 
+ Netherlands 
+
+ National Library of New Zealand 
+
+ –
+
+ Wellington 
+ New Zealand 
+
+ National Library of Norway 
+
+ BIBSYS W2Z
+
+ Norwegian : Nasjonalbiblioteket 
+
+ Trondheim 
+ Norway 
+
+ National Library of Poland 
+
+ NLP
+
+ Polish : Biblioteka Narodowa 
+
+ Warsaw 
+ Poland 
+
+ National Library of Russia 
+
+ NLR
+
+ Russian : Российская национальная библиотека 
+
+ Saint Petersburg 
+ Russia 
+
+ National Library of Scotland 
+
+ Scottish Gaelic : Leabharlann Nàiseanta na h-Alba Scots : Naitional Leebrar o Scotland 
+
+ Edinburgh 
+ Scotland 
+
+ National Library of South Africa 
+
+ Afrikaans : Staats-Bibliotheek der Zuid-Afrikaansche Republiek 
+
+ Cape Town Pretoria 
+ South Africa 
+
+ National Library of Sweden 
+
+ SELIBR
+
+ Swedish : Kungliga biblioteket - Sveriges nationalbibliotek 
+
+ Stockholm 
+ Sweden 
+
+ National Library of Wales 
+
+ Welsh : Llyfrgell Genedlaethol Cymru 
+
+ Aberystwyth 
+ Wales 
+
+ National Library of the Czech Republic 
+
+ NKC
+
+ Czech : Národní knihovna České republiky 
+
+ Prague 
+ Czech Republic 
+
+ National Széchényi Library 
+
+ NSZL
+
+ Hungarian : Országos Széchényi Könyvtár 
+
+ Budapest 
+ Hungary 
+
+ Perseus Project 
+
+ PERSEUS
+
+ –
+
+ Medford, Massachusetts 
+ United States 
+
+ RERO (Library Network of Western Switzerland) 
+
+ RERO
+
+ German : Westschweizer Bibliothekverbund French : Réseau des bibliothèques de Suisse occidentale Italian : Rete delle bibliotheche della Svizzera occidentale 
+
+ Martigny 
+ Switzerland 
+
+ Répertoire International des Sources Musicales 
+
+ RISM
+
+ –
+
+ Frankfurt 
+ Germany 
+
+ Système universitaire de documentation 
+
+ SUDOC
+
+ French : Système universitaire de documentation 
+
+ –
+ France 
+
+ Syriac Reference Portal 
+
+ SRP
+
+ –
+
+ Nashville, Tennessee 
+ United States 
+
+ Swiss National Library 
+
+ SWNL
+
+ German : Schweizerische Nationalbibliothek French : Bibliothèque nationale suisse Italian : Biblioteca nazionale svizzera Romansh : Biblioteca naziunala svizra 
+
+ Bern 
+ Switzerland 
+
+ Narodowy Uniwersalny Katalog Centralny, NUKAT   [ pl ] 
+
+ NUKAT
+
+ Polish : Narodowy Uniwersalny Katalog Centralny 
+
+ –
+ Poland 
+
+ Union List of Artist Names – Getty Research Institute 
+
+ ULAN JPG
+
+ –
+
+ Los Angeles , California 
+ United States 
+
+ United States National Agricultural Library 
+
+ NALT
+
+ –
+
+ Beltsville, Maryland 
+
+ United States 
+
+ United States National Library of Medicine 
+
+ –
+
+ Bethesda, Maryland 
+ United States 
+
+ Vatican Library 
+
+ BAV
+
+ Latin : Bibliotheca Apostolica Vaticana 
+
+ –
+ Vatican City 
+
+ Cultuurconnect ( Bibnet   [ nl ] and LOCUS)
+
+ Digitale Bibliotheek Vlaanderen   [ nl ] 
+
+ Brussels 
+ Belgium 
+
+ Wikidata [ citation needed ] 
+
+ WKP
+
+ –
+
+ Berlin , Germany 
+ International
+
+ Libraries added for testing purposes
+ [ edit ] 
+
+ English Wikipedia entry name
+
+ Identifier
+
+ Native-language name
+
+ Location
+
+ Country
+
+ Lithuanian National Library 
+
+ LIH
+
+ Lithuanian : Lietuvos nacionalinė Martyno Mažvydo biblioteka 
+
+ Vilnius 
+ Lithuania 
+
+ National and University Library of Slovenia / COBISS 
+
+ SIMACOB
+
+ Slovene : Narodna in univerzitetna knjižnica, NUK 
+
+ Ljubljana 
+ Slovenia 
+
+ See also
+ [ edit ] 
+
+ Authority control 
+
+ Faceted Application of Subject Terminology (FAST)
+
+ Integrated Authority File (GND)
+
+ International Standard Authority Data Number (ISADN)
+
+ International Standard Name Identifier (ISNI)
+
+ Wikipedia's authority control template for articles 
+
+ References
+ [ edit ] 
+
+ ↑ Kelley, Michael; Schwartz, Meredith (2012). "VIAF service transitions to OCLC". Library Journal . 137 (8). Media Source Inc. : 16.   
+
+ ↑ O'Neill, Edward T. (12 August 2016). VIAF: Origins . Authority Data on the Web, a Satellite Meeting of the 2016 IFLA World Library and Information Congress . OCLC . Archived from the original (Video presentation) on 13 July 2018 – via YouTube. 
+
+ ↑ "VIAF: Convenient access to name authority files" . OCLC . 20 December 2019. 
+
+ ↑ Loesch, Martha Fallahay (28 February 2011). "The Virtual International Authority File". Technical Services Quarterly . 28 (2): 255– 256. doi : 10.1080/07317131.2011.546304 . ISSN   0731-7131 . S2CID   62694070 . 
+
+ ↑ Morris, Susan R. (September 2003). "Virtual International Authority" . Library of Congress Information Bulletin . Library of Congress . Retrieved 5 January 2021 . 
+
+ ↑ Agnew, Grace (2008). Digital Rights Management: A Librarian's Guide to Technology and Practise . Chandos Publishing . p.   180 . ISBN   978-1-84334-125-3 . OCLC   62715356 . 
+
+ ↑ "Virtual international authority file [ OCLC - Projects ] " . 21 September 2003. Archived from the original on 21 September 2003. 
+
+ ↑ Murphy, Bob (4 April 2012). "Virtual International Authority File service transitions to OCLC; contributing institutions continue to shape direction through VIAF Council" . OCLC (Press release). Dublin, OH . 
+
+ ↑ Klein, Max; Renspie, Melissa (7 December 2012). "VIAFbot Edits 250,000 Wikipedia Articles to Reciprocate All Links from VIAF into Wikipedia" . OCLC . 
+
+ ↑ Klein, Maximilian; Kyrios, Alex (14 October 2013). "VIAFbot and the Integration of Library Data on Wikipedia" . The Code4Lib Journal (22). ISSN   1940-5758 . 
+
+ 1 2 3 Borgman 2015 , p.   260. 
+
+ ↑ Hickey, Thomas B.; Toves, Jenny A. (July 2014). "Managing Ambiguity In VIAF" . D-Lib Magazine . 20 (7/8). Corporation for National Research Initiatives . doi : 10.1045/july2014-hickey . 
+
+ ↑ "ARABN - National Library of Argentina - VIAF Profile" . viaf.org . Retrieved 30 September 2023 . 
+
+ Sources
+ [ edit ] 
+
+ Borgman, Christine L. (2015). Big Data, Little Data, No Data: Scholarship in the Networked World . MIT Press . ISBN   978-0-262-32786-2 . OCLC   900409008 . 
+
+ External links
+ [ edit ] 
+
+ Wikimedia Commons has media related to VIAF .
+
+ Wikidata has the property: 
+ VIAF cluster ID (P214) (see uses )
+
+ Official website 
+
+ VIAF at OCLC 
+
+ v 
+ t 
+ e 
+
+ International numbering standards
+
+ Standards
+
+ ISO 2108: International Standard Book Number (ISBN)
+
+ ISO 3297: International Standard Serial Number (ISSN)
+
+ ISO 3901: International Standard Recording Code (ISRC)
+
+ ISO 6166: International Securities Identification Number (ISIN)
+
+ ISO/IEC 7812 : Issuer Identification Number (IIN)
+
+ ISO 9362 : Business Entity Identifier (BIC)
+
+ ISO 10957: International Standard Music Number (ISMN)
+
+ ISO 13616: International Bank Account Number (IBAN)
+
+ ISO 15511: International Standard Identifier for Libraries... (ISIL)
+
+ ISO 15706: International Standard Audiovisual Number (ISAN)
+
+ ISO 15707: International Standard Musical Work Code (ISWC)
+
+ ISO 17316: International Standard Link Identifier (ISLI)
+
+ ISO 17442: Legal Entity Identifier (LEI)
+
+ ISO 21047: International Standard Text Code (ISTC)
+
+ ISO 26324: Digital Object Identifier System (DOI)
+
+ ISO 27729: International Standard Name Identifier (ISNI)
+
+ ISO 27730: International Standard Collection Identifier (ISCI)
+
+ CAE / IPI 
+
+ Virtual International Authority File (VIAF)
+
+ Authority control databases 
+
+ International
+ WorldCat 
+
+ Artists
+ Dereales</span>"}]]}'> MusicBrainz 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=Virtual_International_Authority_File&oldid=1360183187 "
+
+ Categories : Identifiers 
+ Library cataloging and classification 
+ Library of Congress 
+ OCLC 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Use dmy dates from January 2021 
+ Articles containing French-language text 
+ Articles containing Spanish-language text 
+ Articles containing Arabic-language text 
+ Articles containing Portuguese-language text 
+ Articles containing Greek-language text 
+ Articles containing Dutch-language text 
+ Articles containing Danish-language text 
+ Articles containing German-language text 
+ Articles containing Hebrew-language text 
+ Articles containing Italian-language text 
+ Articles containing Croatian-language text 
+ Articles containing Slovene-language text 
+ Articles containing Chinese-language text 
+ Articles containing Japanese-language text 
+ Articles containing Catalan-language text 
+ Articles containing Estonian-language text 
+ Articles containing Icelandic-language text 
+ Articles containing Irish-language text 
+ Articles containing Korean-language text 
+ Articles containing Latvian-language text 
+ Articles containing Luxembourgish-language text 
+ Articles containing Norwegian-language text 
+ Articles containing Polish-language text 
+ Articles containing Russian-language text 
+ Articles containing Scottish Gaelic-language text 
+ Articles containing Scots-language text 
+ Articles containing Afrikaans-language text 
+ Articles containing Swedish-language text 
+ Articles containing Welsh-language text 
+ Articles containing Czech-language text 
+ Articles containing Hungarian-language text 
+ Articles containing Romansh-language text 
+ Articles containing Latin-language text 
+ All articles with unsourced statements 
+ Articles with unsourced statements from November 2024 
+ Articles containing Lithuanian-language text 
+ Inconsistent wikidata for Commons category 
+
+ This page was last edited on 19 June 2026, at 19:30  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ Virtual International Authority File 
+
+ 76 languages 
+
+ Add topic

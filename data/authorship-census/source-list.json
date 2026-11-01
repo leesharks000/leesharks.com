@@ -51,7 +51,8 @@
  "otw-ao3": {
   "otw": "https://www.transformativeworks.org/about_otw/",
   "ao3": "https://archiveofourown.org/about",
-  "wikipedia": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
+  "wikipedia": "https://en.wikipedia.org/wiki/Archive_of_Our_Own",
+  "ai-tag": "https://archiveofourown.org/tags/AI-Generated%20Text/works"
  },
  "copyright-office-ai": {
   "home": "https://www.copyright.gov/ai/",
@@ -135,5 +136,41 @@
  "c2pa": {
   "home": "https://c2pa.org/",
   "spec": "https://spec.c2pa.org/specifications/specifications/2.2/specs/C2PA_Specification.html"
+ },
+ "the-next": {
+  "home": "https://the-next.eliterature.org/",
+  "curatorial": "https://the-next.eliterature.org/curatorial-statement",
+  "repository": "https://archive.the-next.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_NEXT_Museum"
+ },
+ "electronic-literature-lab": {
+  "home": "https://labs.wsu.edu/grigar-ell",
+  "elmcip": "https://elmcip.net/node/13223"
+ },
+ "in2writing": {
+  "venue": "https://aclanthology.org/venues/in2writing/",
+  "p2025": "https://aclanthology.org/volumes/2025.in2writing-1/",
+  "p2022": "https://aclanthology.org/2022.in2writing-1"
+ },
+ "writing-assistants-design-space": {
+  "arxiv": "https://arxiv.org/abs/2403.14117"
+ },
+ "isni": {
+  "home": "https://isni.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/International_Standard_Name_Identifier"
+ },
+ "viaf": {
+  "home": "https://viaf.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Virtual_International_Authority_File"
+ },
+ "wikidata": {
+  "intro": "https://www.wikidata.org/wiki/Wikidata:Introduction",
+  "wikipedia": "https://en.wikipedia.org/wiki/Wikidata"
+ },
+ "creative-ai-lab-database": {
+  "notion": "https://proud-paprika-325.notion.site/Creative-AI-Database-241be15d927a480d956c45f30b3d1996",
+  "holo": "https://www.holo.mg/?p=631",
+  "kcl": "https://www.kcl.ac.uk/news/the-department-of-digital-humanities-and-the-serpentine-launch-creative-ai-lab-website",
+  "serpentine": "https://www.serpentinegalleries.org/whats-on/creative-ai-lab/"
  }
 }

@@ -37,8 +37,21 @@ ROWS = []
 def row(**r): ROWS.append(r)
 
 
-ORDER = ['technelegy', 'rerites', 'pharmako-ai', 'output-anthology', 'wordcraft', 'coauthor', 'ai-attribution-toolkit', 'orcid-names', 'wikidata-pseudonym', 'c2pa', 'ibm-credit-study', 'authorship-halo', 'eighty-percent-me', 'porter-machery', 'bajohr-writing-at-a-distance',
-         'arquivo-pessoa', 'pessoa-digital', 'ubuweb', 'pennsound', 'epc', 'jacket2', 'eclipse', 'dada-iowa', 'oulipo', 'fanlore', 'otw-ao3', 'copyright-office-ai', 'gwu-dail', 'chatgpt-eating-the-world', 'authors-guild-human-authored', 'wipo-frontier', 'cope-ai']
+ORDER = ['the-next', 'electronic-literature-lab', 'output-anthology', 'wordcraft', 'coauthor', 'in2writing', 'creative-ai-lab-database',
+         'orcid-names', 'isni', 'viaf', 'wikidata',
+         'arquivo-pessoa', 'pessoa-digital', 'ubuweb', 'pennsound', 'epc', 'jacket2', 'eclipse', 'dada-iowa', 'fanlore', 'otw-ao3',
+         'copyright-office-ai', 'gwu-dail', 'chatgpt-eating-the-world', 'authors-guild-human-authored']
+# Admission rule (operator, 2026-11-01 01:27-01:32 EDT: "im very confused. we have articles, movements, and concepts as aggregators in meta
+# aggregators"; then "so lets get the lists"): a row is an aggregator, a resource that gathers and holds many other works or records and says
+# what it holds. The works, papers, persons, groups, standards, policies and tools first admitted on the selection review stay as the field
+# the aggregators hold or miss: their rows are kept in rows/ with their sources, outside ORDER, and listed in FIELD.
+FIELD = [{'slug': s, 'why': w} for s, w in [
+  ('technelegy', 'a persona and practice (a work), not an aggregator'), ('rerites', 'a project of twelve books (a work), not an aggregator'),
+  ('pharmako-ai', 'a book (a work)'), ('oulipo', 'a group and its practice'), ('bajohr-writing-at-a-distance', 'a paper'),
+  ('ibm-credit-study', 'a paper (an empirical study)'), ('authorship-halo', 'a paper (an empirical study)'), ('eighty-percent-me', 'a paper (an empirical study)'),
+  ('porter-machery', 'a paper (an empirical study)'), ('wikidata-pseudonym', 'one property of an aggregator; Wikidata is read whole as its own row'),
+  ('c2pa', 'a technical standard'), ('ai-attribution-toolkit', 'a disclosure tool'), ('wipo-frontier', 'a forum series'), ('cope-ai', 'a policy position (and unread)'),
+  ('writing-assistants-design-space', 'a paper (a systematic review of 115 papers, with no browsable database in its saved sources)')]]
 HOST_RELATIONS = ['direct case', 'theoretical interlocutor', 'empirical comparator', 'historical lineage', 'infrastructure', 'counterposition', 'peripheral comparator', 'meta-aggregation']
 RECORD_TYPES = ['project', 'work', 'persona', 'archive', 'collection', 'anthology', 'journal', 'paper', 'dataset', 'tool', 'standard', 'registry', 'index', 'policy', 'database', 'institution', 'community', 'event series', 'method']
 PENDING = [{'slug': 'vara-ghosts', 'name': "Vauhini Vara, 'Ghosts' (The Believer)", 'why': 'the page returned http 403 on fetch'}, {'slug': 'bajohr-post-artificial', 'name': 'Hannes Bajohr, On Artificial and Post-artificial Texts', 'why': 'eScholarship returned http 202 with no body (a bot check) on fetch'}]
@@ -81,7 +94,7 @@ out = {"name": 'Lee Sharks apparatus meta-aggregator census: authorship', "compi
        "schema_note": "The MMRS, provenance, Labor Vector and left-census core (slug, name, aka, url, operator, kind, unit, count, lifecycle, version_and_time, negative_tags, evidence, relations, unchecked, sources) extended for authorship (1.1, revised 2026-11-01): host_relation (what the resource is to this census: direct case, theoretical interlocutor, empirical comparator, historical lineage, infrastructure, counterposition, peripheral comparator, meta-aggregation), record_type, question (the specific question it answers); areas (one or more of nine), evidence_kind, record_object (what it records), record (keeps: whose authorship it keeps; name: under what name it holds a work, and whether it keeps a pseudonym, heteronym, collective or absent name as the author gave it, as the resource itself shows, or 'not recorded'; holder: who holds it and on what terms; function: how the authorial function, contribution and responsibility are constituted and attributed, as the resource shows), method, coverage, holdings, stated_limits, answers and does_not_answer, and ls_reading (where it meets the question of #940 and #1722: the archive's reading, kept apart from the resource's own terms). Every quote is verbatim from a saved source.",
        "organizing_question": 'How is authorship made, named, distributed, attributed and sustained across persons, personas, collectives and machine participation, and what is lost when those relations are collapsed?',
        "anchor": {'deposits': [{'deposit': 940, 'axn': 'AXN:03B8', 'title': 'EA-HETERONYMY-01 v0.2: Heteronymy as Ethical Operation Against Civil-Name Reduction', 'url': 'https://www.alexanarch.org/s/records/940/'}, {'deposit': 1722, 'axn': 'AXN:0B2A', 'title': 'AI Calls You Fake: The Existence Tax on Real People and Real Work', 'url': 'https://www.alexanarch.org/s/records/1722/'}]},
-       "areas": AREAS, "evidence_kinds": EVIDENCE_KINDS, "unread_sources": unread, "pending": PENDING, "host_relations": HOST_RELATIONS, "rows": ROWS}
+       "areas": AREAS, "evidence_kinds": EVIDENCE_KINDS, "unread_sources": unread, "pending": PENDING, "field": FIELD, "admission_rule": "A row is an aggregator: a resource that gathers and holds many other works or records and says what it holds (operator, 2026-11-01).", "host_relations": HOST_RELATIONS, "rows": ROWS}
 json.dump(out, open(HERE / "census.json", "w"), ensure_ascii=False, indent=1)
 print(len(ROWS), "rows;", sum(len(r.get("evidence") or {}) for r in ROWS), "evidence items;", len(problems), "problems")
 for p in problems: print("  ", p)

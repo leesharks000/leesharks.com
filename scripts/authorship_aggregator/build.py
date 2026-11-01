@@ -95,6 +95,26 @@ def anchors():
     return [f'<a href="{e(x["url"])}"><em>{e(x["title"])}</em></a> ({e(x["axn"])}, #{x["deposit"]})' for x in a]
 
 
+def field_html():
+    F = D.get("field") or []
+    if not F:
+        return ""
+    names = {}
+    for x in F:
+        f = ROOT / ("data/authorship-census" if (ROOT / "data/authorship-census").exists() else "data/layer-census") / "rows" / (x["slug"] + ".py")
+        got = []
+        if f.exists():
+            exec(compile(f.read_text(encoding="utf-8"), str(f), "exec"), {"row": lambda **r: got.append(r), "Q": lambda *a, **k: None})
+        names[x["slug"]] = (got[0]["name"], got[0].get("url")) if got else (x["slug"], None)
+    def li(x):
+        n, u = names[x["slug"]]
+        return f'<li><a href="{e(u)}">{e(n)}</a>: {e(x["why"])}</li>' if u else f'<li>{e(n)}: {e(x["why"])}</li>'
+    li = "".join(li(x) for x in F)
+    return ('<section class="area"><h2>The field it maps</h2><p>Works, papers, practices, tools and standards read for this census and held outside it, '
+            'because none of them gathers and holds the works or records of others. They are what the aggregators above hold or miss, and the readings cite them. '
+            f'{e(D.get("admission_rule") or "")}</p><ul>{li}</ul></section>')
+
+
 def index():
     groups = []
     quoted = lambda r: any((v.get("quote") or "").strip() for v in (r.get("evidence") or {}).values())
@@ -118,7 +138,7 @@ def index():
             f'<p>{ANCHOR.format(a0=a0, a1=a1)}</p>{SIB}'
             f'<input type="search" id="q" placeholder="Search {len(ROWS)} resources" aria-label="Search the resources">'
             + "".join(groups)
-            + f'<section class="area"><h2>The census as data</h2>{hl}{unread}<p><a href="{PATH}census.json">census.json</a> (schema {e(D["schema_version"])}). {e(D["schema_note"])}</p></section>'
+            + field_html() + f'<section class="area"><h2>The census as data</h2>{hl}{unread}<p><a href="{PATH}census.json">census.json</a> (schema {e(D["schema_version"])}). {e(D["schema_note"])}</p></section>'
             "<script>(function(){var q=document.getElementById('q'),C=[].slice.call(document.querySelectorAll('.card'));q.addEventListener('input',function(){var t=q.value.toLowerCase();C.forEach(function(c){c.style.display=(!t||c.getAttribute('data-s').indexOf(t)>-1)?'':'none'})})})();</script>")
     ld = {"@context": "https://schema.org", "@type": "Dataset", "@id": BASE + "#census", "name": D["name"], "description": D["organizing_question"],
           "url": BASE, "dateModified": D["compiled"], "license": "https://creativecommons.org/licenses/by/4.0/",
